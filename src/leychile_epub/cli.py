@@ -12,8 +12,10 @@ import argparse
 import sys
 from pathlib import Path
 
-from . import BCNLawScraper, LawEpubGenerator, __version__
+from . import __version__
 from .exceptions import LeyChileError
+from .generator_v2 import EPubGeneratorV2
+from .scraper_v2 import BCNLawScraperV2
 
 
 def create_parser() -> argparse.ArgumentParser:
@@ -105,10 +107,8 @@ def process_url(
     Returns:
         Ruta al ePub generado o None si hubo error.
     """
-    scraper = BCNLawScraper()
-    generator = LawEpubGenerator()
-
-    callback = None if quiet else print_progress
+    scraper = BCNLawScraperV2()
+    generator = EPubGeneratorV2()
 
     try:
         if not quiet:
@@ -118,31 +118,35 @@ def process_url(
         if verbose and not quiet:
             print("  → Extrayendo datos de la BCN...")
 
-        law_data = scraper.scrape_law(url, progress_callback=callback if not verbose else None)
+        norma = scraper.scrape(url)
 
-        if not law_data:
+        if not norma:
             if not quiet:
                 print("  ❌ No se pudo obtener datos de la ley")
             return None
 
-        title = law_data.get("metadata", {}).get("title", "Desconocido")
+        title = f"{norma.identificador.tipo} {norma.identificador.numero}"
         if verbose and not quiet:
             print(f"  → Ley encontrada: {title}")
+            print(f"  → Estructuras: {len(norma.estructuras)} capítulos")
 
         # Generación
         if verbose and not quiet:
-            print("  → Generando ePub...")
+            print("  → Generando ePub profesional...")
 
-        epub_path = generator.generate(
-            law_data,
-            output_dir=output_dir,
-            progress_callback=callback if not verbose else None,
-        )
+        # Construir nombre de archivo
+        filename = f"{norma.identificador.tipo}_{norma.identificador.numero}.epub"
+        filename = filename.replace(" ", "_")
+        output_path = Path(output_dir) / filename
+
+        epub_path = generator.generate(norma, output_path)
 
         if not quiet:
             print(f"  ✅ Generado: {epub_path}")
+            size_kb = epub_path.stat().st_size / 1024
+            print(f"  📦 Tamaño: {size_kb:.1f} KB")
 
-        return epub_path
+        return str(epub_path)
 
     except LeyChileError as e:
         if not quiet:
@@ -151,6 +155,10 @@ def process_url(
     except Exception as e:
         if not quiet:
             print(f"  ❌ Error inesperado: {e}")
+        if verbose:
+            import traceback
+
+            traceback.print_exc()
         return None
 
 
