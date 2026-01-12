@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Esquema XSD para Normas Legales Chilenas
+  Versión: 1.0
+  Proyecto: LeyChile ePub Generator
+  
+  Este esquema define la estructura estándar para representar leyes, decretos,
+  códigos y otras normas legales chilenas en formato XML.
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://leychile.cl/schema/ley/v1"
+           xmlns:ley="https://leychile.cl/schema/ley/v1"
+           elementFormDefault="qualified">
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       ELEMENTO RAÍZ
+       ═══════════════════════════════════════════════════════════════════════ -->
+  
+  <xs:element name="ley" type="ley:LeyType">
+    <xs:annotation>
+      <xs:documentation>
+        Elemento raíz que representa una norma legal chilena completa.
+      </xs:documentation>
+    </xs:annotation>
+  </xs:element>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       TIPOS SIMPLES (ENUMERACIONES)
+       ═══════════════════════════════════════════════════════════════════════ -->
+
+  <xs:simpleType name="TipoNormaType">
+    <xs:annotation>
+      <xs:documentation>Tipos de normas legales chilenas reconocidos.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Ley"/>
+      <xs:enumeration value="Decreto"/>
+      <xs:enumeration value="Decreto Ley"/>
+      <xs:enumeration value="Decreto con Fuerza de Ley"/>
+      <xs:enumeration value="Código"/>
+      <xs:enumeration value="Reglamento"/>
+      <xs:enumeration value="Resolución"/>
+      <xs:enumeration value="Auto Acordado"/>
+      <xs:enumeration value="Tratado Internacional"/>
+      <xs:enumeration value="Constitución"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="EstadoType">
+    <xs:annotation>
+      <xs:documentation>Estado de vigencia de la norma.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="vigente">
+        <xs:annotation>
+          <xs:documentation>Norma completamente vigente.</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="derogada">
+        <xs:annotation>
+          <xs:documentation>Norma completamente derogada.</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="parcial">
+        <xs:annotation>
+          <xs:documentation>Norma parcialmente derogada o modificada.</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="TipoSeccionType">
+    <xs:annotation>
+      <xs:documentation>Tipos de divisiones/secciones en el articulado.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Libro"/>
+      <xs:enumeration value="Título"/>
+      <xs:enumeration value="Capítulo"/>
+      <xs:enumeration value="Párrafo"/>
+      <xs:enumeration value="Sección"/>
+      <xs:enumeration value="Enumeración"/>
+      <xs:enumeration value="Artículo"/>
+      <xs:enumeration value="Doble Articulado"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="IdiomaType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[a-z]{2}(-[A-Z]{2})?"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       TIPO PRINCIPAL: LEY
+       ═══════════════════════════════════════════════════════════════════════ -->
+
+  <xs:complexType name="LeyType">
+    <xs:sequence>
+      <xs:element name="metadatos" type="ley:MetadatosType"/>
+      <xs:element name="encabezado" type="xs:string"/>
+      <xs:element name="contenido" type="ley:ContenidoType"/>
+    </xs:sequence>
+    
+    <!-- Atributos obligatorios -->
+    <xs:attribute name="version" type="xs:string" use="required">
+      <xs:annotation>
+        <xs:documentation>Versión del esquema XML (ej: "1.0")</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="idioma" type="ley:IdiomaType" use="required">
+      <xs:annotation>
+        <xs:documentation>Código de idioma ISO 639-1 (ej: "es-CL")</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="tipo" type="ley:TipoNormaType" use="required"/>
+    <xs:attribute name="numero" type="xs:string" use="required">
+      <xs:annotation>
+        <xs:documentation>Número de la norma (ej: "19496", "PENAL", "100")</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="estado" type="ley:EstadoType" use="required"/>
+    
+    <!-- Atributos opcionales -->
+    <xs:attribute name="id_norma" type="xs:string">
+      <xs:annotation>
+        <xs:documentation>ID único en la BCN</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="fecha_version" type="xs:date"/>
+    <xs:attribute name="fecha_promulgacion" type="xs:date"/>
+    <xs:attribute name="fecha_publicacion" type="xs:date"/>
+    <xs:attribute name="generado" type="xs:dateTime"/>
+    <xs:attribute name="fuente" type="xs:string"/>
+    <xs:attribute name="url_original" type="xs:anyURI"/>
+  </xs:complexType>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       METADATOS
+       ═══════════════════════════════════════════════════════════════════════ -->
+
+  <xs:complexType name="MetadatosType">
+    <xs:sequence>
+      <xs:element name="titulo" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Título oficial completo de la norma.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="identificacion" type="ley:IdentificacionType"/>
+      <xs:element name="organismos" type="ley:OrganismosType" minOccurs="0"/>
+      <xs:element name="materias" type="ley:MateriasType" minOccurs="0"/>
+      <xs:element name="nombres_comunes" type="ley:NombresComunesType" minOccurs="0"/>
+      <xs:element name="fechas" type="ley:FechasType" minOccurs="0"/>
+      <xs:element name="fuente" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="IdentificacionType">
+    <xs:sequence>
+      <xs:element name="tipo" type="ley:TipoNormaType"/>
+      <xs:element name="numero" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="OrganismosType">
+    <xs:sequence>
+      <xs:element name="organismo" type="xs:string" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="MateriasType">
+    <xs:sequence>
+      <xs:element name="materia" type="xs:string" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="NombresComunesType">
+    <xs:sequence>
+      <xs:element name="nombre" type="xs:string" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="FechasType">
+    <xs:sequence>
+      <xs:element name="promulgacion" type="xs:date" minOccurs="0"/>
+      <xs:element name="publicacion" type="xs:date" minOccurs="0"/>
+      <xs:element name="version" type="xs:date" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       CONTENIDO (ESTRUCTURA DEL ARTICULADO)
+       ═══════════════════════════════════════════════════════════════════════ -->
+
+  <xs:complexType name="ContenidoType">
+    <xs:annotation>
+      <xs:documentation>
+        Contenedor principal del articulado. Puede contener directamente
+        libros, títulos, capítulos, párrafos, secciones o artículos.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element name="libro" type="ley:LibroType"/>
+      <xs:element name="titulo" type="ley:TituloType"/>
+      <xs:element name="capitulo" type="ley:CapituloType"/>
+      <xs:element name="parrafo" type="ley:ParrafoEstructuralType"/>
+      <xs:element name="seccion" type="ley:SeccionType"/>
+      <xs:element name="articulo" type="ley:ArticuloType"/>
+    </xs:choice>
+    <xs:attribute name="total_articulos" type="xs:integer"/>
+    <xs:attribute name="total_libros" type="xs:integer"/>
+    <xs:attribute name="total_titulos" type="xs:integer"/>
+    <xs:attribute name="total_capitulos" type="xs:integer"/>
+  </xs:complexType>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       DIVISIONES ESTRUCTURALES
+       ═══════════════════════════════════════════════════════════════════════ -->
+
+  <!-- Atributos comunes para divisiones -->
+  <xs:attributeGroup name="DivisionAttrs">
+    <xs:attribute name="id" type="xs:string" use="required"/>
+    <xs:attribute name="tipo_original" type="xs:string"/>
+    <xs:attribute name="numero" type="xs:string"/>
+    <xs:attribute name="fecha_modificacion" type="xs:date"/>
+  </xs:attributeGroup>
+
+  <!-- Elementos comunes para divisiones -->
+  <xs:group name="DivisionElements">
+    <xs:sequence>
+      <xs:element name="titulo_seccion" type="xs:string" minOccurs="0"/>
+      <xs:element name="contexto" type="xs:string" minOccurs="0"/>
+      <xs:element name="texto" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:group>
+
+  <!-- LIBRO -->
+  <xs:complexType name="LibroType">
+    <xs:annotation>
+      <xs:documentation>
+        División mayor, usada principalmente en códigos extensos.
+        Ejemplo: "LIBRO PRIMERO DE LOS COMERCIANTES"
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:group ref="ley:DivisionElements"/>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="titulo" type="ley:TituloType"/>
+        <xs:element name="capitulo" type="ley:CapituloType"/>
+        <xs:element name="parrafo" type="ley:ParrafoEstructuralType"/>
+        <xs:element name="seccion" type="ley:SeccionType"/>
+        <xs:element name="articulo" type="ley:ArticuloType"/>
+      </xs:choice>
+    </xs:sequence>
+    <xs:attributeGroup ref="ley:DivisionAttrs"/>
+  </xs:complexType>
+
+  <!-- TÍTULO -->
+  <xs:complexType name="TituloType">
+    <xs:annotation>
+      <xs:documentation>
+        División principal del articulado.
+        Ejemplo: "TÍTULO I NORMAS GENERALES"
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:group ref="ley:DivisionElements"/>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="capitulo" type="ley:CapituloType"/>
+        <xs:element name="parrafo" type="ley:ParrafoEstructuralType"/>
+        <xs:element name="seccion" type="ley:SeccionType"/>
+        <xs:element name="articulo" type="ley:ArticuloType"/>
+      </xs:choice>
+    </xs:sequence>
+    <xs:attributeGroup ref="ley:DivisionAttrs"/>
+  </xs:complexType>
+
+  <!-- CAPÍTULO -->
+  <xs:complexType name="CapituloType">
+    <xs:annotation>
+      <xs:documentation>
+        Subdivisión de títulos.
+        Ejemplo: "Capítulo I BASES DE LA INSTITUCIONALIDAD"
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:group ref="ley:DivisionElements"/>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="parrafo" type="ley:ParrafoEstructuralType"/>
+        <xs:element name="seccion" type="ley:SeccionType"/>
+        <xs:element name="articulo" type="ley:ArticuloType"/>
+      </xs:choice>
+    </xs:sequence>
+    <xs:attributeGroup ref="ley:DivisionAttrs"/>
+  </xs:complexType>
+
+  <!-- PÁRRAFO (estructural) -->
+  <xs:complexType name="ParrafoEstructuralType">
+    <xs:annotation>
+      <xs:documentation>
+        División menor dentro de capítulos/títulos.
+        Ejemplo: "Párrafo 1º Los derechos y deberes del consumidor"
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:group ref="ley:DivisionElements"/>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="seccion" type="ley:SeccionType"/>
+        <xs:element name="articulo" type="ley:ArticuloType"/>
+      </xs:choice>
+    </xs:sequence>
+    <xs:attributeGroup ref="ley:DivisionAttrs"/>
+  </xs:complexType>
+
+  <!-- SECCIÓN (§) -->
+  <xs:complexType name="SeccionType">
+    <xs:annotation>
+      <xs:documentation>
+        Sección enumerada, típicamente con §.
+        Ejemplo: "§ 1. De la ley"
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:group ref="ley:DivisionElements"/>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="articulo" type="ley:ArticuloType"/>
+        <xs:element name="seccion" type="ley:SeccionType"/>
+      </xs:choice>
+    </xs:sequence>
+    <xs:attributeGroup ref="ley:DivisionAttrs"/>
+  </xs:complexType>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       ARTÍCULOS
+       ═══════════════════════════════════════════════════════════════════════ -->
+
+  <xs:complexType name="ArticuloType">
+    <xs:annotation>
+      <xs:documentation>
+        Unidad fundamental del articulado.
+        Puede contener texto simple o contenido estructurado.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="titulo_seccion" type="xs:string" minOccurs="0"/>
+      <xs:element name="contexto" type="xs:string" minOccurs="0"/>
+      <xs:choice>
+        <xs:element name="texto" type="xs:string"/>
+        <xs:element name="contenido" type="ley:ContenidoArticuloType"/>
+      </xs:choice>
+      <xs:element name="referencias" type="ley:ReferenciasType" minOccurs="0"/>
+      <!-- Para doble articulado (artículos dentro de artículos) -->
+      <xs:element name="seccion" type="ley:SeccionType" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:string" use="required"/>
+    <xs:attribute name="tipo_original" type="xs:string"/>
+    <xs:attribute name="numero" type="xs:string" use="required">
+      <xs:annotation>
+        <xs:documentation>
+          Número del artículo. Puede incluir sufijos como "BIS", "TER".
+          Ejemplos: "1", "3 BIS", "10 (DEL ART. 2)"
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="fecha_modificacion" type="xs:date"/>
+  </xs:complexType>
+
+  <!-- Contenido estructurado de artículos -->
+  <xs:complexType name="ContenidoArticuloType">
+    <xs:annotation>
+      <xs:documentation>
+        Contenido estructurado de un artículo, con párrafos e incisos.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element name="parrafo" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Párrafo de texto dentro del artículo.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="inciso" type="ley:IncisoType">
+        <xs:annotation>
+          <xs:documentation>Inciso numerado dentro del artículo.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+    </xs:choice>
+  </xs:complexType>
+
+  <!-- Inciso -->
+  <xs:complexType name="IncisoType">
+    <xs:annotation>
+      <xs:documentation>
+        Inciso numerado dentro de un artículo.
+        Ejemplo: "1) Los actos jurídicos que..."
+      </xs:documentation>
+    </xs:annotation>
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute name="numero" type="xs:string" use="required">
+          <xs:annotation>
+            <xs:documentation>Número del inciso (ej: "1", "2", "a", "b")</xs:documentation>
+          </xs:annotation>
+        </xs:attribute>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       REFERENCIAS
+       ═══════════════════════════════════════════════════════════════════════ -->
+
+  <xs:complexType name="ReferenciasType">
+    <xs:annotation>
+      <xs:documentation>
+        Lista de referencias a otros artículos mencionados en el texto.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="ref" type="ley:RefType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RefType">
+    <xs:annotation>
+      <xs:documentation>
+        Referencia a un artículo específico.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:attribute name="articulo" type="xs:string" use="required">
+      <xs:annotation>
+        <xs:documentation>Número del artículo referenciado.</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+    <xs:attribute name="norma" type="xs:string">
+      <xs:annotation>
+        <xs:documentation>ID o número de otra norma referenciada.</xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
+  </xs:complexType>
+
+</xs:schema>

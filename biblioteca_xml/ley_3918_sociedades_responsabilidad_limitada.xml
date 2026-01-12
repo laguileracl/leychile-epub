@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ley xmlns="https://leychile.cl/schema/ley/v1" version="1.0" idioma="es-CL" id_norma="24349" tipo="Ley" numero="3918" estado="vigente" fecha_version="1997-04-11" fecha_promulgacion="1923-03-07" fecha_publicacion="1923-03-14" generado="2026-01-02T22:30:26.717679" fuente="Biblioteca del Congreso Nacional de Chile" url_original="https://www.leychile.cl/Navegar?idNorma=24349">
+  <metadatos>
+    <titulo>Ley 3918</titulo>
+    <identificacion>
+      <tipo>Ley</tipo>
+      <numero>3918</numero>
+    </identificacion>
+    <organismos>
+      <organismo>MINISTERIO DE HACIENDA</organismo>
+    </organismos>
+    <materias>
+      <materia>SOCIEDADES DE RESPONSABILIDAD LIMITADA</materia>
+    </materias>
+    <fechas>
+      <promulgacion>1923-03-07</promulgacion>
+      <publicacion>1923-03-14</publicacion>
+      <version>1997-04-11</version>
+    </fechas>
+    <fuente>Boletín de Leyes y Decretos de Gobierno</fuente>
+  </metadatos>
+  <encabezado>Lei núm. 3,918.- Por cuanto el Congreso Nacional ha
+dado su aprobacion al siguiente
+
+ PROYECTO DE LEI:</encabezado>
+  <contenido total_articulos="5" total_libros="0" total_titulos="0" total_capitulos="0">
+    <articulo id="8784578" tipo_original="Artículo" numero="1" fecha_modificacion="1923-03-14">
+      <texto>Artículo 1º. Se autoriza el establecimiento de
+sociedades civiles y comerciales con responsabilidad
+limitada de los socios, distintas de las sociedades
+anónimas o en comandita.</texto>
+      <referencias>
+        <ref articulo="1"/>
+      </referencias>
+    </articulo>
+    <articulo id="8784579" tipo_original="Artículo" numero="2" fecha_modificacion="1923-03-14">
+      <texto>Art. 2°. Las sociedades con responsabilidad limitada,
+sean civiles o comerciales, se constituirán por escritura
+pública que contendrá, además de las enunciaciones que
+expresa el artículo 352 del Código de Comercio, la
+declaración de que la responsabilidad personal de los
+socios queda limitada a sus aportes o a la suma que a más
+de esto se indique.
+ Estas sociedades no podrán tener por objeto negocios
+bancarios, y el número de sus socios no podrá exceder de
+cincuenta.</texto>
+      <referencias>
+        <ref articulo="352"/>
+      </referencias>
+    </articulo>
+    <articulo id="8784580" tipo_original="Artículo" numero="3" fecha_modificacion="1997-04-11">
+      <texto>Artículo 3º.- Un extracto de la escritura social, o de
+modificación o que deje constancia de los hechos
+comprendidos en el inciso segundo del artículo 350 del
+Código de Comercio, en su caso, será registrado en la
+forma y plazo que determina el artículo 354 del Código de
+Comercio.
+ Se publicará, también, dentro del mismo plazo, dicho
+extracto por una sola vez en el Diario Oficial.
+ La omisión de cualquiera de estos requisitos se regirá
+por lo dispuesto en los artículos 353, 355, 355 A, 356, 357
+inciso primero, 358 a 361 del Código de Comercio y se
+aplicará a la defectuosa o inoportuna publicación del
+extracto las reglas que estas disposiciones dan para la
+inscripción del mismo.
+ El cumplimiento oportuno de la inscripción y
+publicación producirá efectos retroactivos a la fecha de
+la escritura.</texto>
+      <referencias>
+        <ref articulo="354"/>
+        <ref articulo="3"/>
+        <ref articulo="350"/>
+      </referencias>
+    </articulo>
+    <articulo id="8784581" tipo_original="Artículo" numero="4" fecha_modificacion="1957-10-21">
+      <texto>Art. 4° La razón o firma social podrá contener el
+nombre de uno o más de los socios, o una referencia al
+objeto de la Sociedad. En todo caso deberá terminar con la
+palabra "limitada", sin lo cual todos los socios serán
+solidariamente responsables de las obligaciones sociales.
+ En lo no previsto por esta ley o por la escritura
+social, estas sociedades se regirán por las reglas
+establecidas para las sociedades colectivas, y les serán
+también aplicables las disposiciones del artículo 2,104
+del Código Civil y de los artículos 455 y 456 del Código
+de Comercio.
+ La mujer casada y separada parcialmente de bienes,
+siempre que la separación sea convencional, y la que ejerza
+un empleo, oficio, profesión o industria con arreglo al
+artículo 150° del Código Civil, no requerirán la
+autorización especial de que trata el artículo 349° del
+Código de Comercio, para celebrar una sociedad comercial de
+responsabilidad limitada, con relación al patrimonio que
+separadamente administren.</texto>
+      <referencias>
+        <ref articulo="2"/>
+        <ref articulo="349"/>
+        <ref articulo="150"/>
+      </referencias>
+    </articulo>
+    <articulo id="8784582" tipo_original="Artículo" numero="5" fecha_modificacion="1923-03-14">
+      <texto>ART. 5° Esta lei rejirá desde la fecha de su
+publicacion en el Diario Oficial.</texto>
+    </articulo>
+  </contenido>
+  <promulgacion>Y por cuanto, oido el Consejo de Estado, he tenido a
+bien aprobarlo y sancionarlo; por tanto, promúlguese y
+llévese a efecto como lei de la República.
+ Santiago, a siete de marzo de mil novecientos
+veintitres.- Arturo Alessandri.- A. Rodríguez.</promulgacion>
+</ley>

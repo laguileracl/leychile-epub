@@ -11,6 +11,7 @@ legislación chilena en libros electrónicos profesionales.
 - [API de Python](api.md) - Documentación de la API programática
 - [Ejemplos](examples.md) - Casos de uso comunes
 - [Desarrollo](development.md) - Guía para contribuidores
+- [**Esquema XML de Normas**](ESQUEMA_XML_NORMAS.md) - Especificación del formato XML estándar para normas legales
 
 ## 🚀 Inicio Rápido
 

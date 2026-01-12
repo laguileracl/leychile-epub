@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblioteca xmlns="https://leychile.cl/schema/biblioteca/v1" version="1.0">
+  <metadatos>
+    <nombre>Correccion de leyes</nombre>
+    <fecha_generacion>2026-01-02T22:30:18.583200</fecha_generacion>
+    <total_leyes>12</total_leyes>
+    <fuente>Biblioteca del Congreso Nacional de Chile</fuente>
+    <uso_ia>Esta biblioteca está optimizada para ser consumida por agentes de IA. Cada archivo XML contiene una ley con estructura jerárquica completa, metadatos detallados y referencias cruzadas entre artículos.</uso_ia>
+  </metadatos>
+  <leyes>
+    <ley clave="codigo_aeronautico" archivo="codigo_aeronautico.xml">
+      <nombre>Ley 18.916 - Codigo Aeronautico</nombre>
+      <descripcion>Aprueba Codigo Aeronautico.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=30287</url_fuente>
+    </ley>
+    <ley clave="ley_17235_impuesto_territorial" archivo="ley_17235_impuesto_territorial.xml">
+      <nombre>DFL 1 - Ley 17.235 Impuesto Territorial</nombre>
+      <descripcion>Fija texto refundido de la Ley 17.235 sobre Impuesto Territorial.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=128563</url_fuente>
+    </ley>
+    <ley clave="ley_18834_estatuto_administrativo" archivo="ley_18834_estatuto_administrativo.xml">
+      <nombre>DFL 29 - Estatuto Administrativo (Ley 18.834)</nombre>
+      <descripcion>Fija texto refundido de la Ley 18.834, sobre Estatuto Administrativo.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=236392</url_fuente>
+    </ley>
+    <ley clave="ley_18933_isapres" archivo="ley_18933_isapres.xml">
+      <nombre>DFL 1 - Ley de Isapres</nombre>
+      <descripcion>Texto refundido del DL 2.763 y Leyes de Isapres.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=249177</url_fuente>
+    </ley>
+    <ley clave="ley_19728_seguro_desempleo" archivo="ley_19728_seguro_desempleo.xml">
+      <nombre>Ley 19.728 - Seguro de Desempleo</nombre>
+      <descripcion>Establece un seguro de desempleo.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=184979</url_fuente>
+    </ley>
+    <ley clave="ley_19865_financiamiento_urbano" archivo="ley_19865_financiamiento_urbano.xml">
+      <nombre>Ley 19.865 - Financiamiento Urbano Compartido</nombre>
+      <descripcion>Sobre financiamiento urbano compartido.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=208927</url_fuente>
+    </ley>
+    <ley clave="ley_21327_modernizacion_dt" archivo="ley_21327_modernizacion_dt.xml">
+      <nombre>Ley 21.327 - Modernizacion Direccion del Trabajo</nombre>
+      <descripcion>Modernizacion de la Direccion del Trabajo.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=1158983</url_fuente>
+    </ley>
+    <ley clave="ley_21400_matrimonio_igualitario" archivo="ley_21400_matrimonio_igualitario.xml">
+      <nombre>Ley 21.400 - Matrimonio Igualitario</nombre>
+      <descripcion>Regula el matrimonio entre personas del mismo sexo.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=1169572</url_fuente>
+    </ley>
+    <ley clave="ley_21459_delitos_informaticos" archivo="ley_21459_delitos_informaticos.xml">
+      <nombre>Ley 21.459 - Delitos Informaticos</nombre>
+      <descripcion>Establece normas sobre delitos informaticos.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=1177743</url_fuente>
+    </ley>
+    <ley clave="ley_21545_tea" archivo="ley_21545_tea.xml">
+      <nombre>Ley 21.545 - Ley TEA</nombre>
+      <descripcion>Proteccion de personas con trastorno del espectro autista.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=1190123</url_fuente>
+    </ley>
+    <ley clave="ley_3918_sociedades_responsabilidad_limitada" archivo="ley_3918_sociedades_responsabilidad_limitada.xml">
+      <nombre>Ley 3.918 - Sociedades de Responsabilidad Limitada</nombre>
+      <descripcion>Autoriza sociedades con responsabilidad limitada.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=24349</url_fuente>
+    </ley>
+    <ley clave="dl_825_iva" archivo="dl_825_iva.xml">
+      <nombre>DL 825 - Ley del IVA</nombre>
+      <descripcion>Ley sobre Impuesto a las Ventas y Servicios.</descripcion>
+      <url_fuente>https://www.leychile.cl/Navegar?idNorma=6369</url_fuente>
+    </ley>
+  </leyes>
+</biblioteca>

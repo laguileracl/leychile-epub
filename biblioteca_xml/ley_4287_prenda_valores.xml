@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ley xmlns="https://leychile.cl/schema/ley/v1" version="1.0" idioma="es-CL" id_norma="24631" tipo="Ley" numero="4287" estado="vigente" fecha_version="1978-01-13" fecha_promulgacion="1928-02-22" fecha_publicacion="1928-02-23" generado="2026-01-02T22:18:31.449103" fuente="Biblioteca del Congreso Nacional de Chile" url_original="https://www.leychile.cl/Navegar?idNorma=24631">
+  <metadatos>
+    <titulo>LEY SOBRE PRENDA DE VALORES MOBILIARIOS A FAVOR DE LOS BANCOS</titulo>
+    <identificacion>
+      <tipo>Ley</tipo>
+      <numero>4287</numero>
+    </identificacion>
+    <organismos>
+      <organismo>MINISTERIO DE HACIENDA</organismo>
+    </organismos>
+    <fechas>
+      <promulgacion>1928-02-22</promulgacion>
+      <publicacion>1928-02-23</publicacion>
+      <version>1978-01-13</version>
+    </fechas>
+    <fuente>Diario Oficial</fuente>
+  </metadatos>
+  <encabezado>LEY NUM. 4,287 Establece la prenda bancaria sobre
+valores mobiliarios
+ (Publicada en el Diario Oficial del 23 de Febrero de
+1928)
+ Por cuanto el Congreso Nacional ha dado su aprobación
+al siguiente
+ Proyecto de Ley:</encabezado>
+  <contenido total_articulos="8" total_libros="0" total_titulos="0" total_capitulos="0">
+    <articulo id="8798684" tipo_original="Artículo" numero="1" fecha_modificacion="1975-01-01">
+      <texto>Artículo 1.o Los bonos y cualesquiera otros valores
+mobiliarios al portador que se entreguen a una empresa
+bancaria en garantía de operaciones o contratos que se
+celebren o que hayan de celebrarse más adelante con la
+misma empresa, se entenderán constituídos en prenda a
+favor de ésta, por su sola entrega, siempre que no conste
+expresamente que dicha entrega se ha efectuado con un objeto
+distinto.</texto>
+      <referencias>
+        <ref articulo="1"/>
+      </referencias>
+    </articulo>
+    <articulo id="8798685" tipo_original="Artículo" numero="2" fecha_modificacion="1975-01-01">
+      <texto>Artículo 2.o Los créditos a la orden de cualquiera
+clase que sean, podrán darse en prenda a un Banco mediante
+el endoso en garantía, en la forma establecida en el
+artículo 660 del Código de Comercio, modificado por el
+decreto-ley núm. 777, sin necesidad de notificación al
+deudor.</texto>
+      <referencias>
+        <ref articulo="2"/>
+        <ref articulo="660"/>
+      </referencias>
+    </articulo>
+    <articulo id="8798686" tipo_original="Artículo" numero="3" fecha_modificacion="1975-01-01">
+      <texto>Artículo 3.o La prenda a favor de un Banco sobre
+acciones nominativas de sociedades anónimas o en comandita
+podrá constituirse por escritura pública o privada, y
+deberá además notificarse por medio de un Ministro de Fe a
+la respectiva Sociedad para los efectos de lo dispuesto en
+el artículo 2389 del Código Civil.</texto>
+      <referencias>
+        <ref articulo="2389"/>
+        <ref articulo="3"/>
+      </referencias>
+    </articulo>
+    <articulo id="8798687" tipo_original="Artículo" numero="4" fecha_modificacion="1975-01-01">
+      <texto>Artículo 4.o Cumplidos los requisitos que se señalan
+en los artículos precedentes, la prenda quedará legalmente
+constituída y el Banco acreedor gozará de los privilegios
+establecidos en el artículo 814 del Código de Comercio,
+sin necesidad de observar las formalidades prescritas en el
+artículo 815 del mismo Código.</texto>
+      <referencias>
+        <ref articulo="4"/>
+        <ref articulo="815"/>
+        <ref articulo="814"/>
+      </referencias>
+    </articulo>
+    <articulo id="8798688" tipo_original="Artículo" numero="5" fecha_modificacion="1975-01-01">
+      <texto>Artículo 5.o Las prendas que se constituyan en favor de
+un Banco en conformidad a las disposiciones de esta ley,
+servirán de garantía a todas las obligaciones directas e
+indirectas de cualquiera clase que el dueño de la prenda
+tenga o pueda tener a favor del mismo Banco, a menos que
+conste expresamente que la prenda se ha constituído en
+garantía de obligaciones determinadas.</texto>
+      <referencias>
+        <ref articulo="5"/>
+      </referencias>
+    </articulo>
+    <articulo id="8798689" tipo_original="Artículo" numero="6" fecha_modificacion="1975-01-01">
+      <texto>Artículo 6.o Vencida alguna de las obligaciones
+garantizadas con prenda de los valores a que se refieren los
+artículos anteriores, podrá la empresa bancaria, después
+de una simple notificación judicial al deudor y
+transcurridos siete días, desde la fecha de dicha
+notificación, proceder a la enajenación de la prenda sin
+más intervención de la justicia ordinaria que la expresada
+y sin sujeción a los trámites establecidos por el Código
+de Procedimiento Civil y por el decreto-ley número 776, de
+19 de Diciembre de 1925, ni a las reglas del artículo 2397
+del Código Civil.
+ Sólo se venderán valores en cantidad suficiente para
+efectuar el pago de las obligaciones vencidas y la venta se
+llevará a efecto en remate en una Bolsa de Comercio,
+legalmente establecida, por orden escrita del Banco
+acreedor.
+ Si la prenda consistiere en acciones nominativas, la
+inscripción en los registros de la sociedad a nombre del
+comprador, se hará en virtud de un traspaso que firmarán
+el comprador y el Gerente de la Bolsa respectiva, en
+representación del dueño de las acciones.</texto>
+      <referencias>
+        <ref articulo="2397"/>
+        <ref articulo="6"/>
+      </referencias>
+    </articulo>
+    <articulo id="8798690" tipo_original="Artículo" numero="7" fecha_modificacion="1975-01-01">
+      <texto>Artículo 7° Las disposiciones de esta ley se
+aplicarán a la Corporación de Fomento de la Producción, a
+los bancos de cualquiera naturaleza, a las sociedades
+financieras, cooperativas de ahorro y crédito, institutos o
+sociedades auxiliares de financiamiento cooperativo,
+asociaciones de ahorro y préstamo y, en general, a todas
+las instituciones financieras legalmente establecidas.</texto>
+      <referencias>
+        <ref articulo="7"/>
+      </referencias>
+    </articulo>
+    <articulo id="8798691" tipo_original="Artículo" numero="8" fecha_modificacion="1975-01-01">
+      <texto>Artículo 8.o Esta ley comenzará a regir desde la fecha
+de su publicación en el Diario Oficial.</texto>
+      <referencias>
+        <ref articulo="8"/>
+      </referencias>
+    </articulo>
+  </contenido>
+  <promulgacion>Y por cuanto, he tenido a bien aprobarlo y sancionarlo;
+por tanto, promúlguese y llévese a efecto como ley de la
+República.
+ Santiago, veintidós de Febrero de mil novecientos
+veintiocho.- CARLOS IBAÑEZ C.- Pablo Ramírez.</promulgacion>
+</ley>
