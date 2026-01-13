@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ley xmlns="https://leychile.cl/schema/ley/v1"
+     version="1.0"
+     idioma="es-CL"
+     id_norma="1085545"
+     tipo="Ley"
+     numero="20886"
+     estado="vigente"
+     fecha_promulgacion="2015-12-14"
+     fecha_publicacion="2015-12-18"
+     generado="2026-01-12T19:30:00"
+     fuente="Biblioteca del Congreso Nacional"
+     url_original="https://www.bcn.cl/leychile/navegar?idNorma=1085545">
+
+  <metadatos>
+    <titulo>MODIFICA EL CÓDIGO DE PROCEDIMIENTO CIVIL, PARA ESTABLECER LA TRAMITACIÓN DIGITAL DE LOS PROCEDIMIENTOS JUDICIALES</titulo>
+    
+    <identificacion>
+      <tipo>Ley</tipo>
+      <numero>20886</numero>
+    </identificacion>
+    
+    <organismos>
+      <organismo tipo="emisor">MINISTERIO DE JUSTICIA</organismo>
+    </organismos>
+    
+    <materias>
+      <materia>Código de Procedimiento Civil</materia>
+      <materia>Código Orgánico de Tribunales</materia>
+      <materia>Tramitación Digital de los Procedimientos Judiciales</materia>
+      <materia>Procedimiento Judicial</materia>
+      <materia>Documento Electrónico</materia>
+      <materia>Tramitación Electrónica</materia>
+      <materia>Trámites Judiciales</materia>
+      <materia>Firma Electrónica</materia>
+      <materia>Poder Judicial</materia>
+    </materias>
+    
+    <nombres_comunes>
+      <nombre>Ley de Tramitación Digital</nombre>
+      <nombre>Ley de Tramitación Electrónica</nombre>
+      <nombre>Ley de Carpeta Electrónica</nombre>
+    </nombres_comunes>
+    
+    <palabras_clave>
+      <palabra>tramitación digital</palabra>
+      <palabra>carpeta electrónica</palabra>
+      <palabra>firma electrónica avanzada</palabra>
+      <palabra>documento electrónico</palabra>
+      <palabra>poder judicial</palabra>
+      <palabra>oficina judicial virtual</palabra>
+      <palabra>notificación electrónica</palabra>
+      <palabra>mandato electrónico</palabra>
+      <palabra>patrocinio electrónico</palabra>
+      <palabra>interoperabilidad</palabra>
+      <palabra>CAPJ</palabra>
+    </palabras_clave>
+    
+    <fechas>
+      <promulgacion>2015-12-14</promulgacion>
+      <publicacion>2015-12-18</publicacion>
+      <ultima_modificacion>2021-11-30</ultima_modificacion>
+    </fechas>
+    
+    <modificaciones>
+      <modificacion fecha="2021-11-30" norma="Ley 21394"/>
+    </modificaciones>
+    
+    <autores>
+      <autor tipo="Senador">Pedro Araya Guerrero</autor>
+      <autor tipo="Senador">Alfonso De Urresti Longton</autor>
+      <autor tipo="Senador">Alberto Espina Otero</autor>
+      <autor tipo="Senador">Felipe Harboe Bascuñán</autor>
+      <autor tipo="Senador">Hernán Larraín Fernández</autor>
+    </autores>
+    
+    <fuente>Biblioteca del Congreso Nacional</fuente>
+  </metadatos>
+
+  <encabezado>
+LEY NÚM. 20.886
+
+MODIFICA EL CÓDIGO DE PROCEDIMIENTO CIVIL, PARA ESTABLECER LA TRAMITACIÓN DIGITAL DE LOS PROCEDIMIENTOS JUDICIALES
+
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley originado en Moción de los Honorables Senadores señores Pedro Araya Guerrero, Alfonso De Urresti Longton, Alberto Espina Otero, Felipe Harboe Bascuñán y Hernán Larraín Fernández,
+
+Proyecto de ley:
+  </encabezado>
+
+  <contenido total_articulos="8" total_titulos="1" total_capitulos="0">
+
+    <titulo id="1" numero="I">
+      <titulo_seccion>De la tramitación electrónica de los procedimientos judiciales</titulo_seccion>
+      
+      <articulo id="2" numero="1">
+        <texto>
+Artículo 1º.- Ámbito de aplicación. La presente ley se aplicará a todas las causas que conozcan los tribunales indicados en los incisos segundo y tercero del artículo 5º del Código Orgánico de Tribunales, con excepción de las causas que conozcan los tribunales militares en tiempo de paz.
+        </texto>
+      </articulo>
+
+      <articulo id="3" numero="2">
+        <texto>
+Artículo 2º.- Principios. La tramitación de las causas regidas por la presente ley se sujetará a los siguientes principios generales:
+
+a) Principio de equivalencia funcional del soporte electrónico. Los actos jurisdiccionales y demás actos procesales suscritos por medio de firma electrónica serán válidos y producirán los mismos efectos que si se hubieren llevado a cabo en soporte papel.
+
+b) Principio de fidelidad. Todas las actuaciones del proceso se registrarán y conservarán íntegramente y en orden sucesivo en la carpeta electrónica, la que garantizará su fidelidad, preservación y la reproducción de su contenido.
+
+c) Principio de publicidad. Los actos de los tribunales son públicos y, en consecuencia, los sistemas informáticos que se utilicen para el registro de los procedimientos judiciales deberán garantizar el pleno acceso de todas las personas a la carpeta electrónica en condiciones de igualdad, salvo las excepciones establecidas por la ley.
+
+No obstante lo anterior, las demandas, las presentaciones relativas a medidas cautelares, incluso aquellas solicitadas en carácter prejudicial, y a otras materias cuya eficacia requiera de reserva serán accesibles únicamente al solicitante mientras no se haya notificado la resolución recaída en ellas.
+
+Se prohíbe el tratamiento masivo de los datos personales contenidos en el sistema de tramitación electrónica del Poder Judicial, sin su autorización previa. La infracción cometida por entes públicos y privados a lo dispuesto en este inciso será sancionada conforme a la ley Nº 19.628.
+
+La Corte Suprema regulará mediante auto acordado la búsqueda de causas en el sistema de tramitación electrónica del Poder Judicial.
+
+d) Principio de buena fe. Las partes, sus apoderados y todos quienes intervengan en el proceso conforme al sistema informático de tramitación deberán actuar de buena fe.
+
+El juez, de oficio o a petición de parte, deberá prevenir, corregir y sancionar, según corresponda, toda acción u omisión que importe un fraude o abuso procesal, contravención de actos propios o cualquiera otra conducta ilícita, dilatoria o de cualquier otro modo contraria a la buena fe.
+
+e) Principio de actualización de los sistemas informáticos. Los sistemas informáticos de tramitación del Poder Judicial deberán ser actualizados a través de la Corporación Administrativa del Poder Judicial con el objeto de permitir su correcto funcionamiento y la más fluida y expedita interconexión e interoperabilidad entre sí y con otras instituciones públicas o privadas.
+
+f) Principio de cooperación. Los auxiliares de la administración de justicia, las instituciones públicas o privadas y el Poder Judicial deberán cooperar entre sí en la utilización de medios electrónicos con el objeto de garantizar la interconexión e interoperabilidad de los sistemas informáticos y, en particular, el reconocimiento mutuo de los documentos electrónicos y de los medios de identificación y autentificación respectivos.
+
+Para ello, las instituciones públicas o privadas y los tribunales propenderán a la celebración de convenios de cooperación.
+        </texto>
+      </articulo>
+
+      <articulo id="4" numero="3">
+        <texto>
+Artículo 3º.- Uso obligatorio del sistema informático, respaldo y conservación. Los jueces, auxiliares de la administración de justicia y funcionarios de cada tribunal estarán obligados a utilizar y a registrar en el sistema informático todas las resoluciones y actuaciones procesales que se verifiquen en el juicio.
+
+Para el registro de las resoluciones y actuaciones en el sistema informático de tramitación se deberán aplicar adecuadamente las nomenclaturas pertinentes, según la etapa y estado procesal de cada causa, de modo tal que constituya un registro exacto de su tramitación, desde el inicio hasta su término.
+
+La conservación de los registros estará a cargo del tribunal correspondiente a través de la Corporación Administrativa del Poder Judicial, de conformidad a lo previsto en el Código Orgánico de Tribunales.
+
+La carpeta electrónica y sus registros deberán ser respaldados informáticamente en forma periódica.
+
+Si por cualquier causa se viere dañado el soporte material del registro electrónico afectando su contenido, el tribunal ordenará reemplazarlo en todo o parte por una copia fiel, que obtendrá de quien la tuviere, si no dispusiere de ella directamente.
+
+Si no existiere copia fiel, las resoluciones se dictarán nuevamente, para lo cual el tribunal reunirá los antecedentes que le permitan fundamentar su preexistencia y contenido, y las actuaciones se repetirán con las formalidades previstas para cada caso. Sin embargo, no será necesario volver a dictar las resoluciones o repetir las actuaciones que sean el antecedente de resoluciones conocidas o en etapa de cumplimiento o ejecución.
+        </texto>
+      </articulo>
+
+      <articulo id="5" numero="4">
+        <texto>
+Artículo 4º.- Firma electrónica de resoluciones y actuaciones del tribunal y copias autorizadas. Las resoluciones y actuaciones del juez, del secretario, del administrador del tribunal y de los auxiliares de la administración de justicia serán suscritas mediante firma electrónica avanzada.
+
+Los jueces y los demás funcionarios mencionados en el inciso anterior serán personalmente responsables de la firma electrónica avanzada que se ponga a su disposición, por lo que les estará prohibido compartirlas.
+
+Las resoluciones suscritas por los jueces mediante firma electrónica avanzada no requerirán de la firma ni de la autorización del ministro de fe correspondiente.
+
+Las copias autorizadas de las resoluciones y actuaciones deberán ser obtenidas directamente del sistema informático de tramitación con la firma electrónica correspondiente, la que contará con un sello de autenticidad.
+        </texto>
+      </articulo>
+
+      <articulo id="6" numero="5">
+        <texto>
+Artículo 5º.- Presentación de demandas y de escritos. El ingreso de las demandas y de todos los escritos se hará por vía electrónica a través del sistema de tramitación electrónica del Poder Judicial, para cuyos efectos los abogados o habilitados en derecho se registrarán en los términos que se regulen en el auto acordado que la Corte Suprema dictará al efecto.
+
+En casos excepcionales, cuando las circunstancias así lo requieran o se trate de una persona autorizada por el tribunal por carecer de los medios tecnológicos necesarios, los escritos podrán presentarse al tribunal materialmente y en soporte papel por conducto del ministro de fe respectivo o del buzón especialmente habilitado al efecto.
+
+Los escritos presentados en formato papel serán digitalizados e ingresados a la carpeta electrónica inmediatamente.
+        </texto>
+      </articulo>
+
+      <articulo id="7" numero="6">
+        <texto>
+Artículo 6º.- Presentación de documentos. Los documentos electrónicos se presentarán a través del sistema de tramitación electrónica del Poder Judicial o, en caso de requerirlo así las circunstancias, se acompañarán en el tribunal a través de la entrega de algún dispositivo de almacenamiento de datos electrónicos.
+
+Los documentos cuyo formato original no sea electrónico se presentarán de forma electrónica, salvo que la parte contraria formule objeción. En este caso, los documentos deberán presentarse materialmente en el tribunal y quedarán bajo la custodia del funcionario o ministro de fe correspondiente. Con todo, los títulos ejecutivos cuyo formato original no sea electrónico deberán presentarse materialmente en el tribunal y quedarán bajo la custodia del funcionario o ministro de fe correspondiente, bajo apercibimiento de tener por no iniciada la ejecución.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, los documentos y títulos ejecutivos presentados materialmente deberán acompañarse con una copia en formato digital a través del sistema de tramitación electrónica del Poder Judicial o, en caso de requerirlo así las circunstancias, en el tribunal, a través de la entrega de algún dispositivo de almacenamiento de datos electrónicos.
+
+Si no se presentaren las copias digitales de los documentos o títulos ejecutivos, o si existiere una disconformidad substancial entre aquellas y el documento o título ejecutivo original, el tribunal ordenará, de oficio o a petición de parte, que se acompañen las copias digitales correspondientes dentro de tercero día, bajo apercibimiento de tener por no presentado el documento o título ejecutivo respectivo.
+
+En casos excepcionales, cuando se haya autorizado a una persona para presentar escritos materialmente por carecer de los medios tecnológicos, no será necesario acompañar copias digitales. En este caso, los documentos y títulos ejecutivos presentados en formato que no sea electrónico serán digitalizados e ingresados inmediatamente por el tribunal a la carpeta electrónica.
+        </texto>
+      </articulo>
+
+      <articulo id="8" numero="7">
+        <texto>
+Artículo 7º.- Patrocinio y poder electrónico. El patrocinio por abogado habilitado para el ejercicio de la profesión podrá constituirse mediante firma electrónica simple o avanzada. Si el patrocinio se otorgare por firma electrónica simple, deberá ratificarse ante el ministro de fe del tribunal por vía remota mediante videoconferencia.
+
+El mandato judicial podrá constituirse mediante la firma electrónica avanzada o simple del mandante. En consecuencia, para obrar como mandatario judicial se considerará poder suficiente el constituido mediante declaración escrita del mandante suscrita con firma electrónica avanzada, sin que se requiera su comparecencia personal para autorizar su representación judicial. Si el mandato se otorgare por firma electrónica simple, deberá ratificarse por el mandante y el mandatario de conformidad a lo dispuesto en el inciso anterior.
+
+La constatación de la calidad de abogado habilitado la hará el tribunal a través de sus registros.
+        </texto>
+      </articulo>
+
+      <articulo id="9" numero="8">
+        <texto>
+Artículo 8º.- Otras formas de notificación. Cualquiera de las partes o intervinientes podrá proponer para sí una forma de notificación electrónica, la que el tribunal podrá aceptar aun cuando la ley disponga que la notificación deba realizarse por cédula si, en su opinión, resultare suficientemente eficaz y no causare indefensión. Esta forma de notificación será válida para todo el proceso.
+        </texto>
+      </articulo>
+
+    </titulo>
+
+  </contenido>
+
+  <disposiciones_transitorias>
+    <nota>
+Esta ley contiene artículos transitorios que regulan la entrada en vigencia gradual del sistema de tramitación electrónica y modificaciones al Código de Procedimiento Civil y al Código Orgánico de Tribunales que no se incluyen en este extracto del Título I.
+    </nota>
+  </disposiciones_transitorias>
+
+</ley>
