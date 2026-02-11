@@ -241,6 +241,18 @@ class LawXMLGenerator:
             fuente = ET.SubElement(metadata, "fuente")
             fuente.text = norma.metadatos.identificacion_fuente
 
+        # Número fuente (resolución exenta)
+        if norma.metadatos.numero_fuente:
+            nfuente = ET.SubElement(metadata, "numero_fuente")
+            nfuente.text = norma.metadatos.numero_fuente
+
+        # Leyes referenciadas
+        if norma.metadatos.leyes_referenciadas:
+            leyes_ref = ET.SubElement(metadata, "leyes_referenciadas")
+            for ref in norma.metadatos.leyes_referenciadas:
+                ley_elem = ET.SubElement(leyes_ref, "ley_ref")
+                ley_elem.text = ref
+
         # Es tratado internacional
         if norma.es_tratado:
             tratado = ET.SubElement(metadata, "tratado")

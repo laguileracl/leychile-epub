@@ -70,6 +70,7 @@ class NormaMetadatos:
     fecha_derogacion: str = ""
     identificacion_fuente: str = ""
     numero_fuente: str = ""
+    leyes_referenciadas: list[str] = field(default_factory=list)
 
 
 @dataclass

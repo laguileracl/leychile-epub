@@ -155,7 +155,7 @@ def main():
             print(f"✅ Creado: {md_path.name}")
             lineas = md_content.split('\n')
             print(f"   Total líneas: {len(lineas)}")
-            print(f"   Primeras líneas:")
+            print("   Primeras líneas:")
             for line in lineas[:10]:
                 print(f"   | {line[:70]}")
             print()

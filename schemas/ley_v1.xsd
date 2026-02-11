@@ -43,6 +43,8 @@
       <xs:enumeration value="Auto Acordado"/>
       <xs:enumeration value="Tratado Internacional"/>
       <xs:enumeration value="Constitución"/>
+      <xs:enumeration value="Norma de Carácter General"/>
+      <xs:enumeration value="Instructivo"/>
     </xs:restriction>
   </xs:simpleType>
 
@@ -100,6 +102,12 @@
       <xs:element name="metadatos" type="ley:MetadatosType"/>
       <xs:element name="encabezado" type="xs:string"/>
       <xs:element name="contenido" type="ley:ContenidoType"/>
+      <xs:element name="promulgacion" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Texto de promulgación y cierre (RESUELVO, firmas).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="anexos" type="ley:AnexosType" minOccurs="0"/>
     </xs:sequence>
     
     <!-- Atributos obligatorios -->
@@ -152,6 +160,20 @@
       <xs:element name="nombres_comunes" type="ley:NombresComunesType" minOccurs="0"/>
       <xs:element name="fechas" type="ley:FechasType" minOccurs="0"/>
       <xs:element name="fuente" type="xs:string" minOccurs="0"/>
+      <xs:element name="numero_fuente" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Número de la resolución exenta que aprueba la norma.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="leyes_referenciadas" type="ley:LeyesReferenciadasType" minOccurs="0"/>
+      <xs:element name="tratado" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="pais" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+          </xs:sequence>
+          <xs:attribute name="es_tratado" type="xs:string"/>
+        </xs:complexType>
+      </xs:element>
     </xs:sequence>
   </xs:complexType>
 
@@ -185,6 +207,25 @@
       <xs:element name="promulgacion" type="xs:date" minOccurs="0"/>
       <xs:element name="publicacion" type="xs:date" minOccurs="0"/>
       <xs:element name="version" type="xs:date" minOccurs="0"/>
+      <xs:element name="derogacion" type="xs:date" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="LeyesReferenciadasType">
+    <xs:annotation>
+      <xs:documentation>
+        Lista de leyes, decretos y normas referenciadas en el texto.
+        Extraídas de las secciones VISTOS y CONSIDERANDO.
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="ley_ref" type="xs:string" maxOccurs="unbounded">
+        <xs:annotation>
+          <xs:documentation>
+            Referencia a una norma (ej: "Ley 20.720", "DFL 1-19.653", "D.S. 8").
+          </xs:documentation>
+        </xs:annotation>
+      </xs:element>
     </xs:sequence>
   </xs:complexType>
 
@@ -436,6 +477,33 @@
         <xs:documentation>ID o número de otra norma referenciada.</xs:documentation>
       </xs:annotation>
     </xs:attribute>
+  </xs:complexType>
+
+  <!-- ═══════════════════════════════════════════════════════════════════════
+       ANEXOS
+       ═══════════════════════════════════════════════════════════════════════ -->
+
+  <xs:complexType name="AnexosType">
+    <xs:annotation>
+      <xs:documentation>Contenedor de anexos de la norma.</xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="anexo" type="ley:AnexoType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="AnexoType">
+    <xs:annotation>
+      <xs:documentation>Un anexo individual de la norma.</xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="titulo" type="xs:string" minOccurs="0"/>
+      <xs:element name="materias" type="ley:MateriasType" minOccurs="0"/>
+      <xs:element name="texto" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute name="numero" type="xs:string" use="required"/>
+    <xs:attribute name="id" type="xs:string"/>
+    <xs:attribute name="estado" type="xs:string"/>
   </xs:complexType>
 
 </xs:schema>

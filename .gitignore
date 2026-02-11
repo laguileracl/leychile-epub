@@ -145,6 +145,8 @@ output/
 exports/
 store.json
 uv.lock
+.pdf_cache/
+normas_ncg/
 
 # Replit
 replit.md

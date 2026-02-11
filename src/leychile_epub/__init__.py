@@ -52,7 +52,10 @@ from .exceptions import (
     ValidationError,
 )
 from .generator import LawEpubGenerator
+from .instructivo_parser import InstructivoParser
+from .ncg_parser import NCGParser
 from .scraper import BCNLawScraper
+from .superir_base_parser import SuperirBaseParser
 from .xml_generator import (
     BibliotecaXMLGenerator,
     LawXMLGenerator,
@@ -66,6 +69,9 @@ __all__ = [
     "LawEpubGenerator",
     "LawXMLGenerator",
     "BibliotecaXMLGenerator",
+    "NCGParser",
+    "InstructivoParser",
+    "SuperirBaseParser",
     "Config",
     # Funciones de conveniencia
     "generate_law_xml",
