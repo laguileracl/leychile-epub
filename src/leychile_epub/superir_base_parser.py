@@ -282,6 +282,20 @@ class SuperirBaseParser:
             url_original=url,
         )
 
+        # 11. Parsear y agregar anexos
+        if sections.get("anexos_raw"):
+            parsed_anexos = self._parse_anexos(sections["anexos_raw"])
+            for anexo in parsed_anexos:
+                norma.anexos.append({
+                    "titulo": anexo["titulo"],
+                    "texto": anexo["texto"],
+                    "materias": [],
+                    "id_parte": "",
+                    "derogado": False,
+                })
+            if parsed_anexos:
+                logger.info(f"  Anexos encontrados: {len(parsed_anexos)}")
+
         # Estadísticas
         n_arts = self._count_articles(estructuras)
         n_divs = self._count_divisions(estructuras)
@@ -508,6 +522,18 @@ class SuperirBaseParser:
             sections["body"] = texto.strip()
             logger.warning("No se detectaron secciones VISTOS/CONSIDERANDO. Tratando todo como cuerpo.")
 
+        # Extraer anexos del texto completo (después del cuerpo)
+        annex_match = re.search(
+            r"^ANEXO\s+[NIVX\d]",
+            texto,
+            re.MULTILINE | re.IGNORECASE,
+        )
+        if annex_match:
+            annex_start = annex_match.start()
+            # Solo capturar si está después del inicio del cuerpo
+            if not pos_body_start or annex_start > pos_body_start.start():
+                sections["anexos_raw"] = texto[annex_start:].strip()
+
         # Unwrap PDF line breaks in all text sections
         for key in ("vistos", "considerando", "resuelvo_intro", "body", "closing"):
             if sections.get(key):
@@ -642,6 +668,78 @@ class SuperirBaseParser:
             break
 
         return "\n".join(clean_lines).strip()
+
+    # ───────────────────────────────────────────────────────────────────────
+    # Parseo de Anexos
+    # ───────────────────────────────────────────────────────────────────────
+
+    _PATRON_ANEXO = re.compile(
+        r"^ANEXO\s+([NIVXLCDM]+|\d+)",
+        re.IGNORECASE | re.MULTILINE,
+    )
+
+    @classmethod
+    def _parse_anexos(cls, raw_text: str) -> list[dict[str, str]]:
+        """Parsea el texto de anexos en una lista de diccionarios.
+
+        Detecta múltiples anexos (ANEXO I, ANEXO II, etc.) y extrae
+        su título y texto para cada uno.
+
+        Returns:
+            Lista de dicts con keys: titulo, texto, numero.
+        """
+        if not raw_text:
+            return []
+
+        # Encontrar todas las posiciones de inicio de ANEXO
+        matches = list(cls._PATRON_ANEXO.finditer(raw_text))
+        if not matches:
+            return []
+
+        anexos: list[dict[str, str]] = []
+        for i, match in enumerate(matches):
+            numero = match.group(1).strip()
+            start = match.start()
+            end = matches[i + 1].start() if i + 1 < len(matches) else len(raw_text)
+
+            chunk = raw_text[start:end].strip()
+
+            # Extraer título: primera línea completa (puede incluir "DE LA NCG...")
+            lines = chunk.split("\n")
+            titulo_lines: list[str] = []
+            text_start_idx = 0
+
+            for j, line in enumerate(lines):
+                stripped = line.strip()
+                if not stripped:
+                    text_start_idx = j + 1
+                    break
+                titulo_lines.append(stripped)
+                text_start_idx = j + 1
+
+            titulo = " ".join(titulo_lines)
+            texto = "\n".join(lines[text_start_idx:]).strip()
+
+            # Limpiar artefactos finales del texto del anexo
+            texto_lines = texto.split("\n")
+            while texto_lines:
+                last = texto_lines[-1].strip()
+                if not last or re.match(r"^\d{1,3}$", last):
+                    texto_lines.pop()
+                    continue
+                if re.match(r"^[A-Z]{2,4}(?:/[A-Z]{2,4})+$", last):
+                    texto_lines.pop()
+                    continue
+                break
+            texto = "\n".join(texto_lines).strip()
+
+            anexos.append({
+                "titulo": titulo,
+                "texto": texto,
+                "numero": numero,
+            })
+
+        return anexos
 
     # ───────────────────────────────────────────────────────────────────────
     # Parseo del cuerpo normativo

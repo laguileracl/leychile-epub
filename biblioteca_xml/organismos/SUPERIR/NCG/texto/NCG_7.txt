@@ -179,3 +179,117 @@ Anótese y publíquese.
 
 JOSEFINA MONTENEGRO ARANEDA
 Superintendenta de Insolvencia y Reemprendimiento
+
+ANEXO I DE LA NORMA DE CARÁCTER GENERAL N° 7
+
+MODELO DE PRESENTACIÓN DE LA CUENTA FINAL DE ADMINISTRACIÓN
+
+A.- CARÁTULA
+
+a) Cuenta Final de Administración.
+Al 30 de Noviembre de 2014.
+Nombre del Deudor: Sociedad XX Limitada.
+
+b) Resumen de Ingresos y Egresos:
+
+Concepto                          Monto
+Ingresos Totales                  $.-
+Egresos:
+  Repartos de Fondos              $.-
+  Honorarios Liquidador           $.-
+  Honorarios Varios               $.-
+  Otros Gastos de Administración  $.-
+  Provisión para Gastos Finales   $.-
+Total Igual Ingresos              $.-
+
+B.- DETALLE DE INGRESOS Y EGRESOS
+
+a) Ingresos:
+
+Código      Cuenta                                        Monto
+4.01.001    Intereses y Reajustes Ganados                 $
+4.01.002    Arriendos Percibidos                          $
+4.01.003    Dividendos de Acciones Percibidos             $
+4.01.004    Ventas de Acciones y Valores                  $
+4.01.005    Venta de Bienes Muebles                       $
+4.01.006    Venta de Bienes Inmuebles                     $
+4.01.007    Venta de Unidad Económica                     $
+4.01.008    Venta Bases de Remate y Licitación            $
+4.01.009    Utilidad por Participación en otras Empresas  $
+4.01.010    Recuperación y/o Aplicación Impuestos         $
+4.01.011    Fondos Incautados                             $
+4.01.012    Ingresos por Cobranzas                        $
+4.01.013    Otros Ingresos                                $
+
+b) Egresos:
+
+Código      Cuenta                                                      Monto
+3.01.001    Honorarios Liquidador                                       $
+3.01.002    Honorarios Varios                                           $
+3.01.003    Gastos Menores                                              $
+3.01.004    Gastos Bancarios                                            $
+3.01.005    Publicaciones de Enajenaciones                              $
+3.01.006    Gastos de Martillo                                          $
+3.01.007    Gastos de Vigilancia                                        $
+3.01.010    Publicaciones                                               $
+3.01.011    Notificaciones                                              $
+3.01.012    Seguros Generales                                           $
+3.01.013    Bodegaje                                                    $
+3.01.014    Contribuciones Bienes Raíces                                $
+3.01.015    Mantención de Activos                                       $
+3.01.016    Gastos de Viaje                                             $
+3.01.017    Comisiones                                                  $
+3.01.018    Intereses pagados                                           $
+3.01.019    Arriendos pagados                                           $
+3.01.020    Otros Gastos                                                $
+3.02.001    Dividendos créditos sin necesidad de verificación previa    $
+3.02.002    Dividendos Créditos de Primera Clase                        $
+3.02.011    Dividendos Créditos Prendarios                              $
+3.02.012    Dividendos Créditos Hipotecarios                            $
+3.02.013    Dividendos Créditos de Cuarta Clase                         $
+3.02.014    Dividendos Créditos Valistas                                $
+3.02.015    Dividendos Créditos Subordinados                            $
+
+c) Subtotal Ingresos y Egresos
+
+                Ingresos    Egresos
+Subtotal        $           $
+
+d) Provisión para Gastos Finales
+
+Provisión para Gastos Finales    $
+
+e) Totales Iguales
+
+                  Ingresos    Egresos
+Totales Iguales   $           $
+
+C.- BALANCE GENERAL
+
+Código      Cuentas                                 Débitos  Créditos  Saldo Deudor  Saldo Acreedor  Activo  Pasivo  Egresos  Ingresos
+1.01.002    Banco XX del PCL
+1.01.010    Depósitos a Plazo
+1.01.020    Documentos por Cobrar
+2.02.001    Impuesto de Segunda Categoría
+3.01.001    Honorarios Liquidador
+3.01.002    Honorarios Varios
+3.01.004    Gastos Bancarios
+3.01.010    Publicaciones
+3.01.011    Notificaciones
+3.01.014    Contribuciones Bienes Raíces
+3.01.015    Mantención de Activos
+3.01.020    Otros Gastos
+3.02.002    Dividendos Créditos de Primera Clase
+3.02.011    Dividendo Créditos Prendarios
+3.03.001    Pérdidas y Ganancias
+4.01.001    Intereses y Reajustes Ganados
+4.01.005    Venta de Bienes Muebles
+4.01.006    Venta de Bienes Inmuebles
+4.01.013    Otros Ingresos
+Sub Totales
+Resultado Pérdida / Ganancia
+Totales
+
+Notas Explicativas al Balance General: Las notas explicativas constituyen una relación de antecedentes que aportan información adicional sobre las cifras contenidas en el Balance General, así como la entrega de información que no está directamente reflejada en éste, permitiendo una mejor comprensión del mismo, por ende, estas notas se incorporarán al Balance General cuando el Liquidador requiera aclarar y complementar algún ítem del Balance. Estas notas explicativas deberán ser firmadas por el Liquidador y por su Contador.
+
+Nombre y Firma Liquidador                Nombre y Firma Contador
