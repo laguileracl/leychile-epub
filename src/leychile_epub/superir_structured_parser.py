@@ -143,9 +143,10 @@ PATRON_ANEXO_NUMS = re.compile(
 # Anexo con título entre comillas (resolutivo): Anexo I-A "Indicadores..."
 # Soporta comillas ASCII (") y Unicode (\u201c \u201d).
 # Soporta prefijo "N.°" opcional: Anexo N.° 1 "Modelo..." (NCG 22).
+# Soporta "denominado/a" antes de comillas: Anexo I, denominado "Modelo..." (NCG 23).
 # Números: romanos (I-A), arábigos (1), arábigos compuestos (2 A, 2 B).
 PATRON_ANEXO_CON_TITULO = re.compile(
-    r'Anexo\s+(?:N\.?\s*[°º]?\s*)?(\d+(?:\s*[A-Z])?|[IVXLCDM]+(?:-[A-Z])?)\s+["\u201c]([^"\u201d]+)["\u201d]',
+    r'Anexo\s+(?:N\.?\s*[°º]?\s*)?(\d+(?:\s*[A-Z])?|[IVXLCDM]+(?:-[A-Z])?)(?:\s+|,\s*denominad[oa]\s+)["\u201c]([^"\u201d]+)["\u201d]',
     re.IGNORECASE,
 )
 
@@ -174,8 +175,9 @@ PATRON_RESUELVO = re.compile(
 
 # Punto resolutivo: "1° APRUÉBESE...", "2° PUBLÍQUESE...", "1. APRUÉBESE..."
 # NCGs 16-17 usan "N." (período) en vez de "N°" (grado).
+# NCG 25 usa "1º." (período después del ordinal): soporte con \.?
 PATRON_PUNTO_RESOLUTIVO = re.compile(
-    r"(?:^|\n)\s*(\d+)[.°º]\s+([A-ZÁÉÍÓÚÑ])",
+    r"(?:^|\n)\s*(\d+)[.°º]\.?\s+([A-ZÁÉÍÓÚÑ])",
     re.MULTILINE,
 )
 
@@ -566,6 +568,20 @@ class SuperirStructuredParser:
 
         # 2. Detectar items letrados (a), b), etc.)
         lettered = list(PATRON_ITEM_LETRADO.finditer(texto))
+
+        # Filtrar falsos positivos por contexto: "las letras e) y f)"
+        # son referencias a items de otro artículo, no items genuinos.
+        # Si la match está precedida por "letra(s)" inmediatamente antes,
+        # descartarla. Afecta NCG 23 Art 5°.
+        if lettered:
+            lettered = [
+                m
+                for m in lettered
+                if not re.search(
+                    r"letras?\s*$", texto[max(0, m.start() - 15) : m.start()]
+                )
+            ]
+
         is_genuine_lettered = bool(lettered)
 
         if lettered:
@@ -1006,9 +1022,15 @@ class SuperirStructuredParser:
                     resolutivo_found[num] = AnexoStandalone(
                         numero=num, titulo=titulo, pendiente=True
                     )
-            # Solo usar Fuente 1 si tiene numeración compuesta O
-            # si la cantidad de anexos es alta (>= 5, sugiere arábigos legítimos)
-            if has_compound or len(resolutivo_found) >= 5:
+            # Solo usar Fuente 1 si:
+            # - Tiene numeración compuesta (I-A, 2-A), O
+            # - La cantidad es alta (>= 5, sugiere arábigos legítimos), O
+            # - Todos son romanos puros (I, II, III — no confusión arábigo/romano)
+            all_roman = resolutivo_found and all(
+                re.match(r"^[IVXLCDM]+(?:-[A-Z])?$", n)
+                for n in resolutivo_found
+            )
+            if has_compound or len(resolutivo_found) >= 5 or all_roman:
                 found = resolutivo_found
 
         # Fuente 2: anexos del base parser (si no se encontraron en resolutivo)
@@ -1679,9 +1701,12 @@ def _extract_cierre_from_raw(texto: str) -> CierreSuperir | None:
         CierreSuperir o None si no se puede extraer.
     """
     # Buscar fórmula de cierre en el texto raw.
-    # Patrón: "ANÓTESE, PUBLÍQUESE Y ARCHÍVESE," (una línea completa)
+    # Variantes:
+    #   "ANÓTESE, PUBLÍQUESE Y ARCHÍVESE,"  (estándar)
+    #   "ANÓTESE Y ARCHÍVESE,"              (NCG 25 — sin PUBLÍQUESE)
+    #   "ANÓTESE, NOTIFÍQUESE Y ARCHÍVESE," (variante)
     formula_match = re.search(
-        r"(AN[ÓO]TESE[,\s]+(?:PUBL[ÍI]QUESE|NOTIF[ÍI]QUESE).*?(?:ARCH[ÍI]VESE|PUBL[ÍI]QUESE)[.,]?)",
+        r"(AN[ÓO]TESE\b[,\s]*(?:Y\s+)?(?:(?:PUBL[ÍI]QUESE|NOTIF[ÍI]QUESE)[,\s]*(?:Y\s+)?)*ARCH[ÍI]VESE[.,]?)",
         texto,
         re.IGNORECASE,
     )
@@ -1744,8 +1769,12 @@ def _extract_destinatarios_notificacion(texto: str) -> str:
         search_region = texto[formula_pos.end() : formula_pos.end() + 500]
     else:
         search_region = texto[-500:]
+    # Capturar todas las líneas no vacías después de DISTRIBUCIÓN:
+    # NCG estándar:  "-Señores/as Veedores/as"
+    # NCG 25:        "Señores/as\n-Liquidadores/as\n-Martilleros/as Concursales"
+    #                (prefijo compartido + items con guión)
     match = re.search(
-        r"DISTRIBUCI[ÓO]N\s*:\s*\n((?:\s*-.*\n?)+)",
+        r"DISTRIBUCI[ÓO]N\s*:\s*\n((?:[ \t]*\S.*\n?)+)",
         search_region,
         re.IGNORECASE,
     )
@@ -1753,11 +1782,26 @@ def _extract_destinatarios_notificacion(texto: str) -> str:
         return ""
 
     lines = match.group(1).strip().split("\n")
+    has_dashed = any(l.strip().startswith("-") for l in lines)
+    prefix = ""
     destinatarios = []
     for line in lines:
-        line = line.strip().lstrip("-").strip()
-        if line and line.lower() != "presente":
+        line = line.strip()
+        if not line or line.lower() == "presente":
+            continue
+        if line.startswith("-"):
+            item = line.lstrip("-").strip()
+            destinatarios.append(f"{prefix}{item}" if prefix else item)
+        elif has_dashed:
+            # Prefijo compartido (e.g. "Señores/as") para items con guión
+            prefix = line.rstrip() + " "
+        else:
+            # Sin guiones: cada línea es un destinatario completo
             destinatarios.append(line)
+
+    # Si sólo hubo prefijo sin items con guión, usar prefijo como destinatario
+    if prefix and not destinatarios:
+        destinatarios.append(prefix.strip())
 
     return "; ".join(destinatarios)
 
