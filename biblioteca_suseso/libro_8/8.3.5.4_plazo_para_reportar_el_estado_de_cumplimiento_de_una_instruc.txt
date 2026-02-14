@@ -1,0 +1,8 @@
+8.3.5.4 Plazo para reportar el estado de cumplimiento de una instrucción o resolución
+=====================================================================================
+
+Las C.C.A.F. deben reportar o informar a la Superintendencia, en el respectivo expediente electrónico, el estado de cumplimiento de una instrucción impartida a través del PAE y que resuelve un reclamo. Dicho reporte debe efectuarse, a más tardar dentro de los 3 días contados desde la fecha en que venció el plazo fijado para su cumplimiento o desde que se haya dado cumplimiento a la referida instrucción, en caso de que ello sea efectuado en un plazo menor.
+
+Al efecto, deben tenerse presentes los plazos establecidos para el cumplimiento de una resolución y que se encuentran en el numeral 8.3.4.1. del título III del Libro VIII del Compendio de la Ley N°18.833.
+
+Cuando la resolución que resuelve un reclamo no establece un plazo determinado para su cumplimiento y éste tampoco se encuentre establecido en numeral 8.3.4.1. del título III del Libro VIII del Compendio de la Ley N°18.833, e l reporte debe efectuarse a más tardar dentro de los 3 días luego de transcurridos 20 días contados desde que la Caja de Compensación fue notificada de la resolución que resolvió el reclamo.

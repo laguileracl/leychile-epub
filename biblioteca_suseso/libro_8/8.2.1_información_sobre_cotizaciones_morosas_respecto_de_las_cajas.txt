@@ -1,0 +1,37 @@
+8.2.1 INFORMACIÓN SOBRE COTIZACIONES MOROSAS RESPECTO DE LAS CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR
+=========================================================================================================
+
+Las Cajas de Compensación de Asignación Familiar deben remitir la siguiente información relativa a la morosidad existente en el sistema previsional respecto de las cotizaciones previsionales administradas por ellas:
+
+Monto nominal de las cotizaciones impagas.
+
+Monto actualizado de las cotizaciones impagas.
+
+Número de empresas morosas a las que corresponden las cotizaciones morosas.
+
+Número de trabajadores afectados a los que corresponden las cotizaciones morosas.
+
+La información de las letras a), b), c) y d) debe presentarse en cinco cuadros de acuerdo a los formatos del Anexo N°1: Morosidad en el sistema previsional del Título II del Libro VIII del Compendio de la Ley N°18.833.
+
+La información debe remitirse en forma mensual. El plazo de envío de la información mensual es el día 15 del mes subsiguiente al cual corresponda el informe. Los montos se actualizarán con reajustes, intereses y multas calculados en conformidad a las normas de la Ley N°17.322 , al último día del mes informado.
+
+Se requiere, además, que, en forma mensual, se remita la siguiente información:
+
+Deuda que mantienen con esa entidad las Municipalidades y las Corporaciones Municipales de Educación y de Atención Primaria de Salud.
+
+Número de juicios vigentes y montos involucrados.
+
+Esta información debe proporcionarse mensualmente, de acuerdo con el formato del Anexo N°2: Información Mensual del Título II del Libro VIII del Compendio de la Ley N°18.833.
+
+A continuación del nombre de la Municipalidad debe colocarse (E) cuando se trate de una Corporación Municipal de Educación y (S) sí se trata de una Corporación Municipal de Atención Primaria de Salud.
+
+Los montos se actualizarán con reajustes, intereses y multas al último día del mes informado, en conformidad a las normas de la Ley N°17.322.
+
+El plazo de envío de la información mensual es el día 15 del mes subsiguiente al cual corresponda el informe.
+
+La información debe ser remitida mediante carta, a la cual se acompañará un respaldo en archivo Excel, documentos que deben ser ingresados a la Superintendencia a través de la plataforma PAE, opción "Otros-Ingresos".
+
+
+
+Referencias legales:
+ Ley 17.322

@@ -1,0 +1,54 @@
+7.1.5.3.4 Nota 4. Administración del Riesgo
+===========================================
+
+7.1.5.3.4.1 Factores de riesgo financiero
+
+Describir factores de riesgos financieros, éstos pueden ser entre otros:
+
+Riesgo de crédito
+
+Describir calidad crediticia de activos financieros
+
+Riesgo de mercado
+
+Riesgo de tipo de mercado
+
+Riesgo de precio
+
+Riesgo de tasa de interés de los flujos de efectivo y del valor razonable
+
+Riesgo de liquidez
+
+7.1.5.3.4.2 Gestión del riesgo del capital
+
+Describir factores de riesgos del capital.
+
+7.1.5.3.4.3 Requerimientos de capital
+
+Describir requerimientos de capital
+
+5.4 Estimación del valor razonable
+
+Describir factores de estimaciones del valor razonable.
+
+No será necesario informar del valor razonable:
+
+Cuando el importe en libros sea una aproximación racional a dicho valor razonable (por ejemplo, en el caso de instrumentos financieros tales como cuentas a pagar o cobrar a corto plazo);
+
+En el caso de una inversión en instrumentos de patrimonio que no tengan un precio de mercado cotizado en un mercado activo, ni para los derivados vinculados con ellos, que se valoran al costo de acuerdo con la NIC 39 , p orque su valor razonable no puede ser determinado con fiabilidad; o
+
+Para un contrato que contenga un componente de participación discrecional (como se describe en la NIIF 4 , si el valor razonable de dicho componente no puede ser determinado de forma fiable.
+
+En los casos descritos en NIIF7p29(b) y (c) , la entidad facilitará información que ayude a los usuarios de los estados financieros al hacer sus propios juicios, acerca del alcance de las posibles diferencias entre el importe en libros de esos activos financieros o pasivos financieros y su valor razonable, incluyendo:
+
+El hecho de que no se ha revelado la información sobre el valor razonable porque dicho valor razonable no puede ser valorado de forma fiable;
+
+Una descripción de los instrumentos financieros, su importe en libros y una explicación de por qué el valor razonable no puede ser determinado de forma fiable;
+
+Información acerca del mercado para los instrumentos;
+
+Información sobre si la entidad pretende enajenar o disponer por otra vía de esos instrumentos financieros, y cómo piensa hacerlo; y
+
+Si algunos instrumentos financieros, cuyo valor razonable no hubiera podido ser estimado con fiabilidad previamente, han causado baja en cuentas,debe informar de este hecho junto con su importe en libros en el momento de la baja en cuentas y el importe de las pérdidas o ganancias reconocidas.
+
+Cuadros N°s 1 y 2 del Anexo N°2: Cuadros de la Nota 4 delTítulo I del Libro VII de este Compendio.

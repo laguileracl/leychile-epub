@@ -1,0 +1,57 @@
+8.1.2 MODELO DE REPORTE
+=======================
+
+Las C.C.A.F. deben realizar el envío mensual de las nóminas de datos y archivos de resumen que se describen en las letras a) a la h) siguientes, siguiendo la estructura descrita en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos , el Anexo N°3: Formato de documento electrónico (XML) y el Anexo N°4: Instrucciones generales , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.
+
+Archivo "AFILI1" : Antecedentes de Afiliados Vigentes.
+
+
+
+Corresponde a un archivo plano que debe contener el detalle de los antecedentes personales disponibles de todos los afiliados vigentes. La consideración de afiliado vigente se basa en la información de afiliación, ya sea como trabajador dependiente o independiente, o como pensionado, y de cotizaciones declaradas y pagadas o declaradas y no pagadas, para el caso de trabajadores, referidas al último día del mes anterior al cierre contable reportado, según las definiciones incluidas en el Anexo N°5: Afiliados y entidades empleadoras afiliadas del Título I del Libro VIII del Compendio de la Ley N°18.833.
+El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos , el Anexo N°4: Instrucciones generales y el Anexo N°5: Afiliados y entidades empleadoras afiliadas , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.
+
+Archivo "AFILI2" : Antecedentes de la Situación Económica de los Deudores de Crédito Social.
+
+
+
+Corresponde a un archivo plano que debe contener los antecedentes referidos a la situación económica de la totalidad de los deudores de crédito social vigentes (incluye deudores que son afiliados vigentes y deudores que ya no están afiliados a la Caja), a la fecha de cierre de la información reportada. La situación económica reportada debe corresponder a la situación vigente al momento de otorgar el crédito social.
+
+El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos y el Anexo N°4: Instrucciones generales , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.
+
+Archivo "EMPRE" : Antecedentes de las Entidades Empleadoras Afilladas Vigentes.
+
+
+
+Corresponde a un archivo plano que debe contener el detalle de todas las entidades empleadoras afiliadas a esa Caja de Compensación, a la fecha de cierre de la información reportada. La calidad de entidad empleadora afiliada vigente se basa en la información de afiliación y de cotizaciones declaradas y pagadas o declaradas y no pagadas, referidas al último día del mes anterior al cierre contable reportado, según las definiciones Incluidas en el Anexo N°5: Afiliados y entidades empleadoras afiliadas del Título I del Libro VIII del Compendio de la Ley N°18.833 .
+
+El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos , el Anexo N°4: Instrucciones generales y el Anexo N°5: Afiliados y entidades empleadoras afiliadas , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.
+
+Archivo "COLOC1" : Información de Colocaciones Vigentes (Incluidas las Morosas) Registradas en el Balance.
+
+
+
+Corresponde a un archivo plano que debe contener el detalle del stock de colocaciones vigentes o con morosidad, registradas en el balance, a la fecha de cierre de la información reportada. El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos y el Anexo N°4: Instrucciones generales , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.
+
+Archivo "INCOB1" : Información de Colocaciones con Morosidad Castigadas o Completamente Provisionadas Registradas Fuera de Balance.
+
+
+
+Corresponde a un archivo plano que debe contener el detalle del stock de los créditos castigados o 100% provisionados registrados fuera de balance, con una antigüedad máxima de 7 años contados desde la fecha del primer impago, a la fecha de cierre de la información reportada. El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos y el Anexo N°4: Instrucciones generales , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.
+
+Archivo "GARAN" : Información de Garantías Vigentes.
+
+
+
+Corresponde a un archivo plano que debe contener el detalle del stock de garantías vigentes referidas a sus deudores de crédito social a la fecha de cierre de la información reportada. El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos y el Anexo N°4: Instrucciones generales , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.
+
+Archivo "BENEF" : Información de Beneficios Adicionales Otorgados en el Mes.
+
+
+
+Corresponde a un archivo plano que debe contener el detalle de todos los beneficios adicionales monetarios (bonos) otorgados en el mes reportado. El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos y el Anexo N°4: Instrucciones generales , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.
+
+Archivo "resumenes" : Documento Electrónico de Resumen.
+
+
+
+Corresponde a un archivo XML que debe contener tablas de resumen de la información detallada en las letras a), b), c), d), e), f), y g) del presente número 8.1.2. El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°3: Formato de documento electrónico (XML) y el Anexo N°4: Instrucciones generales , ambos del Título I del Libro VIII del Compendio de la Ley N°18.833.

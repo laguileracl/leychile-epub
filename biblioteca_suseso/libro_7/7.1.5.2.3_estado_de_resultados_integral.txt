@@ -1,0 +1,134 @@
+7.1.5.2.3 Estado de resultados Integral
+=======================================
+
+ESTADO DE RESULTADOS INTEGRAL
+
+El Estado de Resultados Integral corresponde a la Ganancia (Pérdida) del ejercicio más los otros ingresos y gastos reconocidos en el patrimonio neto, el cual debe contener la información siguiente.
+
+23050 Ganancia (pérdida)
+
+En este ítem se incluye el resultado del ejercicio.
+
+Componentes de otro resultado integral antes de impuestos
+
+Diferencias de cambio por conversión
+
+71010 Ganancias (pérdidas) por diferencias de cambio de conversión, antes de impuestos
+
+Corresponde a todas las diferencias de cambio que se produzcan como resultado de convertir desde su moneda funcional a moneda de presentación (en caso de que sea distinta) el estado de situación financiera y estado de resultados de una filial, asociada o negocio conjunto, sea nacional o extranjero.
+
+71020 Ajustes de reclasificación en diferencias de cambio de conversión, antes de impuestos
+
+En este ítem se incluyen los ajustes (cargos o abonos) por reclasificaciones en la diferencia de conversión, antes de impuestos.
+
+71030 Otro resultado integral, antes de impuestos, diferencias de cambio por conversión
+
+Corresponde a la suma de los ítems 71010 y 71020.
+
+Activos financieros disponibles para la venta
+
+71040 Ganancias (pérdidas) por nuevas mediciones de activos financieros disponibles para la venta, antes de impuestos
+
+En este ítem se presenta la contrapartida del mayor o menor valor de las inversiones disponibles para la venta por su ajuste a valor razonable, incluidos los saldos remanentes por las diferencias en un eventual traspaso de inversiones al vencimiento a disponibles para la venta.
+
+71050 Ajustes de reclasificación, activos financieros disponibles para la venta, antes de impuestos
+
+En este ítem se incluyen los ajustes (cargos o abonos) por reclasificaciones en activos financieros disponibles para la venta, antes de impuestos.
+
+71060 Otro resultado integral, antes de impuestos, activos financieros disponibles para venta
+
+Corresponde a la suma de los ítems 71040 y 71050.
+
+Coberturas del flujo de efectivo
+
+71070 Ganancias (pérdidas) por coberturas de flujos de efectivo, antes de impuestos
+
+Se compone de la porción del resultado registrado en patrimonio por la variación en el valor razonable de instrumentos de cobertura en una cobertura de flujo de efectivo.
+
+71080 Ajustes de reclasificación en coberturas de flujo de efectivo, antes de impuestos
+
+En este ítem se incluirán los ajustes (cargos o abonos) por reclasificaciones en coberturas de flujos de efectivo, antes de impuestos.
+
+71090 Ajustes por importes transferidos al importe inicial en libros de las partidas cubiertas
+
+En este ítem se incluye el importe que, durante el ejercicio, se haya detraído (sustraído) del patrimonio neto y se haya incluido en el costo inicial u otro importe en libros de un activo no financiero adquirido o de un pasivo no financiero en el que se haya incurrido y que hayan sido tratados como transacciones previstas altamente probables cubiertas.
+
+71100 Otro resultado integral, antes de impuestos, coberturas de flujos de efectivo
+
+Corresponde a la suma de los ítems 71070, 71080 y 71090.
+
+71110 Otro resultado integral, antes de impuestos, ganancias (pérdidas) procedentes de inversiones en instrumentos de patrimonio
+
+Corresponde a las diferencias de cambio sobre instrumentos de patrimonio clasificados como activos financieros disponibles para la venta.
+
+71120 Otro resultado integral, antes de impuestos, ganancias (pérdidas) por revaluación
+
+Corresponde al incremento de valor libro de las propiedades, plantas y equipos que se produce como consecuencia de una revaluación, y que se acredita directamente a una cuenta de superávit de revaluación, dentro del patrimonio neto. Sin embargo, dicho incremento reversa una disminución por devaluación, del mismo activo reconocido previamente en resultados, tal incremento debe reconocerse en los resultados del período.
+
+Asimismo, cuando disminuya el valor libro de las propiedades, plantas y equipos producto de una revaluación, tal disminución debe ser cargada directamente al patrimonio neto contra cualquier superávit de reevaluación reconocido previamente en relación con el mismo activo, en la medida que tal disminución no exceda el saldo de la citada cuenta de superávit de revaluación.
+
+71130 Otro resultado integral, antes de impuestos, ganancias (pérdidas) actuariales por planes de beneficios definidos
+
+Corresponde a las utilidades (pérdidas) actuariales definidas como beneficios de planes de post empleo.
+
+71140 Participación en el otro resultado integral de asociadas y negocios conjuntos contabilizados utilizando el método de la participación
+
+Corresponde a los otros ingresos y gastos reconocidos en el patrimonio neto de asociadas y negocios conjuntos contabilizados utilizando el método de la participación.
+
+71150 Otros componentes de otro resultado integral, antes de impuestos
+
+Corresponde a la suma de los ítems 71030, 71060, 71100, 71110, 71120, 71130 y 71140.
+
+Impuesto a las ganancias relacionado con componentes de otro resultado integral
+
+71160 Impuesto a las ganancias relacionado con diferencias de cambio de conversión de otro resultado integral
+
+Incluye el correspondiente gasto tributario por concepto de impuesto diferido, calculado de acuerdo a las normas tributarias vigentes relacionado con diferencias de cambio de conversión.
+
+71170 Impuesto a las ganancias relacionado con inversiones en instrumentos de patrimonio de otro resultado integral
+
+Incluye el correspondiente gasto tributario por concepto de impuesto diferido, calculado de acuerdo a las normas tributarias vigentes relacionado con inversiones en instrumentos de patrimonio.
+
+71180 Impuesto a las ganancias relacionado con activos financieros disponibles para la venta de otro resultado integral
+
+Incluye el correspondiente gasto tributario por concepto de impuesto diferido, calculado de acuerdo a las normas tributarias vigentes relacionado con activos financieros disponibles para la venta.
+
+71190 Impuesto a las ganancias relacionado con coberturas de flujos de efectivo otro resultado integral
+
+Incluye el correspondiente gasto tributario por concepto de impuesto diferido, calculado de acuerdo a las normas tributarias vigentes relacionado con coberturas de flujo de efectivo.
+
+71200 Impuesto a las ganancias relacionado con cambios en el superávit de revaluación de otro resultado integral
+
+Incluye el correspondiente gasto tributario por concepto de impuesto diferido, calculado de acuerdo a las normas tributarias vigentes relacionado con cambios en el superávit de revaluación.
+
+71210 Impuesto a las ganancias relacionado con planes de beneficios definidos de otro resultado integral
+
+Incluye el correspondiente gasto tributario por concepto de impuesto diferido, calculado de acuerdo a las normas tributarias vigentes relacionado con planes de beneficios definidos.
+
+71220 Ajustes de reclasificación en el impuesto a las ganancias relacionado con componentes de otro resultado integral
+
+Incluye el correspondiente ajuste al gasto tributario por concepto de impuesto diferido, calculado de acuerdo a las normas tributarias vigentes relacionado con componentes de otro resultado integral.
+
+71230 Suma de impuestos a las ganancias relacionados con componentes de otro resultado integral
+
+Corresponde a la suma de los ítems 71160 al 71220.
+
+71240 Otro resultado integral
+
+Corresponde a la suma de los ítems 71150 y 71230.
+
+70000 Resultado integral total
+
+Corresponde a la suma de los ítems 23050 y 71240.
+
+72100 Resultado integral total atribuible a los propietarios de la controladora
+
+Corresponde a la porción del resultado integral total del ejercicio atribuible a los accionistas de la sociedad.
+
+72200 Resultado integral total atribuible a participaciones no controladoras
+
+Corresponde a la proporción del resultado integral total del período de la(s) subsidiaria(a) que no corresponde, ya sea directamente o indirectamente a través de otra(s) subsidiaria(s), a la participación de la sociedad controladora del grupo (matriz).
+
+70000 Resultado integral total
+
+Corresponde a la suma de los ítems 72100 y 72200.

@@ -1,0 +1,99 @@
+7.1.5.2.2 Estado de Resultados por Naturaleza
+=============================================
+
+41010 Ingresos por intereses y reajustes
+
+Se deben incluir en este ítem los intereses y reajustes percibidos y/o devengados por los créditos de consumo, créditos a microempresarios, créditos con fines educacionales y mutuos hipotecarios no endosables otorgados a los afiliados en el marco del Régimen de Crédito Social.
+
+41020 Ingresos de actividades ordinarias
+
+Deben incluirse los ingresos por comisiones de seguros de desgravamen, ingresos por la administración de carteras securitizadas, administración de fondos nacionales y otros servicios financieros prestados por la entidad asociados a la obtención de financiamiento del Régimen de Crédito Social.
+
+41030 Otros ingresos
+
+Se incluyen ingresos generados en el Régimen de Prestaciones Adicionales y Complementarias que la entidad desarrolla conforme a lo dispuesto en el artículo 23 de la Ley N°18.833 y su Reglamento respectivo. Además, se incluyen otros ingresos por operaciones financieras, distinto de intereses, comisiones o variación del tipo de cambio.
+
+41040 Gastos por intereses y reajustes
+
+Corresponde al gasto en intereses y reajustes derivados de la obtención de recursos para el financiamiento del Régimen de Crédito Social.
+
+41050 Deterioro por riesgo de crédito
+
+Deben incluirse en este ítem las provisiones determinadas por la Caja de Compensación.
+
+41060 Materias primas y consumibles utilizados
+
+En este ítem deben incluirse las materias primas y consumibles utilizados en el funcionamiento de la Caja.
+
+41070 Gastos por beneficios a los empleados
+
+En este ítem se presentan los gastos devengados en el período por remuneraciones y compensaciones a sus trabajadores, y otros gastos derivados de la relación entre la Caja como empleador y sus empleados.
+
+41080 Depreciaciones y amortizaciones
+
+En este ítem se incluyen las depreciaciones del activo fijo y las amortizaciones de activos intangibles. Los deterioros de estos mismos deben ser incluidos en la siguiente definición.
+
+41090 Pérdidas por Deterioro de valor
+
+Incluye las pérdidas por deterioros de inversiones e instrumentos financieros, activos fijos y activos intangibles. Los deterioros de inversiones crediticias se reflejan en las provisiones de riesgo de crédito, en tanto que los deterioros por inversiones en sociedades deben incluirse en resultados por inversiones en otras sociedades.
+
+41100 Otros Gastos por naturaleza
+
+Este ítem se desglosa en los siguientes conceptos:
+
+41110 Otras ganancias (pérdidas)
+
+Incluye las ganancias o pérdidas que no han podido ser clasificadas en los ítems anteriores.
+
+41120 Ingresos financieros
+
+Se registran los intereses obtenidos en depósitos a plazo o inversiones mantenidas hasta el vencimiento, el resultado de pactos y el devengo de intereses de activos financieros disponibles para la venta. Así también incluye los intereses implícitos de cuentas por cobrar.
+
+Adicionalmente, se registra en este ítem la utilidad en derivados de cobertura de valor razonable, así como las variaciones del valor razonable de la partida protegida.
+
+41130 Costos financieros
+
+Corresponde al gasto financiero devengado o pagado, incurrido por la entidad en la obtención de recursos financieros con instituciones de crédito. Así también incluye los intereses implícitos de cuentas por pagar.
+
+Adicionalmente, se registra en este ítem la pérdida en derivados de cobertura de valor razonable, así como las variaciones del valor razonable de la partida protegida, cuando corresponda.
+
+41140 Resultado por unidades de reajuste
+
+Corresponde a las diferencias que surjan al liquidar partidas monetarias expresadas en una unidad de reajuste distinta a la que se utilizó para reconocimiento inicial ya sea que se hayan producido durante el período o períodos anteriores.
+
+41000 Ganancia (pérdida) antes de impuesto
+
+Corresponde a la suma de los ítems 41010 al 41140
+
+51010 Ingreso (gasto) por impuesto a las ganancias
+
+Corresponde al gasto o ingreso neto generado por: impuesto a la renta determinado de acuerdo a las normas tributarias vigentes, al reconocimiento de activos y pasivos por impuestos diferidos y beneficio originado por la aplicación de pérdida tributaria.
+
+51000 Ganancia (pérdida) procedente de operaciones continuadas
+
+Corresponde a la suma de los ítems 41000 y 51010
+
+61010 Ganancia (pérdida) procedente de operaciones discontinuadas
+
+Incluye el resultado neto relacionado con operaciones descontinuadas, en el caso en que la Caja de Compensación suspenda la línea de negocio.
+
+23050 Ganancia (pérdida)
+
+Corresponde a la suma de los ítems 51000 y 61010.
+
+62010 Ganancia (pérdida) atribuible a los propietarios de la Controladora
+
+Comprende las utilidades o pérdidas que corresponden a los propietarios controladores de la Corporación.
+
+62020 Ganancia (pérdida) atribuible a la participación no controladoras
+
+Comprende las utilidades o pérdidas que corresponden a la participación no controladora.
+
+23050 Ganancia (pérdida)
+
+Corresponde a la suma de los ítems 62010 y 62020.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 23

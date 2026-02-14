@@ -1,0 +1,4 @@
+8.2.3.3 Solicitudes de reenvío de archivos anteriores
+=====================================================
+
+La Caja de Compensación debe enviar la petición de reenvío de archivos mediante la plataforma PAE, opción "Otros-Ingresos". Dicha petición debe indicar las correcciones a realizar, las razones que motivan dichas correcciones, registros afectados y los días hábiles que requerirán para cumplir con las exigencias de reporte.

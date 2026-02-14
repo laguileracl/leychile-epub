@@ -1,0 +1,6 @@
+8.3.4.2 Cómputo de los plazos
+=============================
+
+Los plazos se computarán a contar del día hábil siguiente a la puesta a disposición de la resolución respectiva en el Sistema de Información del Procedimiento Administrativo Electrónico de la Superintendencia de Seguridad Social.
+
+Los plazos son de días hábiles administrativos, excluyéndose, por tanto, los sábados, domingos y festivos.

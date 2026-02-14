@@ -1,0 +1,42 @@
+8.3.5.5 Proceso de reporte del estado de cumplimiento en régimen
+================================================================
+
+El proceso de reporte en régimen, por parte de las C.C.A.F., del estado de cumplimiento de las resoluciones emitidas por medio del PAE, debe ajustarse al procedimiento descrito en el documento técnico respectivo elaborado por esta Superintendencia y que se encuentra disponible en el sitio web institucional ( https://www.suseso.cl/606/w3-propertyvalue-208463.html ).
+
+Medio para informar o reportar el cumplimiento de una resolución.
+
+
+
+El reporte en línea se realiza por medio de la plataforma PAE, disponible a través de internet, en la siguiente dirección https://pae.suseso.cl o https://pae.suseso.cl/pae-web/loginEntidad , según corresponda por la naturaleza de cada Caja de Compensación.
+
+Manera de efectuar el reporte.
+
+
+
+El reporte en régimen se puede realizar por dos vías:
+
+En modelo transaccional, es decir, reportando en forma específica cada caso.
+
+En modalidad masiva, por medio de carga de archivos, en tanto lo reportado cumpla con los plazos requeridos para informar.
+
+Estados del reporte.
+
+La Superintendencia establecerá los dominios posibles para informar el estado de un caso, no quedando ello a discreción de la Caja de Compensación. En función de lo anterior, los campos de reporte están configurados en la misma plataforma. Los estados permitidos para realizar la carga masiva son los siguientes:
+
+Cumplido: La Caja de Compensación informa que cumplió íntegramente con la instrucción incluida en la resolución, precisando la evidencia de tal cumplimiento.
+
+No Cumplido: La Caja de Compensación informa que no ha cumplido con la instrucción incluida en la resolución, precisando la justificación de tal incumplimiento.
+
+Cumplido Parcialmente: La Caja de Compensación informa que se dio cumplimiento a parte de las instrucciones incluidas en la resolución, precisando las razones de tal parcialidad.
+
+Toma Conocimiento: La Caja de Compensación informa que tomó conocimiento de la resolución y que esta no implica alguna acción a realizar por la Caja de Compensación, en tanto no existe una instrucción para cumplir.
+
+Evidencia de cumplimiento de la instrucción.
+
+Para evidenciar el cumplimiento de una instrucción la C.C.A.F. debe individualizar el documento o antecedente que dé cuenta del cumplimiento de lo instruido. La especificación de la justificación de evidencia se contendrá en el documento técnico respectivo, disponible en el sitio web de la Superintendencia. Sin perjuicio de ello, la Caja debe conservar dicho documento o antecedente en original para ser remitido a este Organismo Fiscalizador, en caso de que así se requiera. El referido documento debe estar siempre disponible en un formato digital.
+
+Ahora bien, la Caja de Compensación puede acompañar el documento o antecedente que dé cuenta del cumplimiento de lo instruido sólo en el modelo transaccional, conforme a lo indicado e n el punto iii. de este número 8.3.5.5. del Título III del Libro VIII del Compendio de la Ley N°18.833
+
+Reporte de incumplimiento.
+
+En caso de que la Caja de Compensación no cumpla la instrucción dentro del plazo correspondiente, debe informar el incumplimiento y la causal que lo justifica en el campo habilitado para tal efecto. Lo anterior, debe efectuarse en un plazo no superior a 3 días contado desde la fecha en que expiró el plazo para cumplir la instrucción.

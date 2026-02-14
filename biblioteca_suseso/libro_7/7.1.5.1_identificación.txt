@@ -1,0 +1,67 @@
+7.1.5.1 Identificación
+======================
+
+1.01 Razón Social
+
+Razón social o denominación de la Caja de Compensación conforme al artículo 4° de la Ley N°18.833.
+
+1.02 Naturaleza jurídica
+
+Naturaleza jurídica de la C.C.A.F. conforme al artículo 1° de la Ley N°18.833.
+
+1.03 Rut
+
+Rol Único Tributario de la C.C.A.F.
+
+1.04 Domicilio
+
+Debe señalarse la ciudad y dirección donde se encuentra situada la Gerencia General de la C.C.A.F.
+
+1.05 Región
+
+Debe indicarse la Región en que se encuentra el domicilio de la Gerencia General de la C.C.A.F.
+
+1.06 Teléfono
+
+Corresponde al número telefónico de la Gerencia General de la C.C.A.F.
+
+1.07 E-mail
+
+Debe señalarse la dirección del correo electrónico de la Gerencia General de la C.C.A.F.
+
+1.08 Representante Legal
+
+Debe indicarse el nombre (apellido paterno, apellido materno y nombres) del Presidente del Directorio de la C.C.A.F.
+
+1.09 Gerente General
+
+Debe indicarse el nombre (apellido paterno, apellido materno y nombres) del Gerente General de la C.C.A.F.
+
+1.10 Directorio
+
+Debe completarse el Formato anotando los nombres (apellido paterno, apellido materno y nombres) y RUT de las personas que pertenecen al Directorio de la C.C.A.F. Cabe agregar que al costado del cargo debe indicarse si el Presidente y Directores pertenecen al estamento de empleadores (E) o trabajadores (T).
+
+1.11 Número de entidades empleadoras afiliadas
+
+Debe indicarse el total de entidades empleadoras afiliadas a la C.C.A.F. en el mes que se informa. En dicho concepto deben incluirse aquellas empresas respecto de las cuales, dentro de los últimos seis meses, la Caja ha tenido constancia que se mantiene vigente su afiliación.
+
+1.12 Número de trabajadores afiliados
+
+Debe indicarse el total de trabajadores afiliados a la C.C.A.F. en el mes que se informa. En dicho concepto deben incluirse los trabajadores de las entidades empleadoras afiliadas definidas en el punto "1.11 Número de entidades empleadoras afiliadas".
+
+1.13 Número de pensionados afiliados
+
+Debe indicarse el total de pensionados afiliados a la C.C.A.F. en el mes que se informa.
+
+1.14 Número de trabajadores
+
+Debe señalarse el total de personas que trabajaron en la C.C.A.F. en el mes que se informa.
+
+1.15 Patrimonio
+
+Debe indicarse el monto del patrimonio de la C.C.A.F. al cierre de los estados financieros.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 1 - Ley 18.833, artículo 4

@@ -1,0 +1,22 @@
+8.2.3.1 Modelo de reporte
+=========================
+
+Las C.C.A.F. deben enviar los archivos que se describen a continuación, siguiendo la estructura descrita en el Anexo N°4: Formato de archivos planos de tasas de interés de crédito social , el Anexo N°5: Diccionario de archivos planos de tasas de interés de crédito social , el Anexo N°6: Instrucciones generales , todos del presente Título II del Libro VIII del Compendio de la Ley N°18.833 y a lo instruido en las letras a) y b) siguientes:
+
+Archivo N°1: "T_01" : Antecedentes de las tasas de interés de operaciones no reajustables destinadas a fines generales, microempresarios o educación.
+
+
+
+Corresponde a un archivo plano donde se reportan los antecedentes de las tasas de interés de créditos no reajustables de consumo, microempresarios y educacionales ofrecidas por las C.C.A.F. a sus afiliados. El detalle de dichos antecedentes se encuentra en el Anexo N°4: Formato de archivos planos de tasas de interés de crédito social , en el Anexo N°5: Diccionario de archivos planos de tasas de interés de crédito social y en el Anexo N°6: Instrucciones generales, todos del presente Título II del Libro VIII del Compendio de la Ley N°18.833.
+
+
+
+Las Cajas de Compensación deben remitir sus tasas de interés de crédito social en forma diaria, existan o no modificaciones en dichas tasas de interés, a más tardar el día hábil anterior al que se refiere la información.
+
+Archivo N°2: "T_02" : Antecedentes de las tasas de interés de operaciones reajustables destinadas a fines generales, microempresarios o educación.
+
+
+
+Corresponde a un archivo plano donde se reportan los antecedentes de las tasas de interés de créditos reajustables de consumo, microempresarios y educacionales ofrecidas por las C.C.A.F. a sus afiliados. El detalle de dichos antecedentes se encuentra en el Anexo N°4: Formato de archivos planos de tasas de interés de crédito social , en el Anexo N°5: Diccionario de archivos planos de tasas de interés de crédito social y en el Anexo N°6: Instrucciones generales , todos del presente Título II del Libro VIII del Compendio de la Ley N°18.833.
+
+Las Cajas de Compensación deben remitir sus tasas de interés de crédito social en forma diaria, exista o no modificaciones en dichas tasas de interés, a más tardar el día hábil anterior al que se refiere la información.

@@ -1,0 +1,208 @@
+7.1.5.2.4 Estado de Flujo de Efectivo
+=====================================
+
+FLUJOS DE EFECTIVO PROCEDENTES DE (UTILIZADOS EN) ACTIVIDADES DE OPERACIÓN
+
+Clases de cobros por actividades de operación
+
+91010 Cobros procedentes de las ventas de bienes y prestación de servicios
+
+Ingresos de efectivo obtenidos de la venta de servicios a terceros y recaudación por prestaciones complementarias.
+
+91020 Cobros procedentes de regalías, cuotas, comisiones y otros ingresos de actividades ordinarias
+
+Ingresos de efectivo relacionados directamente con regalías, cuotas, comisiones u otros ingresos por actividades ordinarias de la entidad.
+
+91030 Ingresos de Actividades Ordinarias
+
+Ingresos por comisiones de fondos nacionales (comisión por administración).
+
+91040 Cobros procedentes de contratos mantenidos con propósitos de intermediación o para negociar
+
+Ingresos de efectivo relacionados directamente con contratos mantenidos con fines de intermediación o para negociar.
+
+91050 Cobros procedentes de primas y prestaciones, anualidades y otros beneficios de pólizas suscritas
+
+Ingresos de efectivo relacionados directamente con primas y prestaciones, anualidades y otros beneficios derivados de pólizas suscritas por la entidad.
+
+91060 Otros cobros por actividades de operación
+
+Corresponde a los ingresos por recaudación de crédito social, aporte de pensionados y otros ingresos de la operación.
+
+Clases de pagos
+
+91070 Pagos a proveedores por el suministro de bienes y servicios
+
+Egresos de efectivo relacionados directamente con la adquisición o fabricación de bienes realizables y servicios incluidos en los costos de explotación.
+
+91080 Pagos procedentes de contratos mantenidos para intermediación o para negociar
+
+Egresos de efectivo relacionados directamente con contratos mantenidos para intermediación o para negociar.
+
+91090 Pagos a y por cuenta de los empleados
+
+Egresos de efectivo relacionados directamente remuneraciones incluidos en los gastos de administración.
+
+91100 Pagos por primas y prestaciones, anualidades y otras obligaciones derivadas de las pólizas suscritas
+
+Egresos de efectivo relacionados directamente con primas y prestaciones, anualidades y otras obligaciones derivadas de pólizas suscritas por la entidad.
+
+91110 Otros pagos por actividades de operación
+
+Corresponde a desembolsos realizados por colocaciones de crédito social, pago de prestaciones complementarias y adicionales, entre otros.
+
+91120 Dividendos pagados
+
+Dividendos de cualquier tipo y repartos de utilidades pagados.
+
+91130 Dividendos recibidos
+
+Dividendos de cualquier tipo y repartos de utilidades, provenientes de inversiones financieras.
+
+91140 Intereses pagados
+
+Gastos financieros desembolsados, originados en obligaciones de cualquier tipo y que se han reconocido en resultados.
+
+91150 Intereses recibidos
+
+Intereses producidos por préstamos otorgados y por instrumentos de deuda emitidos por otras entidades, incluidos los definidos como Efectivo Equivalente.
+
+91160 Impuestos a las ganancias reembolsados (pagados)
+
+Ingresos (desembolsos) derivados del reembolso (pago) de los impuestos anuales a la renta, incluidos aquellos que se consideran pagos provisionales.
+
+91170 Otras entradas (salidas) de efectivo
+
+Deben incluirse los ingresos (egresos) derivados de otros ingresos (gastos) no incorporados en los ítems anteriores.
+
+91180 Flujos de efectivo procedentes de (utilizados en) actividades de operación
+
+Corresponde a la suma de los ítems 91010 al 91170.
+
+FLUJOS DE EFECTIVO PROCEDENTES DE (UTILIZADOS EN) ACTIVIDADES DE INVERSIÓN
+
+91310 Flujos de efectivo procedentes de la pérdida de control de subsidiarias u otros negocios
+
+Ingresos por pérdida de control de subsidiarias u otros negocios, recaudados durante el período.
+
+Cargos o abonos a resultados que no significan movimientos de efectivo
+
+91320 Flujos de efectivo utilizados para obtener el control de subsidiarias u otros negocios
+
+Desembolsos para obtener el control de subsidiarias u otros negocios.
+
+91330 Flujos de efectivo utilizados en la compra de participaciones no controladoras
+
+Desembolsos para comprar participaciones no controladoras durante el periodo.
+
+91340 Otros cobros por la venta de patrimonio o instrumentos de deuda de otras entidades
+
+Ingresos por la venta de patrimonio o instrumentos de deuda de otras entidades durante el periodo.
+
+91350 Préstamos a entidades relacionadas
+
+Egresos correspondientes a préstamos otorgados a entidades relacionadas.
+
+91360 Otros pagos para adquirir patrimonio o instrumentos de deuda de otras entidades
+
+Desembolsos por la compra de patrimonio o instrumentos de deuda de otras entidades durante el periodo.
+
+91370 Otros cobros por la venta de participaciones en negocios conjuntos
+
+Ingresos por la venta de participaciones en negocios conjuntos.
+
+91380 Otros pagos para adquirir participaciones en negocios conjuntos
+
+Desembolsos por la adquisición de participaciones en negocios conjuntos.
+
+91390 Importes procedentes de la venta de propiedades, planta y equipo
+
+Ingresos por ventas de propiedades, plantas y equipos recaudados durante el período, incluido el impuesto al valor agregado, si correspondiere.
+
+91400 Compras de propiedades, planta y equipo
+
+Desembolsos originados por la compra o cualquier forma de incorporación de propiedades, planta y equipo, incluido el impuesto al valor agregado, cuando corresponda.
+
+91410 Importes procedentes de ventas de activos intangibles
+
+Ingresos por ventas de activos intangibles recaudados durante el período.
+
+91420 Compras de activos intangibles
+
+Desembolsos originados por la compra de activos intangibles.
+
+91430 Importes procedentes de otros activos a largo plazo
+
+Ingresos por ventas de otros activos a largo plazo recaudados durante el período.
+
+91440 Cobros a entidades relacionadas
+
+Ingresos correspondientes a préstamos otorgados a entidades relacionadas.
+
+91450 Compras de otros activos a largo plazo
+
+Desembolsos originados por la compra de otros activos a largo plazo.
+
+91460 Importes procedentes de subvenciones del gobierno
+
+Ingresos por la obtención de subvenciones del gobierno recibidos durante el período.
+
+91470 Otras entradas (salidas) de efectivo
+
+Corresponde a otros ingresos o egresos producto de inversiones no mencionadas en los puntos anteriores.
+
+91480 Flujo de efectivo procedentes de (utilizados en) actividades de inversión
+
+Corresponde a la suma de los ítems 91310 al 91470
+
+FLUJOS DE EFECTIVO PROCEDENTES DE (UTILIZADOS EN) ACTIVIDADES DE FINANCIAMIENTO
+
+91610 Importes procedentes de préstamos obtenidos a largo plazo
+
+Corresponde al monto en efectivo obtenido por otros préstamos a largo plazo, emisión de bonos, efectuados durante el ejercicio.
+
+91620 Importes procedentes de préstamos obtenidos a corto plazo
+
+Corresponde al monto en efectivo obtenido por otros préstamos a corto plazo efectuados durante el ejercicio.
+
+91630 Total Importes procedentes de Préstamos
+
+Corresponde a la suma de los ítems 91610 al 91620
+
+91640 Pago de préstamos
+
+Corresponde al monto total de pagos de obligaciones por préstamos, pagos de bonos efectuados durante el ejercicio.
+
+91650 Pago de pasivos por arrendamientos financieros
+
+Corresponde al monto total de pagos realizados durante el ejercicio por arrendamientos financieros.
+
+91660 Otros
+
+Corresponde a otros ingresos y egresos por actividades de financiamiento, no definidas en los ítems anteriores y efectuados durante el ejercicio.
+
+91670 Flujos de efectivo procedentes de (utilizados en) actividades de financiamiento
+
+Corresponde a la suma de los ítems 91610 al 91660.
+
+91700 Incremento neto (disminución) en el efectivo y equivalentes al efectivo, antes del efecto de los cambios en la tasa de cambio
+
+Corresponde a la suma de los ítems 91180, 91480 y 91670.
+
+EFECTOS DE LA VARIACIÓN EN LA TASA DE CAMBIO SOBRE EL EFECTIVO Y EQUIVALENTES AL EFECTIVO
+
+91810 Efectos de la variación en la tasa de cambio sobre el efectivo y equivalentes al efectivo
+
+Representa el efecto de conversión derivado de la mantención del efectivo y el efectivo equivalente.
+
+91820 Incremento (disminución) neto de efectivo y equivalentes al efectivo
+
+Corresponde a la suma de los ítems 91700 y 91810; y representa la diferencia entre el saldo inicial y el saldo final del efectivo y efectivo equivalente.
+
+91830 Efectivo y equivalentes al efectivo al principio del período
+
+Corresponde a los saldos de efectivo y efectivo equivalente según el Estado de Situación Financiera inicial.
+
+90000 Efectivo y equivalentes al efectivo al final del período
+
+Corresponde a la suma de los ítems 91820 y 91830.

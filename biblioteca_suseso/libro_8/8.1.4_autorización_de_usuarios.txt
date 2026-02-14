@@ -1,0 +1,4 @@
+8.1.4 AUTORIZACIÓN DE USUARIOS
+==============================
+
+Para proceder a la creación de los usuarios autorizados a enviar el reporte detallado en el punto 8.1.2. Modelo de Reporte, del Título I del Libro VIII del Compendio de Normas que Regulan a las C.C.A.F., se requiere que la Caja de Compensación remita mediante carta el nombre completo, correo electrónico y teléfono de contacto de cada usuario autorizado a reportar, mediante la plataforma PAE, opción "Otros-Ingresos", procediendo de igual forma para la eliminación de usuarios. La C.C.A.F. puede solicitar la autorización para tantos usuarios como estime conveniente.

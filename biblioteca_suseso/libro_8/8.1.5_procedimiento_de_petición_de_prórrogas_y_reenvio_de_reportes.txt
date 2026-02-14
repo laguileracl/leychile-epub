@@ -1,0 +1,20 @@
+8.1.5 PROCEDIMIENTO DE PETICIÓN DE PRÓRROGAS Y REENVIO DE REPORTES DE LA CENTRAL DE RIESGO FINANCIERO DE LAS C.C.A.F.
+=====================================================================================================================
+
+Solicitud de prórroga:
+
+Para solicitudes de prórroga que requieran entre 1 y 3 días hábiles:
+
+
+
+La C.C.A.F. debe enviar la petición de prórroga antes del plazo límite de envío de los reportes, indicando las razones del retraso y los días hábiles que requiere para cumplir con las exigencias de reporte. La petición debe ser enviada por la Caja de Compensación mediante la plataforma PAE, opción "Otros-Ingresos".
+
+Para solicitudes de prórroga que superan los 3 días hábiles:
+
+
+
+La C.C.A.F. debe enviar por carta, mediante la plataforma PAE, opción "Otros-Ingresos", la petición de prórroga, dirigida hacia la autoridad máxima de esta Superintendencia. Dicha carta debe ser remitida antes del plazo límite de envío de los referidos archivos, indicando las razones del retraso y los días hábiles que se requiere para cumplir con las exigencias de reporte.
+
+Solicitudes de reenvío de archivos anteriores:
+
+La C.C.A.F. debe enviar por carta, mediante la plataforma PAE, opción "Otros-Ingresos", la petición de reenvío de archivos, dirigida hacia la autoridad máxima de esta Superintendencia. Dicha carta debe indicar las correcciones a realizar, las razones que motivan dichas correcciones, registros afectados y los días hábiles que se requiere para cumplir con las exigencias de reporte.

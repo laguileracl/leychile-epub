@@ -1,0 +1,12 @@
+8.3.5.2 Objetivos
+=================
+
+El objetivo general de este reporte de cumplimiento es lograr la trazabilidad del estado final de un reclamo resuelto a través del PAE , informándose por la Caja de Compensación reclamada que cumplió la instrucción.
+
+Los objetivos específicos que inspiran este modelo de Reporte de Cumplimiento son los siguientes:
+
+Informar a los/as interesados/as el estado de cumplimiento de sus reclamaciones.
+
+Proporcionar información e insumos para fiscalizar y supervigilar el proceso de cumplimiento de los dictámenes
+
+Proporcionar información e insumos a los equipos de atención de público (OIRS, Mesa de Ayuda) de la Superintendencia para poder responder las consultas que los/as interesados/as planteen sobre el estado de cumplimiento de sus reclamaciones.

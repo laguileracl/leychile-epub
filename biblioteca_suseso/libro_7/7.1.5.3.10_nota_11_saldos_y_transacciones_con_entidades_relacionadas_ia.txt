@@ -1,0 +1,66 @@
+7.1.5.3.10 Nota 11. Saldos y transacciones con entidades relacionadas (IAS 24)
+==============================================================================
+
+La C.C.A.F. debe informar las relaciones entre matrices y filiales, con independencia de que se hayan producido transacciones entre dichas partes relacionadas:
+
+Relaciones entre controladoras y la C.C.A.F.
+
+Nombre de controladora inmediata o controladora principal del Grupo.
+
+Nombre de entidad matriz o de la controladora intermedia que produce estados financieros disponibles públicamente.
+
+Detalle de identificación de vínculo entre controladora y filial.
+
+Identificación de vínculo entre controladora y filial.
+
+Nombre de filial.
+
+Naturaleza de relación con filial cuya controladora tiene directa o indirectamente menos de la mitad del poder voto.
+
+Saldo pendiente
+
+Si se ha garantizado una transacción con una parte relacionada.
+
+Detalles de cualquier garantía dada o recibida para transacción con partes relacionadas.
+
+Importe de provisiones por deudas de dudoso cobro relativa a saldos pendientes de transacción con parte relacionada.
+
+Importe de gastos reconocidos durante el período por deudas incobrables o de dudoso cobro por transacciones con partes relacionadas.
+
+Detalle de partes relacionadas y transacciones con partes relacionadas
+
+
+
+En la parte relativa a transacciones, se informarán las transacciones significativas con entidades y con personas naturales relacionadas, tales como accionistas, directores, administradores y/o liquidadores en su caso, de acuerdo con: i) lo dispuesto en el Título XV de la Ley N°18.045 ii) las normas dictadas al respecto por la Superintendencia de Valores y Seguros (hoy Comisión para el Mercado Financiero), de ser aplicable y iii) los criterios NIC 24 . Adicionalmente debe completar la información solicitada en el cuadro que a continuación se presenta.
+
+
+
+En caso de no existir transacciones con entidades relacionadas, se debe mencionar esta circunstancia expresamente.
+
+
+
+Cuadro N°4 del Anexo N°9: Nota 11 del Título I del Libro VII de este Compendio.
+
+Consideraciones:
+
+En la columna "Naturaleza de la relación" se debe especificar la naturaleza de la relación existente con la sociedad relacionada (ejemplo: filial, coligada, matriz común, etc.).
+
+En la columna "Descripción de la transacción" se debe efectuar una descripción clara y precisa de la transacción (ejemplo: préstamo, venta de activos, compra de activos, etc.).
+
+En las columnas "Monto" y "Efecto en resultados" se debe informar, para cada período, el monto de la transacción y el efecto de éstas en los resultados del ejercicio, respectivamente.
+
+Remuneraciones recibidas por el personal clave de la gerencia por categoría
+
+
+
+Se debe revelar la información sobre las remuneraciones recibidas por el personal clave de la Administración en total y para cada una de las siguientes clasificaciones:
+
+
+
+Cuadro N°5 del Anexo N°9: Nota 11 del Título I del Libro VII de este Compendio.
+
+Explicación de los términos de la fijación de precios de las transacciones con partes relacionadas
+
+
+
+La C.C.A.F. revelará las condiciones de las transacciones realizadas con partes relacionadas respecto de las transacciones hechas en condiciones de independencia mutua entre partes no relacionadas. Sólo podrá señalar que las condiciones de las transacciones hechas en condiciones de independencia mutua entre las partes no relacionadas, si tales condiciones pueden ser comprobadas.

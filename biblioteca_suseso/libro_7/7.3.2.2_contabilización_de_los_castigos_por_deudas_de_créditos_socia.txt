@@ -1,0 +1,8 @@
+7.3.2.2 Contabilización de los castigos por deudas de créditos sociales y sus recuperaciones
+============================================================================================
+
+Los castigos de las deudas que hayan sido aprobados por esta Superintendencia se deben concretar en el mes siguiente a aquel en que se aprobaron.
+
+Los ingresos provenientes de las recuperaciones de estas deudas castigadas, deben registrarse en los ítems del FUPEF 51010 "Ingresos por intereses y reajustes", 51120 "Otros ingresos operacionales" y 51130 "Provisión por riesgo de crédito", según corresponda, de acuerdo con la presentación de los estados financieros establecida en el Título I del Libro VII del Compendio de la Ley N°18.833.
+
+Dichos ingresos deben consignarse en las respectivas Notas Explicativas, según el concepto que corresponda: los intereses y reajustes del crédito social en las columnas "Intereses" o "Reajustes" de la Nota Explicativa N°29 "Ingresos por intereses y reajustes" del numeral 7.1.5.3.29 del Título I del Libro VII del Compendio de la Ley N°18.833; los reajustes, intereses u otros recargos aplicados a dichas deudas en la letra a) de la Nota Explicativa N°34 "Otros ingresos y gastos operacionales", del numeral 7.1.5.3.34 del Título I del Libro VII del Compendio de la Ley N°18.833, bajo el concepto "Recuperaciones de Gravámenes de Castigos"; y, la parte ya provisionada del crédito social en la columna "Reversada en el ejercicio", del Cuadro de la Nota Explicativa N°33 "Provisión por riesgo de crédito" del numeral 7.1.5.3.33 del Título I del Libro VII del Compendio de la Ley N°18.833.

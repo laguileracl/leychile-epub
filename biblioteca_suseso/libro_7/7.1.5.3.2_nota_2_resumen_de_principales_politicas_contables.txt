@@ -1,0 +1,517 @@
+7.1.5.3.2 Nota 2. Resumen de Principales Politicas Contables
+============================================================
+
+La Caja revelará un resumen que contenga las políticas contables empleadas que son relevantes para la comprensión de los estados financieros. En esta nota se debe informar, si corresponde, al menos sobre las políticas de la Caja sobre los siguientes aspectos:
+
+2.1 Periodo contable
+
+2.2 Bases de preparación
+
+2.3 Bases de consolidación
+
+2.4 Información por segmentos
+
+2.5. Moneda Funcional
+
+2.6. Propiedades, planta y equipo
+
+2.7. Propiedades de inversión
+
+2.8. Activos intangibles
+
+2.9. Deterioro de valor de los activos no financieros
+
+2.10. Activos financieros
+
+2.11. Inventarios
+
+2.12. Colocaciones de crédito social, deudores previsionales, activos por mutuos hipotecarios endosables, y deudores comerciales y otras cuentas por cobrar
+
+2.13. Efectivo y equivalentes al efectivo
+
+2.14. Fondo social
+
+2.15. Cuentas por pagar comerciales y otras cuentas por pagar
+
+2.16. Impuesto a las ganancias e impuestos diferidos
+
+2.17. Beneficios a los empleados
+
+2.18. Provisiones
+
+2.19. Reconocimiento de ingresos
+
+2.20. Arrendamientos
+
+2.21. Activos no corrientes (o grupos de enajenación) mantenidos para la venta
+
+2.22. Medio ambiente
+
+2.23. Otras políticas contables significativas
+
+A continuación, se presenta un modelo para la presentación de las políticas contables de la Caja, el que debe ser complementado con los requerimientos de revelación exigidos por las normas internacionales de contabilidad.
+
+2.1 Periodo contable
+
+Los presentes estados financieros consolidados comprenden los ejercicios terminados al 31 de diciembre de 20XX y 20XX.
+
+2.2 Bases de preparación
+
+Los presentes estados financieros consolidados de C.C.A.F. y filiales al 31 de diciembre de 20XX y 20XX, han sido preparados de acuerdo con Normas Internacionales de Información Financiera (NIIF), emitidas por el International Accounting Standards Board (IASB).
+
+Los estados financieros consolidados han sido preparados de acuerdo con el principio de costo histórico, modificado por la revaluación de propiedades de inversión, y ciertos activos y pasivos financieros (incluyendo instrumentos financieros derivados) a valor razonable con cambios en resultados o en patrimonio, en caso de existir.
+
+La preparación de los estados financieros consolidados conforme a las NIIF requiere el uso de ciertas estimaciones contables críticas. También exige a la Administración que ejerza su juicio en el proceso de aplicación de las políticas contables del Grupo.
+
+Normas adoptadas con anticipación.
+
+
+
+Se debe hacer una breve descripción de la(s) norma(s) que se adoptará(n) en forma anticipada por el Grupo, señalando el número, título y una breve reseña del principal impacto o materia de la que trata.
+
+Normas, modificaciones e interpretaciones a las normas existentes que no han entrado en vigencia, y que el Grupo no ha adoptado con anticipación.
+
+
+
+A la fecha de emisión de estos estados financieros, se habían publicado las interpretaciones que se detallan a continuación. Estas interpretaciones son de aplicación obligatoria para todos los ejercicios comenzados a partir del ___ de _____ de 20XX, interpretaciones que el Grupo no ha aplicado con anticipación.
+
+Se debe hacer una breve descripción de la(s) norma(s) que entra(n) a regir a contar del 20XX, señalando el número, título y una breve reseña del principal impacto o materia de la que trata.
+
+2.3 Bases de consolidación
+
+Filiales
+
+Filiales son todas las entidades (incluidas las entidades de cometido especial) sobre las que el Grupo tiene poder para dirigir las políticas financieras y de explotación que generalmente viene acompañado de una participación superior a la mitad de los derechos de voto. A la hora de evaluar si el Grupo controla otra entidad se considera la existencia y el efecto de los derechos potenciales de voto que sean actualmente ejercidos o convertidos. Las filiales se consolidan a partir de la fecha en que se transfiere el control al Grupo, y se excluyen de la consolidación en la fecha en que cesa el mismo.
+
+Para contabilizar la adquisición de filiales por el Grupo se utiliza el método adquisición.
+
+El costo de adquisición es el valor razonable de los activos entregados, de los instrumentos de patrimonio emitidos y de los pasivos incurridos o asumidos en la fecha de intercambio, más los costos directamente atribuibles a la adquisición. Los activos identificables adquiridos y los pasivos y contingencias identificables asumidos en una combinación de negocios se valoran inicialmente por su valor razonable a la fecha de adquisición, con independencia del alcance de los intereses minoritarios. El exceso del costo de adquisición sobre el valor razonable de la participación del Grupo en los activos netos identificables adquiridos se reconoce como plusvalía. Si el costo de adquisición es menor que el valor razonable de los activos netos de la filial adquirida, la diferencia se reconoce directamente en el estado de resultados
+
+Se eliminan las transacciones intercompañías, los saldos y las ganancias no realizadas por transacciones entre entidades del Grupo. Las pérdidas no realizadas también se eliminan, a menos que la transacción proporcione evidencia de una pérdida por deterioro del activo transferido. Cuando es necesario para asegurar su uniformidad con las políticas adoptadas por el Grupo, se modifican las políticas contables de las filiales.
+
+RUT | Nombre de la Entidad | Moneda Funcional | Porcentaje de Participación Directo | Porcentaje de Participación Indirecto
+ |  |  | DD/MM/AAXX | DD/MM/AAXX | DD/MM/AAXX | DD/MM/AAXX
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+
+RUT
+
+Nombre de la Entidad
+
+Moneda Funcional
+
+Porcentaje de Participación Directo
+
+Porcentaje de Participación Indirecto
+
+DD/MM/AAXX
+
+La C.C.A.F. debe indicar aquellas entidades controladas ya sea directa o indirectamente, las que pueden incluir las corporaciones y las sociedades controladas por estas.
+
+Transacciones e interés no controlante
+
+Como parte del proceso de consolidación se eliminan las transacciones, los saldos y las ganancias no realizadas por operaciones comerciales realizadas entre entidades relacionadas de C.C.A.F. y filiales. Las pérdidas no realizadas también se eliminan, a menos que la transacción proporcione evidencia de una pérdida por deterioro del activo transferido. Cuando es necesario para asegurar su uniformidad con las políticas adoptadas por la C.C.A.F. y filiales, se modifican las políticas contables de las filiales.
+
+El interés no controlante se presenta en el rubro patrimonio del estado de situación financiera. La ganancia o pérdida atribuible al interés no controlante se presenta en el estado de resultado integral después de la utilidad del ejercicio. Las transacciones entre los accionistas no controlantes y los accionistas de las empresas donde se comparte la propiedad, son transacciones cuyo registro se realiza dentro del patrimonio y, por lo tanto, se muestran en el estado de cambios del patrimonio. [Se agrega este párrafo en los casos de existir esta relación]
+
+Negocios conjuntos
+
+Las participaciones en negocios conjuntos se integran por el método del valor patrimonial.
+
+Una vez que el inversor haya reducido el valor de su inversión a cero, tendrá en cuenta las pérdidas adicionales mediante el reconocimiento de un pasivo, solo en la medida que haya incurrido en obligaciones legales o implícitas, o bien haya efectuado pagos en nombre de la asociada del negocio conjunto. Si la asociada del negocio conjunto obtuviera con posterioridad ganancias, el inversor seguirá reconociendo su parte en las mismas cuando su participación en las citadas ganancias iguale a la que le correspondió en las pérdidas no reconocidas. [Este párrafo se modifica en caso de que la opción adoptada sea la consolidación proporcional]
+
+Coligadas o asociadas
+
+Coligadas o asociadas son todas las entidades sobre las que el Grupo ejerce influencia significativa pero no tiene control que, generalmente, viene acompañado por una participación de entre un 20% y un 50% de los derechos de voto. Las inversiones en coligadas o asociadas se contabilizan por el método de participación e inicialmente se reconocen por su costo. La inversión del Grupo en coligadas o asociadas incluye plusvalía (neto de cualquier pérdida por deterioro acumulada) identificado en la adquisición.
+
+La participación del Grupo en las pérdidas o ganancias posteriores a la adquisición de sus coligadas o asociadas se reconoce en resultados, y su participación en los movimientos posteriores a la adquisición en reservas se reconoce en reservas. Los movimientos posteriores a la adquisición acumulados se ajustan contra el importe en libros de la inversión. Cuando la participación del Grupo en las pérdidas de una coligada o asociada es igual o superior a su participación en la misma, incluida cualquier otra cuenta a cobrar no asegurada, el Grupo no reconoce pérdidas adicionales, a no ser que haya incurrido en obligaciones o realizado pagos en nombre de la coligada o asociada.
+
+Las ganancias no realizadas por transacciones entre el Grupo y sus coligadas o asociadas se eliminan en función del porcentaje de participación del Grupo en éstas. También se eliminan las pérdidas no realizadas, excepto si la transacción proporciona evidencia de pérdida por deterioro del activo que se transfiere. Cuando es necesario para asegurar su uniformidad con las políticas adoptadas por el Grupo, se modifican las políticas contables de las asociadas.
+
+Las ganancias o pérdidas de dilución en coligadas o asociadas se reconocen en el estado de resultados o en el patrimonio neto.
+
+2.4 Información por segmentos
+
+La NIIF 8 e xige que las entidades adopten "el enfoque de la Administración" al revelar información sobre el resultado de sus segmentos operativos. En general, esta es la información que la Administración utiliza internamente para evaluar el rendimiento de los segmentos y decidir cómo asignar los recursos a los mismos.
+
+Esta información puede ser distinta de la utilizada en la elaboración del estado de resultados y del balance. Por lo tanto, la entidad debe revelar las bases sobre las que la información por segmentos es preparada, así como las reconciliaciones con los importes reconocidos en el estado de resultados y en el balance.
+
+Se deben indicar las bases de imputación de costos entre los segmentos de actividad.
+
+2.5 Moneda funcional
+
+Moneda de presentación y moneda funcional
+
+
+
+Las partidas incluidas en los estados financieros de cada una de las entidades del Grupo se valoran utilizando la moneda del entorno económico principal en que la entidad opera («moneda funcional»). Los estados financieros consolidados se presentan en _________, que es la moneda funcional y de presentación del Grupo.
+
+
+
+Si una entidad presenta sus estados financieros en una moneda distinta de su moneda funcional, solamente debe indicar que sus estados financieros cumplen con las NIC/NIIF, si dichos estados financieros cumplen con todas y cada una de las normas e interpretaciones de aplicación, incluyendo el método de conversión establecido en los párrafos 39 y 42 de la NIC 21.
+
+En ocasiones una entidad presenta sus estados financieros u otra información financiera en una moneda diferente a su moneda funcional sin aplicar los métodos de conversión establecidos en la NIC 21 (p.e. puede convertir solo determinadas partidas de sus estados financieros a otra moneda; o, una entidad cuya moneda funcional no sea la moneda de una economía hiperinflacionaria, podría convertir sus cuentas anuales a otra moneda mediante el traspaso de todas las partidas al tipo de cambio de cierre más reciente). Estas conversiones no cumplen con las NIC/NIIF y por tanto es necesario incluir la información establecida por la NIC 21 p 57.
+
+​Cuando una entidad presenta sus estados financieros u otra información financiera en una moneda diferente a la moneda funcional o su moneda habitual de presentación sin aplicar los métodos de conversión establecidos en la NIC 21, dicha entidad debe:
+
+Identificar claramente la correspondiente información como información complementaria para distinguirla de aquella que cumple con las NIIF;
+
+Informar la moneda en la que se presenta la información complementaria; y
+
+Revelar la moneda funcional y el método de conversión utilizado para obtener la información complementaria.
+
+Transacciones y saldos
+
+
+
+Las transacciones en moneda extranjera se convierten a la moneda funcional utilizando los tipos de cambio vigentes en las fechas de las transacciones. Las pérdidas y ganancias en moneda extranjera que resultan de la liquidación de estas transacciones y de la conversión a los tipos de cambio de cierre de los activos y pasivos monetarios denominados en moneda extranjera, se reconocen en el estado de resultados, excepto si se difieren en patrimonio neto como las coberturas de flujos de efectivo y las coberturas de inversiones netas.
+
+
+
+Los cambios en el valor razonable de títulos monetarios denominados en moneda extranjera clasificados como disponibles para la venta son analizados entre diferencias de conversión resultantes de cambios en el costo amortizado del título y otros cambios en el importe en libros del título. Las diferencias de conversión se reconocen en el resultado del ejercicio y otros cambios en el importe en libros se reconocen en el patrimonio neto.
+
+
+
+Las diferencias de conversión sobre partidas no monetarias, tales como instrumentos de patrimonio mantenidos a valor razonable con cambios en resultados, se presentan como parte de la ganancia o pérdida en el valor razonable. Las diferencias de conversión sobre partidas no monetarias, tales como instrumentos de patrimonio clasificados como activos financieros disponibles para la venta, se incluyen en el patrimonio neto en la reserva de revalorización.
+
+Entidades del Grupo
+
+
+
+Los resultados y la situación financiera de todas las entidades del Grupo (ninguna de las cuales tiene la moneda de una economía hiperinflacionaria) que tienen una moneda funcional diferente de la moneda de presentación se convierten a la moneda de presentación como sigue:
+
+Los activos y pasivos de cada balance presentado se convierten al tipo de cambio de cierre en la fecha del balance;
+
+Los ingresos y gastos de cada cuenta de resultados se convierten a los tipos de cambio promedio (a menos que este promedio no sea una aproximación razonable del efecto acumulativo de los tipos existentes en las fechas de la transacción, en cuyo caso los ingresos y gastos se convierten en la fecha de las transacciones); y
+
+Todas las diferencias de cambio resultantes se reconocen como un componente separado del patrimonio neto.
+
+Información a incluir por entidades que operan en entornos con hiperinflación
+
+Los resultados y la posición financiera de una entidad cuya moneda funcional es la moneda de una economía hiperinflacionaria deben convertirse a una moneda de presentación diferente utilizando los siguientes procedimientos:
+
+Todos los importes (activos, pasivos, partidas del patrimonio neto, e ingresos y gastos, incluyendo las cifras comparativas) deben convertirse al tipo de cambio de cierre a la fecha del balance más reciente, excepto:
+
+Cuando los importes se convierten a la moneda de una economía no hiperinflacionaria, las cifras comparativas serán las que se presentaron como del ejercicio en los estados financieros de cada uno de los ejercicios correspondientes (sin ajustar por cambios posteriores en el nivel de precios o en los tipos de cambio).
+
+Se deben revelar las políticas contables aplicadas.
+
+Se debe revelar el hecho de que los estados financieros y las cifras correspondientes a ejercicios anteriores se han reexpresado para considerar los cambios en el poder adquisitivo general de la moneda funcional y que, como resultado, están expresados en términos de la unidad de valoración corriente a la fecha del balance.
+
+Revelar si las cuentas anuales están preparadas según el método del costo histórico o del costo corriente.
+
+Se debe suministrar la siguiente información:
+
+Índice de precios;
+
+Valor del índice de precios a la fecha del balance
+
+El movimiento de dicho índice durante el ejercicio actual y el anterior. También es útil incluir la información acumulada a la fecha del balance de los tres últimos ejercicios.
+
+Se debe indicar la pérdida o ganancia derivada de la posición monetaria neta (NIC 29 p 27) incluida en el resultado neto. Esta información normalmente se presenta en una línea separada por encima del resultado antes de impuestos en el estado de resultados.
+
+2.6 Propiedades, planta y equipo
+
+Los terrenos y construcciones comprenden principalmente ______. Los elementos del activo fijo incluidos en propiedades, plantas y equipos se reconocen por su costo menos la depreciación y pérdidas por deterioro acumuladas correspondientes, excepto en el caso de los terrenos, que se presentan netos de las pérdidas por deterioro.
+
+El costo histórico incluye los gastos directamente atribuibles a la adquisición de las partidas. Terrenos y edificios comprenden principalmente fábricas, sucursales de venta al por menor y oficinas, que son mostrados a su valor justo, en base a una evaluación periódica, al menos trianual, por tasadores externos independientes, menos la depreciación acumulada por edificios. Cualquier depreciación acumulada a la fecha de revaluación es eliminada contra el monto bruto del activo, y el saldo neto es retasado revalorizando el valor neto del activo. Todas las otras propiedades, plantas y equipos están expuestas a su costo histórico menos depreciación. El costo histórico incluye gastos que son directamente atribuibles a la adquisición del bien. Los costos pueden también incluir pérdidas y ganancias que califiquen como flujo de caja de cobertura (hedges) de moneda extranjera en la compra de Propiedades, plantas y equipos.
+
+Los costos posteriores se incluyen en el valor del activo inicial o se reconocen como un activo separado, sólo cuando es probable que los beneficios económicos futuros asociados con los elementos del activo fijo vayan a fluir al Grupo y el costo del elemento pueda determinarse de forma fiable. El valor del componente sustituido se da de baja contablemente. El resto de reparaciones y mantenciones se cargan en el resultado del ejercicio en el momento que se incurre.
+
+Los incrementos en el valor en libros que surgen de la revalorización del activo fijo se cargan en otras reservas en el patrimonio neto. Las disminuciones que compensan incrementos previos del mismo activo se cargan contra las reservas por valores razonables directamente en el patrimonio neto; las disminuciones restantes se cargan a resultados. Cada año la diferencia entre la depreciación basada en el monto revalorizado del activo cargada en el estado de resultados y la depreciación basada en su costo original se traspasa desde la reserva para valores razonables a reservas por ganancias acumuladas en el patrimonio.
+
+Los terrenos no se deprecian. La depreciación en otros activos se calcula usando el método _________ para asignar sus costos o importes revalorizados a sus valores residuales sobre sus vidas útiles técnicas estimadas:
+
+Construcciones - _____ años
+
+Maquinaria - _____ años
+
+Vehículos - _____ años
+
+Mobiliario, accesorios y equipo - _____ años
+
+El valor residual y la vida útil de los activos se revisan, y ajustan si es necesario, en cada cierre de balance.
+
+Cuando el valor de un activo es superior a su importe recuperable estimado, su valor se reduce de forma inmediata hasta su importe recuperable (punto "2.9 Deterioro de valor de activos no financieros").
+
+Las pérdidas y ganancias por la venta de activo fijo se calculan comparando los ingresos obtenidos con el valor en libros y se incluyen en el estado de resultados. Al vender activos revalorizados, los valores incluidos en reservas de revalorización se traspasan a reservas por ganancias acumuladas.
+
+El costo puede incluir también ganancias o pérdidas por coberturas calificadas de flujos de efectivo de las adquisiciones en moneda extranjera de activo fijo traspasado desde el patrimonio neto.
+
+De acuerdo con la NIC 8 se debe revelar la naturaleza e impacto de un cambio en una estimación contable que tenga efecto en el ejercicio o en futuros ejercicios. Estos cambios podrían afectar a las vidas útiles, los valores residuales, métodos de depreciación y costos de desmantelamiento.
+
+2.7 Propiedades de inversión
+
+Las propiedades de inversión, que principalmente comprenden ____ en propiedad, se mantienen para la obtención de rentabilidad a través de rentas a largo plazo y no son ocupados por el Grupo. Las propiedades de inversión se contabilizan a valor razonable, que representa el valor en un mercado abierto determinado anualmente por tasadores externos. El valor razonable se basa en precios de un mercado activo, que se ajusta, en caso necesario, en función de las diferencias en la naturaleza, localización y condición del activo correspondiente. Si esta información no está disponible, el Grupo utiliza otros métodos alternativos de valoración tales como precios recientes en mercados menos activos o proyecciones de flujos de efectivo descontados. Estas valoraciones se someten a revisiones anuales por parte de (nombre del experto independiente). Los cambios en los valores razonables se registran en resultados del ejercicio como parte de otros ingresos.
+
+Los terrenos mantenidos bajo contratos de arrendamiento operativo se clasifican y contabilizan como propiedades de inversión cuando se cumplen el resto de las condiciones de la definición de inversión inmobiliaria. El arrendamiento operativo se reconoce como si se tratara de un arrendamiento financiero.
+
+2.8 Activos intangibles
+
+Plusvalía
+
+
+
+La plusvalía representa el exceso del costo de adquisición sobre el valor razonable de la participación del Grupo en los activos netos identificables de la filial / coligada adquirida en la fecha de adquisición. La plusvalía relacionada con adquisiciones de filiales se incluye en activos intangibles. La plusvalía relacionada con adquisiciones de coligadas se incluye en inversiones en coligadas, y se somete a pruebas por deterioro de valor junto con el saldo total de la coligada. La plusvalía reconocida por separado se somete a pruebas por deterioro de valor anualmente y se valora por su costo menos pérdidas acumuladas por deterioro. Las ganancias y pérdidas por la venta de una entidad incluyen el importe en libros de la plusvalía relacionado con la entidad vendida.
+
+
+
+La plusvalía se asigna a las unidades generadoras de efectivo (UGE) con el propósito de probar las pérdidas por deterioro. La asignación se realiza en aquellas UGE que se espera vayan a beneficiarse de la combinación de negocios en la que surgió dicha plusvalía. Cada una de esas UGE representa la inversión del Grupo.
+
+Marcas comerciales y licencias
+
+
+
+Las marcas comerciales y las licencias se presentan a costo histórico. Tienen una vida útil definida y se llevan a costo menos amortización acumulada. La amortización se calcula por el método lineal para asignar el costo de las marcas y licencias durante su vida útil estimada (15 a 20 años).
+
+Programas informáticos
+
+
+
+Las licencias para programas informáticos adquiridas se capitalizan sobre la base de los costos en que se ha incurrido para adquirirlas y prepararlas para usar el programa específico. Estos costos se amortizan durante sus vidas útiles estimadas (3 a 5 años).
+
+
+
+Los gastos relacionados con el desarrollo o mantenimiento de programas informáticos se reconocen como gasto cuando se incurre en ellos. Los costos directamente relacionados con la producción de programas informáticos únicos e identificables controlados por el Grupo, y que es probable que vayan a generar beneficios económicos superiores a los costos durante más de un año, se reconocen como activos intangibles. Los costos directos incluyen los gastos del personal que desarrolla los programas informáticos y un porcentaje adecuado de gastos generales.
+
+
+
+Los costos de desarrollo de programas informáticos reconocidos como activos, se amortizan durante sus vidas útiles estimadas (no superan los 3 años).
+
+Gastos de investigación y desarrollo
+
+
+
+Los gastos de investigación se reconocen como un gasto cuando se incurre en ellos. Los costos incurridos en proyectos de desarrollo (relacionados con el diseño y prueba de productos nuevos o mejorados) se reconocen como activo intangible cuando se cumplen los siguientes requisitos:
+
+Técnicamente es posible completar la producción del activo intangible de forma que pueda estar disponible para su utilización o su venta;
+
+La administración tiene intención de completar el activo intangible en cuestión, para usarlo o venderlo;
+
+Existe la capacidad para utilizar o vender el activo intangible;
+
+Es posible demostrar la forma en que el activo intangible vaya a generar probables beneficios económicos en el futuro;
+
+Existe disponibilidad de los adecuados recursos técnicos, financieros o de otro tipo, para completar el desarrollo y para utilizar o vender el activo intangible; y
+
+Es posible valorar, de forma fiable, el desembolso atribuible al activo intangible durante su desarrollo.
+
+2.9 Deterioro de valor de los activos no financieros
+
+Los activos que tienen una vida útil indefinida, por ejemplo, los terrenos, no están sujetos a amortización y se someten anualmente a pruebas de pérdidas por deterioro del valor. Los activos sujetos a amortización se someten a pruebas de pérdidas por deterioro siempre que algún suceso o cambio en las circunstancias indique que el importe en libros puede no ser recuperable. Se reconoce una pérdida por deterioro por el exceso del importe en libros del activo sobre su importe recuperable.
+
+El importe recuperable es el valor razonable de un activo menos los costos para la venta o el valor de uso, el mayor de los dos. A efectos de evaluar las pérdidas por deterioro del valor, los activos se agrupan al nivel más bajo para el que hay flujos de efectivo identificables por separado (unidades generadoras de efectivo). Los activos no financieros, distintos de la plusvalía, que hubieran sufrido una pérdida por deterioro se someten a revisiones a cada fecha de balance por si se hubieran producido reversiones de la pérdida.
+
+2.10 Instrumentos financieros
+
+A partir del 1 de enero de 2018, la NIIF 9 "Instrumentos Financieros" entró en vigencia, reemplazando la NIC 39 "Instrumentos Financieros: Reconocimiento y Medición". Esta norma modifica las clasificaciones de los instrumentos financieros, el deterioro de valor de estos y establece nuevos criterios para la asignación de instrumentos de cobertura.
+
+2.10.1 Activos financieros
+
+Clasificación
+
+El Grupo clasifica los activos financieros basándose en el modelo de negocio con que se mantienen y los flujos establecidos contractualmente. Los activos financieros se clasifican en las siguientes categorías de valoración: activos financieros medidos a valor razonable con cambios en resultados, activos financieros medidos a costo amortizado y activos financieros medidos a valor razonable con cambios en resultados integrales. La clasificación depende de la naturaleza y propósito con el que se adquirieron los activos financieros. La Administración determina la clasificación de sus activos financieros en el momento de reconocimiento inicial y revisa la clasificación en cada fecha de presentación de información financiera.
+
+Activos financieros a valor razonable con cambios en resultados
+
+
+
+Los activos financieros a valor razonable con cambios en resultados son activos financieros mantenidos para negociar. Un activo financiero se clasifica en esta categoría si se adquiere principalmente con el propósito de venderse en el corto plazo. Los derivados también se clasifican como adquiridos para su negociación a menos que sean designados como coberturas. Los activos de esta categoría se clasifican como activos corrientes y la posición pasiva de estos instrumentos se presenta en el Estado de Situación Financiera Consolidado en la línea Otros pasivos financieros. Las adquisiciones y enajenaciones de activos financieros se reconocen en la fecha de negociación, es decir, la fecha en que el Grupo se compromete a adquirir o vender el activo. Estos activos se registran inicialmente al costo y posteriormente su valor se actualiza con base en su valor razonable, reconociéndose los cambios de valor en cuentas de resultados.
+
+Activos financieros a costo amortizado
+
+
+
+Un activo financiero se mide al costo amortizado cuando cumple con las dos condiciones siguientes:
+
+El activo financiero se conserva dentro de un modelo de negocio cuyo objetivo es mantener los activos financieros para obtener los flujos de efectivo contractuales y
+
+Las condiciones contractuales del activo financiero dan lugar, en fechas especificadas, a flujos de efectivo que son únicamente pagos del principal e intereses sobre el importe del principal pendiente.
+
+
+
+Los deudores comerciales y otras cuentas por cobrar clasifican en esta categoría y se reconocen inicialmente por su valor razonable (valor nominal que incluye un interés implícito) y posteriormente por su costo amortizado de acuerdo con el método del tipo de interés efectivo, menos las pérdidas por deterioro del valor. Cuando el valor nominal de la cuenta por cobrar no difiere significativamente de su valor razonable, el reconocimiento es a valor nominal.
+
+
+
+El interés implícito debe desagregarse y reconocerse como ingreso financiero a medida que se vayan devengando intereses.
+
+Activo financiero a valor razonable con cambios en otro resultado integral
+
+
+
+Un activo financiero se mide a valor razonable con cambios en otro resultado integral si se cumplen las dos condiciones siguientes:
+
+El activo financiero se mantiene dentro de un modelo de negocio cuyo objetivo se logra obteniendo flujos de efectivo contractuales y vendiendo activos financieros, y
+
+Las condiciones contractuales del activo financiero dan lugar, en fechas especificadas, a flujos de efectivo que son únicamente pagos del principal e intereses sobre el importe del principal pendiente.
+
+Reconocimiento y medición
+
+Las adquisiciones y enajenaciones de inversiones se reconocen en la fecha de negociación o cierre del negocio, según las características de la inversión, es decir, la fecha en que se compromete a adquirir o vender el activo. Las inversiones se reconocen inicialmente por el valor razonable más los costos de la transacción para todos los activos financieros no llevados a valor razonable con cambios en resultados. Los activos financieros a valor razonable con cambios en resultados se reconocen inicialmente por su valor razonable, y los costos de la transacción se llevan a resultados.
+
+Las inversiones se dan de baja contablemente cuando los derechos a recibir flujos de efectivo de las inversiones han vencido y/o transferido y/o traspasado sustancialmente todos los riesgos y ventajas derivados de su titularidad. Los activos financieros disponibles para la venta y los activos financieros a valor razonable con cambios en resultados se contabilizan posteriormente por su valor razonable. Los préstamos y cuentas por cobrar se contabilizan por su costo amortizado de acuerdo con el método del tipo de interés efectivo.
+
+Los valores razonables de las inversiones que cotizan se basan en precios de compra corrientes. Si el mercado para un activo financiero no es líquido (y para los títulos que no cotizan), se establece el valor razonable empleando técnicas de valoración que incluyen el uso de transacciones libres recientes entre partes interesadas y debidamente informadas, referidas a otros instrumentos sustancialmente iguales, el análisis de flujos de efectivo descontados, y modelos de fijación de precios de opciones haciendo un uso máximo de los inputs del mercado y confiando lo menos posible en los inputs específicos de la entidad. En caso de que ninguna técnica mencionada pueda ser utilizada para fijar el valor razonable, se registran las inversiones a su costo de adquisición neto de la pérdida por deterioro, si fuera el caso.
+
+Se evalúa en la fecha de cada estado de situación financiera si existe evidencia objetiva de que un activo financiero o un grupo de activos financieros puedan haber sufrido pérdidas por deterioro del valor. En el caso de títulos de capital clasificados como disponibles para la venta, para determinar si los títulos han sufrido pérdidas por deterioro se considerará si ha tenido lugar un descenso significativo o prolongado en el valor razonable de los títulos por debajo de su costo.
+
+Si existe cualquier evidencia de este tipo para los activos financieros disponibles para venta, la pérdida acumulada determinada como la diferencia entre el costo de adquisición y el valor razonable corriente, menos cualquier pérdida por deterioro del valor en ese activo financiero previamente reconocido en las pérdidas o ganancias, se elimina del patrimonio neto y se reconoce en el estado de resultados.
+
+Las pérdidas por deterioro del valor reconocidas en el estado de resultados por instrumentos de patrimonio no se revierten a través del estado de resultados consolidados.
+
+2.10.2 Pasivos Financieros
+
+Clasificación
+
+Los pasivos financieros se miden al costo amortizado, excepto en el caso de que se midan al valor razonable con cambios en resultados u otros casos en específico.
+
+Las obligaciones con bancos e instituciones financieras se reconocen, inicialmente, por su valor razonable, netas de los costos en que se haya incurrido en la transacción. Posteriormente, los recursos ajenos se valorizan por su costo amortizado; cualquier diferencia entre los fondos obtenidos (netos de los costos necesarios para su obtención) y el valor de reembolso, se reconoce en el estado de resultados consolidado durante la vida de la deuda de acuerdo con el método del tipo de interés efectivo. El método de interés efectivo consiste en aplicar la tasa de mercado de referencia para deudas de similares características al importe de la deuda (neto de los costos necesarios para su obtención).
+
+Los recursos ajenos se clasifican como pasivos corrientes a menos que el Grupo tenga un derecho incondicional a diferir su liquidación durante al menos 12 meses después de la fecha del balance.
+
+2.10.3 Instrumentos financieros derivados y actividad de cobertura Financieros
+
+Instrumentos financieros derivados y actividad de cobertura Los instrumentos financieros derivados se reconocen inicialmente al valor razonable en la fecha en que se ha efectuado el contrato de derivados y posteriormente se vuelven a valorar a su valor razonable. Los derivados se designan como:
+
+Coberturas del valor razonable de pasivos reconocidos (cobertura del valor razonable;
+
+Coberturas de un riesgo concreto asociado a un pasivo reconocido o a una transacción prevista altamente probable (cobertura de flujos de efectivo); o
+
+Coberturas de una inversión neta en una operación en el extranjero (cobertura de inversión neta).
+
+Se documenta al inicio de la transacción la relación existente entre los instrumentos de cobertura y las partidas cubiertas, así como sus objetivos para la gestión del riesgo y la estrategia para manejar varias transacciones de cobertura.
+
+También se documenta su evaluación, tanto al inicio como sobre una base continua, de si los derivados que se utilizan en las transacciones de cobertura son altamente efectivos para compensar los cambios en el valor razonable o en los flujos de efectivo de las partidas cubiertas.
+
+El valor razonable total de los derivados de cobertura se clasifica como un activo o pasivo no corriente si el vencimiento restante de la partida cubierta es superior a 12 meses y como un activo o pasivo corriente si el vencimiento restante de la partida cubierta es inferior a 12 meses. Los derivados negociables se clasifican como un activo o pasivo corriente.
+
+La porción efectiva de los cambios en el valor razonable de los derivados que son designados y que califican como coberturas de flujo de efectivo se reconoce en el estado de Otros resultados integrales. La ganancia o pérdida relativa a la porción inefectiva se reconoce de inmediato en el Estado de Resultados dentro de Otros Ingresos de Operación u otras cuentas de gastos, según corresponda, respectivamente.
+
+Cuando un instrumento de cobertura expira o se vende, o cuando deja de cumplir con los criterios para ser reconocido a través del tratamiento contable de coberturas, cualquier ganancia o pérdida acumulada en el patrimonio a esa fecha permanece en el patrimonio y se reconoce cuando la transacción proyectada afecte al estado de resultados. Cuando se espere que ya no se produzca una transacción proyectada la ganancia o pérdida acumulada en el patrimonio se transfiere inmediatamente al estado de resultados.
+
+2.11 Inventarios
+
+Los inventarios se valorizan a su costo o a su valor neto realizable, el menor de los dos. El costo se determina por el método ______________. El costo de los productos terminados y de los productos en curso incluye los costos de diseño, las materias primas, la mano de obra directa, otros costos directos y gastos generales de fabricación (basados en una capacidad operativa normal), pero no incluye los costos por intereses. El valor neto realizable es el precio de venta estimado en el curso normal del negocio, menos los costos variables de venta aplicables. El costo de los inventarios incluye los traspasos desde el patrimonio neto de las ganancias/pérdidas por operaciones de cobertura de flujos de efectivo cualificadas relacionadas con compras de materias primas.
+
+2.12 Colocaciones de crédito social, deudores previsionales, activos por mutuos hipotecarios endosables, y deudores comerciales y otras cuentas por cobrar
+
+2.12.1 Colocaciones de crédito social, deudores previsionales y activos por mutuos hipotecarios endosables
+
+Se reconocen inicialmente por su valor razonable y posteriormente por su costo amortizado de acuerdo con el método de tasa de interés efectivo, menos la provisión determinada por la C.C.A.F.
+
+2.12.2 Deudores comerciales y otras cuentas por cobrar
+
+Comprenden principalmente los siguientes conceptos:
+
+Cuentas por cobrar Fondos Nacionales: Cuentas por cobrar que se originan por el déficit de los fondos de cesantía, familiar y licencias médicas, saldo que se determina a fin de mes después del pago efectuado por esos conceptos a los afiliados y que es reintegrado por la Superintendencia de Seguridad Social.
+
+Deudores por venta de servicios a terceros, corresponden a convenios de recaudación los que son facturados una vez prestado el servicio.
+
+2.13 Efectivo y equivalentes al efectivo
+
+El efectivo y equivalentes al efectivo incluyen el efectivo en caja, saldos disponibles en cuentas corrientes, los depósitos a plazo en entidades de crédito, otras inversiones de gran liquidez con un vencimiento original de tres meses o menos y los descubiertos financieros.
+
+El efectivo y equivalente al efectivo se reconoce en el estado de situación financiera consolidado al costo amortizado.
+
+2.14 Fondo social
+
+Corresponde a los recursos netos formados por la C.C.A.F. a través del tiempo conforme a lo dispuesto en el artículo 29 de la Ley N°18.833.
+
+2.15 Cuentas por pagar comerciales y otras cuentas por pagar
+
+Los proveedores se reconocen inicialmente a su valor razonable y posteriormente se valoran por su costo amortizado utilizando el método de tasa de interés efectivo, para aquellas transacciones significativas de plazos superiores a 90 días.
+
+2.16 Impuesto a las ganancias e impuestos diferidos
+
+El Grupo ha reconocido sus obligaciones tributarias a base de las disposiciones legales vigentes.
+
+Los impuestos diferidos se calculan, de acuerdo con el método de pasivo, sobre las diferencias temporarias que surgen entre las bases fiscales de los activos y pasivos y sus importes en libros en las cuentas anuales consolidadas. Sin embargo, si los impuestos diferidos surgen del reconocimiento inicial de un pasivo o un activo en una transacción distinta de una combinación de negocios que en el momento de la transacción no afecta ni al resultado contable ni a la ganancia o pérdida fiscal, no se contabiliza.
+
+El impuesto diferido se determina usando las tasas de impuesto (y leyes) aprobadas o a punto de aprobarse en la fecha del balance y que se espera aplicar cuando el correspondiente activo por impuesto diferido se realice o el pasivo por impuesto diferido se liquide.
+
+Los activos por impuestos diferidos se reconocen en la medida en que es probable que vaya a disponerse de beneficios fiscales futuros con los que poder compensar las diferencias temporarias.
+
+Se reconocen impuestos diferidos sobre las diferencias temporarias que surgen en inversiones en filiales y asociadas, excepto en aquellos casos en que el Grupo pueda controlar la fecha en que revertirán las diferencias temporarias y sea probable que éstas no vayan a revertir en un futuro previsible.
+
+2.17 Beneficios a los empleados
+
+Vacaciones del personal
+
+
+
+La C.C.A.F. y sus subsidiarias registran el gasto de vacaciones en el período en que se devenga el derecho, según lo establecido en la NIC 19.
+
+Indemnización por años de servicio
+
+
+
+En concordancia a lo dispuesto en el Artículo 26 Nº9 de la ley 18.833, la C.C.A.F. no puede pactar con su personal pagos por concepto de indemnización por años de servicio distintas a la legalmente establecida, por lo cual no registra provisión de carácter voluntario. Las subsidiarias no tienen pactado con su personal pagos por este concepto.
+
+Planes de participación en beneficios y bonos
+
+
+
+El Grupo reconoce un pasivo y un gasto para bonos y participación en beneficios en base a una fórmula que tiene en cuenta el beneficio atribuible a los colaboradores de la Corporación después de ciertos ajustes. El Grupo reconoce una provisión cuando está contractualmente obligada o cuando la práctica en el pasado ha creado una obligación implícita.
+
+2.18 Provisiones
+
+Las provisiones para restauración medioambiental, costos de reestructuración y litigios se reconocen cuando: el Grupo tiene una obligación presente, ya sea legal o implícita, como resultado de sucesos pasados; es probable que vaya a ser necesaria una salida de recursos para liquidar la obligación; y el importe se ha estimado de forma fiable. Las provisiones por reestructuración incluyen sanciones por cancelación del arrendamiento y pagos por despido a los empleados. No se reconocen provisiones para pérdidas de explotación futuras.
+
+Cuando exista un número de obligaciones similares, la probabilidad de que sea necesario un flujo de salida para la liquidación se determina considerando el tipo de obligaciones como un todo. Se reconoce una provisión incluso si la probabilidad de que un flujo de salida con respecto a cualquier partida incluida en la misma clase de obligaciones puede ser pequeña.
+
+Las provisiones se valoran por el valor actual de los desembolsos que se espera que sean necesarios para liquidar la obligación usando una tasa antes de impuestos que refleje las evaluaciones del mercado actual del valor temporal del dinero y los riesgos específicos de la obligación. El incremento en la provisión con motivo del paso del tiempo se reconoce como un gasto por intereses.
+
+2.19 Reconocimiento de Ingresos
+
+Los ingresos ordinarios incluyen el valor razonable de las contraprestaciones recibidas o a recibir por la venta de bienes y servicios en el curso ordinario de las actividades del Grupo. Los ingresos ordinarios se presentan netos del impuesto sobre el valor añadido, devoluciones, rebajas y descuentos y después de eliminadas las ventas dentro del Grupo. El Grupo reconoce los ingresos cuando el importe de los mismos se puede valorar con fiabilidad, es probable que los beneficios económicos futuros vayan a fluir a la entidad y se cumplen las condiciones específicas para cada una de las actividades del Grupo, tal y como se describe a continuación.
+
+No se considera que sea posible valorar el importe de los ingresos con fiabilidad hasta que no se han resuelto todas las contingencias relacionadas con la venta.
+
+El Grupo basa sus estimaciones en resultados históricos, teniendo en cuenta el tipo de cliente, el tipo de transacción y los términos concretos de cada acuerdo.
+
+[Describir el tipo de ingreso, la forma y momento del reconocimiento].
+
+2.20 Arrendamientos
+
+La C.C.A.F. adoptó el 1 de enero de 2019 la NIIF 16 de arrendamientos, en conformidad con los requisitos establecidos para este tipo de contratos, previamente clasificados como arrendamientos, para que de este modo los arrendatarios contabilicen todos los arrendamientos bajo un único modelo, similar a la contabilización de los arrendamientos financieros establecidos en la NIC 17.
+
+Esto es, en la fecha de inicio de un contrato de arrendamiento, el arrendatario reconoce en el estado de situación financiera un activo por el derecho de uso del bien y un pasivo por las cuotas futuras a pagar. Además deberá presentar en el estado de resultado la depreciación por el activo involucrado, separadamente del interés correspondiente al pasivo relacionado. La norma incluye dos exenciones de reconocimiento voluntarios para los arrendamientos iguales o menores a US$5.000 y arrendamientos de corto plazo igual o menor a doce meses.
+
+En base a lo anterior se evaluó el impacto de la adopción de esta norma NIIF 16 en los estados financieros consolidados de La C.C.A.F., de acuerdo al detalle que sigue:
+
+Análisis de los contratos de arrendamiento formalizados por La C.C.A.F., con el objetivo de identificar si éstos están dentro del alcance de la norma. Este análisis incluyó los contratos en que la C.C.A.F. actúa como arrendatario y los contratos de prestación de servicios de terceros.
+
+Análisis de los contratos de arrendamiento que pudieran acogerse a la exención de la aplicación de esta Norma, por tratarse de contratos con un vencimiento inferior a 12 meses, o que tienen activos subyacentes de bajo valor individual.
+
+Plazo de los arrendamientos
+
+
+
+La C.C.A.F. posee contratos de arriendos por años con terceros que contienen cláusulas de renovación anual una vez vencido el período de vigencia, en vista de ello y considerando la continuidad operativa de los mismos, además de la certeza razonable que se ejercerá la opción de renovación, se ha definido un horizonte de vigencia de estos contratos de X años en promedio. El plazo de arrendamiento de cada contrato será evaluado en el momento en que ocurra un suceso o cambio significativo en las circunstancias que están bajo el control del arrendatario y/o afecten la certeza razonable de ejercer una opción no incluida previamente en la determinación del plazo del arriendo.
+
+Tasa incremental de endeudamiento del arrendatario
+
+
+
+La C.C.A.F. considera una Tasa de interés de un X,X%. Los activos por derecho de uso registrados a la fecha de aplicación inicial de esta norma van a incurrir en gastos de depreciación mientras se encuentre vigente el contrato de arrendamiento o su vida útil.
+
+2.21 Activos no corrientes (o grupos de enajenación) mantenidos para la venta
+
+Los activos mantenidos para la venta y se reconocen al menor del importe en libros y el valor razonable menos los costos para la venta si su importe en libros se recupera principalmente a través de una transacción de venta en lugar de a través del uso continuado.
+
+2.22 Medio ambiente
+
+En el caso de existir pasivos ambientales se registran sobre la base de la interpretación actual de leyes y reglamentos ambientales, cuando sea probable que una obligación actual se produzca y el importe de dicha responsabilidad se pueda calcular de forma fiable.
+
+Las inversiones en obras de infraestructura destinadas a cumplir requerimientos medioambientales son activadas siguiendo los criterios contables generales para propiedades, plantas y equipos.
+
+2.23 Otras políticas contables significativas
+
+Describir cualquier otra política contable significativa que, aunque no es obligatoria bajo NIC/NIIF, haya sido elegida y se esté aplicando en virtud de la NIC 8. Una política contable puede considerarse significativa según la naturaleza de las operaciones de la entidad, aunque los importes del ejercicio actual y anterior no sean materiales.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 29

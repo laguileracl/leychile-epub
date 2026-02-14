@@ -1,0 +1,6 @@
+7.3.3.2 Contabilización de los castigos por deudas previsionales y no previsionales, que no correspondan a créditos sociales
+============================================================================================================================
+
+La declaración de incobrabilidad de las deudas aprobada por esta Superintendencia se debe concretar en castigo en el mes siguiente a aquel en que se aprobaron, contabilizándolos en el ítem del FUPEF 51190 "Otros gastos operacionales". En la letra b) de la Nota Explicativa N°34 "Otros ingresos y gastos operacionales", del numeral 7.1.5.3.34 del Título I del Libro VII del Compendio de la Ley N°18.833, se deben imputar estos egresos bajo el concepto "Castigos de otras deudas"
+
+Los ingresos provenientes de las recuperaciones de estas deudas castigadas, deben registrarse en el ítem 51120 "Otros ingresos operacionales". En la letra a) de la Nota Explicativa N°34 "Otros ingresos y gastos operacionales", del numeral 7.1.5.3.34 del Título I del Libro VII del Compendio de la Ley N°18.833 , se deben imputar estos ingresos bajo el concepto "Recuperaciones de castigos de otras deudas".

@@ -1,0 +1,436 @@
+{
+  "numero": "8",
+  "titulo": "LIBRO VIII. SISTEMAS DE INFORMACIÓN, INFORMES Y REPORTES",
+  "titulo_completo": "8 LIBRO VIII. SISTEMAS DE INFORMACIÓN, INFORMES Y REPORTES",
+  "url": "https://www.suseso.cl/620/w3-propertyvalue-608359.html",
+  "pvid": "608359",
+  "nivel": 0,
+  "hijos": [
+    {
+      "numero": "8.1",
+      "titulo": "TÍTULO I. CENTRAL DE RIESGO FINANCIERO",
+      "titulo_completo": "8.1 TÍTULO I. CENTRAL DE RIESGO FINANCIERO",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-608360.html",
+      "pvid": "608360",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "8.1.1",
+          "titulo": "ANTECEDENTES GENERALES",
+          "titulo_completo": "8.1.1 ANTECEDENTES GENERALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608361.html",
+          "pvid": "608361",
+          "nivel": 2
+        },
+        {
+          "numero": "8.1.2",
+          "titulo": "MODELO DE REPORTE",
+          "titulo_completo": "8.1.2 MODELO DE REPORTE",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608362.html",
+          "pvid": "608362",
+          "nivel": 2
+        },
+        {
+          "numero": "8.1.3",
+          "titulo": "INFORMACIÓN PARA ESTA SUPERINTENDENCIA",
+          "titulo_completo": "8.1.3 INFORMACIÓN PARA ESTA SUPERINTENDENCIA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608363.html",
+          "pvid": "608363",
+          "nivel": 2
+        },
+        {
+          "numero": "8.1.4",
+          "titulo": "AUTORIZACIÓN DE USUARIOS",
+          "titulo_completo": "8.1.4 AUTORIZACIÓN DE USUARIOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608364.html",
+          "pvid": "608364",
+          "nivel": 2
+        },
+        {
+          "numero": "8.1.5",
+          "titulo": "PROCEDIMIENTO DE PETICIÓN DE PRÓRROGAS Y REENVIO DE REPORTES DE LA CENTRAL DE RIESGO FINANCIERO DE LAS C.C.A.F.",
+          "titulo_completo": "8.1.5 PROCEDIMIENTO DE PETICIÓN DE PRÓRROGAS Y REENVIO DE REPORTES DE LA CENTRAL DE RIESGO FINANCIERO DE LAS C.C.A.F.",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608365.html",
+          "pvid": "608365",
+          "nivel": 2
+        },
+        {
+          "numero": "8.1.6",
+          "titulo": "INFORMACIÓN CONSOLIDADA DE CRÉDITO SOCIAL",
+          "titulo_completo": "8.1.6 INFORMACIÓN CONSOLIDADA DE CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608366.html",
+          "pvid": "608366",
+          "nivel": 2
+        },
+        {
+          "numero": "8.1.7",
+          "titulo": "ANEXOS",
+          "titulo_completo": "8.1.7 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608367.html",
+          "pvid": "608367",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "8.2",
+      "titulo": "TÍTULO II. ESTADÍSTICAS",
+      "titulo_completo": "8.2 TÍTULO II. ESTADÍSTICAS",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-608368.html",
+      "pvid": "608368",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "8.2.1",
+          "titulo": "INFORMACIÓN SOBRE COTIZACIONES MOROSAS RESPECTO DE LAS CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR",
+          "titulo_completo": "8.2.1 INFORMACIÓN SOBRE COTIZACIONES MOROSAS RESPECTO DE LAS CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608369.html",
+          "pvid": "608369",
+          "nivel": 2
+        },
+        {
+          "numero": "8.2.2",
+          "titulo": "INFORMACIÓN ESTADÍSTICA QUE SE DEBE REMITIR A ESTA SUPERINTENDENCIA SOBRE ASIGNACIONES Y SUBSIDIOS",
+          "titulo_completo": "8.2.2 INFORMACIÓN ESTADÍSTICA QUE SE DEBE REMITIR A ESTA SUPERINTENDENCIA SOBRE ASIGNACIONES Y SUBSIDIOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608370.html",
+          "pvid": "608370",
+          "nivel": 2
+        },
+        {
+          "numero": "8.2.3",
+          "titulo": "INFORMACIÓN SOBRE TASAS DE INTERÉS DE CRÉDITOS SOCIALES OTORGADOS POR LAS CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR.",
+          "titulo_completo": "8.2.3 INFORMACIÓN SOBRE TASAS DE INTERÉS DE CRÉDITOS SOCIALES OTORGADOS POR LAS CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR.",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608371.html",
+          "pvid": "608371",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "8.2.3.1",
+              "titulo": "Modelo de reporte",
+              "titulo_completo": "8.2.3.1 Modelo de reporte",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608372.html",
+              "pvid": "608372",
+              "nivel": 3
+            },
+            {
+              "numero": "8.2.3.2",
+              "titulo": "Autorización de Usuarios",
+              "titulo_completo": "8.2.3.2 Autorización de Usuarios",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608373.html",
+              "pvid": "608373",
+              "nivel": 3
+            },
+            {
+              "numero": "8.2.3.3",
+              "titulo": "Solicitudes de reenvío de archivos anteriores",
+              "titulo_completo": "8.2.3.3 Solicitudes de reenvío de archivos anteriores",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608374.html",
+              "pvid": "608374",
+              "nivel": 3
+            },
+            {
+              "numero": "8.2.3.4",
+              "titulo": "Sistema de Envío de Reportes",
+              "titulo_completo": "8.2.3.4 Sistema de Envío de Reportes",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608375.html",
+              "pvid": "608375",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "8.2.4",
+          "titulo": "ANEXOS",
+          "titulo_completo": "8.2.4 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608376.html",
+          "pvid": "608376",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "8.3",
+      "titulo": "TÍTULO III. PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO ELECTRÓNICO (PAE)",
+      "titulo_completo": "8.3 TÍTULO III. PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO ELECTRÓNICO (PAE)",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-608377.html",
+      "pvid": "608377",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "8.3.1",
+          "titulo": "PLAZOS Y ANTECEDENTES CON QUE DEBEN INFORMAR LOS RECLAMOS Y PRESENTACIONES",
+          "titulo_completo": "8.3.1 PLAZOS Y ANTECEDENTES CON QUE DEBEN INFORMAR LOS RECLAMOS Y PRESENTACIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608378.html",
+          "pvid": "608378",
+          "nivel": 2
+        },
+        {
+          "numero": "8.3.2",
+          "titulo": "ANTECEDENTES QUE DEBEN SER REMITIDOS POR LAS C.C.A.F. SEGÚN LA MATERIA DE LA PRESENTACIÓN O RECLAMACIÓN",
+          "titulo_completo": "8.3.2 ANTECEDENTES QUE DEBEN SER REMITIDOS POR LAS C.C.A.F. SEGÚN LA MATERIA DE LA PRESENTACIÓN O RECLAMACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608380.html",
+          "pvid": "608380",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "8.3.2.1",
+              "titulo": "Subsidios por Incapacidad Laboral de Origen Común y Maternal",
+              "titulo_completo": "8.3.2.1 Subsidios por Incapacidad Laboral de Origen Común y Maternal",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608381.html",
+              "pvid": "608381",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.2.2",
+              "titulo": "Prestación de Crédito Social",
+              "titulo_completo": "8.3.2.2 Prestación de Crédito Social",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608382.html",
+              "pvid": "608382",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.2.3",
+              "titulo": "Prestaciones Adicionales y Complementarias",
+              "titulo_completo": "8.3.2.3 Prestaciones Adicionales y Complementarias",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608383.html",
+              "pvid": "608383",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.2.4",
+              "titulo": "Afiliación y Desafiliación de Pensionados",
+              "titulo_completo": "8.3.2.4 Afiliación y Desafiliación de Pensionados",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608384.html",
+              "pvid": "608384",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.2.5",
+              "titulo": "Prestaciones Familiares, Aporte Familiar Permanente de Marzo, Bonos y Subsidios",
+              "titulo_completo": "8.3.2.5 Prestaciones Familiares, Aporte Familiar Permanente de Marzo, Bonos y Subsidios",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608385.html",
+              "pvid": "608385",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "8.3.3",
+          "titulo": "PLAZOS PARA LA REMISIÓN DE INFORMES, ANTECEDENTES Y FORMULARIOS",
+          "titulo_completo": "8.3.3 PLAZOS PARA LA REMISIÓN DE INFORMES, ANTECEDENTES Y FORMULARIOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608379.html",
+          "pvid": "608379",
+          "nivel": 2
+        },
+        {
+          "numero": "8.3.4",
+          "titulo": "PLAZOS PARA DAR CUMPLIMIENTO A LAS RESOLUCIONES EMITIDAS POR LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL EN EL MARCO DE PROCEDIMIENTO ADMINISTRATIVO ELECTRÓNICO",
+          "titulo_completo": "8.3.4 PLAZOS PARA DAR CUMPLIMIENTO A LAS RESOLUCIONES EMITIDAS POR LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL EN EL MARCO DE PROCEDIMIENTO ADMINISTRATIVO ELECTRÓNICO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608386.html",
+          "pvid": "608386",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "8.3.4.1",
+              "titulo": "Plazo para el cumplimiento de las resoluciones",
+              "titulo_completo": "8.3.4.1 Plazo para el cumplimiento de las resoluciones",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608387.html",
+              "pvid": "608387",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.4.2",
+              "titulo": "Cómputo de los plazos",
+              "titulo_completo": "8.3.4.2 Cómputo de los plazos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608388.html",
+              "pvid": "608388",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.4.3",
+              "titulo": "Impugnación de resoluciones",
+              "titulo_completo": "8.3.4.3 Impugnación de resoluciones",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608389.html",
+              "pvid": "608389",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "8.3.5",
+          "titulo": "OBLIGACIÓN DE REPORTAR EL CUMPLIMIENTO DE LAS RESOLUCIONES EMITIDAS POR LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL EN EL MARCO DEL PROCEDIMIENTO ADMINISTRATIVO ELECTRÓNICO, PAE",
+          "titulo_completo": "8.3.5 OBLIGACIÓN DE REPORTAR EL CUMPLIMIENTO DE LAS RESOLUCIONES EMITIDAS POR LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL EN EL MARCO DEL PROCEDIMIENTO ADMINISTRATIVO ELECTRÓNICO, PAE",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608391.html",
+          "pvid": "608391",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "8.3.5.1",
+              "titulo": "Reporte de cumplimiento",
+              "titulo_completo": "8.3.5.1 Reporte de cumplimiento",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608392.html",
+              "pvid": "608392",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.5.2",
+              "titulo": "Objetivos",
+              "titulo_completo": "8.3.5.2 Objetivos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608393.html",
+              "pvid": "608393",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.5.3",
+              "titulo": "Ámbito de aplicación",
+              "titulo_completo": "8.3.5.3 Ámbito de aplicación",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608394.html",
+              "pvid": "608394",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.5.4",
+              "titulo": "Plazo para reportar el estado de cumplimiento de una instrucción o resolución",
+              "titulo_completo": "8.3.5.4 Plazo para reportar el estado de cumplimiento de una instrucción o resolución",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608395.html",
+              "pvid": "608395",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.5.5",
+              "titulo": "Proceso de reporte del estado de cumplimiento en régimen",
+              "titulo_completo": "8.3.5.5 Proceso de reporte del estado de cumplimiento en régimen",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608396.html",
+              "pvid": "608396",
+              "nivel": 3
+            },
+            {
+              "numero": "8.3.5.6",
+              "titulo": "Impugnación y aclaración de resoluciones",
+              "titulo_completo": "8.3.5.6 Impugnación y aclaración de resoluciones",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608397.html",
+              "pvid": "608397",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "8.3.6",
+          "titulo": "ANEXOS",
+          "titulo_completo": "8.3.6 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608398.html",
+          "pvid": "608398",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "8.4",
+      "titulo": "TÍTULO IV. PROCEDIMIENTO PARA EL ENVÍO A LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL DE INFORMES Y/O ANTECEDENTES A TRAVÉS DE LA PLATAFORMA PAE, OPCIÓN “OTROS INGRESOS",
+      "titulo_completo": "8.4 TÍTULO IV. PROCEDIMIENTO PARA EL ENVÍO A LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL DE INFORMES Y/O ANTECEDENTES A TRAVÉS DE LA PLATAFORMA PAE, OPCIÓN “OTROS INGRESOS",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-608399.html",
+      "pvid": "608399",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "8.4.1",
+          "titulo": "PLAZOS A LA CAJA DE COMPENSACIÓN PARA EL ENVÍO A LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL DE INFORMES Y/O ANTECEDENTES A TRAVÉS DE LA PLATAFORMA PAE, OPCIÓN “OTROS INGRESOS\"",
+          "titulo_completo": "8.4.1 PLAZOS A LA CAJA DE COMPENSACIÓN PARA EL ENVÍO A LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL DE INFORMES Y/O ANTECEDENTES A TRAVÉS DE LA PLATAFORMA PAE, OPCIÓN “OTROS INGRESOS\"",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608400.html",
+          "pvid": "608400",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "8.4.1.1",
+              "titulo": "Presentaciones",
+              "titulo_completo": "8.4.1.1 Presentaciones",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608401.html",
+              "pvid": "608401",
+              "nivel": 3
+            },
+            {
+              "numero": "8.4.1.2",
+              "titulo": "Observaciones formuladas",
+              "titulo_completo": "8.4.1.2 Observaciones formuladas",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608402.html",
+              "pvid": "608402",
+              "nivel": 3
+            },
+            {
+              "numero": "8.4.1.3",
+              "titulo": "Estados Financieros",
+              "titulo_completo": "8.4.1.3 Estados Financieros",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608403.html",
+              "pvid": "608403",
+              "nivel": 3
+            },
+            {
+              "numero": "8.4.1.4",
+              "titulo": "Estadísticas",
+              "titulo_completo": "8.4.1.4 Estadísticas",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608404.html",
+              "pvid": "608404",
+              "nivel": 3
+            },
+            {
+              "numero": "8.4.1.5",
+              "titulo": "Fondos Nacionales",
+              "titulo_completo": "8.4.1.5 Fondos Nacionales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-640559.html",
+              "pvid": "640559",
+              "nivel": 3
+            },
+            {
+              "numero": "8.4.1.6",
+              "titulo": "Otros",
+              "titulo_completo": "8.4.1.6 Otros",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608405.html",
+              "pvid": "608405",
+              "nivel": 3
+            },
+            {
+              "numero": "8.4.1.7",
+              "titulo": "Cómputo de los plazos",
+              "titulo_completo": "8.4.1.7 Cómputo de los plazos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-608406.html",
+              "pvid": "608406",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "8.4.2",
+          "titulo": "FORMA EN QUE LAS CAJAS DE COMPENSACIÓN DEBEN EMITIR SUS INFORMES Y PLANTEAR SUS CONSULTAS A ESTA SUPERINTENDENCIA",
+          "titulo_completo": "8.4.2 FORMA EN QUE LAS CAJAS DE COMPENSACIÓN DEBEN EMITIR SUS INFORMES Y PLANTEAR SUS CONSULTAS A ESTA SUPERINTENDENCIA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608408.html",
+          "pvid": "608408",
+          "nivel": 2
+        },
+        {
+          "numero": "8.4.3",
+          "titulo": "RESPONSABLE DE CANALIZAR LOS REQUERIMIENTOS DE INFORMACIÓN DE ESTA SUPERINTENDENCIA",
+          "titulo_completo": "8.4.3 RESPONSABLE DE CANALIZAR LOS REQUERIMIENTOS DE INFORMACIÓN DE ESTA SUPERINTENDENCIA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608409.html",
+          "pvid": "608409",
+          "nivel": 2
+        },
+        {
+          "numero": "8.4.4",
+          "titulo": "ENVÍO DE PROGRAMAS ANUALES DEL RÉGIMEN DE PRESTACIONES DE CRÉDITO SOCIAL",
+          "titulo_completo": "8.4.4 ENVÍO DE PROGRAMAS ANUALES DEL RÉGIMEN DE PRESTACIONES DE CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-608410.html",
+          "pvid": "608410",
+          "nivel": 2
+        },
+        {
+          "numero": "8.4.5",
+          "titulo": "OBLIGACIÓN DE LAS C.C.A.F. DE INFORMAR A OTRAS ENTIDADES DE SEGURIDAD SOCIAL EN LOS CASOS QUE INDICA",
+          "titulo_completo": "8.4.5 OBLIGACIÓN DE LAS C.C.A.F. DE INFORMAR A OTRAS ENTIDADES DE SEGURIDAD SOCIAL EN LOS CASOS QUE INDICA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-599818.html",
+          "pvid": "599818",
+          "nivel": 2
+        }
+      ]
+    }
+  ]
+}

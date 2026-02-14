@@ -1,0 +1,4 @@
+8.1.3 INFORMACIÓN PARA ESTA SUPERINTENDENCIA
+============================================
+
+Las Cajas de Compensación de Asignación Familiar deben enviar la referida información a más tardar el día quince del mes siguiente al cual corresponde la información, y en el caso que el referido día corresponda a un sábado, domingo o festivo, se debe reportar el día hábil siguiente, a través de la aplicación mencionada en el punto 8.1.1. precedente, siguiendo la misma estructura y alcance establecidos en el punto 8.1.2. precedente, y en el Anexo N°1: Listado de Dominios , el Anexo N°2: Diccionario de archivos planos , el Anexo N°3: Formato de documento electrónico (XML) y el Anexo N°4: Instrucciones generales , todos del Título I del Libro VIII del Compendio de la Ley N°18.833.

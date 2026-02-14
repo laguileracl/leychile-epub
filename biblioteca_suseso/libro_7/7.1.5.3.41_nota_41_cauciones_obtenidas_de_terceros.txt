@@ -1,0 +1,4 @@
+7.1.5.3.41 Nota 41. Cauciones obtenidas de terceros
+===================================================
+
+Se deberá señalar las cauciones obtenidas de terceros, indicando el deudor en garantía, la existencia de alguna relación con la CCAF, el tipo de garantía, estado, monto y fecha de vencimiento.

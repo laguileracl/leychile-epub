@@ -1,0 +1,8 @@
+8.2.3.2 Autorización de Usuarios
+================================
+
+Para efectuar este traspaso de información, cada C.C.A.F. debe designar dos o más trabajadores, los que tienen acceso al sistema de información de reporte proporcionado por esta Superintendencia para que, mediante una clave personal e intransferible, ingresen la información acerca de las tasas de interés de crédito social, en el formato establecido en el Anexo N°4: Formato de archivos planos de tasas de interés de crédito social , en el Anexo N°5: Diccionario de archivos planos de tasas de interés de crédito social y en el Anexo N°6: Instrucciones generales , todos del presente Título II del Libro VIII del Compendio de la Ley N°18.833.
+
+Es responsabilidad de cada Caja de Compensación mantener actualizada la información de la base de datos de tasas de interés de crédito social, debiendo remitir esta información a través del sistema de reporte provisto por esta Superintendencia.
+
+Para proceder a la creación de los usuarios autorizados para enviar los reportes detallados en este número 8.2.3.2., se requiere que la Caja de Compensación envíe una solicitud mediante la plataforma PAE, opción "Otros-Ingresos" con el nombre completo, correo electrónico y teléfono de contacto de cada usuario autorizado a reportar, debiendo proceder de igual forma para la eliminación de usuarios. La C.C.A.F. puede solicitar tantos usuarios como estime conveniente.

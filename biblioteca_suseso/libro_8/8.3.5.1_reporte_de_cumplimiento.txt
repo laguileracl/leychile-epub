@@ -1,0 +1,6 @@
+8.3.5.1 Reporte de cumplimiento
+===============================
+
+La C.C.A.F. debe informar el estado de cumplimiento de una instrucción o resolución impartida por medio del Procedimiento Administrativo Electrónico (PAE) , proceso que se denomina reporte de cumplimiento.
+
+Este reporte de cumplimiento debe ser efectuado directamente en el PAE y será transaccional, es decir, se vincula a cada caso.

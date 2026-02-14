@@ -1,0 +1,345 @@
+7.1.5.2.1 Estado de Situación Financiera Clasificado
+====================================================
+
+ACTIVOS
+
+Representa la suma total de los ítems del activo de la entidad. Debe anotarse al pie de la columna "Activos" del Estado de Situación Financiera.
+
+Las cuentas del activo deben ser distribuidas en las siguientes dos clasificaciones generales: Activos corrientes y Activos no corrientes.
+
+ACTIVOS CORRIENTES
+
+Incluye aquellos activos y recursos de la entidad que serán realizados, (o que se espera serán realizados) vendidos o consumidos, dentro del plazo de un año, a contar de la fecha de cierre de los Estados Financieros, o que se mantienen fundamentalmente con fines de negociación.
+
+Asimismo, incluye a aquellos constituidos por efectivo u otro medio equivalente al efectivo, cuya utilización no esté restringida para ser intercambiado o usado para cancelar un pasivo, al menos dentro de los doce meses siguientes a la fecha de cierre de los estados financieros.
+
+Los conceptos que conforman los Activos Corrientes deben incorporarse a los ítems que a continuación se definen:
+
+11010 Efectivo y equivalentes al efectivo
+
+El efectivo y equivalentes al efectivo incluyen el efectivo en caja, saldos disponibles en cuentas corrientes, los depósitos a plazo en entidades de crédito, otras inversiones a corto plazo de gran liquidez con un vencimiento original de tres meses o menos y los descubiertos Financieros. En el balance de situación, los descubiertos Financieros se clasifican como recursos ajenos en el pasivo corriente.
+
+11020 Colocaciones de crédito social corrientes (neto)
+
+En este ítem se incluyen los créditos de consumo, créditos a microempresarios, créditos con fines educacionales, créditos hipotecarios no endosables y mutuos hipotecarios endosables, otorgados a los afiliados en el marco del Régimen de Crédito Social. Se presentan netos de provisión por incobrabilidad y morosidad.
+
+11040 Deudores previsionales (neto)
+
+En este ítem se consignan aquellas deudas cuya morosidad sea igual o inferior a un año. Se incluyen todos los documentos y cuentas por cobrar provenientes de cotizaciones declaradas y no pagadas y aquellas cotizaciones que se encuentren en proceso de cobranza judicial o extrajudicial, previa deducción de las asignaciones familiares y demás beneficios por compensar. Además, deben incluirse en este ítem los beneficios indebidamente percibidos por los beneficiarios y los fraudes que afecten a fondos propios.
+
+También se incluyen en este ítem las deudas de empleadores y entidades pagadoras de pensiones derivadas de los valores que están obligados (as) a descontar, retener y remesar a la C.C.A.F en su calidad de entidad de previsión social, tales como deudas por prestaciones de crédito social, aportes y prestaciones otorgadas a pensionados, etc.
+
+Los créditos hipotecarios no endosables y los créditos sociales que registren cuotas vencidas y no pagadas y el saldo de capital de los mismos, deben incluirse en este ítem a partir del día 1° del mes subsiguiente a aquel en que debía enterarse el pago de la obligación. Este plazo se contará desde el mes que correspondía pagar la cuota morosa más antigua del crédito.
+
+Las deudas consignadas en este ítem se deben presentar separadamente de acuerdo con los siguientes conceptos: por mutuos hipotecarios no endosables, por crédito social y por otras deudas.
+
+11050 Otros activos financieros corrientes
+
+En este ítem deben incluirse los activos que son mantenidos para negociación o que, desde el reconocimiento inicial, han sido designados por la entidad para ser contabilizados a valor justo con cambios en resultados. Además, se deben incluir los activos financieros no derivados que se designan como disponibles para la venta y aquellos que serán mantenidos hasta su vencimiento.
+
+Todas las imputaciones al activo deben ser en porción corto plazo (menos de un año).
+
+11060 Otros activos no financieros corrientes
+
+Corresponden a todos los activos que no están contemplados como financieros, y que no se encuentran especificados en otras cuentas del activo corriente.
+
+11070 Deudores comerciales y otras cuentas por cobrar corrientes
+
+En este ítem deben incluirse las cuentas y/o documentos por cobrar provenientes de la venta de servicios a terceros, de acuerdo con el número 7 del artículo 19 de la Ley N°18.833, las cuentas por cobrar que no provengan de las operaciones propias de la C.C.A.F., tales como cuentas corrientes del personal, anticipos a proveedores, deudores por venta de activos fijos, etc., así como también los valores por cobrar al Fondo Único de Prestaciones Familiares y Subsidios de Cesantía y al Fondo de Subsidios por Incapacidad Laboral, por concepto de los regímenes legales que administran las C.C.A.F.
+
+Esta cuenta debe presentarse neta del deterioro.
+
+11080 Cuentas por cobrar a entidades relacionadas corrientes
+
+Se clasifican en este ítem las cuentas por cobrar a entidades relacionadas, provengan o no de operaciones comerciales de la entidad y cuyo plazo de recuperación no exceda a un año a contar de la fecha de los Estados Financieros.
+
+11090 Inventarios
+
+En este ítem debe mostrarse el total de los bienes de consumo de propiedad de la C.C.A.F., cuyo detalle (componentes más significativos) y el método de valorización deben explicitarse.
+
+11100 Activos biológicos corrientes
+
+En este ítem se incluyen los activos como plantas y áreas verdes que son capaces de experimentar transformaciones biológicas para convertirlos en otro activo biológico diferente.
+
+En el caso específico de las C.C.A.F., se pueden mencionar los centros de ecoturismo, donde se encuentran insertos en naturaleza preservando de ella y el medio ambiente.
+
+11110 Activos por impuestos corrientes
+
+Corresponde incluir en este ítem el crédito fiscal neto, por concepto del impuesto al valor agregado, los pagos provisionales que excedan a la provisión por impuesto a la renta u otros créditos al impuesto a la renta, tales como gastos de capacitación y el crédito por compras de activo fijo. Adicionalmente, deben incluirse los PPM por recuperar por utilidades absorbidas por pérdidas tributarias.
+
+11120 Total de activos corrientes distintos de los activos o grupos de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios
+
+Corresponde a la suma de los ítems 11010 al 11110.
+
+11210 Activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta
+
+Corresponde al activo no corriente (o grupo enajenable de elementos) que debe estar disponible, en sus condiciones actuales, para su venta, sujeto exclusivamente a los términos usuales y habituales para la venta de estos activos (o grupos de activos para disposición), y su venta debe ser altamente probable.
+
+11220 Activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para distribuir a los propietarios
+
+Corresponde al activo no corriente (o grupo enajenable de elementos) que debe estar disponible, en sus condiciones actuales, para su distribución a los propietarios. Su distribución debe ser altamente probable.
+
+11230 Activos no corrientes o grupo de activos para su disposición clasificados como mantenidos para la venta o como mantenidos para distribuir a los propietarios
+
+Corresponde a la suma de los ítems 11210 y 11220.
+
+11000 TOTAL DE ACTIVOS CORRIENTES
+
+Corresponde a la suma de los ítems 11120 y 11230.
+
+ACTIVOS NO CORRIENTES
+
+Corresponde a aquellos activos de la entidad no clasificados en los ítems anteriores, y está compuesto por aquellos activos y recursos que no serán realizados, vendidos o consumidos dentro del plazo de un año a contar de la fecha de los estados financieros, los que deben incorporarse a los ítems que a continuación se definen:
+
+12010 Otros activos financieros no corrientes
+
+En este ítem deben incluirse los activos que son mantenidos para negociación o que, desde el reconocimiento inicial, han sido designados por la entidad para ser contabilizados a valor justo con cambios en resultados. Además, se deben incluir los activos financieros no derivados que se designan como disponibles para la venta y aquellos que serán mantenidos hasta su vencimiento.
+
+Todas las imputaciones al activo deben ser en porción largo plazo (más de un año).
+
+12020 Colocaciones de crédito social no corrientes (neto)
+
+En este ítem se incluyen los créditos de consumo, créditos a microempresarios, créditos con fines educacionales, mutuos hipotecarios no endosables y endosables, otorgados a los afiliados en el marco del Régimen de Crédito Social. Se presentan netos de provisión por incobrabilidad y morosidad.
+
+12040 Otros activos no financieros no corrientes
+
+Corresponden a todos los activos que no están contemplados como financieros, y que no se encuentran especificados en otras cuentas del activo no corriente.
+
+12050 Cuentas por cobrar no corrientes
+
+Comprende otras cuentas por cobrar a más de un año plazo, no definidas en otros ítems.
+
+12060 Cuentas por cobrar a entidades relacionadas, no corrientes
+
+Se clasifican en este ítem las cuentas por cobrar a entidades relacionadas, provengan o no de operaciones comerciales de la entidad y cuyo plazo de recuperación excede de un año a contar de la fecha de los Estados Financieros.
+
+12070 Inversiones contabilizadas utilizando el método de la participación
+
+En este ítem se deben incluir aquellas inversiones en las cuales la entidad tenga influencia significativa, no es una dependiente ni constituye una participación en un negocio conjunto. La entidad asociada puede adoptar diversas modalidades, entre las que se incluyen las entidades sin forma jurídica definida, tales como las fórmulas asociativas con fines empresariales.
+
+12080 Activos intangibles distintos de la plusvalía
+
+Dentro de este ítem se deben clasificar aquellos activos que cumplan con la definición de activo intangible, es decir, que sea identificable, la entidad tenga control sobre el activo en cuestión y existan beneficios económicos futuros. El valor del activo debe presentarse neto de su amortización (de ser aplicable).
+
+12090 Plusvalía
+
+Corresponde al exceso del costo de la combinación de negocio sobre la participación de la adquirente en el valor razonable neto de los activos, pasivos y pasivos contingentes inidentificables que se hayan reconocido de la subsidiaria, menos la pérdida por deterioro acumuladas.
+
+12100 Propiedades, planta y equipo
+
+Dentro de este ítem deben clasificarse todos los bienes muebles e inmuebles que han sido adquiridos para usarlos en la operación de la entidad y sin el propósito de venderlos. Se deben presentar netos de la depreciación acumulada.
+
+A los conceptos que conforman el ítem se les debe indicar los principales activos incluidos en esta clasificación y el método de depreciación aplicado.
+
+12110 Activos Biológicos no corrientes
+
+En este ítem se incluyen los activos como plantas y áreas verdes que son capaces de experimentar transformaciones biológicas para convertirlos en otro activo biológico diferente, la diferencia con los activos biológicos corrientes que son a largo plazo.
+
+12120 Propiedades de inversión
+
+En este ítem se deben señalar aquellas inversiones inmobiliarias, sean bienes inmuebles o derechos sobre bienes inmuebles (terrenos o edificios, considerados en su totalidad o en parte, o ambos) que se tienen (por parte del dueño o por parte del arrendatario que haya acordado un arrendamiento financiero) para obtener rentas, plusvalías o ambas, en lugar de destinarlas para:
+
+su uso en la producción o suministro de bienes o servicios, o bien para fines administrativos; o
+
+su venta en el curso ordinario de las operaciones.
+
+12130 Activos por impuestos diferidos
+
+Corresponde al débito diferido que se origina por diferencias temporales entre el resultado contable y la renta imponible de un periodo determinado.
+
+12140 Activos por derecho de uso
+
+En este ítem se incluyen aquellos activos que representan un derecho del arrendamiento a usar el activo subyacente durante el plazo del arrendamiento.
+
+12000 TOTAL DE ACTIVOS NO CORRIENTES
+
+Corresponde a la suma de los ítems 12010 al 12140.
+
+10000 TOTAL DE ACTIVOS
+
+Corresponde a la suma de los ítems 11000 y 12000.
+
+PASIVOS
+
+Representa la suma total de los ítems del pasivo de la entidad. Debe anotarse al pie de la columna "Pasivos" del estado de situación financiera.
+
+Las cuentas del pasivo serán distribuidas en las siguientes dos clasificaciones generales:
+
+Pasivos Corrientes y Pasivos no Corrientes.
+
+PASIVOS CORRIENTES
+
+Incluye las obligaciones contraídas por la entidad que serán liquidadas dentro del plazo de un año, a contar de la fecha de cierre de los estados financieros.
+
+Los conceptos que conforman los Pasivos Corrientes deben incorporarse a los ítems que a continuación se definen:
+
+21010 Otros pasivos financieros corrientes
+
+Se incluyen en este ítem aquellas obligaciones contraídas con instituciones privadas y públicas que se liquidarán dentro del plazo de un año, contado desde la fecha de cierre de los estados financieros.
+
+Asimismo, se incluyen las obligaciones contraídas por la emisión de títulos de deuda, ya sea bonos, pagarés u otros efectos de comercio, en el mercado nacional, con vencimiento no superior a un año, incluyendo la porción con vencimiento dentro de dicho período de deudas de largo plazo, tales como préstamos bancarios, arrendamientos financieros y sobregiros bancarios.
+
+21015 Pasivos por arrendamientos corrientes
+
+Se incluye en este ítem la porción del corto plazo de los contratos de arrendamiento ya sean financieros u operativos.
+
+21020 Cuentas por pagar comerciales y Otras cuentas por pagar
+
+En este ítem deben incluirse las cuentas y/o documentos por pagar que provienen exclusivamente de operaciones propias de la entidad a favor de terceros.
+
+Además, deben incluirse los valores por pagar al Fondo Único de Prestaciones Familiares y Subsidios de Cesantía y al Fondo de Subsidios por Incapacidad Laboral, por concepto de los regímenes legales que administran las Cajas, los beneficios devengados provenientes de subsidios por incapacidad laboral (excluidas las cotizaciones previsionales), subsidios de cesantía, prestaciones adicionales y los beneficios por pagar por aplicación del artículo 77 bis de la Ley N°16.744 , los saldos a favor del empleador por concepto de asignaciones familiares y los subsidios por incapacidad laboral que éste haya pagado a los trabajadores por cuenta de la C.C.A.F. en virtud de convenios.
+
+21030 Pasivos por mutuos hipotecarios endosables, corrientes
+
+En este ítem se consignan los pasivos corrientes de la entidad resultantes de la administración de mutuos hipotecarios endosables:
+
+Mutuos hipotecarios endosables por pagar
+
+Mutuos hipotecarios endosables por pagar en proceso de inscripción.
+
+21040 Cuentas por pagar a entidades relacionadas corrientes
+
+Deben clasificarse en este ítem todas aquellas obligaciones con empresas relacionadas, se encuentren o no documentadas.
+
+21050 Otras provisiones a corto plazo
+
+Es un pasivo sobre el que existe incertidumbre acerca de su cuantía o vencimiento.
+
+Un pasivo es una obligación presente de la empresa, surgida a raíz de sucesos pasados, al vencimiento de la cual, y para cancelarla, la empresa espera desprenderse de recursos que incorporan beneficios económicos. Las provisiones sólo se deben reconocer cuando se cumplen estas tres condiciones:
+
+La empresa tiene una obligación actual (legal o constructiva) como resultado de un evento pasado.
+
+Es probable que un flujo de recursos sea requerido para pagar/liquidar la obligación.
+
+Se puede efectuar una estimación confiable del monto de la obligación.
+
+21060 Pasivos por impuestos corrientes
+
+Corresponde a la provisión para impuesto a la renta calculada según los resultados tributarios del periodo. Deducidos los pagos provisionales obligatorios o voluntarios y otros créditos que se aplican a esta obligación.
+
+21070 Provisiones corrientes por beneficios a los empleados
+
+En este ítem se incluyen las estimaciones de obligaciones que a la fecha de cierre de los estados financieros se encuentran devengadas, tales como gratificaciones, feriados del personal, etc., que serán liquidadas en el ejercicio siguiente.
+
+21080 Otros pasivos no financieros corrientes
+
+En este ítem se incluyen todos los pasivos no financieros que no se encuentran definidos anteriormente.
+
+21090 Total de pasivos corrientes distintos de los pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta
+
+Corresponde a la suma de los ítemes 21010 al 21080.
+
+21200 Pasivos incluidos en grupos de activos para su disposición clasificados como mantenidos para la venta
+
+Este ítem comprende pasivos asociados directamente con los activos no corrientes clasificados como mantenidos para la venta.
+
+Activos no corrientes clasificados como mantenidos para la venta: corresponde a aquellos activos no corrientes (o grupos enajenables) si su importe en libros se recuperará fundamentalmente a través de una transacción de venta, en lugar de por su uso continuado.
+
+21000 TOTAL DE PASIVOS CORRIENTES
+
+Corresponde a la suma de los ítems 21090 y 21200.
+
+PASIVOS NO CORRIENTES
+
+Incluye las obligaciones contraídas por la Caja de Compensación que serán liquidadas dentro del plazo mayor a un año, a contar de la fecha de cierre de los estados financieros.
+
+Los conceptos que conforman los Pasivos No Corrientes deben incorporarse a los ítems que a continuación se definen:
+
+22010 Otros pasivos financieros no corrientes
+
+Se incluyen en este ítem aquellas obligaciones contraídas con instituciones privadas y públicas que se liquidarán a más de un año plazo, contado desde la fecha de cierre de los estados financieros.
+
+Asimismo, se incluyen las obligaciones contraídas por la emisión de títulos de deuda, ya sea bonos, pagarés u otros efectos de comercio, en el mercado nacional, con vencimiento superior a un año.
+
+22015 Pasivos por arrendamientos no corrientes
+
+Se incluye en este ítem la porción del corto plazo de los contratos de arrendamiento ya sean financieros u operativos.
+
+22020 Pasivos no corrientes
+
+Incluye todos los pasivos que no son generados por actividades propias del negocio de la entidad por más de un año.
+
+22030 Pasivos por mutuos hipotecarios endosables no corrientes
+
+En este ítem se consignan los pasivos no corrientes de la entidad resultantes de la administración de mutuos hipotecarios endosables:
+
+Provisiones por prepago de mutuos hipotecarios endosables.
+
+22040 Cuentas por pagar a entidades relacionadas no corrientes
+
+Deben clasificarse en este ítem todas aquellas obligaciones con entidades relacionadas a largo plazo.
+
+22050 Otras provisiones no corrientes
+
+Es un pasivo sobre el que existe incertidumbre acerca de su cuantía o vencimiento. Un pasivo es una obligación presente de la empresa, surgida a raíz de sucesos pasados, al vencimiento de la cual, y para pagarla, la empresa espera desprenderse de recursos que incorporan beneficios económicos. Las provisiones sólo se deben reconocer cuando se cumplen estas tres condiciones:
+
+La empresa tiene una obligación actual (Legal o constructiva) como resultado de un evento pasado.
+
+Es probable que un flujo de recursos sea requerido para pagar la obligación.
+
+Se puede efectuar una estimación confiable del monto de la obligación.
+
+22060 Pasivo por Impuestos Diferidos
+
+Corresponde al crédito diferido que se origina por diferencias temporales entre el resultado contable y la renta imponible de un periodo determinado.
+
+22070 Provisiones no corrientes por beneficios a los empleados
+
+Este ítem incluye todas las provisiones creadas para cubrir pasivos con los empleados, como provisión de vacaciones, provisión por indemnización por años de servicios, entre otras.
+
+22080 Otros pasivos no financieros no corrientes
+
+En este ítem se incluyen todos los pasivos no corrientes no definidos anteriormente, extendidos por más de un año.
+
+22000 TOTAL DE PASIVOS NO CORRIENTES
+
+Corresponde a la suma de los ítems 22010 al 22080.
+
+20000 TOTAL DE PASIVOS
+
+Corresponde a la suma de los ítems 21000 y 22000.
+
+PATRIMONIO
+
+Los conceptos que conforman el patrimonio de la Caja de Compensación deben ser clasificados en los siguientes ítems:
+
+23010 Fondo Social
+
+Corresponde a los recursos netos formados por la Caja de Compensación a través del tiempo conforme a lo dispuesto en el artículo 29 de la Ley N°18.833. La citada norma establece que el Fondo Social se forma con los siguientes recursos: comisiones, reajustes e intereses de los capitales dados en préstamos, rentas de inversiones, multas, intereses penales, producto de venta de bienes y servicios, donaciones, herencias, legados y demás recursos que establezca la ley.
+
+23020 Ganancia (pérdida) acumulada
+
+En este ítem se incorporan las utilidades de ejercicios anteriores, o las pérdidas no absorbidas con dichas utilidades.
+
+23030 Otras participaciones en el patrimonio
+
+En este ítem se incluyen las participaciones no dominantes. En una adquisición inversa algunos de los propietarios de la adquirida legal (adquirente a efectos contables) pueden no intercambiar sus instrumentos de patrimonio por los de la dominante legal (adquirida a efectos contables). Estos propietarios se tratan como participaciones no dominantes en los estados financieros consolidados posteriores a la adquisición inversa. Los propietarios de la adquirida legal que no intercambian sus instrumentos de patrimonio por los de la adquirente legal tienen únicamente participación en los resultados y activos netos de la adquirida legal, pero no en los resultados y activos netos de la entidad combinada. Por el contrario, aun cuando la adquirente legal sea la adquirida a efectos contables, los propietarios de la adquirente legal tienen una participación en los resultados y activos netos de la entidad combinada.
+
+23040 Otras reservas
+
+Este ítem incluye otras reservas patrimoniales no definidas anteriormente.
+
+23050 Ganancia (pérdida)
+
+Corresponde al resultado obtenido por la entidad al cierre del ejercicio que se informa. El saldo de esta cuenta pasa a formar parte del Fondo Social a contar del 1° de enero de cada año.
+
+23060 Patrimonio atribuible a los propietarios de la controladora
+
+Corresponde a la suma de los ítems 23010 al 23050.
+
+23070 Participaciones no controladoras
+
+Es aquella parte de los resultados y de los activos netos de una dependiente que no corresponden, bien sea directa o indirectamente a través de otras dependientes, a la participación de la dominante del grupo.
+
+23000 PATRIMONIO TOTAL
+
+Corresponde a la suma de los ítems 23060 y 23070.
+
+30000 TOTAL DE PATRIMONIO Y PASIVOS
+
+Corresponde a la suma de los ítems 20000 y 23000.
+
+
+
+Referencias legales:
+ Ley 16.744, artículo 77 bis - Ley 18.833, artículo 19 - Ley 18.833, artículo 29
