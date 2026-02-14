@@ -1,0 +1,6 @@
+5.3.3 AUTORIZACIÓN DE USUARIOS
+==============================
+
+Para proceder a la creación de los usuarios autorizados a enviar el reporte de Hechos Relevantes señalado en el punto 2 anterior, se requiere que los Gerentes Generales de cada Caja de Compensación envíen el nombre completo, cargo, correo electrónico y teléfono de contacto de al menos dos usuarios que se encuentren especialmente autorizados a reportar, en el formato establecido en el Anexo N°1: Formulario web de Hechos Relevantes del Título III del Libro V de este Compendio de la Ley N°18.833.
+
+La información para la creación de usuarios debe ser remitida mediante la plataforma PAE, opción "Otros-Ingresos", debiendo proceder de igual forma para la eliminación de usuarios.

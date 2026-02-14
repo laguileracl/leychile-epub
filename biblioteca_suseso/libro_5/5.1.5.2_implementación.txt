@@ -1,0 +1,6 @@
+5.1.5.2 Implementación
+======================
+
+Es responsabilidad del directorio de cada Caja de Compensación, establecer y difundir un Código de Buenas Prácticas y de Conducta al interior de la organización, fijando los mecanismos que permitan medir su efectividad, evaluar sus resultados y realizar los ajustes y correcciones que correspondan.
+
+Para los efectos de medir el grado de cumplimiento del referido Código, el directorio de la Caja de Compensación debe disponer que se efectúe, a lo menos, una evaluación anual por una empresa de auditoría externa registrada en el listado que, al efecto, lleva la Comisión para el Mercado Financiero.

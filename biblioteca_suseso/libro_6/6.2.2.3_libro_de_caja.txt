@@ -1,0 +1,4 @@
+6.2.2.3 Libro de Caja
+=====================
+
+(Nodo estructural - ver subnodos)

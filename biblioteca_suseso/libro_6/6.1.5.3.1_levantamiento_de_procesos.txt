@@ -1,0 +1,4 @@
+6.1.5.3.1 Levantamiento de procesos
+===================================
+
+La unidad responsable de la gestión de riesgo operacional, debe identificar los procesos y subprocesos en los que se descomponen las actividades efectuadas por la entidad, con total cobertura de sus procesos relevantes, identificando a los respectivos dueños de dichos procesos.

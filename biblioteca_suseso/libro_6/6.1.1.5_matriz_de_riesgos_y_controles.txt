@@ -1,0 +1,4 @@
+6.1.1.5 Matriz de riesgos y controles
+=====================================
+
+Corresponde a una herramienta a través de la cual se identifican los riesgos asociados a un proceso o subproceso, su evaluación cualitativa y/o cuantitativa, los controles asociados junto a su efectividad y el nivel de riesgo residual con el objetivo de priorizar, orientar y focalizar el tratamiento de riesgo.

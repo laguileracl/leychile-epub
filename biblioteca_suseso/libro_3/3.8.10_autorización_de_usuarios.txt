@@ -1,0 +1,4 @@
+3.8.10 AUTORIZACIÓN DE USUARIOS
+===============================
+
+Para proceder a la creación de los usuarios autorizados a enviar el reporte detallado en el número 3.8.9. del Título VIII del Libro III de este Compendio de Normas que Regulan a las C.C.A.F., se requiere que la Caja envíe una solicitud en tal sentido a través de la plataforma PAE, opción "Otros Ingresos", con el nombre completo, correo electrónico y teléfono de contacto de cada usuario autorizado a reportar, debiendo proceder de igual forma para la eliminación de usuarios. La Caja podrá solicitar tantos usuarios como estime conveniente.

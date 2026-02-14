@@ -1,0 +1,952 @@
+{
+  "numero": "3",
+  "titulo": "LIBRO III. RÉGIMEN DE CRÉDITO SOCIAL",
+  "titulo_completo": "3 LIBRO III. RÉGIMEN DE CRÉDITO SOCIAL",
+  "url": "https://www.suseso.cl/620/w3-propertyvalue-593609.html",
+  "pvid": "593609",
+  "nivel": 0,
+  "hijos": [
+    {
+      "numero": "3.1",
+      "titulo": "TÍTULO I. CRÉDITO SOCIAL",
+      "titulo_completo": "3.1 TÍTULO I. CRÉDITO SOCIAL",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-593610.html",
+      "pvid": "593610",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "3.1.1",
+          "titulo": "NATURALEZA Y FINALIDADES DEL CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.1 NATURALEZA Y FINALIDADES DEL CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593611.html",
+          "pvid": "593611",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.2",
+          "titulo": "FINANCIAMIENTO DEL RÉGIMEN DE CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.2 FINANCIAMIENTO DEL RÉGIMEN DE CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593613.html",
+          "pvid": "593613",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.3",
+          "titulo": "BENEFICIARIOS DEL RÉGIMEN",
+          "titulo_completo": "3.1.3 BENEFICIARIOS DEL RÉGIMEN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593614.html",
+          "pvid": "593614",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "3.1.3.1",
+              "titulo": "Calidad del beneficiario",
+              "titulo_completo": "3.1.3.1 Calidad del beneficiario",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593615.html",
+              "pvid": "593615",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.3.2",
+              "titulo": "Requisitos que deben cumplir los beneficiarios para la obtención de un crédito social",
+              "titulo_completo": "3.1.3.2 Requisitos que deben cumplir los beneficiarios para la obtención de un crédito social",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593617.html",
+              "pvid": "593617",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "3.1.4",
+          "titulo": "FORMAS DE ACCEDER AL CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.4 FORMAS DE ACCEDER AL CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593618.html",
+          "pvid": "593618",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.5",
+          "titulo": "TRAMITACIÓN Y OTORGAMIENTO DE CRÉDITOS SOCIALES EN FORMA REMOTA O A DISTANCIA",
+          "titulo_completo": "3.1.5 TRAMITACIÓN Y OTORGAMIENTO DE CRÉDITOS SOCIALES EN FORMA REMOTA O A DISTANCIA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593619.html",
+          "pvid": "593619",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.6",
+          "titulo": "FORMULARIO DE SOLICITUD DE CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.6 FORMULARIO DE SOLICITUD DE CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593620.html",
+          "pvid": "593620",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "3.1.6.1",
+              "titulo": "Formalidades mínimas",
+              "titulo_completo": "3.1.6.1 Formalidades mínimas",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593621.html",
+              "pvid": "593621",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.6.2",
+              "titulo": "Documentos que deben adjuntarse a la solicitud",
+              "titulo_completo": "3.1.6.2 Documentos que deben adjuntarse a la solicitud",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593622.html",
+              "pvid": "593622",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.6.3",
+              "titulo": "Seguros",
+              "titulo_completo": "3.1.6.3 Seguros",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593623.html",
+              "pvid": "593623",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "3.1.7",
+          "titulo": "CAUCIONES",
+          "titulo_completo": "3.1.7 CAUCIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593624.html",
+          "pvid": "593624",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "3.1.7.1",
+              "titulo": "Afiliados activos",
+              "titulo_completo": "3.1.7.1 Afiliados activos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593625.html",
+              "pvid": "593625",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.7.2",
+              "titulo": "Afiliados pensionados",
+              "titulo_completo": "3.1.7.2 Afiliados pensionados",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593626.html",
+              "pvid": "593626",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.7.3",
+              "titulo": "Afiliados trabajadores que solicitan créditos para educación superior",
+              "titulo_completo": "3.1.7.3 Afiliados trabajadores que solicitan créditos para educación superior",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593627.html",
+              "pvid": "593627",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.7.4",
+              "titulo": "Responsabilidad de los Avales",
+              "titulo_completo": "3.1.7.4 Responsabilidad de los Avales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593628.html",
+              "pvid": "593628",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "3.1.8",
+          "titulo": "NORMAS MÍNIMAS OBLIGATORIAS DE RESGUARDO QUE DEBEN ADOPTAR LAS C.C.A.F. PARA LA CONCESIÓN DEL CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.8 NORMAS MÍNIMAS OBLIGATORIAS DE RESGUARDO QUE DEBEN ADOPTAR LAS C.C.A.F. PARA LA CONCESIÓN DEL CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593629.html",
+          "pvid": "593629",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.9",
+          "titulo": "EVALUACIÓN DE LA CAPACIDAD ECONÓMICA DEL SOLICITANTE",
+          "titulo_completo": "3.1.9 EVALUACIÓN DE LA CAPACIDAD ECONÓMICA DEL SOLICITANTE",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593630.html",
+          "pvid": "593630",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.10",
+          "titulo": "DETERMINACIÓN DEL MONTO DEL CRÉDITO SOCIAL Y FIJACIÓN DE TASAS DE INTERÉS",
+          "titulo_completo": "3.1.10 DETERMINACIÓN DEL MONTO DEL CRÉDITO SOCIAL Y FIJACIÓN DE TASAS DE INTERÉS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593631.html",
+          "pvid": "593631",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "3.1.10.1",
+              "titulo": "Monto máximo",
+              "titulo_completo": "3.1.10.1 Monto máximo",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593632.html",
+              "pvid": "593632",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.10.2",
+              "titulo": "Monto máximo de la cuota mensual de descuento por concepto de crédito social",
+              "titulo_completo": "3.1.10.2 Monto máximo de la cuota mensual de descuento por concepto de crédito social",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593633.html",
+              "pvid": "593633",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.10.3",
+              "titulo": "Situación especial de endeudamiento",
+              "titulo_completo": "3.1.10.3 Situación especial de endeudamiento",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593634.html",
+              "pvid": "593634",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.10.4",
+              "titulo": "Situación especial de los funcionarios de organismos públicos afiliados que se encuentren regidos por la Ley Nº18.834 y por la Ley N°18.883",
+              "titulo_completo": "3.1.10.4 Situación especial de los funcionarios de organismos públicos afiliados que se encuentren regidos por la Ley Nº18.834 y por la Ley N°18.883",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593635.html",
+              "pvid": "593635",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.10.5",
+              "titulo": "Tasa de interés",
+              "titulo_completo": "3.1.10.5 Tasa de interés",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593636.html",
+              "pvid": "593636",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "3.1.10.5.1",
+                  "titulo": "Tasa de Interés de Colocación",
+                  "titulo_completo": "3.1.10.5.1 Tasa de Interés de Colocación",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-593637.html",
+                  "pvid": "593637",
+                  "nivel": 4
+                },
+                {
+                  "numero": "3.1.10.5.2",
+                  "titulo": "Intereses que se deben aplicar en caso de morosidad",
+                  "titulo_completo": "3.1.10.5.2 Intereses que se deben aplicar en caso de morosidad",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-593639.html",
+                  "pvid": "593639",
+                  "nivel": 4
+                },
+                {
+                  "numero": "3.1.10.5.3",
+                  "titulo": "Información que debe contener la pizarra y la página web",
+                  "titulo_completo": "3.1.10.5.3 Información que debe contener la pizarra y la página web",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-593640.html",
+                  "pvid": "593640",
+                  "nivel": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "3.1.11",
+          "titulo": "DIGITALIZACIÓN DE LOS DOCUMENTOS DEL CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.11 DIGITALIZACIÓN DE LOS DOCUMENTOS DEL CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593641.html",
+          "pvid": "593641",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.12",
+          "titulo": "RESPONSABILIDAD EN EL OTORGAMIENTO DEL CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.12 RESPONSABILIDAD EN EL OTORGAMIENTO DEL CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593642.html",
+          "pvid": "593642",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.13",
+          "titulo": "RENEGOCIACIÓN Y REPROGRAMACIÓN DE CRÉDITO SOCIAL Y SUS EFECTOS",
+          "titulo_completo": "3.1.13 RENEGOCIACIÓN Y REPROGRAMACIÓN DE CRÉDITO SOCIAL Y SUS EFECTOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593643.html",
+          "pvid": "593643",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "3.1.13.1",
+              "titulo": "Renegociación",
+              "titulo_completo": "3.1.13.1 Renegociación",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593644.html",
+              "pvid": "593644",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.13.2",
+              "titulo": "Reprogramación",
+              "titulo_completo": "3.1.13.2 Reprogramación",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593645.html",
+              "pvid": "593645",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "3.1.14",
+          "titulo": "PAGO ANTICIPADO DEL CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.14 PAGO ANTICIPADO DEL CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593646.html",
+          "pvid": "593646",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "3.1.14.1",
+              "titulo": "Pago anticipado de deuda",
+              "titulo_completo": "3.1.14.1 Pago anticipado de deuda",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593647.html",
+              "pvid": "593647",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.14.2",
+              "titulo": "Pago anticipado de cuotas",
+              "titulo_completo": "3.1.14.2 Pago anticipado de cuotas",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593648.html",
+              "pvid": "593648",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.14.3",
+              "titulo": "Liquidación cuando opera cláusula de aceleración",
+              "titulo_completo": "3.1.14.3 Liquidación cuando opera cláusula de aceleración",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593649.html",
+              "pvid": "593649",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "3.1.15",
+          "titulo": "PAGARÉ",
+          "titulo_completo": "3.1.15 PAGARÉ",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593650.html",
+          "pvid": "593650",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "3.1.15.1",
+              "titulo": "Cláusulas obligatorias",
+              "titulo_completo": "3.1.15.1 Cláusulas obligatorias",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593651.html",
+              "pvid": "593651",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.15.2",
+              "titulo": "Cláusulas Voluntarias",
+              "titulo_completo": "3.1.15.2 Cláusulas Voluntarias",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593652.html",
+              "pvid": "593652",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.15.3",
+              "titulo": "Obligaciones tributarias",
+              "titulo_completo": "3.1.15.3 Obligaciones tributarias",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593653.html",
+              "pvid": "593653",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.15.4",
+              "titulo": "Firma ante Notario Público",
+              "titulo_completo": "3.1.15.4 Firma ante Notario Público",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593654.html",
+              "pvid": "593654",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.15.5",
+              "titulo": "Fecha de fijación de la tasa de interés",
+              "titulo_completo": "3.1.15.5 Fecha de fijación de la tasa de interés",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593655.html",
+              "pvid": "593655",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.15.6",
+              "titulo": "Registro computacional de los pagarés",
+              "titulo_completo": "3.1.15.6 Registro computacional de los pagarés",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593656.html",
+              "pvid": "593656",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.15.7",
+              "titulo": "Custodia de los pagarés",
+              "titulo_completo": "3.1.15.7 Custodia de los pagarés",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593657.html",
+              "pvid": "593657",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.15.8",
+              "titulo": "Devolución de pagarés",
+              "titulo_completo": "3.1.15.8 Devolución de pagarés",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593658.html",
+              "pvid": "593658",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "3.1.16",
+          "titulo": "ENTREGA DEL CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.16 ENTREGA DEL CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593659.html",
+          "pvid": "593659",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.17",
+          "titulo": "RECAUDACIÓN DEL CRÉDITO SOCIAL",
+          "titulo_completo": "3.1.17 RECAUDACIÓN DEL CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593660.html",
+          "pvid": "593660",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "3.1.17.1",
+              "titulo": "Recaudación de las cuotas mensuales",
+              "titulo_completo": "3.1.17.1 Recaudación de las cuotas mensuales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593661.html",
+              "pvid": "593661",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.17.2",
+              "titulo": "Cobranza de créditos morosos",
+              "titulo_completo": "3.1.17.2 Cobranza de créditos morosos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593662.html",
+              "pvid": "593662",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.17.3",
+              "titulo": "Reinicio de Descuentos",
+              "titulo_completo": "3.1.17.3 Reinicio de Descuentos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593663.html",
+              "pvid": "593663",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.17.4",
+              "titulo": "Pago directo por el trabajador dependiente en caso de morosidad del empleador",
+              "titulo_completo": "3.1.17.4 Pago directo por el trabajador dependiente en caso de morosidad del empleador",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593664.html",
+              "pvid": "593664",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.17.5",
+              "titulo": "Descuento a los avales",
+              "titulo_completo": "3.1.17.5 Descuento a los avales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593665.html",
+              "pvid": "593665",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.17.6",
+              "titulo": "Deducción de saldos de crédito social de la indemnización por años de servicios",
+              "titulo_completo": "3.1.17.6 Deducción de saldos de crédito social de la indemnización por años de servicios",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593666.html",
+              "pvid": "593666",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.17.7",
+              "titulo": "Deducción de saldos de crédito social de las remuneraciones en el evento de término de la relación laboral",
+              "titulo_completo": "3.1.17.7 Deducción de saldos de crédito social de las remuneraciones en el evento de término de la relación laboral",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593667.html",
+              "pvid": "593667",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.17.8",
+              "titulo": "Extinción de la deuda por parte del trabajador dependiente",
+              "titulo_completo": "3.1.17.8 Extinción de la deuda por parte del trabajador dependiente",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593668.html",
+              "pvid": "593668",
+              "nivel": 3
+            },
+            {
+              "numero": "3.1.17.9",
+              "titulo": "Descuentos de cuotas de crédito social en las situaciones que indica.",
+              "titulo_completo": "3.1.17.9 Descuentos de cuotas de crédito social en las situaciones que indica.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-593669.html",
+              "pvid": "593669",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "3.1.18",
+          "titulo": "REGLAMENTOS PARTICULARES",
+          "titulo_completo": "3.1.18 REGLAMENTOS PARTICULARES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593670.html",
+          "pvid": "593670",
+          "nivel": 2
+        },
+        {
+          "numero": "3.1.19",
+          "titulo": "ANEXOS",
+          "titulo_completo": "3.1.19 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593671.html",
+          "pvid": "593671",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "3.2",
+      "titulo": "TÍTULO II. DE LA INTERMEDIACIÓN FINANCIERA",
+      "titulo_completo": "3.2 TÍTULO II. DE LA INTERMEDIACIÓN FINANCIERA",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-593672.html",
+      "pvid": "593672",
+      "nivel": 1
+    },
+    {
+      "numero": "3.3",
+      "titulo": "TÍTULO III. INFORMACIÓN, EDUCACIÓN Y PUBLICIDAD RESPONSABLE",
+      "titulo_completo": "3.3 TÍTULO III. INFORMACIÓN, EDUCACIÓN Y PUBLICIDAD RESPONSABLE",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-593673.html",
+      "pvid": "593673",
+      "nivel": 1
+    },
+    {
+      "numero": "3.4",
+      "titulo": "TÍTULO IV. CRÉDITO SOCIAL DESTINADO A LA ADQUISICIÓN DE VIVIENDAS",
+      "titulo_completo": "3.4 TÍTULO IV. CRÉDITO SOCIAL DESTINADO A LA ADQUISICIÓN DE VIVIENDAS",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-593674.html",
+      "pvid": "593674",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "3.4.1",
+          "titulo": "INSTRUCCIONES APLICABLES",
+          "titulo_completo": "3.4.1 INSTRUCCIONES APLICABLES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593675.html",
+          "pvid": "593675",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.2",
+          "titulo": "CRÉDITO SOCIAL PARA LA ADQUISICIÓN DE VIVIENDAS",
+          "titulo_completo": "3.4.2 CRÉDITO SOCIAL PARA LA ADQUISICIÓN DE VIVIENDAS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593676.html",
+          "pvid": "593676",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.3",
+          "titulo": "MONTO MÁXIMO Y PLAZO DEL MUTUO",
+          "titulo_completo": "3.4.3 MONTO MÁXIMO Y PLAZO DEL MUTUO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593677.html",
+          "pvid": "593677",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.4",
+          "titulo": "GARANTÍA",
+          "titulo_completo": "3.4.4 GARANTÍA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593678.html",
+          "pvid": "593678",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.5",
+          "titulo": "CONTRATO",
+          "titulo_completo": "3.4.5 CONTRATO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593679.html",
+          "pvid": "593679",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.6",
+          "titulo": "TASACIÓN DE LA VIVIENDA QUE SE DARÁ EN GARANTÍA",
+          "titulo_completo": "3.4.6 TASACIÓN DE LA VIVIENDA QUE SE DARÁ EN GARANTÍA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593680.html",
+          "pvid": "593680",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.7",
+          "titulo": "HIPOTECA Y GRAVÁMENES",
+          "titulo_completo": "3.4.7 HIPOTECA Y GRAVÁMENES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593681.html",
+          "pvid": "593681",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.8",
+          "titulo": "SEGUROS DE INCENDIO Y DESGRAVAMEN",
+          "titulo_completo": "3.4.8 SEGUROS DE INCENDIO Y DESGRAVAMEN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593682.html",
+          "pvid": "593682",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.9",
+          "titulo": "TASA DE INTERÉS, MONEDA Y REAJUSTE",
+          "titulo_completo": "3.4.9 TASA DE INTERÉS, MONEDA Y REAJUSTE",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593683.html",
+          "pvid": "593683",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.10",
+          "titulo": "DIVIDENDOS HIPOTECARIOS",
+          "titulo_completo": "3.4.10 DIVIDENDOS HIPOTECARIOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593684.html",
+          "pvid": "593684",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.11",
+          "titulo": "PAGO DE DIVIDENDOS",
+          "titulo_completo": "3.4.11 PAGO DE DIVIDENDOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593685.html",
+          "pvid": "593685",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.12",
+          "titulo": "TABLAS DE DESARROLLO Y ALGORITMO DE CÁLCULO",
+          "titulo_completo": "3.4.12 TABLAS DE DESARROLLO Y ALGORITMO DE CÁLCULO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593686.html",
+          "pvid": "593686",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.13",
+          "titulo": "AMORTIZACIONES EXTRAORDINARIAS",
+          "titulo_completo": "3.4.13 AMORTIZACIONES EXTRAORDINARIAS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593687.html",
+          "pvid": "593687",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.14",
+          "titulo": "GASTOS DE CARGO DEL DEUDOR HIPOTECARIO",
+          "titulo_completo": "3.4.14 GASTOS DE CARGO DEL DEUDOR HIPOTECARIO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593688.html",
+          "pvid": "593688",
+          "nivel": 2
+        },
+        {
+          "numero": "3.4.15",
+          "titulo": "NORMAS MÍNIMAS OBLIGATORIAS DE RESGUARDO QUE DEBEN ADOPTAR LAS C.C.A.F. PARA LA CONCESIÓN Y ADMINISTRACIÓN DEL MUTUO HIPOTECARIO",
+          "titulo_completo": "3.4.15 NORMAS MÍNIMAS OBLIGATORIAS DE RESGUARDO QUE DEBEN ADOPTAR LAS C.C.A.F. PARA LA CONCESIÓN Y ADMINISTRACIÓN DEL MUTUO HIPOTECARIO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593689.html",
+          "pvid": "593689",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "3.5",
+      "titulo": "TÍTULO V. PORTABILIDAD FINANCIERA",
+      "titulo_completo": "3.5 TÍTULO V. PORTABILIDAD FINANCIERA",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-593690.html",
+      "pvid": "593690",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "3.5.1",
+          "titulo": "TASA DE INTERÉS",
+          "titulo_completo": "3.5.1 TASA DE INTERÉS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593691.html",
+          "pvid": "593691",
+          "nivel": 2
+        },
+        {
+          "numero": "3.5.2",
+          "titulo": "TRAMOS",
+          "titulo_completo": "3.5.2 TRAMOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593692.html",
+          "pvid": "593692",
+          "nivel": 2
+        },
+        {
+          "numero": "3.5.3",
+          "titulo": "RENEGOCIACIÓN",
+          "titulo_completo": "3.5.3 RENEGOCIACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593693.html",
+          "pvid": "593693",
+          "nivel": 2
+        },
+        {
+          "numero": "3.5.4",
+          "titulo": "CUOTAS EN TRÁNSITO",
+          "titulo_completo": "3.5.4 CUOTAS EN TRÁNSITO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593694.html",
+          "pvid": "593694",
+          "nivel": 2
+        },
+        {
+          "numero": "3.5.5",
+          "titulo": "REGULACIÓN SUPLETORIA",
+          "titulo_completo": "3.5.5 REGULACIÓN SUPLETORIA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593695.html",
+          "pvid": "593695",
+          "nivel": 2
+        },
+        {
+          "numero": "3.5.6",
+          "titulo": "ACUERDOS DE DIRECTORIO",
+          "titulo_completo": "3.5.6 ACUERDOS DE DIRECTORIO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593696.html",
+          "pvid": "593696",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "3.6",
+      "titulo": "TÍTULO VI. AUDIENCIA DE DETERMINACIÓN DEL PASIVO DE UN AFILIADO QUE SE HA ACOGIDO AL PROCEDIMIENTO DE RENEGOCIACIÓN DE LA LEY N° 20.720",
+      "titulo_completo": "3.6 TÍTULO VI. AUDIENCIA DE DETERMINACIÓN DEL PASIVO DE UN AFILIADO QUE SE HA ACOGIDO AL PROCEDIMIENTO DE RENEGOCIACIÓN DE LA LEY N° 20.720",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-593697.html",
+      "pvid": "593697",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "3.6.1",
+          "titulo": "CONSIDERACIONES GENERALES",
+          "titulo_completo": "3.6.1 CONSIDERACIONES GENERALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593698.html",
+          "pvid": "593698",
+          "nivel": 2
+        },
+        {
+          "numero": "3.6.2",
+          "titulo": "PROCEDIMIENTO",
+          "titulo_completo": "3.6.2 PROCEDIMIENTO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593699.html",
+          "pvid": "593699",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "3.7",
+      "titulo": "TÍTULO VII. CRÉDITOS UNIVERSALES",
+      "titulo_completo": "3.7 TÍTULO VII. CRÉDITOS UNIVERSALES",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-593700.html",
+      "pvid": "593700",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "3.7.1",
+          "titulo": "INSTRUCCIONES APLICABLES",
+          "titulo_completo": "3.7.1 INSTRUCCIONES APLICABLES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593701.html",
+          "pvid": "593701",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.2",
+          "titulo": "CRÉDITOS UNIVERSALES DEL ARTÍCULO 7° DE LA LEY N°20.448",
+          "titulo_completo": "3.7.2 CRÉDITOS UNIVERSALES DEL ARTÍCULO 7° DE LA LEY N°20.448",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593702.html",
+          "pvid": "593702",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.3",
+          "titulo": "DEFINICIONES",
+          "titulo_completo": "3.7.3 DEFINICIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593703.html",
+          "pvid": "593703",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.4",
+          "titulo": "CONDICIONES",
+          "titulo_completo": "3.7.4 CONDICIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593704.html",
+          "pvid": "593704",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.5",
+          "titulo": "CONTRATOS CRÉDITOS UNIVERSALES",
+          "titulo_completo": "3.7.5 CONTRATOS CRÉDITOS UNIVERSALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593705.html",
+          "pvid": "593705",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.6",
+          "titulo": "INFORMACIÓN MÍNIMA OBLIGATORIA",
+          "titulo_completo": "3.7.6 INFORMACIÓN MÍNIMA OBLIGATORIA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593706.html",
+          "pvid": "593706",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.7",
+          "titulo": "PROVISIONES",
+          "titulo_completo": "3.7.7 PROVISIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593707.html",
+          "pvid": "593707",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.8",
+          "titulo": "FORMATO DE INFORMACIÓN MÍNIMA PARA LA COTIZACIÓN DE CRÉDITO UNIVERSAL",
+          "titulo_completo": "3.7.8 FORMATO DE INFORMACIÓN MÍNIMA PARA LA COTIZACIÓN DE CRÉDITO UNIVERSAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593708.html",
+          "pvid": "593708",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.9",
+          "titulo": "EJEMPLO DE APLICACIÓN DE LA CAE EN UN CRÉDITO UNIVERSAL DE CONSUMO PARA UNA CAJA DE COMPENSACIÓN",
+          "titulo_completo": "3.7.9 EJEMPLO DE APLICACIÓN DE LA CAE EN UN CRÉDITO UNIVERSAL DE CONSUMO PARA UNA CAJA DE COMPENSACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593709.html",
+          "pvid": "593709",
+          "nivel": 2
+        },
+        {
+          "numero": "3.7.10",
+          "titulo": "ANEXOS",
+          "titulo_completo": "3.7.10 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593710.html",
+          "pvid": "593710",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "3.8",
+      "titulo": "TÍTULO VIII. PAGOS Y COBROS EN EXCESO GENERADOS EN EL TRANSCURSO DEL SERVICIO DE UN CRÉDITO SOCIAL",
+      "titulo_completo": "3.8 TÍTULO VIII. PAGOS Y COBROS EN EXCESO GENERADOS EN EL TRANSCURSO DEL SERVICIO DE UN CRÉDITO SOCIAL",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-593711.html",
+      "pvid": "593711",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "3.8.1",
+          "titulo": "PAGOS EN EXCESO DE CRÉDITO SOCIAL",
+          "titulo_completo": "3.8.1 PAGOS EN EXCESO DE CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593712.html",
+          "pvid": "593712",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.2",
+          "titulo": "ESTADOS DE PAGOS EN EXCESO",
+          "titulo_completo": "3.8.2 ESTADOS DE PAGOS EN EXCESO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593713.html",
+          "pvid": "593713",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.3",
+          "titulo": "CAUSALES DE BAJA DE PAGOS EN EXCESO",
+          "titulo_completo": "3.8.3 CAUSALES DE BAJA DE PAGOS EN EXCESO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593714.html",
+          "pvid": "593714",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.4",
+          "titulo": "MEDIDAS PARA MITIGAR LA GENERACIÓN DE PAGOS EN EXCESO",
+          "titulo_completo": "3.8.4 MEDIDAS PARA MITIGAR LA GENERACIÓN DE PAGOS EN EXCESO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593715.html",
+          "pvid": "593715",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.5",
+          "titulo": "MEDIDAS PARA LA DEVOLUCIÓN DE PAGOS EN EXCESO",
+          "titulo_completo": "3.8.5 MEDIDAS PARA LA DEVOLUCIÓN DE PAGOS EN EXCESO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593716.html",
+          "pvid": "593716",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.6",
+          "titulo": "PROCEDIMIENTOS DE DEVOLUCIÓN DE PAGOS EN EXCESO",
+          "titulo_completo": "3.8.6 PROCEDIMIENTOS DE DEVOLUCIÓN DE PAGOS EN EXCESO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593717.html",
+          "pvid": "593717",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.7",
+          "titulo": "INFORMACIÓN RESPECTO DE PAGOS EN EXCESO",
+          "titulo_completo": "3.8.7 INFORMACIÓN RESPECTO DE PAGOS EN EXCESO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593718.html",
+          "pvid": "593718",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.8",
+          "titulo": "CONTABILIZACIÓN",
+          "titulo_completo": "3.8.8 CONTABILIZACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593719.html",
+          "pvid": "593719",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.9",
+          "titulo": "INFORMACIÓN PARA ESTA SUPERINTENDENCIA",
+          "titulo_completo": "3.8.9 INFORMACIÓN PARA ESTA SUPERINTENDENCIA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593720.html",
+          "pvid": "593720",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.10",
+          "titulo": "AUTORIZACIÓN DE USUARIOS",
+          "titulo_completo": "3.8.10 AUTORIZACIÓN DE USUARIOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593721.html",
+          "pvid": "593721",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.11",
+          "titulo": "SISTEMA DE ENVÍO DE REPORTES",
+          "titulo_completo": "3.8.11 SISTEMA DE ENVÍO DE REPORTES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593722.html",
+          "pvid": "593722",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.12",
+          "titulo": "PROCEDIMIENTO DE AJUSTES",
+          "titulo_completo": "3.8.12 PROCEDIMIENTO DE AJUSTES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593723.html",
+          "pvid": "593723",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.13",
+          "titulo": "COBROS EN EXCESO",
+          "titulo_completo": "3.8.13 COBROS EN EXCESO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593724.html",
+          "pvid": "593724",
+          "nivel": 2
+        },
+        {
+          "numero": "3.8.14",
+          "titulo": "ANEXOS",
+          "titulo_completo": "3.8.14 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-593725.html",
+          "pvid": "593725",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "3.9",
+      "titulo": "TÍTULO IX. CRÉDITOS SOCIALES EN EL MARCO DE LA LEY N°21.389",
+      "titulo_completo": "3.9 TÍTULO IX. CRÉDITOS SOCIALES EN EL MARCO DE LA LEY N°21.389",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-664020.html",
+      "pvid": "664020",
+      "nivel": 1
+    }
+  ]
+}

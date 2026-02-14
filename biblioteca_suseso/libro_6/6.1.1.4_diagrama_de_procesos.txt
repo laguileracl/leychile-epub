@@ -1,0 +1,4 @@
+6.1.1.4 Diagrama de procesos
+============================
+
+Corresponde a la representación esquemática de las secuencias de un proceso o subproceso mediante un mapa de procesos y su descripción. El responsable de esta documentación es el dueño del proceso.

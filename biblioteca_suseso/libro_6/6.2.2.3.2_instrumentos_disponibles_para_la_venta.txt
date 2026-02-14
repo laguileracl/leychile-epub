@@ -1,0 +1,6 @@
+6.2.2.3.2 Instrumentos Disponibles para la Venta
+================================================
+
+Se trata de instrumentos que no se encuentran en el libro de negociación, pero que se identifican como potencialmente liquidables en el mercado financiero, en la medida que exista un mercado secundario para estos instrumentos. Esta cartera típicamente se mantiene con objetivos de financiamiento o de coberturas del balance.
+
+Las Cajas que clasifiquen instrumentos en este sub-libro, sólo pueden reclasificar dichos instrumentos en el libro de negociación (transición), no pudiendo reclasificarse ningún instrumento que haya sido clasificado como "Disponible para la venta", en el libro de "Instrumentos Financieros a Vencimiento".

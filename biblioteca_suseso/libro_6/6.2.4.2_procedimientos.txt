@@ -1,0 +1,26 @@
+6.2.4.2 Procedimientos
+======================
+
+Se deben detallar en un documento los procedimientos generales para identificar, medir, controlar y divulgar los riesgos, los que por ningún motivo pueden tener contradicciones con los principios de la política de riesgo de mercado. Estos procedimientos deben incluir al menos, los siguientes aspectos:
+
+Procedimientos asociados a la identificación de riesgos de mercado, relacionados tanto con el análisis de la cartera como el entorno de mercado.
+
+Valorización de los activos financieros de la cartera de negociación con precios de mercado obtenidos de la Superintendencia de Pensiones.
+
+El procedimiento para la evaluación de riesgos de nuevos instrumentos, incluyendo, entre otros aspectos, una descripción general de la nueva operación, producto o servicio, la identificación de los riesgos implícitos, y el procedimiento a utilizar para medir, controlar y divulgar tales riesgos.
+
+Procesos asociados al análisis de mercado que permita monitorear los factores de riesgo y generar estadísticas relevantes, incluidos los procedimientos de registro y validación de información de mercado. Las series históricas de los indicadores de riesgo que se generen deben estar disponibles con un historial de al menos dos años, con el fin de llevar a cabo análisis de tendencias.
+
+El procedimiento general para el almacenamiento de los datos e informes de riesgos. Este procedimiento debe asegurar que la información que sirve de base en las metodologías de medición de riesgos, sea precisa, íntegra, oportuna y quede archivada por al menos dos años. Toda modificación a dicha información debe quedar documentada y con la explicación sobre su naturaleza y motivo que la originó.
+
+Descripción del proceso de medición de riesgo, acorde a metodologías y modelos que hayan sido aprobadas por el Directorio.
+
+Procedimientos de análisis de sensibilidad o stress testing, especialmente en situaciones extremas y realistas.
+
+Procedimientos de monitoreo límites y acciones a seguir para que dichos límites se cumplan.
+
+Procesos de control que permitan comparar las exposiciones de riesgo de mercado estimadas con los resultados efectivamente observados (backtesting).
+
+Procedimientos para monitorear las brechas en tasas de interés.
+
+Descripción de los procesos de divulgación de información de riesgos de mercado y de las medidas para mitigar la exposición a este riesgo. En particular cómo la Caja de Compensación vela porque se divulgue la información al mercado de manera transparente y en un lenguaje sencillo, contemplando al menos la explicación de los principales riesgos a los que están expuestos y las medidas que se llevan a cabo para controlarlos.

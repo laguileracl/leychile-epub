@@ -1,0 +1,4 @@
+5.2.3.4.3 Registro oportuno y adecuado de las transacciones y operaciones
+=========================================================================
+
+Las transacciones y operaciones que afectan a una entidad deben registrarse inmediatamente y ser debidamente clasificadas, así como sus controles y evaluaciones.

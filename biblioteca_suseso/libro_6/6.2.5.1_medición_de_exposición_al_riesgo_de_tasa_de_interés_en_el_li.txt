@@ -1,0 +1,34 @@
+6.2.5.1 Medición de exposición al riesgo de tasa de interés en el Libro de Negociación
+======================================================================================
+
+La exposición al riesgo de tasa de interés se calcula ponderando la posición neta del libro de negociación por factores de sensibilidad de tasa en pesos y en UF.
+
+Así, la exposición al riesgo de tasas en pesos para el Libro de Negociación se calcula en miles de pesos, como sigue:
+
+(Ecuación 1)
+
+A su vez, la exposición al riesgo de tasas en UF para el Libro de Negociación se calcula, en miles de pesos, como:
+
+(Ecuación 2)
+
+Donde,
+
+representa los flujos asociados a los activos del Libro de Negociación denominados originalmente en pesos, incluyendo amortizaciones e intereses correspondientes a la banda t, expresados en miles de pesos.
+
+representa los flujos asociados a los pasivos (en valor absoluto) del Libro de Negociación denominados originalmente en pesos, incluyendo amortizaciones e intereses correspondientes a la banda t, expresados en miles de pesos.
+
+representa los flujos asociados a los activos del Libro de Negociación denominados originalmente en UF o IVP, incluyendo amortizaciones e intereses correspondientes a la banda t, expresados en miles de pesos.
+
+representa los flujos asociados a los pasivos (en valor absoluto) del Libro de Negociación denominados originalmente en UF o IVP, incluyendo amortizaciones e intereses correspondientes a la banda t, expresados en miles de pesos.
+
+factor que mide la sensibilidad de las posiciones en UF o IVP para la banda t.
+
+factor que mide la sensibilidad de las posiciones en pesos para la banda t.
+
+Los factores de sensibilidad se miden por banda y moneda de acuerdo a la Tabla 1 del Anexo N°2: Factores de sensibilidad del Título II del Libro VI del Compendio de la Ley N°18.833.
+
+La exposición total al riesgo de tasa de interés para el libro de negociación se calcula como:
+
+(Ecuación 3)
+
+Cada Caja debe medir la exposición al riesgo de tasa de interés para el Libro de Negociación quincenalmente, y establecer un límite como proporción del margen financiero trimestral promedio de los últimos cuatro trimestres (promedio calculado con cuatro trimestres móviles no traslapado). El margen financiero se define como los ingresos por intereses y reajustes menos los gastos por intereses y reajustes, por crédito social. Dicho límite debe ser justificado, y su nivel revisado al menos una vez al año, y aprobado por el Directorio.

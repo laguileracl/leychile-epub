@@ -1,0 +1,8 @@
+5.2.3.4.6 Acceso restringido a los recursos, activos y registros
+================================================================
+
+Las Cajas deben proteger y limitar el acceso a los recursos, activos, registros y comprobantes. Las personas autorizadas para acceder a estos datos, deben tener accesos registrados y tener controles de acceso a la información en custodia además de registros de su utilización.
+
+Todo activo de valor o de información debe ser asignado a un responsable por su custodia y es responsabilidad de la administración superior velar porque se cuente con adecuadas protecciones, mediante el uso de seguros, almacenaje, sistemas de alarma, claves de acceso, sistemas de respaldo, etc., en base al cumplimiento de la seguridad de la información, complementario a la Gestión del Riesgo Operacional.
+
+Los activos deben estar debidamente registrados y periódicamente, sin previo aviso, se deben cotejar las existencias físicas con los registros contables para verificar su coincidencia. La frecuencia de la comparación debe ser definida por la alta administración, dependiendo del nivel de vulnerabilidad del activo.

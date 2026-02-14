@@ -1,0 +1,50 @@
+5.4.7.2 Acreditación de movimiento de personal
+==============================================
+
+Para efectos de que el empleador pueda consignar el término o la suspensión de la relación laboral de sus trabajadores, la respectiva C.C.A.F. debe incluir en la planilla de declaración y pago y, en la planilla de declaración y no pago tres columnas: la primera, para registrar el código correspondiente a la causa del término o de suspensión de la relación laboral; la segunda, para indicar la fecha de inicio del movimiento de personal y la tercera, para consignar la fecha de término.
+
+En la fecha de inicio se debe indicar el día, mes y año en que se produce el movimiento de personal.
+
+En la fecha de término, cuando corresponda, se debe informar la fecha de término efectivo, aunque exceda del mes informado.
+
+Los subsidios por incapacidad laboral y permisos sin goce de remuneraciones cuya duración exceda del mes informado, se deben indicar por una vez, en la planilla correspondiente al mes de inicio del subsidio o del permiso.
+
+Los códigos a utilizar para informar el movimiento de personal son los siguientes.
+
+Código | Causas
+1 | Término de Contrato.
+2 | Licencia Médica por enfermedad o accidente común.
+3 | Licencia Médica por enfermedad o accidente laboral.
+4 | Licencia Médica por reposo pre y post natal y por enfermedad grave de niño menor de un año.
+5 | Permiso sin goce de remuneraciones.
+6 | Otros (especificar).
+
+Código
+
+Causas
+
+1
+
+Término de Contrato.
+
+2
+
+Licencia Médica por enfermedad o accidente común.
+
+3
+
+Licencia Médica por enfermedad o accidente laboral.
+
+4
+
+Licencia Médica por reposo pre y post natal y por enfermedad grave de niño menor de un año.
+
+5
+
+Permiso sin goce de remuneraciones.
+
+6
+
+Otros (especificar).
+
+En tanto las planillas no se hayan modificado, el empleador debe consignar el término o la suspensión de la relación laboral en un anexo que registre el nombre del trabajador afecto a algún tipo de movimiento de personal, el código correspondiente a la causa del movimiento y las fechas de inicio y de término del mismo. Este anexo debe ser presentado conjuntamente con la planilla de declaración y pago de cotizaciones.

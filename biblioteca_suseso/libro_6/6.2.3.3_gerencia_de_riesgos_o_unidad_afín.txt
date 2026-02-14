@@ -1,0 +1,32 @@
+6.2.3.3 Gerencia de Riesgos o Unidad Afín
+=========================================
+
+Esta Superintendencia recomienda dentro del marco de adopción de buenas prácticas, contar con una Gerencia de Riesgos o unidad afín con funciones bien definidas, en la cual se designe un responsable para administrar los riesgos de mercado, asegurándose de que exista la adecuada separación de funciones en los elementos esenciales del proceso de administración del riesgo y la suficiente independencia para evitar potenciales conflictos de intereses en la toma de decisiones financieras. La Gerencia de Riesgos o Unidad Afín debe existir dentro de la estructura organizacional de la entidad y ser independiente de las áreas de operación, finanzas y comercial.
+
+La Gerencia de Riesgos o Unidad Afín debe ser responsable de que los riesgos asumidos por la entidad se encuentren en los niveles deseados y definidos por el Directorio (en términos de los límites globales definidos), por lo cual debe mantener permanente conocimiento de los niveles, evolución y potenciales riesgos que puedan afectar al balance de la entidad. Esta unidad es por lo tanto, la encargada de dar cumplimiento a la estructura de límites, analizar y proponer al Directorio de la entidad la disminución o aumento de límites de exposición.
+
+La Gerencia de Riesgos o Unidad Afín para desempeñar su labor debería realizar funciones como:
+
+Proponer al Directorio para su aprobación o actualización, las políticas y procedimientos para la gestión de riesgos de mercado.
+
+Vigilar que la realización de las operaciones de la Caja se ajuste a las políticas y procedimientos para la gestión de riesgos de mercado.
+
+Analizar y proponer posibles cambios de los límites de riesgo de mercado y tasas de interés, revisando continuamente su cumplimiento.
+
+Responder y actuar frente a los excesos de los límites.
+
+Analizar e investigar tareas específicas del riesgo de mercado, en particular revisar y evaluar el riesgo de mercado de todas las transacciones importantes a juicio de la Caja antes de su ejecución.
+
+Asegurar que las recomendaciones de las autoridades de regulación y de los auditores internos, sean seguidas apropiadamente.
+
+Presentar al Directorio para su aprobación el test de estrés que luego debe ser enviado a esta Superintendencia según la periodicidad indicada en el Número 6.2.6. del Título II del Libro VI del Compendio de la Ley N°18.833.
+
+Mantener a los equipos humanos, encargados del control y medición de riesgos, al día en los desarrollos metodológicos, regulatorios, y tecnológicos relevantes.
+
+Informar al Directorio, al menos trimestralmente, sobre:
+
+El cumplimiento de las políticas y procedimientos descritos anteriormente.
+
+Un resumen de las decisiones tomadas por la Gerencia de Riesgos o Unidad Afín.
+
+Desempeñar otras funciones que el Directorio le asigne relacionadas con la gestión de riesgos.

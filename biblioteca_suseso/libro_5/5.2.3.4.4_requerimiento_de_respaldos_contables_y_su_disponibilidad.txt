@@ -1,0 +1,4 @@
+5.2.3.4.4 Requerimiento de respaldos contables y su disponibilidad
+==================================================================
+
+Los registros contables deben quedar respaldados con la documentación de soporte respectiva según los plazos establecidos en la legislación vigente. Esta documentación tiene que quedar adecuadamente disponible para permitir y facilitar las revisiones internas y externas, incluidas la revisión de esta Superintendencia. El acceso a estos respaldos no debe depender de la presencia o ausencia de las personas, ni de los servicios de custodia y almacenaje contratados para ello, incorporando los mismos a los Sistemas de Seguridad de la Información implementados.

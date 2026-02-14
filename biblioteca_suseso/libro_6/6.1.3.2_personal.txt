@@ -1,0 +1,4 @@
+6.1.3.2 Personal
+================
+
+La Caja de Compensación debe gestionar apropiadamente los riesgos asociados al personal, relacionados a la inadecuada capacitación, negligencia, conductas inapropiadas de los mismos, seguridad en el puesto de trabajo, error humano, fraude, robo, huelgas, apropiación de información sensible, entre otros.

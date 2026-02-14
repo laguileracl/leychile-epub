@@ -1,0 +1,6 @@
+5.4.9.2 Medios de trasmisión de la información
+==============================================
+
+Para la transmisión de la información se deben utilizar casillas FTP, dispuestas por FONASA, con el fin de garantizar la seguridad que sea necesaria para la recepción oportuna e íntegra de la información.
+
+FONASA, a través del Subdepartamento de Recaudación y Cobranzas, entregará el apoyo necesario a las C.C.A.F. en la utilización de las casillas FTP, a través de correo electrónico: recaudacion@fonasa.cl.

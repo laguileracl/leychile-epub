@@ -1,0 +1,6 @@
+3.1.13.1 Renegociación
+======================
+
+La renegociación de un crédito ya sea que se encuentre en mora o vigente, permite modificar las condiciones originales de éste, como, por ejemplo, la tasa de interés, el número de cuotas, monto de la cuota, entre otros, generando un nuevo crédito con condiciones propias, que extingue el crédito anterior, pudiendo adicionalmente otorgarse un monto mayor. La tasa de interés debe ser la vigente al momento de la renegociación.
+
+No se podrá renegociar un crédito social si éste ya ha sido renegociado alguna vez en los últimos doce meses.

@@ -1,0 +1,4 @@
+6.1.1.7 Riesgo residual
+=======================
+
+Corresponde al nivel de riesgo remanente que existe sin perjuicio de haberse implementado las medidas mitigadoras de control.

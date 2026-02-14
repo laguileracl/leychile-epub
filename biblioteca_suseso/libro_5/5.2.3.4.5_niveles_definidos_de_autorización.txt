@@ -1,0 +1,6 @@
+5.2.3.4.5 Niveles definidos de autorización
+===========================================
+
+Los actos y transacciones relevantes sólo pueden ser autorizados y ejecutados por trabajadores que actúen dentro del ámbito de su autoridad, establecida en su perfil de cargo y su perfil sistémico. La conformidad de las autorizaciones y poderes deben estar en línea con la dirección, misión, estrategia, planes, programas y presupuesto de cada Caja.
+
+Las autorizaciones y poderes otorgados en cada Caja deben encontrarse documentados formalmente y ser comunicados explícitamente tanto al directorio como a las personas o sectores autorizados. Estos últimos deben ejecutar las tareas que se les han asignado, en apego a las directrices definidas y dentro del ámbito de competencias establecidas por la normativa existente.

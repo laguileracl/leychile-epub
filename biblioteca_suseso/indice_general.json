@@ -1,0 +1,491 @@
+{
+  "compendio": "Compendio de Normas que regulan a las Cajas de Compensación de Asignación Familiar",
+  "ley": "Ley 18.833",
+  "fuente": "https://www.suseso.cl/620/w3-propertyname-785.html",
+  "libros": {
+    "2": {
+      "numero": "2",
+      "titulo": "LIBRO II. AFILIACIÓN Y DESAFILIACIÓN",
+      "titulo_completo": "2 LIBRO II. AFILIACIÓN Y DESAFILIACIÓN",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-605090.html",
+      "pvid": "605090",
+      "nivel": 0,
+      "hijos": [
+        {
+          "numero": "2.1",
+          "titulo": "TÍTULO I. AFILIACIÓN DE ENTIDADES EMPLEADORAS",
+          "titulo_completo": "2.1 TÍTULO I. AFILIACIÓN DE ENTIDADES EMPLEADORAS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-605091.html",
+          "pvid": "605091",
+          "nivel": 1,
+          "hijos": [
+            {
+              "numero": "2.1.1",
+              "titulo": "PROCEDIMIENTO DE AFILIACIÓN Y DESAFILIACIÓN PRESENCIAL",
+              "titulo_completo": "2.1.1 PROCEDIMIENTO DE AFILIACIÓN Y DESAFILIACIÓN PRESENCIAL",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605092.html",
+              "pvid": "605092",
+              "nivel": 2,
+              "hijos": [
+                {
+                  "numero": "2.1.1.1",
+                  "titulo": "Procedimiento de Afiliación Presencial",
+                  "titulo_completo": "2.1.1.1 Procedimiento de Afiliación Presencial",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605093.html",
+                  "pvid": "605093",
+                  "nivel": 3,
+                  "hijos": [
+                    {
+                      "numero": "2.1.1.1.1",
+                      "titulo": "Desarrollo de la asamblea de afiliación a una C.C.A.F.",
+                      "titulo_completo": "2.1.1.1.1 Desarrollo de la asamblea de afiliación a una C.C.A.F.",
+                      "url": "https://www.suseso.cl/620/w3-propertyvalue-605094.html",
+                      "pvid": "605094",
+                      "nivel": 4
+                    }
+                  ]
+                },
+                {
+                  "numero": "2.1.1.2",
+                  "titulo": "Procedimiento de Desafiliación Presencial",
+                  "titulo_completo": "2.1.1.2 Procedimiento de Desafiliación Presencial",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605095.html",
+                  "pvid": "605095",
+                  "nivel": 3,
+                  "hijos": [
+                    {
+                      "numero": "2.1.1.2.1",
+                      "titulo": "Desarrollo de la asamblea de desafiliación de una C.C.A.F.",
+                      "titulo_completo": "2.1.1.2.1 Desarrollo de la asamblea de desafiliación de una C.C.A.F.",
+                      "url": "https://www.suseso.cl/620/w3-propertyvalue-605096.html",
+                      "pvid": "605096",
+                      "nivel": 4
+                    }
+                  ]
+                },
+                {
+                  "numero": "2.1.1.3",
+                  "titulo": "Procedimiento de Desafiliación y posterior Afiliación a otra C.C.A.F. en forma presencial.",
+                  "titulo_completo": "2.1.1.3 Procedimiento de Desafiliación y posterior Afiliación a otra C.C.A.F. en forma presencial.",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605097.html",
+                  "pvid": "605097",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.1.1.4",
+                  "titulo": "Fecha desde la cual la Desafiliación produce sus efectos",
+                  "titulo_completo": "2.1.1.4 Fecha desde la cual la Desafiliación produce sus efectos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605098.html",
+                  "pvid": "605098",
+                  "nivel": 3
+                }
+              ]
+            },
+            {
+              "numero": "2.1.2",
+              "titulo": "PROCEDIMIENTO DE AFILIACIÓN Y DESAFILIACIÓN EFECTUADA POR MEDIOS ELECTRÓNICOS",
+              "titulo_completo": "2.1.2 PROCEDIMIENTO DE AFILIACIÓN Y DESAFILIACIÓN EFECTUADA POR MEDIOS ELECTRÓNICOS",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605099.html",
+              "pvid": "605099",
+              "nivel": 2,
+              "hijos": [
+                {
+                  "numero": "2.1.2.1",
+                  "titulo": "Procedimiento general de afiliación a una C.C.A.F., efectuada por medios electrónicos",
+                  "titulo_completo": "2.1.2.1 Procedimiento general de afiliación a una C.C.A.F., efectuada por medios electrónicos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605100.html",
+                  "pvid": "605100",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.1.2.2",
+                  "titulo": "Procedimiento general de desafiliación a una C.C.A.F. a través de medios electrónicos",
+                  "titulo_completo": "2.1.2.2 Procedimiento general de desafiliación a una C.C.A.F. a través de medios electrónicos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605101.html",
+                  "pvid": "605101",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.1.2.3",
+                  "titulo": "Procedimiento de Desafiliación y posterior Afiliación a otra C.C.A.F. por medios electrónicos",
+                  "titulo_completo": "2.1.2.3 Procedimiento de Desafiliación y posterior Afiliación a otra C.C.A.F. por medios electrónicos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605102.html",
+                  "pvid": "605102",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.1.2.4",
+                  "titulo": "Fecha desde la cual la Desafiliación produce sus efectos",
+                  "titulo_completo": "2.1.2.4 Fecha desde la cual la Desafiliación produce sus efectos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605103.html",
+                  "pvid": "605103",
+                  "nivel": 3
+                }
+              ]
+            },
+            {
+              "numero": "2.1.3",
+              "titulo": "AFILIACIÓN Y DESAFILIACIÓN EN FORMA PRESENCIAL O POR MEDIOS ELECTRÓNICOS DE EMPLEADORES DE PERSONAS TRABAJADORAS DE CASA PARTICULAR A C.C.A.F.",
+              "titulo_completo": "2.1.3 AFILIACIÓN Y DESAFILIACIÓN EN FORMA PRESENCIAL O POR MEDIOS ELECTRÓNICOS DE EMPLEADORES DE PERSONAS TRABAJADORAS DE CASA PARTICULAR A C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605104.html",
+              "pvid": "605104",
+              "nivel": 2
+            },
+            {
+              "numero": "2.1.4",
+              "titulo": "INCORPORACIÓN DE LOS TRABAJADORES DEL SECTOR PÚBLICO A LAS C.C.A.F.",
+              "titulo_completo": "2.1.4 INCORPORACIÓN DE LOS TRABAJADORES DEL SECTOR PÚBLICO A LAS C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605105.html",
+              "pvid": "605105",
+              "nivel": 2,
+              "hijos": [
+                {
+                  "numero": "2.1.4.1",
+                  "titulo": "Extensión de cobertura y afiliación de las Entidades Empleadoras del Sector Público a las C.C.A.F.",
+                  "titulo_completo": "2.1.4.1 Extensión de cobertura y afiliación de las Entidades Empleadoras del Sector Público a las C.C.A.F.",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605106.html",
+                  "pvid": "605106",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.1.4.2",
+                  "titulo": "Efectos de la afiliación a C.C.A.F. de las Entidades Empleadoras del Sector Público.",
+                  "titulo_completo": "2.1.4.2 Efectos de la afiliación a C.C.A.F. de las Entidades Empleadoras del Sector Público.",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605107.html",
+                  "pvid": "605107",
+                  "nivel": 3
+                }
+              ]
+            },
+            {
+              "numero": "2.1.5",
+              "titulo": "REGLAS COMUNES A LA AFILIACIÓN Y DESAFILIACIÓN DE ENTIDADES EMPLEADORAS A C.C.A.F.",
+              "titulo_completo": "2.1.5 REGLAS COMUNES A LA AFILIACIÓN Y DESAFILIACIÓN DE ENTIDADES EMPLEADORAS A C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605108.html",
+              "pvid": "605108",
+              "nivel": 2
+            },
+            {
+              "numero": "2.1.6",
+              "titulo": "SITUACIÓN DE AFILIACIONES Y DESAFILIACIONES EN CASO DE DECLARARSE LA INTERVENCIÓN DE UNA CAJA DE COMPENSACIÓN",
+              "titulo_completo": "2.1.6 SITUACIÓN DE AFILIACIONES Y DESAFILIACIONES EN CASO DE DECLARARSE LA INTERVENCIÓN DE UNA CAJA DE COMPENSACIÓN",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605109.html",
+              "pvid": "605109",
+              "nivel": 2
+            },
+            {
+              "numero": "2.1.7",
+              "titulo": "AFILIACIÓN A C.C.A.F. RESPECTO DE PROFESIONALES Y TRABAJADORES QUE SE DESEMPEÑEN EN ESTABLECIMIENTOS DE ATENCIÓN PRIMARIA DE SALUD Y DE AQUELLOS DE ENTIDADES ADMINISTRADORES DE SALUD MUNICIPAL QUE DESEMPEÑEN PERSONALMENTE FUNCIONES Y ACCIONES DIRECTAMENTE RELACIONADAS CON ATENCIÓN PRIMARIA DE SALUD",
+              "titulo_completo": "2.1.7 AFILIACIÓN A C.C.A.F. RESPECTO DE PROFESIONALES Y TRABAJADORES QUE SE DESEMPEÑEN EN ESTABLECIMIENTOS DE ATENCIÓN PRIMARIA DE SALUD Y DE AQUELLOS DE ENTIDADES ADMINISTRADORES DE SALUD MUNICIPAL QUE DESEMPEÑEN PERSONALMENTE FUNCIONES Y ACCIONES DIRECTAMENTE RELACIONADAS CON ATENCIÓN PRIMARIA DE SALUD",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605110.html",
+              "pvid": "605110",
+              "nivel": 2,
+              "hijos": [
+                {
+                  "numero": "2.1.7.1",
+                  "titulo": "Ámbito de aplicación",
+                  "titulo_completo": "2.1.7.1 Ámbito de aplicación",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605111.html",
+                  "pvid": "605111",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.1.7.2",
+                  "titulo": "Afiliación a Cajas de Compensación de Asignación Familiar",
+                  "titulo_completo": "2.1.7.2 Afiliación a Cajas de Compensación de Asignación Familiar",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605112.html",
+                  "pvid": "605112",
+                  "nivel": 3
+                }
+              ]
+            },
+            {
+              "numero": "2.1.8",
+              "titulo": "ANEXOS",
+              "titulo_completo": "2.1.8 ANEXOS",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605113.html",
+              "pvid": "605113",
+              "nivel": 2
+            }
+          ]
+        },
+        {
+          "numero": "2.2",
+          "titulo": "TÍTULO II. AFILIACIÓN DE PENSIONADOS",
+          "titulo_completo": "2.2 TÍTULO II. AFILIACIÓN DE PENSIONADOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-605114.html",
+          "pvid": "605114",
+          "nivel": 1,
+          "hijos": [
+            {
+              "numero": "2.2.1",
+              "titulo": "NORMAS APLICABLES PARA LA AFILIACIÓN Y DESAFILIACIÓN DE PENSIONADOS",
+              "titulo_completo": "2.2.1 NORMAS APLICABLES PARA LA AFILIACIÓN Y DESAFILIACIÓN DE PENSIONADOS",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605115.html",
+              "pvid": "605115",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.2",
+              "titulo": "DERECHO A AFILIARSE",
+              "titulo_completo": "2.2.2 DERECHO A AFILIARSE",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605116.html",
+              "pvid": "605116",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.3",
+              "titulo": "PROCEDIMIENTO DE AFILIACIÓN Y DESAFILIACIÓN DE PENSIONADOS",
+              "titulo_completo": "2.2.3 PROCEDIMIENTO DE AFILIACIÓN Y DESAFILIACIÓN DE PENSIONADOS",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605117.html",
+              "pvid": "605117",
+              "nivel": 2,
+              "hijos": [
+                {
+                  "numero": "2.2.3.1",
+                  "titulo": "Afiliación presencial",
+                  "titulo_completo": "2.2.3.1 Afiliación presencial",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605118.html",
+                  "pvid": "605118",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.3.2",
+                  "titulo": "Afiliación por medios digitales",
+                  "titulo_completo": "2.2.3.2 Afiliación por medios digitales",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605119.html",
+                  "pvid": "605119",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.3.3",
+                  "titulo": "Desafiliación presencial",
+                  "titulo_completo": "2.2.3.3 Desafiliación presencial",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605120.html",
+                  "pvid": "605120",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.3.4",
+                  "titulo": "Desafiliación por medios digitales",
+                  "titulo_completo": "2.2.3.4 Desafiliación por medios digitales",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605121.html",
+                  "pvid": "605121",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.3.5",
+                  "titulo": "Procedimiento de desafiliación del pensionado para afiliarse a otra Caja de Compensación de Asignación Familiar.",
+                  "titulo_completo": "2.2.3.5 Procedimiento de desafiliación del pensionado para afiliarse a otra Caja de Compensación de Asignación Familiar.",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605122.html",
+                  "pvid": "605122",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.3.6",
+                  "titulo": "Procedimiento de desafiliación del Sistema",
+                  "titulo_completo": "2.2.3.6 Procedimiento de desafiliación del Sistema",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605123.html",
+                  "pvid": "605123",
+                  "nivel": 3
+                }
+              ]
+            },
+            {
+              "numero": "2.2.4",
+              "titulo": "PROHIBICIONES COMUNES A LA AFILIACIÓN",
+              "titulo_completo": "2.2.4 PROHIBICIONES COMUNES A LA AFILIACIÓN",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605124.html",
+              "pvid": "605124",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.5",
+              "titulo": "INFORMACIÓN AL PENSIONADO",
+              "titulo_completo": "2.2.5 INFORMACIÓN AL PENSIONADO",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605125.html",
+              "pvid": "605125",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.6",
+              "titulo": "INFORMACIÓN A ESTA SUPERINTENDENCIA",
+              "titulo_completo": "2.2.6 INFORMACIÓN A ESTA SUPERINTENDENCIA",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605126.html",
+              "pvid": "605126",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.7",
+              "titulo": "PERSONAL QUE REALIZA LAS AFILIACIONES Y DESAFILIACIONES",
+              "titulo_completo": "2.2.7 PERSONAL QUE REALIZA LAS AFILIACIONES Y DESAFILIACIONES",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605127.html",
+              "pvid": "605127",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.8",
+              "titulo": "CONSULTA DE NUEVOS AFILIADOS",
+              "titulo_completo": "2.2.8 CONSULTA DE NUEVOS AFILIADOS",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605128.html",
+              "pvid": "605128",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.9",
+              "titulo": "COMUNICACIÓN DE BENEFICIOS Y MODIFICACIONES",
+              "titulo_completo": "2.2.9 COMUNICACIÓN DE BENEFICIOS Y MODIFICACIONES",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605129.html",
+              "pvid": "605129",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.10",
+              "titulo": "RESPONSABILIDAD DE LA CAJA",
+              "titulo_completo": "2.2.10 RESPONSABILIDAD DE LA CAJA",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605130.html",
+              "pvid": "605130",
+              "nivel": 2
+            },
+            {
+              "numero": "2.2.11",
+              "titulo": "PROCEDIMIENTO DE DESCUENTO DE LOS APORTES Y DEMÁS BENEFICIOS OTORGADOS A LOS PENSIONADOS AFILIADOS A UNA C.C.A.F.",
+              "titulo_completo": "2.2.11 PROCEDIMIENTO DE DESCUENTO DE LOS APORTES Y DEMÁS BENEFICIOS OTORGADOS A LOS PENSIONADOS AFILIADOS A UNA C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605131.html",
+              "pvid": "605131",
+              "nivel": 2,
+              "hijos": [
+                {
+                  "numero": "2.2.11.1",
+                  "titulo": "Notificación a las entidades pagadoras de pensiones y a las Cajas de Compensación de Asignación Familiar (C.C.A.F.)",
+                  "titulo_completo": "2.2.11.1 Notificación a las entidades pagadoras de pensiones y a las Cajas de Compensación de Asignación Familiar (C.C.A.F.)",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605132.html",
+                  "pvid": "605132",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.11.2",
+                  "titulo": "Procedimiento de descuento de los aportes y demás beneficios otorgados a los pensionados afiliados a una C.C.A.F.",
+                  "titulo_completo": "2.2.11.2 Procedimiento de descuento de los aportes y demás beneficios otorgados a los pensionados afiliados a una C.C.A.F.",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605133.html",
+                  "pvid": "605133",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.11.3",
+                  "titulo": "Traspaso de pensionados y cambio en la modalidad de pensión, aplicable al sistema de pensiones del D.L. N°3.500, de 1980",
+                  "titulo_completo": "2.2.11.3 Traspaso de pensionados y cambio en la modalidad de pensión, aplicable al sistema de pensiones del D.L. N°3.500, de 1980",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605134.html",
+                  "pvid": "605134",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.11.4",
+                  "titulo": "Obligaciones de las entidades pagadoras de las pensiones de invalidez de la Ley N°16.744 cuando deban cesarlas por aplicación de su artículo 53°",
+                  "titulo_completo": "2.2.11.4 Obligaciones de las entidades pagadoras de las pensiones de invalidez de la Ley N°16.744 cuando deban cesarlas por aplicación de su artículo 53°",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605135.html",
+                  "pvid": "605135",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.2.11.5",
+                  "titulo": "De las reclamaciones",
+                  "titulo_completo": "2.2.11.5 De las reclamaciones",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605137.html",
+                  "pvid": "605137",
+                  "nivel": 3
+                }
+              ]
+            },
+            {
+              "numero": "2.2.12",
+              "titulo": "ANEXOS",
+              "titulo_completo": "2.2.12 ANEXOS",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605138.html",
+              "pvid": "605138",
+              "nivel": 2
+            }
+          ]
+        },
+        {
+          "numero": "2.3",
+          "titulo": "TÍTULO III. AFILIACIÓN DE TRABAJADORES INDEPENDIENTES",
+          "titulo_completo": "2.3 TÍTULO III. AFILIACIÓN DE TRABAJADORES INDEPENDIENTES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-605139.html",
+          "pvid": "605139",
+          "nivel": 1,
+          "hijos": [
+            {
+              "numero": "2.3.1",
+              "titulo": "AFILIACIÓN",
+              "titulo_completo": "2.3.1 AFILIACIÓN",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605140.html",
+              "pvid": "605140",
+              "nivel": 2,
+              "hijos": [
+                {
+                  "numero": "2.3.1.1",
+                  "titulo": "Procedimiento",
+                  "titulo_completo": "2.3.1.1 Procedimiento",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605141.html",
+                  "pvid": "605141",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.3.1.2",
+                  "titulo": "Solicitud de Afiliación",
+                  "titulo_completo": "2.3.1.2 Solicitud de Afiliación",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605142.html",
+                  "pvid": "605142",
+                  "nivel": 3
+                }
+              ]
+            },
+            {
+              "numero": "2.3.2",
+              "titulo": "PROCEDIMIENTO DE DESAFILIACIÓN",
+              "titulo_completo": "2.3.2 PROCEDIMIENTO DE DESAFILIACIÓN",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605143.html",
+              "pvid": "605143",
+              "nivel": 2,
+              "hijos": [
+                {
+                  "numero": "2.3.2.1",
+                  "titulo": "Desafiliación de una C.C.A.F. para afiliarse a otra C.C.A.F.",
+                  "titulo_completo": "2.3.2.1 Desafiliación de una C.C.A.F. para afiliarse a otra C.C.A.F.",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605144.html",
+                  "pvid": "605144",
+                  "nivel": 3
+                },
+                {
+                  "numero": "2.3.2.2",
+                  "titulo": "Desafiliación del Sistema C.C.A.F.",
+                  "titulo_completo": "2.3.2.2 Desafiliación del Sistema C.C.A.F.",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-605145.html",
+                  "pvid": "605145",
+                  "nivel": 3
+                }
+              ]
+            },
+            {
+              "numero": "2.3.3",
+              "titulo": "APORTE",
+              "titulo_completo": "2.3.3 APORTE",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605146.html",
+              "pvid": "605146",
+              "nivel": 2
+            },
+            {
+              "numero": "2.3.4",
+              "titulo": "BENEFICIOS",
+              "titulo_completo": "2.3.4 BENEFICIOS",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-605147.html",
+              "pvid": "605147",
+              "nivel": 2
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

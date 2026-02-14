@@ -1,0 +1,8 @@
+5.2.3.1.3 Estructura organizacional de las Cajas de Compensación y proceso de delegación de autoridad
+=====================================================================================================
+
+Cada Caja debe implementar una estructura organizacional que asegure un marco formal de autoridad y responsabilidad dentro del cual se proyecten, ejecuten y controlen las actividades que permitan cumplir sus objetivos institucionales, estableciendo necesariamente una correcta segregación funcional, de supervisión, aprobación y contingencia, en el marco de un Sistema de Control Interno, complementando la gestión de procesos y la gestión de la continuidad operativa.
+
+La Estructura Organizacional debe plasmarse en un documento, el que debe ser informado al directorio ante cambios relevantes en la organización, en donde, al menos, se señalen con claridad: la gerencia general, las gerencias y subgerencias, jefaturas y/o supervisores.
+
+Además, la unidad encargada de la gestión de los recursos humanos debe tener un medio en donde se indique la individualización de sus trabajadores, sus cargos, respectivas unidades organizacionales, roles, funciones, procesos a cargo, dependencias jerárquicas y reemplazos en casos de contingencia. Este documento debe ser actualizado en cada cambio organizacional y debe estar disponible para fines administrativos y de gestión interna de la Caja, así como de los organismos reguladores.

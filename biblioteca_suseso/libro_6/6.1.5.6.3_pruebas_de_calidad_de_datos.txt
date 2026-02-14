@@ -1,0 +1,8 @@
+6.1.5.6.3 Pruebas de Calidad de Datos
+=====================================
+
+La C.C.A.F. debe desarrollar de forma periódica, por lo menos una vez al año, pruebas específicas que le permitan asegurar la calidad de los datos registrados en la Base de Pérdidas, incluyendo razonabilidad de montos y fechas, así como la concentración o distribución de eventos.
+
+Los procedimientos y el detalle de las pruebas deben estar formalizados en documentos validados.
+
+La C.C.A.F. debe mantener registro de las pruebas periódicas realizadas sobre la calidad de los datos de la Base de Pérdidas, así como los resultados obtenidos y las acciones mitigantes o correctoras desarrolladas.

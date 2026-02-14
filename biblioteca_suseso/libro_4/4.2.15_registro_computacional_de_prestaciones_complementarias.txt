@@ -1,0 +1,38 @@
+4.2.15 REGISTRO COMPUTACIONAL DE PRESTACIONES COMPLEMENTARIAS
+=============================================================
+
+Cada C.C.A.F. debe mantener un registro computacional nacional centralizado, sin perjuicio de los sistemas regionales que deseen tener, de los convenios que establezcan prestaciones complementarias, clasificado por agencia o sucursal, actualizado a Io menos una vez al mes.
+
+En este registro debe constar lo siguiente:
+
+Nombre de las prestaciones complementarias;
+
+Descripción de las prestaciones complementarias;
+
+Monto de las prestaciones complementarias;
+
+Monto de las prestaciones complementarias otorgadas;
+
+Tipo de afiliados al que beneficia, esto es, si son trabajadores o pensionados;
+
+Número de afiliados que beneficia;
+
+Empresa empleadora, cuando sea parte del convenio, indicando su nombre y RUT;
+
+Sindicato, cuando forme parte del convenio;
+
+Trabajadores que hayan suscrito en forma directa el convenio, indicando nombre y RUT;
+
+Asociaciones de pensionados u otras entidades relacionadas con estos, cuando formen parte del convenio;
+
+Pensionados individuales, indicando nombre y RUT;
+
+Forma en que se recauda el aporte;
+
+Tipo (%. UF, etc.);
+
+Monto de la comisión, y
+
+Fecha de suscripción
+
+En el mes de marzo de cada año, la C.C.A.F. remitirá a esta Superintendencia la información relativa a los convenios de prestaciones complementarias que mantenga vigentes, de acuerdo a lo señalado en el Anexo N°1: Archivo Registro de Prestaciones Complementarias , contenido en el Título II de este Libro IV.

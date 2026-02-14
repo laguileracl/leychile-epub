@@ -43,15 +43,17 @@ logger = logging.getLogger(__name__)
 # Considerandos: "1° Que," / "1º Que," / "1° Que " / "1.° Que," / "1. Que,"
 # NCGs 4-15 usan "N° Que,", NCGs 16-17 usan "N. Que," (período sin grado).
 # NCG 22: considerando 5° empieza con "Asimismo," en vez de "Que,".
+# Considerandos: "1° Que,", "4° Por su parte,", "3.° Asimismo,"
+# NCG 27: considerando 4° empieza con "Por su parte," en vez de "Que,"
 PATRON_CONSIDERANDO_NUM = re.compile(
-    r"^(\d+)[.°º]+\s+(?:[Qq]ue[,\s]|Asimismo[,\s])",
+    r"^(\d+)[.°º]+\s+(?:[Qq]ue[,\s]|Asimismo[,\s]|Por\s+su\s+parte[,\s])",
     re.MULTILINE,
 )
 
 # Artículo con epígrafe: "Artículo 1. Modelo." o "Artículo 1°. Modelo."
 # Grupo 1 = número, Grupo 2 = epígrafe (puede estar vacío)
 PATRON_ARTICULO_EPIGRAFE = re.compile(
-    r"Art[ií]culo\s+(\d+(?:\s*bis|\s*ter)?)[°º.]?\.\s+"
+    r"Art[ií]culo\s+(\d+(?:\s*[Bb]is|\s*[Tt]er)?)[°º.]?\.?\s+"
     r"([A-ZÁÉÍÓÚÑ](?:[^.]|\.(?=[°º])){1,80})\.\s+",
     re.IGNORECASE,
 )
@@ -176,8 +178,10 @@ PATRON_RESUELVO = re.compile(
 # Punto resolutivo: "1° APRUÉBESE...", "2° PUBLÍQUESE...", "1. APRUÉBESE..."
 # NCGs 16-17 usan "N." (período) en vez de "N°" (grado).
 # NCG 25 usa "1º." (período después del ordinal): soporte con \.?
+# Resolutivos: acepta numeración arábiga (1., 2.) o romana (I., II., III.)
+# NCGs 14-26 usan arábigos; NCG 27 usa romanos (I. APRUÉBESE, II. NOTIFÍQUESE...)
 PATRON_PUNTO_RESOLUTIVO = re.compile(
-    r"(?:^|\n)\s*(\d+)[.°º]\.?\s+([A-ZÁÉÍÓÚÑ])",
+    r"(?:^|\n)\s*([IVXLCDM]+|\d+)[.°º]\.?-?\s+([A-ZÁÉÍÓÚÑ])",
     re.MULTILINE,
 )
 
@@ -190,7 +194,7 @@ PATRON_NCG_HEADER = re.compile(
 
 # Código de distribución: "PVL/PCP/CVS/POR"
 PATRON_DISTRIBUCION = re.compile(
-    r"^([A-Z]{2,4}(?:/[A-Z]{2,4})+)\s*$",
+    r"^(?:DISTRIBUCIÓN:\s*)?([A-Z]{2,4}(?:/[A-Z]{2,4})+)\s*$",
     re.MULTILINE,
 )
 
@@ -266,15 +270,28 @@ class SuperirStructuredParser:
                 texto, url=url, doc_numero=doc_numero, catalog_entry=catalog_entry
             )
 
+        # 1b. Post-procesar jerarquía: reorganizar Capítulo > Título si aplica
+        disposiciones_finales_arts = _reorganize_capitulo_titulo_hierarchy(
+            norma_base.estructuras
+        )
+
         # 2. Extraer considerandos individuales y fórmula de dictación
         considerandos = self.parse_considerandos(norma_base.considerandos_texto)
         formula_dictacion = self._extract_formula_dictacion(considerandos)
 
         # 3. Extraer epígrafes de artículos
         articulos_epigrafe = self._extract_epigrafes(norma_base.estructuras)
+        # 3b. También extraer epígrafes de disposiciones finales (ya removidos de estructuras)
+        if disposiciones_finales_arts:
+            epigrafes_disp = self._extract_epigrafes(disposiciones_finales_arts)
+            articulos_epigrafe.update(epigrafes_disp)
 
         # 4. Extraer contenido estructurado (listados letrados)
         articulos_contenido = self._extract_contenido_estructurado(norma_base.estructuras)
+        # 4b. También para disposiciones finales
+        if disposiciones_finales_arts:
+            contenidos_disp = self._extract_contenido_estructurado(disposiciones_finales_arts)
+            articulos_contenido.update(contenidos_disp)
 
         # 5. Extraer cierre
         cierre = self.parse_cierre(norma_base.disposiciones_finales_texto)
@@ -317,6 +334,7 @@ class SuperirStructuredParser:
             resolutivo=resolutivo,
             preambulo_ncg=preambulo_ncg,
             resolutivo_final=resolutivo_final,
+            disposiciones_finales=disposiciones_finales_arts,
         )
 
         logger.info(
@@ -471,9 +489,9 @@ class SuperirStructuredParser:
         def recurse(items: list[EstructuraFuncional]) -> None:
             for item in items:
                 if item.tipo_parte == "Artículo" and item.titulo_parte:
-                    # "Artículo N. Epígrafe" → extraer epígrafe
+                    # "Artículo N. Epígrafe" o "Artículo N Bis. Epígrafe" → extraer
                     match = re.match(
-                        r"Art[ií]culo\s+\S+\.\s+(.*)",
+                        r"Art[ií]culo\s+\S+(?:\s+[Bb]is|\s+[Tt]er)?\.\s+(.*)",
                         item.titulo_parte,
                         re.IGNORECASE,
                     )
@@ -1577,13 +1595,13 @@ def _extract_resolutivo_y_preambulo(
     resuelvo_section = texto[resuelvo_start:ncg_header_abs]
     resolutivo = _parse_puntos_resolutivos(resuelvo_section)
 
-    # --- Preámbulo NCG: texto entre encabezado NCG y primer TÍTULO ---
+    # --- Preámbulo NCG: texto entre encabezado NCG y primer TÍTULO o CAPÍTULO ---
     # Avanzar después del encabezado NCG y posible subtítulo
     after_ncg_header = texto[ncg_header_abs:]
 
-    # Encontrar primer TÍTULO
+    # Encontrar primer TÍTULO o CAPÍTULO (NCG 28 empieza con Capítulo)
     titulo_match = re.search(
-        r"^T[ÍI]TULO\s+[IVXLCDM\d]+",
+        r"^(?:T[ÍI]TULO|CAP[ÍI]TULO)\s+[IVXLCDM\d]+",
         after_ncg_header,
         re.MULTILINE | re.IGNORECASE,
     )
@@ -1862,11 +1880,28 @@ def _clean_resolutivo_from_articles(
         last_art.texto = last_art.texto[: fallback.start()].strip()
 
 
+def _roman_to_arabic(roman: str) -> str:
+    """Convierte numeral romano a arábigo. Si ya es arábigo, retorna tal cual."""
+    if roman.isdigit():
+        return roman
+    roman_vals = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
+    result = 0
+    prev = 0
+    for ch in reversed(roman.upper()):
+        val = roman_vals.get(ch, 0)
+        if val < prev:
+            result -= val
+        else:
+            result += val
+        prev = val
+    return str(result) if result > 0 else roman
+
+
 def _parse_puntos_resolutivos(section: str) -> list[PuntoResolutivo]:
     """Parsea puntos resolutivos numerados de una sección de texto.
 
-    Detecta patrones "N° VERBO..." donde N es un número y VERBO
-    empieza con mayúscula (APRUÉBESE, PUBLÍQUESE, DISPÓNGASE, etc.).
+    Detecta patrones "N° VERBO..." donde N es un número arábigo o romano
+    y VERBO empieza con mayúscula (APRUÉBESE, PUBLÍQUESE, DISPÓNGASE, etc.).
 
     Args:
         section: Texto de la sección con puntos resolutivos.
@@ -1881,7 +1916,7 @@ def _parse_puntos_resolutivos(section: str) -> list[PuntoResolutivo]:
         return puntos
 
     for i, match in enumerate(matches):
-        numero = match.group(1)
+        numero = _roman_to_arabic(match.group(1))
         # Texto completo: desde la mayúscula hasta el siguiente punto o fin
         start = match.start() + len(match.group(0)) - 1  # posición de la mayúscula
         end = matches[i + 1].start() if i + 1 < len(matches) else len(section)
@@ -1894,3 +1929,190 @@ def _parse_puntos_resolutivos(section: str) -> list[PuntoResolutivo]:
             puntos.append(PuntoResolutivo(numero=numero, texto=texto))
 
     return puntos
+
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# POST-PROCESAMIENTO DE JERARQUÍA
+# ═══════════════════════════════════════════════════════════════════════════════
+
+
+def _reorganize_capitulo_titulo_hierarchy(
+    estructuras: list[EstructuraFuncional],
+) -> list[EstructuraFuncional]:
+    """Reorganiza jerarquía cuando Capítulo está sobre Título (NCG 28).
+
+    El base parser con NIVEL_JERARQUIA={Título:0, Capítulo:1} produce una
+    jerarquía incorrecta para NCGs con estructura Capítulo > Título > Artículo:
+    - Capítulos vacíos a nivel raíz (el Título siguiente los "pops" del stack)
+    - Capítulos II+ embebidos como hijos de Títulos (nivel 1 > nivel 0)
+    - Todos los Títulos a nivel raíz (son nivel 0, el más alto)
+
+    Este método:
+    1. Construye lista plana ordenada extrayendo Capítulos embebidos de Títulos
+    2. Agrupa cada Título bajo su Capítulo precedente
+    3. Extrae disposiciones finales
+
+    Args:
+        estructuras: Lista de EstructuraFuncional del base parser (se modifica in-place).
+
+    Returns:
+        Lista de EstructuraFuncional correspondientes a disposiciones finales
+        (artículos fuera de la estructura principal).
+    """
+    if not estructuras:
+        return []
+
+    # Detectar si hay capítulos (raíz o embebidos) Y títulos a nivel raíz.
+    has_root_cap = any(e.tipo_parte == "Capítulo" for e in estructuras)
+    has_root_tit = any(e.tipo_parte == "Título" for e in estructuras)
+
+    # También buscar Capítulos embebidos dentro de Títulos
+    has_embedded_cap = False
+    for est in estructuras:
+        if est.tipo_parte == "Título":
+            for hijo in est.hijos:
+                if hijo.tipo_parte == "Capítulo":
+                    has_embedded_cap = True
+                    break
+        if has_embedded_cap:
+            break
+
+    if not ((has_root_cap or has_embedded_cap) and has_root_tit):
+        # No hay patrón de jerarquía invertida → no reorganizar.
+        return _extract_disposiciones_finales(estructuras)
+
+    logger.info("  Reorganizando jerarquía: Capítulo > Título (invertida)")
+
+    # Paso 1: Construir lista plana ordenada.
+    # Extraer Capítulos embebidos de Títulos y colocarlos en posición correcta.
+    flat: list[EstructuraFuncional] = []
+    for est in estructuras:
+        if est.tipo_parte == "Título":
+            # Separar hijos: artículos van con el Título, Capítulos se extraen
+            articulo_hijos = []
+            embedded_caps = []
+            for hijo in est.hijos:
+                if hijo.tipo_parte == "Capítulo":
+                    embedded_caps.append(hijo)
+                else:
+                    articulo_hijos.append(hijo)
+            # Actualizar hijos del Título (solo artículos)
+            est.hijos = articulo_hijos
+            # Agregar Título a flat, luego Capítulos embebidos
+            flat.append(est)
+            flat.extend(embedded_caps)
+        else:
+            flat.append(est)
+
+    # Paso 2: Reagrupar Títulos (y Artículos sueltos) como hijos de Capítulos.
+    new_structures: list[EstructuraFuncional] = []
+    current_cap: EstructuraFuncional | None = None
+
+    for item in flat:
+        if item.tipo_parte == "Capítulo":
+            # Limpiar hijos previos del Capítulo (el base parser puede haber
+            # dejado hijos incorrectos que ya procesamos)
+            item.hijos = []
+            current_cap = item
+            new_structures.append(item)
+        elif item.tipo_parte == "Título" and current_cap is not None:
+            current_cap.hijos.append(item)
+        elif item.tipo_parte == "Artículo" and current_cap is not None:
+            # Artículo suelto después de Capítulo (sin Título intermedio)
+            current_cap.hijos.append(item)
+        else:
+            # Título o Artículo antes de cualquier Capítulo → mantener en raíz
+            new_structures.append(item)
+
+    # Reemplazar in-place
+    estructuras.clear()
+    estructuras.extend(new_structures)
+
+    # Paso 3: Extraer disposiciones finales
+    return _extract_disposiciones_finales(estructuras)
+
+
+def _extract_disposiciones_finales(
+    estructuras: list[EstructuraFuncional],
+) -> list[EstructuraFuncional]:
+    """Extrae artículos de DISPOSICIONES FINALES de la estructura.
+
+    Busca artículos típicos de disposiciones finales (Ámbito, Vigencia,
+    Derogación) al final de la estructura y los remueve.
+
+    Args:
+        estructuras: Lista de EstructuraFuncional (se modifica in-place).
+
+    Returns:
+        Lista de EstructuraFuncional de disposiciones finales.
+    """
+    disposiciones: list[EstructuraFuncional] = []
+
+    # Epígrafes típicos de disposiciones finales
+    disp_epigrafes = {
+        "ámbito de aplicación", "vigencia", "derogación",
+        "ámbito", "transitoriedad", "entrada en vigencia",
+    }
+
+    def _find_last_disp_articles(items: list[EstructuraFuncional]) -> list[EstructuraFuncional]:
+        """Encuentra artículos al final de la lista que son disposiciones finales."""
+        result = []
+        for item in reversed(items):
+            if item.tipo_parte == "Artículo":
+                titulo = item.titulo_parte or ""
+                match = re.match(
+                    r"Art[ií]culo\s+\S+(?:\s+[Bb]is|\s+[Tt]er)?\.\s+(.*)",
+                    titulo,
+                    re.IGNORECASE,
+                )
+                if match:
+                    epigrafe = match.group(1).strip().rstrip(".").lower()
+                    if epigrafe in disp_epigrafes:
+                        result.insert(0, item)
+                        continue
+                break
+            else:
+                break
+        return result
+
+    # Buscar en el nivel raíz
+    disp_arts = _find_last_disp_articles(estructuras)
+    if disp_arts:
+        for art in disp_arts:
+            estructuras.remove(art)
+        disposiciones.extend(disp_arts)
+        if disposiciones:
+            logger.info(f"  Disposiciones finales extraídas: {len(disposiciones)} artículos")
+        return disposiciones
+
+    # Buscar dentro del último Capítulo o Título
+    # (pero NO si el contenedor ya se llama "Disposiciones Finales" —
+    #  en ese caso los artículos ya están donde corresponden)
+    def _is_disp_container(est: EstructuraFuncional) -> bool:
+        """Verifica si el contenedor ya es una sección de disposiciones finales."""
+        _disp_keywords = {"disposiciones finales", "disposiciones generales"}
+        titulo = (est.titulo_parte or "").lower()
+        nombre = (est.nombre_parte or "").lower()
+        return any(kw in titulo or kw in nombre for kw in _disp_keywords)
+
+    if estructuras:
+        last = estructuras[-1]
+        if last.tipo_parte in ("Capítulo", "Título") and last.hijos and not _is_disp_container(last):
+            last_child = last.hijos[-1]
+            if last_child.tipo_parte == "Título" and last_child.hijos and not _is_disp_container(last_child):
+                disp_arts = _find_last_disp_articles(last_child.hijos)
+                if disp_arts:
+                    for art in disp_arts:
+                        last_child.hijos.remove(art)
+                    disposiciones.extend(disp_arts)
+            elif last_child.tipo_parte == "Artículo":
+                disp_arts = _find_last_disp_articles(last.hijos)
+                if disp_arts:
+                    for art in disp_arts:
+                        last.hijos.remove(art)
+                    disposiciones.extend(disp_arts)
+
+    if disposiciones:
+        logger.info(f"  Disposiciones finales extraídas: {len(disposiciones)} artículos")
+
+    return disposiciones

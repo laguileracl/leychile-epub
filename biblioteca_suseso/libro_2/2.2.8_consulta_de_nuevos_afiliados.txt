@@ -1,0 +1,14 @@
+2.2.8 CONSULTA DE NUEVOS AFILIADOS
+==================================
+
+A fin de evitar afiliaciones incompatibles, las Cajas deben consultarse entre sí las "Solicitudes de Afiliación" que suscriban los pensionados.
+
+La consulta debe efectuarse por cada pensionado que solicita afiliarse a una C.C.A.F., esto es, por Solicitud de Incorporación que se origina, indicando, a lo menos:
+
+Nombres y apellidos
+
+N° de Cédula de Identidad
+
+Fecha de la Solicitud de incorporación.
+
+La consulta debe hacerse en archivos compatibles con los sistemas computacionales de que disponga la C.C.A.F. consultada, en formatos de registro y características de grabación explícitos, definidos y formalizados por escrito.

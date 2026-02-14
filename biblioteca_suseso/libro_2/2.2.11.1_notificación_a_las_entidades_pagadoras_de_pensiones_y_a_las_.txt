@@ -1,0 +1,23 @@
+2.2.11.1 Notificación a las entidades pagadoras de pensiones y a las Cajas de Compensación de Asignación Familiar (C.C.A.F.)
+============================================================================================================================
+
+Una vez adoptado el acuerdo por el cual el Directorio de la respectiva Caja acepta la solicitud de afiliación del pensionado, ésta deberá notificarlo tanto al pensionado afiliado como a la entidad pagadora de la pensión, ya sea que se trate de una Administradora de Fondos de Pensiones (A.F.P.), Compañía de Seguros de Vida, Instituto de Previsión Social, Instituto de Seguridad Laboral, Mutualidades de Empleadores de la Ley N°16.744, Caja de Previsión de la Defensa Nacional, Dirección de Previsión de Carabineros de Chile. Debiendo indicarse la fecha a partir de la cual opera la afiliación.
+
+La notificación al pensionado afiliado y a la entidad pagadora de la pensión se practicará mediante el envío por correo electrónico de la correspondiente Solicitud de Afiliación, en la que deberá constar el acuerdo y la fecha en que se adoptó. Dicha notificación podrá practicarse también mediante la entrega directa de los referidos antecedentes en la Oficina de Partes de la entidad pagadora de la pensión. En el caso del pensionado podrá notificarse también a través de carta certificada dirigida al domicilio de éste.
+
+
+
+La notificación deberá ser remitida por la Caja de Compensación de Asignación Familiar a la entidad pagadora de la pensión y al pensionado afiliado, dentro de los primeros quince días del mes siguiente al de adopción del acuerdo que aprobó la afiliación.
+
+Tratándose de pensionados en conformidad al D.L. N°3.500, de 1980, y que opten por traspasarse a otra A.F.P. o cambien de modalidad de pensión contratando un seguro de renta vitalicia inmediata o renta temporal con renta vitalicia diferida, renta vitalicia inmediata con retiro programado, la Administradora de origen, notificada por la respectiva C.C.A.F. de que la afiliación ha sido aceptada, procederá a remitir dicha notificación, por correo electrónico, a la nueva entidad pagadora de la pensión, dentro del plazo de los dos días hábiles siguientes de haberla recibido. En el mismo plazo, deberá comunicar a la respectiva C.C.A.F. tal circunstancia, como también la fecha a partir de la cual operará el traspaso a la nueva A.F.P. o comenzará a surtir efectos el contrato celebrado con la compañía de seguros de vida, según corresponda, a objeto que la Caja de Compensación adecúe sus registros respecto del pensionado afiliado de que se trate.
+
+Cuando el pensionado, se desafilie de una Caja de Compensación para afiliarse a otra, aquella a la cual se efectuó el traspaso deberá notificar la nueva afiliación y desafiliación directamente a la entidad encargada de pagar la pensión, mediante el envío de un correo electrónico, dentro de los primeros quince días del mes siguiente a aquél en que se adoptó el acuerdo que acogió la solicitud de afiliación del pensionado, adjuntando una copia de ésta, en donde conste dicho acuerdo.
+
+Para los efectos referidos en los párrafos precedentes, las entidades pagadoras de pensión podrán alternativamente acordar entre sí y con la Caja de Compensación respectiva, el intercambio de archivos electrónicos, su periodicidad y forma de envío de la información antes aludida.
+
+Si un pensionado opta por desafiliarse del Sistema C.C.A.F., la respectiva Caja deberá notificar este hecho a la entidad pagadora de la pensión, dentro de los primeros quince días del mes siguiente a aquél en que se adoptó el acuerdo o en una fecha acordada entre las C.C.A.F. y la entidad pagadora de pensión, indicando el mes en que se deberá efectuar el último descuento del aporte. Para tal efecto, las entidades pagadoras y las C.C.A.F. deberán acordar la forma de intercambio de esta información, debiendo comunicar este acuerdo a sus respectivas instituciones fiscalizadoras.
+
+
+
+Referencias legales:
+ DL 3500 - Ley 16.744

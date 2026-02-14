@@ -1,0 +1,25 @@
+2.2.3.4 Desafiliación por medios digitales
+==========================================
+
+La desafiliación efectuada en forma remota o por medios digitales debe materializarse en la correspondiente solicitud digital.
+
+La Caja de Compensación debe aceptar solicitudes de desafiliación de pensionados que se formulen en forma remota o a distancia por medios electrónicos o digitales. Para tal efecto y con la finalidad de registrar y obtener el consentimiento del interesado, la C.C.A.F. debe emplear dos mecanismos distintos de verificación o autenticación de la identidad del pensionado, los que pueden consistir en un correo electrónico y una conversación sostenida con la Caja, cuyo audio quede grabado con su aquiescencia, o por medio de un código o número de seguridad que se le envíe a efectos de ser ingresado o enviado a una dirección de correo electrónico.
+
+También se considera que cumple con esta disposición, el uso de un mecanismo de validación en forma escalonada, el cual, a través de una serie de preguntas sobre antecedentes personales en forma ascendente, permite adquirir certeza acerca de la identidad del pensionado o el uso de clave única del Servicio de Registro Civil e Identificación.
+
+La desafiliación del pensionado tiene un carácter individual, y debe ser solicitada, a través de la suscripción del correspondiente formulario, al Directorio de la Caja de Compensación, el que se pronunciará al respecto en su primera sesión ordinaria. Este formulario debe indicar, además, el nombre completo, número de cédula de identidad, domicilio particular, teléfono y correo electrónico del interesado.
+
+Se entenderá que el pensionado o pensionada ha firmado o suscrito la solicitud de desafiliación mediante firma electrónica simple, consistente en el envío de un correo electrónico a la C.C.A.F. en que solicita desafiliarse de esa entidad.
+
+La desafiliación opera desde el día primero del mes subsiguiente al de la fecha de aprobación de la respectiva solicitud digital y, dentro de los 10 primeros días del mes siguiente a su aprobación, debe ser notificada por la C.C.A.F. al respectivo organismo pagador de la pensión para que cesen los descuentos por concepto de aporte a la Caja. Su omisión se considerará grave incumplimiento de estas instrucciones.
+
+Una vez recibida en forma remota la solicitud de desafiliación del pensionado, la Caja debe enviar a éste un comprobante de haber recepcionado dicha solicitud y posteriormente le notificará el resultado de esta en el domicilio que la persona hubiere indicado al efecto. Lo anterior puede efectuarse mediante sistemas remotos o a distancia o a través de carta certificada, a elección del pensionado.
+
+La tramitación de la solicitud o la desafiliación no puede condicionarse por parte de la Caja al cumplimiento de otros requisitos distintos a los señalados en este numeral 2.2.3.4.
+
+Respecto de la desafiliación del pensionado, debe estarse, en lo que resultare procedente, a lo dispuesto por los artículos 17 y 18 de la Ley N°18.833 , esto es, la desafiliación regirá desde la fecha en que el pensionado se afilie a otra Caja de Compensación de Asignación Familiar, debiendo esta última comunicar a aquélla dicho traspaso con, a lo menos, un mes de anticipación a la fecha en que opere la nueva afiliación.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 17 - Ley 18.833, artículo 18

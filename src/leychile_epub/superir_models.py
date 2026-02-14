@@ -267,3 +267,5 @@ class NormaSuperir:
     resolutivo: list[PuntoResolutivo] = field(default_factory=list)
     preambulo_ncg: list[str] = field(default_factory=list)
     resolutivo_final: list[PuntoResolutivo] = field(default_factory=list)
+    # Artículos de disposiciones finales (fuera de capítulos/títulos)
+    disposiciones_finales: list = field(default_factory=list)  # list[EstructuraFuncional]

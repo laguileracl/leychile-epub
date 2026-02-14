@@ -1,0 +1,4 @@
+6.2.2.3.1 Instrumentos Financieros a Vencimiento
+================================================
+
+Corresponde a aquellos activos y pasivos financieros y operacionales del Balance que no son negociables, y/o que son adquiridos con el objetivo de mantenerlos hasta el vencimiento en cartera. Las Cajas pueden modificar los instrumentos de esta cartera y solamente asignarlos a la cartera "disponibles para la venta".

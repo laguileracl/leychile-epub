@@ -1,0 +1,4 @@
+6.1.5.5.4 Comité de Auditoría
+=============================
+
+La Caja de Compensación debe contar con un órgano de decisión o Comité de Auditoría, que analice los resultados e informes de auditoría y de control, en términos de riesgo operacional, con el fin de obtener conclusiones y tomar acuerdos que trasladará a las Unidades y Direcciones competentes. El Comité de Auditoría debe debatir materias relativas a Riesgo Operacional en aquellos casos en los cuales a partir del proceso de auditoría interna realizado sobre las metodologías de medición y gestión del Riesgo Operacional surjan aspectos relevantes a discutir en dicha instancia. Las decisiones y aspectos relevantes tratados en la sesión del Comité deben quedar registrados formalmente.

@@ -1,0 +1,18 @@
+6.1.5.4 Tratamiento de Riesgos
+==============================
+
+De acuerdo con las prioridades establecidas en la etapa de análisis y evaluación de riesgos, la unidad responsable de la gestión de riesgo operacional, en conjunto con el dueño de cada proceso, debe analizar las distintas opciones para el tratamiento de los riesgos, definidas en la política de gestión de riesgo operacional, preparar planes de acción para su tratamiento y definir la forma en que estos últimos se implementarán.
+
+Esta decisión debe estar documentada en la matriz de riesgos y controles, la cual, en este ámbito, debe indicar para cada proceso o subproceso revisado, a lo menos lo siguiente:
+
+Descripción del riesgo.
+
+Nivel de riesgo o riesgo inherente.
+
+Descripción de la acción a tomar.
+
+Responsable de la implementación.
+
+Plazo y estado de la implementación.
+
+Apoyo de otras áreas de la entidad.

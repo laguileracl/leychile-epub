@@ -1,0 +1,4 @@
+6.2.8.3 Archivo 'PAS FIN': Información de Pasivos Financieros
+=============================================================
+
+Este archivo debe contener el detalle de los pasivos financieros que posea la Caja al momento que se realiza la extracción de información, teniendo en consideración las características y formatos que se detallan en el Anexo N°3: Formatos de archivos planos , Anexo N°4: Diccionario de archivos planos y Anexo N°5: Instrucciones generales , todos de este Título II del Libro VI del Compendio de la Ley N°18.833 .

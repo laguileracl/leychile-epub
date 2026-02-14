@@ -1,0 +1,4 @@
+6.1.5.6.4 Documentación de eventos
+==================================
+
+La C.C.A.F. debe mantener registro físico, a disposición de la Superintendencia de Seguridad Social, del expediente con los eventos en los cuales la pérdida asociada sea mayor o igual a 40 U.F., o que cumplan con las demás características indicadas en la letra d) del número 1 del Anexo N°3: Formato y diccionario de archivos planos y formulario web del Título I del Libro VI del Compendio de la Ley N°18.833.

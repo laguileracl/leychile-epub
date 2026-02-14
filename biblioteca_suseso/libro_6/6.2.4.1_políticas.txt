@@ -1,0 +1,24 @@
+6.2.4.1 Políticas
+=================
+
+Las políticas de riesgo de mercado, constituyen los lineamientos para la medición, control y divulgación de los riesgos de la entidad:
+
+La política debe contener al menos los siguientes aspectos desarrollados:
+
+Objetivos de la función de control y administración de riesgos de mercado.
+
+Identificación de los principales riesgos de mercado asociados a las funciones de la Caja.
+
+Estrategia de la Caja frente a los riesgos de mercado que enfrentan sus posiciones.
+
+El plan de acción en caso de que se incumplan temporalmente políticas y procedimientos para la gestión de riesgos de mercado, y el plan de contingencia en caso que se materialicen riesgos más allá de lo esperado.
+
+Descripción de la organización asociada a la administración de riesgos de mercado, sus funciones y responsabilidades.
+
+Detalle de los límites de exposición y controles cuantitativos, la metodología de medición, y los informes de gestión de riesgo de mercado que deben generarse.
+
+Divulgación de los riesgos a las autoridades supervisoras y al público en general.
+
+Descripción del rol de Auditoría Interna en los procesos de medición y seguimiento de los procesos y política de riesgo de mercado.
+
+Procedimientos de actualización de la política de riesgo de mercado.

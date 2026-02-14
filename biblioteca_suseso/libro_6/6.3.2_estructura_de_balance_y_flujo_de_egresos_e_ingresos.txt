@@ -1,0 +1,18 @@
+6.3.2 ESTRUCTURA DE BALANCE Y FLUJO DE EGRESOS E INGRESOS
+=========================================================
+
+El manejo de la liquidez, en rigor, requiere atención cuidadosa de los movimientos del balance general y de las eventuales modificaciones de su estructura.
+
+La comprensión de las implicancias de la liquidez en una estrategia o una política de negocios es fundamental para una adecuada configuración del balance. En tal sentido, el análisis periódico de su estructura o incluso anticipar el efecto de los negocios (como cambios en la estructura de activos y pasivos) a través de la proyección de necesidades de fondos y variaciones de fuentes y usos, provee señales que pueden reflejar situaciones de estrechez de caja conforme a las condiciones macroeconómicas o inconsistencias entre la estructura observada y las políticas.
+
+El análisis de la estructura del balance y la atención a los movimientos registrados en éste, brindan una primera aproximación del riesgo de liquidez implícito en las operaciones de la institución.
+
+Para el caso de la C.C.A.F., un balance líquido es aquel donde existe una gran proporción de activos líquidos financiados con fuentes suficientemente atomizadas y/o de mediano o largo plazo. En el otro extremo, una estructura será ilíquida si los activos de largo plazo o las colocaciones de crédito social son financiados por pasivos de corto plazo.
+
+Una visión preliminar, por tanto, vendrá dada por el equilibrio existente entre las partidas de activos y pasivos de igual naturaleza que conforman el balance, teniendo presente que sólo se podrá emitir un juicio superficial, basado simplemente en el entendimiento común de las características de cada una de las partidas incluidas en el análisis.
+
+La diversificación de las fuentes, usos y plazos reduce considerablemente el riesgo de liquidez. A partir de la composición de las obligaciones, se podrá determinar el grado de diversificación con que cuenta la institución.
+
+Por el lado de los activos, también es necesario medir el grado de concentración de cada tipo de operación, incorporando criterios de atomización y liquidez de los activos.
+
+Si bien la estructura del balance es un elemento Importante para evaluar la liquidez de una entidad; el riesgo de liquidez (como todo riesgo) debe medirse de manera prospectiva y, consecuentemente, debe abordarse desde la perspectiva de flujos; los que no sólo están determinados por la estructura de los activos y pasivos, sino que también por derechos y compromisos contingentes.

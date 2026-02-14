@@ -1,0 +1,4 @@
+6.1.5.1.1 Roles y responsabilidades
+===================================
+
+Se deben definir las obligaciones y responsabilidades de quienes participan en el proceso de gestión de riesgo operacional. La Caja debe poseer una unidad especializada en la administración del riesgo operacional y debe disponer de los recursos necesarios, físicos, humanos y tecnológicos para cumplir a cabalidad con su labor. El tamaño de esta unidad especialista en riesgo operacional estará directamente relacionado con la complejidad y volumen de operaciones de la C.C.A.F., y estar en constante coordinación con las otras unidades especializadas que se preocupan de la gestión del riesgo de crédito, liquidez y mercado. Debe existir consistencia entre la estrategia de gestión del riesgo operacional definida por la entidad y el volumen de sus actividades. Adicionalmente, la política debe establecer la función de Auditoría Interna en la gestión del riesgo operacional que realiza la C.C.A.F.

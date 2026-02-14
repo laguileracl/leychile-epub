@@ -1,0 +1,12 @@
+6.1.5.3.3 Evaluación de riesgos
+===============================
+
+La unidad responsable de la gestión de riesgo operacional en conjunto con el dueño de cada proceso debe:
+
+Identificar y evaluar los diferentes riesgos y factores que influyen sobre éstos mediante un análisis combinado de riesgo inherente, impacto y probabilidad de materialización, considerando la efectividad de las actividades de control implementadas para mitigar dichos riesgos. A partir de ello, se debe estimar el riesgo residual o nivel de riesgo expuesto. Esta evaluación se debe documentar en una matriz de riesgos y controles.
+
+Comparar el resultado de esta evaluación con el nivel de riesgo aceptado, definido en la política de gestión de riesgo operacional.
+
+Realizar reevaluaciones de forma periódica de los riesgos de la entidad con el fin de asegurar la visión actualizada de los riesgos a los que se encuentra expuesta la entidad, así como la consideración de un correcto nivel de exposición al riesgo.
+
+Mantener actualizada y disponible en todo momento la documentación asociada.

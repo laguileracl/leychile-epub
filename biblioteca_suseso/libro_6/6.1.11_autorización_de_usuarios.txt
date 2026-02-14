@@ -1,0 +1,6 @@
+6.1.11 AUTORIZACIÓN DE USUARIOS
+===============================
+
+Para proceder a la creación de los usuarios autorizados a enviar los reportes detallados en el número 6.1.10 del Tïtulo I del Libro VI del Compendio de la Ley N°18.833, se requiere que los Gerentes Generales de cada Caja de Compensación envíen el nombre completo, cargo, correo electrónico y teléfono de contacto de dos usuarios que serán los autorizados a reportar.
+
+La información para la creación de usuarios debe ser remitida mediante la plataforma PAE, opción "Otros-Ingresos", debiendo proceder de igual forma para la eliminación de usuarios.

@@ -1,0 +1,129 @@
+5.6.1.2.1 Áreas mínimas de trabajo
+==================================
+
+Los auditores externos deben verificar el estricto apego, por parte de la C.C.A.F., a todas las disposiciones legales y reglamentarias e instrucciones específicas emanadas de la Superintendencia de Seguridad Social, como asimismo el cumplimiento de la normativa contable-financiera a aplicar en la confección de dichos Estados.
+
+Para el desarrollo de sus labores las EAE pueden guiarse por las Normas de Auditoría Generalmente Aceptadas, no obstante, esta Superintendencia considera que las siguientes áreas mínimas de trabajo deben ser examinadas por las EAE:
+
+Área de Recursos Humanos
+
+
+
+Debe verificarse la razonabilidad en la constitución de la provisión de feriado anual, beneficios post-empleo, indemnización por años de servicios y control de horas extraordinarias.
+
+
+
+Además, tendrá que constatar la efectividad de los gastos correspondientes a remuneraciones del personal y el pago de leyes sociales.
+
+Área de Crédito Social
+
+
+
+Debe verificarse la existencia de las colocaciones de crédito social consignadas en los Estados Financieros, como también si el registro se adecúa a las instrucciones de esta Superintendencia contenidas en el Título I del Libro VII de este Compendio de la Ley N°18.833, sobre estados financieros.
+
+Área de Tesorería
+
+
+
+Debe verificarse la existencia de conciliaciones bancarias, así como su elaboración con la periodicidad necesaria de acuerdo con el flujo de transacciones y los riesgos asociados a ellas y considerando instancias de revisión y autorización de parte de la jefatura correspondiente.
+
+Área de Inversiones Financieras
+
+
+
+Debe verificarse la existencia y propiedad de las inversiones, su valorización y el producto de las inversiones reconocido en los resultados de los Estados Financieros, de acuerdo con las disposiciones legales y las normas impartidas por esta Superintendencia.
+
+
+
+Además, debe revisarse si recaen sobre dichas inversiones, o en relación con ellas, prendas, hipotecas u otras prohibiciones o gravámenes, en cuyo caso deben existir las constancias respectivas en las Notas Explicativas de los Estados Financieros.
+
+Área propiedad, planta y equipos
+
+
+
+Debe verificarse la existencia de los análisis mensuales de las cuentas que conforman este rubro. Verificar el cálculo y registro de la depreciación del ejercicio y de la depreciación acumulada, así como de cargos y abonos producto de altas y bajas del período.
+
+
+
+​Se debe dar a conocer los activos obsoletos, en desuso, faltantes o en mal estado que requieren una reconsideración de su vida útil remanente o de la decisión de vender o dar de baja y que no han sido informados oportunamente y no han sido registrados en la contabilidad en forma adecuada.
+
+Área de egresos ordinarios
+
+Prestaciones Adicionales y Empresas Relacionadas
+
+
+
+Debe verificarse que las partidas que conforman los egresos por concepto de Prestaciones Adicionales se ajusten a la normativa legal e instrucciones sobre la materia. También debe hacerse lo mismo para las operaciones con Entidades Relacionadas, debiendo éstas ajustarse a los contratos existentes para tal efecto o a disposiciones que obligan a la Caja y que se encuentran en la constitución de las respectivas entidades relacionadas.
+
+Otros Egresos Ordinarios
+
+
+
+Debe verificarse, tanto a nivel general como específico, cada una de las partidas en lo referido a gastos de administración y otros egresos operacionales.
+
+Área de cobranzas
+
+Cobranzas
+
+
+
+Debe verificarse la existencia de los análisis mensuales de las cuentas que conforman este rubro, especialmente los relativos a las cobranzas de los créditos sociales, a empresas relacionadas y aquellas originadas en la prestación de servicios conforme a lo dispuesto en el número 7 del artículo 19 de la Ley N°18.833.
+
+Deterioro
+
+Debe verificarse que la constitución de provisiones de las colocaciones de crédito social se ajuste a la normativa impartida sobre la materia por esta Superintendencia y, pronunciarse respecto de la suficiencia de éstas, es decir, que la pérdida esperada estimada se encuentre adecuadamente cubierta por las provisiones.
+
+Además, debe verificarse la determinación del monto de la estimación de deterioro de las restantes cuentas por cobrar mencionadas en la letra a) de este N°7.
+
+Área de contratos
+
+
+
+Debe verificarse la existencia y vigencia de los contratos que respalden las condiciones y precios convenidos en las transacciones realizadas (contratos a empresas de cobranza, contratos de prestaciones de servicios a terceros, contratos de administrador de cartera securitizada, contratos para prestaciones complementarias, contratos de seguros comprometidos, contratos con empresas relacionadas, entre otros).
+
+Área de tecnología de información (TI):
+
+
+
+​Se debe realizar una evaluación del ámbito informático y de los Sistemas de Información de la C.C.A.F. relacionados, entre otros, con los Estados financieros, Cálculo de Provisiones y Valorización de inversiones. El análisis debe abarcar como mínimo los siguientes aspectos:
+
+Operatividad y seguridad física
+
+
+
+Se debe evaluar los mecanismos con que cuenta la Caja, para dejar funcionando normalmente sus sistemas computacionales, en la eventualidad de producirse algún problema en su plataforma computacional.
+
+
+
+Este punto debe incluir el análisis de planes de contingencia, políticas de respaldo y seguridad física de los respaldos, entre otros.
+
+Seguridad lógica
+
+
+
+Se debe analizar los controles de acceso sobre datos y sobre la operación de los sistemas, que la Caja tenga implementados.
+
+Mantención de sistemas
+
+
+
+Se debe analizar los mecanismos que posee la Caja, para asegurar un correcto funcionamiento de sus sistemas computacionales.
+
+
+
+Se deben determinar ciertos puntos de control que permitan revisar la exactitud de cálculo de los procesos computacionales.
+
+Mantención de la información histórica.
+
+
+
+Se deben analizar los períodos que la Caja mantiene la información, ya sea en línea o en medios magnéticos de respaldo; caso en que se debe analizar la factibilidad de recuperación de la información.
+
+De acuerdo con las características y condiciones de cada área de trabajo, éstas deben ser examinadas conforme a su valorización, validar la propiedad y existencia de los activos y pasivos y, en determinados casos, verificar los límites y clasificación de riesgo. En todo caso, se deben examinar todos los aspectos que sean necesarios para probar la razonabilidad de los saldos involucrados.
+
+En la auditoría a los Estados Financieros, el auditor externo debe incluir un análisis sobre la suficiencia de las provisiones y el nivel de solvencia que posee la Caja de acuerdo a las instrucciones impartidas por la Superintendencia de Seguridad Social en estas materias. En estas revisiones, las firmas auditoras no se deben limitar sólo a revisar la metodología del cálculo, sino que, además, se requiere que efectúen validaciones en la información contenida en las bases de datos utilizadas.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 19

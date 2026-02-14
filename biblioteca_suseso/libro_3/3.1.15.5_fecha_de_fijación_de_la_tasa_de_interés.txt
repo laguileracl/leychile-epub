@@ -1,0 +1,4 @@
+3.1.15.5 Fecha de fijación de la tasa de interés
+================================================
+
+La fecha en que la C.C.A.F. deberá fijar la tasa de interés es aquella en que se hace entrega del dinero, entendiendo sólo para estos efectos que es la data en que éste queda a disposición del afiliado. Dicha fecha corresponderá a la data de emisión del respectivo pagaré.

@@ -1,0 +1,4 @@
+3.1.15.8 Devolución de pagarés
+==============================
+
+Efectuado el pago total de la obligación de crédito social, en el pagaré se deberá dejar constancia de ello, mediante un timbre con la palabra "PAGADO", y quedar éste a disposición del deudor principal o del aval que haya pagado el saldo adeudado. De efectuarse la devolución, deberá quedar consignada en el registro computacional de pagaré. Transcurridos 5 años podrán ser destruidos.

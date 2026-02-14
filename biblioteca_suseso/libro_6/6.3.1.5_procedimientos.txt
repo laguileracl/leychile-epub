@@ -1,0 +1,14 @@
+6.3.1.5 Procedimientos
+======================
+
+Se deben detallar en un documento los procedimientos generales para identificar, medir, controlar y divulgar los riesgos, los que por ningún motivo podrán tener contradicciones con los principios de la política de administración del riesgo de liquidez. Estos procedimientos deben incluir al menos, los siguientes aspectos:
+
+Procedimiento asociado a la extracción de información para la construcción del modelo de liquidez, desglosado por cada partida, identificando claramente los sistemas y las áreas involucradas.
+
+Metodología de construcción del modelo de liquidez, considerando los supuestos asociados a cada partida debidamente respaldados.
+
+Procedimiento de análisis de sensibilidad o test de estrés.
+
+Procedimientos de monitoreo de los límites normativos máximos de descalce y las acciones a seguir para que dichos límites se cumplan.
+
+Descripción de los procesos de divulgación de información de la gestión del riesgo de liquidez, en particular cómo la Caja de Compensación vela porque se divulgue la información al mercado de manera transparente y en un lenguaje sencillo, contemplando al menos la explicación de los principales riesgos a los que están expuestos y las medidas que se llevan a cabo para controlarlos.

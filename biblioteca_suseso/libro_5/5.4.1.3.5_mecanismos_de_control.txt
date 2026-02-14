@@ -1,0 +1,36 @@
+5.4.1.3.5 Mecanismos de control
+===============================
+
+Las entidades recaudadoras deben adoptar las medidas necesarias para que los pagos de cotizaciones previsionales realizados por Internet se efectúen en forma segura, íntegra y confidencial.
+
+El contrato de prestación de servicios suscrito entre la empresa administradora del Sitio web y la entidad recaudadora, además de los requisitos adicionales definidos en el numeral 5.4 Título IV del Libro V de este Compendio de la Ley N°18.833 , debe contener estipulaciones que consideren el cumplimiento de las siguientes medidas de control:
+
+Asegurar que todas las transferencias electrónicas de información definidas por el numeral 5.4 del Título IV del Libro V de este Compendio de la Ley N°18.833 se transmitan encriptadas.
+
+Funcionalidad permanente y con altos estándares de calidad, seguridad y disponibilidad de servicio.
+
+Disponibilidad de un software de características que lo hagan de fácil uso, aplicación y comprensión en el ámbito del usuario. Entre ellas, que asigne automáticamente un número único de folio a cada transferencia electrónica relacionada con el pago de las cotizaciones previsionales.
+
+El software descrito en la letra precedente tiene que permitir que se verifique la información que el empleador o trabajador independiente ingrese en las transferencias electrónicas de información Declaración y Orden de pago antes de ser aceptada por la empresa administradora del Sitio Web. Estas transferencias de información sólo pueden transmitirse una vez que se compruebe que no existan errores. Al menos, deben considerarse los siguientes aspectos:
+
+Que se registren los datos de los campos con información obligatoria, según corresponda (identificación del trabajador, Rut válido, remuneración imponible, monto de la cotización obligatoria, entidad destinataria de la transferencia electrónica de información, etc.).
+
+Que el valor total a pagar por cotizaciones previsionales, informados en la Declaración , sea igual al registrado en la correspondiente Orden de pago en el Sistema Electrónico o al traspaso de fondos entre cuentas corrientes del mismo banco, y con en el Comprobante de pago en el Sistema Mixto.
+
+Que las cotizaciones previsionales sean calculadas correctamente (que su valor no sobrepase el límite máximo imponible, que el porcentaje de la cotización obligatoria que se aplique sea el vigente, etc.).
+
+Garantizar la distribución oportuna de la totalidad de las transferencias electrónicas de información recibidas dentro del horario bancario.
+
+Contar con un servicio de almacenamiento y recuperación de transferencias electrónicas de información.
+
+Generar medios de prueba en un período de, a lo menos, 5 años desde la fecha de generación de las transacciones y certificarlas ante los distintos agentes participantes.
+
+Proporcionar reportes de ruta y estado de las transferencias electrónicas de información, que permitan conocer en forma permanente si éstas han sido correctamente recibidas o se encuentran pendientes.
+
+Asegurar a la Superintendencia el acceso expedito y sin formalidades de ninguna especie a la información mantenida por la empresa administradora del Sitio web.
+
+La empresa administradora del Sitio web debe poner a disposición de las entidades recaudadoras el software descrito en el número dos anterior (sobre mecanismos de control), para su estudio, evaluación y aprobación. El Gerente General o Director Nacional de la entidad recaudadora o quien legalmente lo subrogue autorizará formalmente por escrito su aplicación.
+
+El número único de folio es en exclusiva la referencia de control válida que reconoce la Superintendencia a objeto de asociar en forma inequívoca la transacción con las distintas transferencias electrónicas de información que la conforman. En consecuencia, éste debe ser obligatoriamente referenciado en la Declaración, Orden de pago. Débito, Crédito y Confirmación .
+
+Cuando exista más de una empresa administradora de Sitio Web para efectos de la recaudación electrónica, las entidades recaudadoras deben adoptar todas las medidas de control necesarias para que el folio de las transferencias electrónicas de información cumpla con la condición de ser único en todo el sistema, para lo cual su estructura debe contener caracteres de codificación exclusiva que identifiquen al Sitio Web.

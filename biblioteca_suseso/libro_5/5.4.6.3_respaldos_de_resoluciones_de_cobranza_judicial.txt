@@ -1,0 +1,4 @@
+5.4.6.3 Respaldos de resoluciones de cobranza judicial
+======================================================
+
+Las C.C.A.F. deben registrar en el sistema de archivos que mantienen para las resoluciones de cobranza judicial, ya sea éste computacional o manual, si éstas fueron firmadas en forma, manual, mecánica o electrónica.

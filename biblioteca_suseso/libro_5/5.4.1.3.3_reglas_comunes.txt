@@ -1,0 +1,14 @@
+5.4.1.3.3 Reglas comunes
+========================
+
+El pago de cotizaciones previsionales mediante transmisión electrónica de información e instrucciones de transferencias de fondos por Internet que se autoriza en el presente numeral 5.4 del Título IV del Libro V del Compendio de la Ley N°18.833, rige respecto de los trabajadores dependientes e independientes, condicionado a que el empleador o trabajador independiente que se registre en este sistema, se encuentre debidamente inscrito en el Sitio Web y siempre que los pagos se realicen dentro del plazo legal.
+
+En el caso de aquellos empleadores que hubiesen enviado la Declaración y Orden de pago electrónicas, ya sea utilizando el sistema electrónico o mixto, pero no se hubiese producido el pago de las cotizaciones previsionales y aportes de indemnización, la entidad recaudadora debe iniciar, dentro de los 10 días hábiles siguientes al vencimiento del plazo legal para realizar dicho pago, todos los procedimientos administrativos establecidos en la normativa vigente de cobranza.
+
+Las entidades pagadoras de subsidios pueden realizar sus pagos por Internet en su calidad de empleador o como pagadora de beneficios.
+
+La entidad recaudadora debe certificar ante este organismo Contralor, los agentes participantes y otras instituciones, las operaciones referidas al servicio de recaudación electrónica. Para tal efecto, debe mantener respaldado y disponible en medios magnéticos como mínimo durante cinco años, las transferencias electrónicas de información intercambiada.
+
+Las entidades recaudadoras están obligadas a implementar y disponer de procedimientos de auditoría que tengan como propósito verificar que las cotizaciones previsionales y aportes de indemnización pagadas mediante las dos modalidades definidas, han sido correctamente ejecutadas.
+
+Las Entidades recaudadoras deben considerar la recaudación electrónica de las cotizaciones previsionales de la misma forma que los pagos efectuados de acuerdo con el procedimiento tradicional y, por lo tanto, deben cumplir con los mismos niveles de exigencia y de validación establecidos en la normativa vigente.

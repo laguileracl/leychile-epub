@@ -1,0 +1,10 @@
+5.2.3.4.10 Control Interno de la gestión contable
+=================================================
+
+Las Cajas deben mantener un sistema de gestión contable que refleje de forma clara y fehaciente su situación económica y financiera.
+
+Para lo anterior, cada Caja debe incorporar a su Sistema de Control interno todos los procesos y operaciones realizadas por gestión contable, tesorería y sus unidades relacionadas, internas o externas.
+
+Asimismo, dichas unidades deben implementar procedimientos y medidas de control para que la contabilidad se encuentre debidamente registrada y asegurar que se apliquen las respectivas medidas de conciliación de la información, realizar pruebas de calidad de datos y documentar aquellas partidas que así Io requieran.
+
+Además, cada Caja debe disponer de un Manual de Cuentas actualizado y aprobado para cada una de las cuentas que conforman el sistema contable de la misma, en donde se detallen los conceptos por los cuales se efectúan abonos y cargos, a la vez que se indique el ítem del Formato Único de Presentación de Estados Financieros (F.U.P.E.F) donde se registran.

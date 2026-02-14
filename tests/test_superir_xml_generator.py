@@ -3404,5 +3404,642 @@ class TestGenerateNCG26(unittest.TestCase):
         self.assertIn("indicadores de gestión", titulo[0].text.lower())
 
 
+class TestGenerateNCG27(unittest.TestCase):
+    """NCG 27: Cuentas provisorias de liquidadores (RE 13003, 2024-09-04).
+
+    Estructura:
+    - 8 considerandos (4° empieza con "Por su parte" en vez de "Que")
+    - 1 resolutivo APRUÉBESE (numeral romano I.)
+    - 9 artículos directos SIN títulos (primera NCG sin divisiones formales)
+    - 4 resolutivo_final (numerales romanos II-V → arábigos 2-5)
+    - DERÓGUENSE Título I NCG 7, Título IX Instructivo SIR 1, Oficio SIR 1076
+    - Distribución 9 siglas (más extenso hasta ahora)
+    - Destinatarios: solo Liquidadores/as
+    - Sin anexos
+    """
+
+    @classmethod
+    def setUpClass(cls):
+        txt_path = (
+            Path(__file__).parent.parent
+            / "biblioteca_xml/organismos/SUPERIR/NCG/texto/NCG_27.txt"
+        )
+        if not txt_path.exists():
+            raise unittest.SkipTest(f"Texto NCG 27 no encontrado: {txt_path}")
+
+        import sys
+        sys.path.insert(0, str(Path(__file__).parent.parent / "scripts"))
+        from process_ncg import NCG_CATALOG
+
+        txt = txt_path.read_text("utf-8")
+        parser = SuperirStructuredParser()
+        parsed = parser.parse(txt, doc_numero="27", catalog_entry=NCG_CATALOG["27"])
+        gen = SuperirXMLGenerator()
+        cls.xml_str = gen.generate(parsed)
+        cls.root = _parse_xml(cls.xml_str)
+        cls.parsed = parsed
+
+    # === XSD ===
+    def test_validates_xsd(self):
+        """XML valida contra superir_v1.xsd."""
+        schema = etree.XMLSchema(etree.parse(str(SCHEMA_PATH)))
+        doc = etree.fromstring(self.xml_str.encode("utf-8"))
+        self.assertTrue(schema.validate(doc), schema.error_log)
+
+    # === Root ===
+    def test_root_attributes(self):
+        """Norma tipo, número y organismo correctos."""
+        self.assertEqual(self.root.get("tipo"), "Norma de Carácter General")
+        self.assertEqual(self.root.get("numero"), "27")
+        self.assertIn("Insolvencia", self.root.get("organismo"))
+
+    # === Acto administrativo ===
+    def test_resolucion_exenta_13003(self):
+        """RE 13003 — numeración significativamente mayor que lote 2023."""
+        num = _xpath(self.root, "//n:acto_administrativo/n:numero")
+        self.assertEqual(num[0].text, "13003")
+
+    # === Fecha ===
+    def test_fecha_2024_09_04(self):
+        """Fecha 4 septiembre 2024."""
+        fecha = _xpath(self.root, "//n:encabezado/n:fecha")
+        self.assertEqual(fecha[0].text, "2024-09-04")
+
+    # === Considerandos ===
+    def test_eight_considerandos(self):
+        """8 considerandos (más que las 5-6 habituales)."""
+        cons = _xpath(self.root, "//n:considerando")
+        self.assertEqual(len(cons), 8)
+
+    def test_considerando_1_articulo_331(self):
+        """Considerando 1° cita artículos 331 de Ley 20.720."""
+        cons = _xpath(self.root, "//n:considerando[@numero='1']/n:parrafo")
+        self.assertIn("331", cons[0].text)
+
+    def test_considerando_4_por_su_parte(self):
+        """Considerando 4° empieza con 'Por su parte' (no 'Que')."""
+        cons = _xpath(self.root, "//n:considerando[@numero='4']/n:parrafo")
+        self.assertTrue(cons[0].text.startswith("Por su parte"))
+
+    def test_considerando_6_articulo_46(self):
+        """Considerando 6° cita artículo 46 sobre cuentas provisorias."""
+        cons = _xpath(self.root, "//n:considerando[@numero='6']/n:parrafo")
+        self.assertIn("artículo 46", cons[0].text)
+
+    def test_considerando_8_ley_19880(self):
+        """Considerando 8° cita Ley 19.880."""
+        cons = _xpath(self.root, "//n:considerando[@numero='8']/n:parrafo")
+        self.assertIn("19.880", cons[0].text)
+
+    # === Resolutivo ===
+    def test_resolutivo_aprueba(self):
+        """Resolutivo 1 APRUÉBESE (romano I. → arábigo 1)."""
+        puntos = _xpath(self.root, "//n:resolutivo/n:punto")
+        self.assertEqual(len(puntos), 1)
+        self.assertEqual(puntos[0].get("numero"), "1")
+        self.assertIn("APRUÉBESE", puntos[0].text)
+
+    def test_resolutivo_cuentas_provisorias(self):
+        """Resolutivo menciona cuentas provisorias mensuales."""
+        punto = _xpath(self.root, "//n:resolutivo/n:punto[@numero='1']")
+        self.assertIn("Cuentas Provisorias mensuales", punto[0].text)
+
+    # === Cuerpo normativo: sin títulos ===
+    def test_no_titulos(self):
+        """NCG 27 no tiene títulos formales — artículos directos."""
+        titulos = _xpath(self.root, "//n:cuerpo_normativo/n:titulo")
+        self.assertEqual(len(titulos), 0)
+
+    def test_nine_articulos_directos(self):
+        """9 artículos directamente bajo cuerpo_normativo."""
+        arts = _xpath(self.root, "//n:cuerpo_normativo/n:articulo")
+        self.assertEqual(len(arts), 9)
+
+    def test_all_nine_epigrafes(self):
+        """Los 9 artículos tienen epígrafe."""
+        arts = _xpath(self.root, "//n:cuerpo_normativo/n:articulo")
+        for a in arts:
+            self.assertTrue(
+                a.get("epigrafe"),
+                f"Art {a.get('numero')} sin epígrafe",
+            )
+
+    # === Artículos individuales ===
+    def test_art1_epigrafe_definicion(self):
+        """Art 1° Definición."""
+        art = _xpath(self.root, "//n:articulo[@numero='1']")
+        self.assertEqual(art[0].get("epigrafe"), "Definición")
+
+    def test_art1_two_parrafos(self):
+        """Art 1° tiene 2 párrafos."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='1']/n:parrafo")
+        self.assertEqual(len(parrs), 2)
+
+    def test_art1_cuenta_provisoria(self):
+        """Art 1° define Cuenta Provisoria."""
+        parr = _xpath(self.root, "//n:articulo[@numero='1']/n:parrafo")
+        self.assertIn("Cuenta Provisoria", parr[0].text)
+
+    def test_art2_epigrafe_oportunidad(self):
+        """Art 2° Oportunidad."""
+        art = _xpath(self.root, "//n:articulo[@numero='2']")
+        self.assertEqual(art[0].get("epigrafe"), "Oportunidad")
+
+    def test_art2_five_parrafos(self):
+        """Art 2° tiene 5 párrafos (el más extenso)."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='2']/n:parrafo")
+        self.assertEqual(len(parrs), 5)
+
+    def test_art2_15_dias(self):
+        """Art 2° menciona plazo de 15 días hábiles judiciales."""
+        parr = _xpath(self.root, "//n:articulo[@numero='2']/n:parrafo")
+        self.assertIn("15 días hábiles judiciales", parr[0].text)
+
+    def test_art3_epigrafe_forma_contenidos(self):
+        """Art 3° Forma y contenidos de las cuentas provisorias."""
+        art = _xpath(self.root, "//n:articulo[@numero='3']")
+        self.assertIn("Forma y contenidos", art[0].get("epigrafe"))
+
+    def test_art3_six_parrafos(self):
+        """Art 3° tiene 6 párrafos (continuación actividades económicas)."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='3']/n:parrafo")
+        self.assertEqual(len(parrs), 6)
+
+    def test_art3_portal_sujetos(self):
+        """Art 3° menciona Portal Sujetos Fiscalizados."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='3']/n:parrafo")
+        texts = " ".join(p.text for p in parrs)
+        self.assertIn("Portal Sujetos Fiscalizados", texts)
+
+    def test_art4_epigrafe_registro(self):
+        """Art 4° Registro de las cuentas provisorias."""
+        art = _xpath(self.root, "//n:articulo[@numero='4']")
+        self.assertIn("Registro", art[0].get("epigrafe"))
+
+    def test_art4_one_parrafo(self):
+        """Art 4° es breve — solo 1 párrafo."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='4']/n:parrafo")
+        self.assertEqual(len(parrs), 1)
+
+    def test_art5_epigrafe_publicacion(self):
+        """Art 5° Publicación en Boletín Concursal."""
+        art = _xpath(self.root, "//n:articulo[@numero='5']")
+        self.assertIn("Publicación", art[0].get("epigrafe"))
+
+    def test_art5_ncg_14_reference(self):
+        """Art 5° refiere a NCG 14 de 11 de agosto de 2023."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='5']/n:parrafo")
+        self.assertIn("N.° 14", parrs[0].text)
+
+    def test_art6_epigrafe_simplificada(self):
+        """Art 6° Cuentas Provisorias en Liquidación simplificada."""
+        art = _xpath(self.root, "//n:articulo[@numero='6']")
+        self.assertIn("simplificada", art[0].get("epigrafe").lower())
+
+    def test_art7_epigrafe_observaciones(self):
+        """Art 7° Observaciones a las cuentas provisorias."""
+        art = _xpath(self.root, "//n:articulo[@numero='7']")
+        self.assertIn("Observaciones", art[0].get("epigrafe"))
+
+    def test_art7_three_parrafos(self):
+        """Art 7° tiene 3 párrafos."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='7']/n:parrafo")
+        self.assertEqual(len(parrs), 3)
+
+    def test_art7_deudor_observaciones(self):
+        """Art 7° permite al Deudor formular observaciones."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='7']/n:parrafo")
+        self.assertIn("Deudor", parrs[1].text)
+
+    def test_art8_epigrafe_vigencia(self):
+        """Art 8° Vigencia."""
+        art = _xpath(self.root, "//n:articulo[@numero='8']")
+        self.assertEqual(art[0].get("epigrafe"), "Vigencia")
+
+    def test_art8_correo_electronico(self):
+        """Art 8° vigencia a contar de notificación por correo electrónico."""
+        parr = _xpath(self.root, "//n:articulo[@numero='8']/n:parrafo")
+        self.assertIn("correo electrónico", parr[0].text)
+
+    def test_art9_epigrafe_transitoria(self):
+        """Art 9° Disposición transitoria."""
+        art = _xpath(self.root, "//n:articulo[@numero='9']")
+        self.assertIn("transitoria", art[0].get("epigrafe").lower())
+
+    def test_art9_10_dias(self):
+        """Art 9° establece plazo de 10 días hábiles administrativos."""
+        parr = _xpath(self.root, "//n:articulo[@numero='9']/n:parrafo")
+        self.assertIn("10 días hábiles administrativos", parr[0].text)
+
+    # === Resolutivo final ===
+    def test_four_resolutivo_final(self):
+        """4 puntos resolutivos finales (romanos II-V → arábigos 2-5)."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto")
+        self.assertEqual(len(rf), 4)
+
+    def test_resolutivo_final_notifiquese(self):
+        """Punto 2: NOTIFÍQUESE a sujetos fiscalizados."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto[@numero='2']")
+        self.assertIn("NOTIFÍQUESE", rf[0].text)
+
+    def test_resolutivo_final_publiquese(self):
+        """Punto 3: PUBLÍQUESE en Diario Oficial."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto[@numero='3']")
+        self.assertIn("PUBLÍQUESE", rf[0].text)
+        self.assertIn("Diario Oficial", rf[0].text)
+
+    def test_resolutivo_final_dispongase(self):
+        """Punto 4: DISPÓNGASE publicación web institucional."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto[@numero='4']")
+        self.assertIn("DISPÓNGASE", rf[0].text)
+
+    def test_resolutivo_final_deroguense(self):
+        """Punto 5: DERÓGUENSE parcialmente NCG 7, Instructivo 1, Oficio 1076."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto[@numero='5']")
+        self.assertIn("DERÓGUENSE", rf[0].text)
+
+    def test_derogacion_ncg_7_titulo_i(self):
+        """Deroga Título I de NCG 7 (cuentas provisorias)."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto[@numero='5']")
+        self.assertIn("Título I", rf[0].text)
+        self.assertIn("N.º 7", rf[0].text)
+
+    def test_derogacion_instructivo_sir_1(self):
+        """Deroga Título IX del Instructivo SIR N.º 1."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto[@numero='5']")
+        self.assertIn("Instructivo SIR", rf[0].text)
+
+    # === Cierre ===
+    def test_cierre_formula_notifiquese(self):
+        """Fórmula ANÓTESE, NOTIFÍQUESE Y ARCHÍVESE."""
+        formula = _xpath(self.root, "//n:cierre/n:formula")
+        self.assertIn("NOTIFÍQUESE", formula[0].text)
+
+    def test_firmante_hugo_sanchez(self):
+        """Firmante Hugo Sánchez Ramírez."""
+        nombre = _xpath(self.root, "//n:cierre/n:firmante/n:nombre")
+        self.assertIn("HUGO SÁNCHEZ", nombre[0].text)
+
+    def test_distribucion_9_siglas(self):
+        """Distribución PVL/CVS/CBP/EGZ/FRC/SUS/JCMV/DPR/MLS (9 siglas)."""
+        dist = _xpath(self.root, "//n:cierre/n:distribucion")
+        self.assertEqual(dist[0].text, "PVL/CVS/CBP/EGZ/FRC/SUS/JCMV/DPR/MLS")
+
+    def test_destinatarios_liquidadores(self):
+        """Destinatarios: solo Liquidadores/as."""
+        dest = _xpath(self.root, "//n:cierre/n:notificacion/n:destinatarios")
+        self.assertIn("Liquidadores/as", dest[0].text)
+
+    def test_no_anexos(self):
+        """NCG 27 no tiene anexos."""
+        anexos = _xpath(self.root, "//n:anexos")
+        self.assertEqual(len(anexos), 0)
+
+    # === Metadatos ===
+    def test_titulo_cuentas_provisorias(self):
+        """Título incluye cuentas provisorias."""
+        titulo = _xpath(self.root, "//n:metadatos/n:titulo")
+        self.assertIn("cuentas provisorias", titulo[0].text.lower())
+
+    def test_cuatro_materias(self):
+        """4 materias: cuentas provisorias, liquidación, boletín, portal."""
+        materias = _xpath(self.root, "//n:metadatos/n:materias/n:materia")
+        self.assertEqual(len(materias), 4)
+
+    def test_ley_20720_referenced(self):
+        """Ley 20.720 referenciada."""
+        refs = _xpath(self.root, "//n:metadatos/n:leyes_referenciadas/n:ley_ref")
+        numeros = [r.get("numero") for r in refs]
+        self.assertIn("20.720", numeros)
+
+    def test_ley_21563_referenced(self):
+        """Ley 21.563 referenciada."""
+        refs = _xpath(self.root, "//n:metadatos/n:leyes_referenciadas/n:ley_ref")
+        numeros = [r.get("numero") for r in refs]
+        self.assertIn("21.563", numeros)
+
+    def test_ncg_14_referenced(self):
+        """NCG 14 referenciada (Boletín Concursal)."""
+        refs = _xpath(self.root, "//n:metadatos/n:leyes_referenciadas/n:ley_ref")
+        tipos_nums = [(r.get("tipo"), r.get("numero")) for r in refs]
+        self.assertIn(("NCG", "14"), tipos_nums)
+
+    def test_ds_181_referenced(self):
+        """D.S. 181 referenciado."""
+        refs = _xpath(self.root, "//n:metadatos/n:leyes_referenciadas/n:ley_ref")
+        numeros = [r.get("numero") for r in refs]
+        self.assertIn("181", numeros)
+
+
+class TestGenerateNCG28(unittest.TestCase):
+    """NCG 28: Procedimiento Concursal de Renegociación (RE 22802, 2025-11-19).
+
+    NCG más extensa del corpus: 90 artículos + Art 25° Bis = 91 total.
+    Primera con jerarquía invertida: Capítulo > Título > Artículo.
+
+    Estructura:
+    - 9 considerandos
+    - 2 resolutivos (DÉJASE SIN EFECTO RE 21106 + APRUÉBASE NCG 28)
+    - Capítulo I: Título I (7 arts) + Título II (9 arts) = 16 arts
+    - Capítulo II: Título I (3 arts) + Título II (26 arts) = 29 arts
+    - Capítulo III: Títulos I-V (8+16+7+8+4) = 43 arts
+    - Art 25° Bis (primer artículo bis del corpus)
+    - Disposiciones Finales: Arts 88-90 (Ámbito, Vigencia, Derogación)
+    - 2 resolutivo final (PUBLÍQUESE + DISPÓNGASE)
+    - Distribución PCG/JEC/BRV (3 siglas)
+    - Deroga NCG 21
+    """
+
+    @classmethod
+    def setUpClass(cls):
+        txt_path = (
+            Path(__file__).parent.parent
+            / "biblioteca_xml/organismos/SUPERIR/NCG/texto/NCG_28.txt"
+        )
+        if not txt_path.exists():
+            raise unittest.SkipTest(f"Texto NCG 28 no encontrado: {txt_path}")
+
+        import sys
+        sys.path.insert(0, str(Path(__file__).parent.parent / "scripts"))
+        from process_ncg import NCG_CATALOG
+
+        txt = txt_path.read_text("utf-8")
+        parser = SuperirStructuredParser()
+        parsed = parser.parse(txt, doc_numero="28", catalog_entry=NCG_CATALOG["28"])
+        gen = SuperirXMLGenerator()
+        cls.xml_str = gen.generate(parsed)
+        cls.root = _parse_xml(cls.xml_str)
+        cls.parsed = parsed
+
+    # === XSD ===
+    def test_validates_xsd(self):
+        """XML valida contra superir_v1.xsd."""
+        schema = etree.XMLSchema(etree.parse(str(SCHEMA_PATH)))
+        doc = etree.fromstring(self.xml_str.encode("utf-8"))
+        self.assertTrue(schema.validate(doc), schema.error_log)
+
+    # === Root ===
+    def test_root_attributes(self):
+        """Norma tipo, número y organismo correctos."""
+        self.assertEqual(self.root.get("tipo"), "Norma de Carácter General")
+        self.assertEqual(self.root.get("numero"), "28")
+        self.assertIn("Insolvencia", self.root.get("organismo"))
+
+    # === Acto administrativo ===
+    def test_resolucion_exenta_22802(self):
+        """RE 22802 — numeración más alta del corpus."""
+        num = _xpath(self.root, "//n:acto_administrativo/n:numero")
+        self.assertEqual(num[0].text, "22802")
+
+    def test_acto_tipo_resolucion_exenta(self):
+        """Tipo RESOLUCIÓN EXENTA."""
+        tipo = _xpath(self.root, "//n:acto_administrativo/n:tipo")
+        self.assertEqual(tipo[0].text, "RESOLUCIÓN EXENTA")
+
+    # === Fecha ===
+    def test_fecha_2025_11_19(self):
+        """Fecha 19 noviembre 2025."""
+        fecha = _xpath(self.root, "//n:encabezado/n:fecha")
+        self.assertEqual(fecha[0].text, "2025-11-19")
+
+    # === Considerandos ===
+    def test_nine_considerandos(self):
+        """9 considerandos (más que cualquier otra NCG)."""
+        cons = _xpath(self.root, "//n:considerandos/n:considerando")
+        self.assertEqual(len(cons), 9)
+
+    def test_considerando_1_articulos_331(self):
+        """Considerando 1° cita artículos 331 y siguientes."""
+        c1 = _xpath(self.root, "//n:considerando[@numero='1']/n:parrafo")
+        self.assertIn("331", c1[0].text)
+
+    def test_considerando_2_capitulo_v(self):
+        """Considerando 2° cita Capítulo V, Título 1 de la Ley."""
+        c2 = _xpath(self.root, "//n:considerando[@numero='2']/n:parrafo")
+        self.assertIn("Capítulo V", c2[0].text)
+
+    def test_considerando_9_ley_20720(self):
+        """Considerando 9° cita Ley N° 20.720."""
+        c9 = _xpath(self.root, "//n:considerando[@numero='9']/n:parrafo")
+        self.assertIn("20.720", c9[0].text)
+
+    # === Resolutivo ===
+    def test_two_resolutivo_puntos(self):
+        """2 puntos resolutivos."""
+        pts = _xpath(self.root, "//n:resolutivo/n:punto")
+        self.assertEqual(len(pts), 2)
+
+    def test_resolutivo_1_dejase_sin_efecto(self):
+        """Resolutivo 1: DÉJASE SIN EFECTO RE 21106."""
+        p1 = _xpath(self.root, "//n:resolutivo/n:punto[@numero='1']")
+        self.assertIn("DÉJASE SIN EFECTO", p1[0].text)
+        self.assertIn("21106", p1[0].text)
+
+    def test_resolutivo_2_aprueba(self):
+        """Resolutivo 2: APRUÉBASE NCG 28."""
+        p2 = _xpath(self.root, "//n:resolutivo/n:punto[@numero='2']")
+        self.assertIn("APRUÉBASE", p2[0].text)
+
+    # === Cuerpo normativo: Capítulos (jerarquía invertida) ===
+    def test_three_capitulos(self):
+        """3 capítulos bajo cuerpo_normativo."""
+        caps = _xpath(self.root, "//n:cuerpo_normativo/n:capitulo")
+        self.assertEqual(len(caps), 3)
+
+    def test_no_titulos_at_root(self):
+        """No hay títulos directos bajo cuerpo_normativo (todos dentro de capítulos)."""
+        titulos = _xpath(self.root, "//n:cuerpo_normativo/n:titulo")
+        self.assertEqual(len(titulos), 0)
+
+    def test_capitulo_i_two_titulos(self):
+        """Capítulo I tiene 2 títulos."""
+        titulos = _xpath(self.root, "//n:capitulo[@numero='I']/n:titulo")
+        self.assertEqual(len(titulos), 2)
+
+    def test_capitulo_i_16_articles(self):
+        """Capítulo I: 16 artículos (Tít I: 7 + Tít II: 9)."""
+        arts = _xpath(self.root, "//n:capitulo[@numero='I']//n:articulo")
+        self.assertEqual(len(arts), 16)
+
+    def test_capitulo_ii_two_titulos(self):
+        """Capítulo II tiene 2 títulos."""
+        titulos = _xpath(self.root, "//n:capitulo[@numero='II']/n:titulo")
+        self.assertEqual(len(titulos), 2)
+
+    def test_capitulo_ii_29_articles(self):
+        """Capítulo II: 29 artículos (Tít I: 3 + Tít II: 26)."""
+        arts = _xpath(self.root, "//n:capitulo[@numero='II']//n:articulo")
+        self.assertEqual(len(arts), 29)
+
+    def test_capitulo_iii_five_titulos(self):
+        """Capítulo III tiene 5 títulos."""
+        titulos = _xpath(self.root, "//n:capitulo[@numero='III']/n:titulo")
+        self.assertEqual(len(titulos), 5)
+
+    def test_capitulo_iii_43_articles(self):
+        """Capítulo III: 43 artículos (8+16+7+8+4)."""
+        arts = _xpath(self.root, "//n:capitulo[@numero='III']//n:articulo")
+        self.assertEqual(len(arts), 43)
+
+    def test_total_91_articles(self):
+        """91 artículos en total (88 en capítulos + 3 disp finales)."""
+        all_arts = _xpath(self.root, "//n:articulo")
+        self.assertEqual(len(all_arts), 91)
+
+    # === Art 25° Bis (primer bis del corpus) ===
+    def test_art_25_bis_exists(self):
+        """Art 25° Bis presente como articulo con numero='25 Bis'."""
+        a25b = _xpath(self.root, "//n:articulo[@numero='25 Bis']")
+        self.assertEqual(len(a25b), 1)
+
+    def test_art_25_bis_epigrafe(self):
+        """Art 25° Bis tiene epígrafe 'Del Registro de poderes y mandatos'."""
+        a25b = _xpath(self.root, "//n:articulo[@numero='25 Bis']")
+        self.assertEqual(a25b[0].get("epigrafe"), "Del Registro de poderes y mandatos")
+
+    def test_art_25_bis_four_parrafos(self):
+        """Art 25° Bis tiene 4 párrafos."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='25 Bis']/n:parrafo")
+        self.assertEqual(len(parrs), 4)
+
+    def test_art_25_bis_registro_poderes(self):
+        """Art 25° Bis menciona registro de poderes."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='25 Bis']/n:parrafo")
+        self.assertIn("registro de los poderes", parrs[0].text.lower())
+
+    # === Artículos específicos ===
+    def test_art1_epigrafe_solicitud(self):
+        """Art 1° epígrafe sobre Solicitud de Inicio."""
+        a1 = _xpath(self.root, "//n:articulo[@numero='1']")
+        self.assertIn("Solicitud", a1[0].get("epigrafe"))
+
+    def test_art1_three_parrafos(self):
+        """Art 1° tiene 3 párrafos."""
+        parrs = _xpath(self.root, "//n:articulo[@numero='1']/n:parrafo")
+        self.assertEqual(len(parrs), 3)
+
+    def test_art7_epigrafe_pensiones_alimentos(self):
+        """Art 7° sobre Registro Nacional de Deudores de Pensiones de Alimentos."""
+        a7 = _xpath(self.root, "//n:articulo[@numero='7']")
+        self.assertIn("Pensiones de Alimentos", a7[0].get("epigrafe"))
+
+    def test_art25_epigrafe_calidad_actuar(self):
+        """Art 25° sobre calidad para actuar en audiencia telemática."""
+        a25 = _xpath(self.root, "//n:articulo[@numero='25']")
+        self.assertIn("Calidad", a25[0].get("epigrafe"))
+
+    def test_art60_epigrafe_acta(self):
+        """Art 60° sobre Acta de la Audiencia de Renegociación."""
+        a60 = _xpath(self.root, "//n:articulo[@numero='60']")
+        self.assertIn("Acta", a60[0].get("epigrafe"))
+
+    def test_art87_epigrafe_limitacion(self):
+        """Art 87° sobre limitación de someterse al procedimiento."""
+        a87 = _xpath(self.root, "//n:articulo[@numero='87']")
+        self.assertIn("limitación", a87[0].get("epigrafe").lower())
+
+    def test_71_epigrafes(self):
+        """71 de 91 artículos tienen epígrafe."""
+        all_arts = _xpath(self.root, "//n:articulo")
+        with_ep = [a for a in all_arts if a.get("epigrafe")]
+        self.assertEqual(len(with_ep), 71)
+
+    # === Disposiciones finales ===
+    def test_three_disposiciones_finales(self):
+        """3 artículos en disposiciones finales."""
+        df = _xpath(self.root, "//n:disposiciones_finales/n:articulo")
+        self.assertEqual(len(df), 3)
+
+    def test_disp_final_88_ambito(self):
+        """Art 88° Ámbito de aplicación."""
+        a88 = _xpath(self.root, "//n:disposiciones_finales/n:articulo[@numero='88']")
+        self.assertEqual(len(a88), 1)
+        self.assertEqual(a88[0].get("epigrafe"), "Ámbito de aplicación")
+
+    def test_disp_final_89_vigencia(self):
+        """Art 89° Vigencia."""
+        a89 = _xpath(self.root, "//n:disposiciones_finales/n:articulo[@numero='89']")
+        self.assertEqual(a89[0].get("epigrafe"), "Vigencia")
+
+    def test_disp_final_90_derogacion(self):
+        """Art 90° Derogación — deroga NCG 21."""
+        a90 = _xpath(self.root, "//n:disposiciones_finales/n:articulo[@numero='90']")
+        self.assertEqual(a90[0].get("epigrafe"), "Derogación")
+        parr = a90[0].xpath("n:parrafo", namespaces=NSMAP)
+        self.assertIn("N.° 21", parr[0].text)
+
+    # === Resolutivo final ===
+    def test_two_resolutivo_final(self):
+        """2 puntos resolutivos finales."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto")
+        self.assertEqual(len(rf), 2)
+
+    def test_resolutivo_final_publiquese(self):
+        """Punto 3: PUBLÍQUESE extracto."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto[@numero='3']")
+        self.assertIn("PUBLÍQUESE", rf[0].text)
+
+    def test_resolutivo_final_dispongase(self):
+        """Punto 4: DISPÓNGASE publicidad."""
+        rf = _xpath(self.root, "//n:resolutivo_final/n:punto[@numero='4']")
+        self.assertIn("DISPÓNGASE", rf[0].text)
+
+    # === Cierre ===
+    def test_cierre_formula_anotese(self):
+        """Fórmula ANÓTESE Y ARCHÍVESE."""
+        formula = _xpath(self.root, "//n:cierre/n:formula")
+        self.assertIn("ANÓTESE", formula[0].text)
+
+    def test_firmante_hugo_sanchez(self):
+        """Firmante Hugo Sánchez Ramírez."""
+        nombre = _xpath(self.root, "//n:cierre/n:firmante/n:nombre")
+        self.assertIn("HUGO SÁNCHEZ", nombre[0].text)
+
+    def test_cargo_superintendente(self):
+        """Cargo SUPERINTENDENTE."""
+        cargo = _xpath(self.root, "//n:cierre/n:firmante/n:cargo")
+        self.assertIn("SUPERINTENDENTE", cargo[0].text)
+
+    def test_distribucion_pcg_jec_brv(self):
+        """Distribución PCG/JEC/BRV (3 siglas)."""
+        dist = _xpath(self.root, "//n:cierre/n:distribucion")
+        self.assertEqual(dist[0].text, "PCG/JEC/BRV")
+
+    # === Metadatos ===
+    def test_six_materias(self):
+        """6 materias del catálogo."""
+        materias = _xpath(self.root, "//n:metadatos/n:materias/n:materia")
+        self.assertEqual(len(materias), 6)
+
+    def test_ley_20720_referenced(self):
+        """Ley 20.720 referenciada."""
+        refs = _xpath(self.root, "//n:metadatos/n:leyes_referenciadas/n:ley_ref")
+        numeros = [r.get("numero") for r in refs]
+        self.assertIn("20.720", numeros)
+
+    def test_ley_21563_referenced(self):
+        """Ley 21.563 referenciada (reforma concursal)."""
+        refs = _xpath(self.root, "//n:metadatos/n:leyes_referenciadas/n:ley_ref")
+        numeros = [r.get("numero") for r in refs]
+        self.assertIn("21.563", numeros)
+
+    def test_ley_19628_referenced(self):
+        """Ley 19.628 referenciada (protección datos personales)."""
+        refs = _xpath(self.root, "//n:metadatos/n:leyes_referenciadas/n:ley_ref")
+        numeros = [r.get("numero") for r in refs]
+        self.assertIn("19.628", numeros)
+
+    def test_ncg_21_referenced(self):
+        """NCG 21 referenciada (norma derogada)."""
+        refs = _xpath(self.root, "//n:metadatos/n:leyes_referenciadas/n:ley_ref")
+        tipos_nums = [(r.get("tipo"), r.get("numero")) for r in refs]
+        self.assertIn(("NCG", "21"), tipos_nums)
+
+    def test_no_anexos(self):
+        """NCG 28 no tiene anexos."""
+        anexos = _xpath(self.root, "//n:anexos")
+        self.assertEqual(len(anexos), 0)
+
+
 if __name__ == "__main__":
     unittest.main()

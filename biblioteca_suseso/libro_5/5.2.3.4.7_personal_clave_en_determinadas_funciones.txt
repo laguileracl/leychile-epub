@@ -1,0 +1,4 @@
+5.2.3.4.7 Personal clave en determinadas funciones
+==================================================
+
+Ningún trabajador debiera tener a su cargo, como única función, tareas críticas que presenten un alto potencial de llegar a cometer irregularidades, materialización de riesgos operacionales o que potencialmente presenten riesgos al sistema de control interno o continuidad operativa de la Caja de Compensación. Los trabajadores a cargo de dichas tareas deben tener respaldos en otros trabajadores. La administración superior de cada Caja debe velar por establecer medidas mitigadoras suficientes cuando lo anterior no pueda cumplirse.

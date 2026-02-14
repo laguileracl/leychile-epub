@@ -1,0 +1,36 @@
+5.6.1.2.3 Evidencia de la auditoría
+===================================
+
+Los auditores externos deben obtener y mantener evidencia suficiente del trabajo realizado para respaldar la opinión emitida en el dictamen. Esta evidencia física o electrónica, conformada entre otros por los papeles de trabajo, debe estar a disposición de esta Superintendencia por un período no inferior a 5 años, desde la fecha del respectivo dictamen, debiendo entregarse debidamente ordenados, dentro de los tres días hábiles siguientes a la fecha en que sean solicitados.
+
+Las evidencias indicadas deben incluir, a lo menos, lo siguiente:
+
+Resumen del trabajo realizado y conclusiones respecto de cada una de las cuentas o áreas de trabajo definidas anteriormente;
+
+El alcance y profundidad dado al examen efectuado a cada cuenta.
+
+
+
+​Como parte de esta evidencia debe dejarse constancia:
+
+De los montos de los errores monetarios tolerables determinados por el auditor al planificar el tamaño de la muestra;
+
+Del tamaño de la muestra y proporción del universo seleccionado; y
+
+Del monto de los errores resultantes de las muestras utilizadas y la proyección de estos a las partidas sobre las cuales fue seleccionada la muestra.
+
+Reconciliaciones de saldos efectuados y ajustes propuestos;
+
+Inventario de inversiones financieras y su materialidad junto con la evidencia de la valorización, límites, clasificación de riesgo, y de revisión de prendas u otras restricciones que pudieran existir.
+
+
+
+Inversiones de bienes físicos y su materialidad, certificación de dominio vigente, gravámenes e hipotecas y prohibiciones. Verificación del método de valorización y depreciación.
+
+
+
+Verificar la existencia de una nota a los estados financieros cuando los activos se encuentren afectados con medidas precautorias u otra clase de limitaciones.
+
+Constatada la inexistencia de análisis de saldos, de acuerdo con la materialidad, deben abstenerse de emitir opinión respecto de estos saldos; situación que debe reflejarse en el dictamen y en Notas a los Estados financieros;
+
+Programas de pruebas a sistemas computacionales.

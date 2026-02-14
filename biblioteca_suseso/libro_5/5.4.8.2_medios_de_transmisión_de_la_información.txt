@@ -1,0 +1,6 @@
+5.4.8.2 Medios de transmisión de la información
+===============================================
+
+Para la transmisión de la información se deben utilizar casillas FTP, dispuestas por la Dirección del Trabajo, con el fin de garantizar la seguridad que sea necesaria para la recepción oportuna e íntegra de la información.
+
+Para efectos de la operatividad del traspaso de datos y otras situaciones informáticas que deban ser resueltas en el futuro, las C.C.A.F. deben contactarse con el Departamento de Tecnologías de la Información de la Dirección del Trabajo.

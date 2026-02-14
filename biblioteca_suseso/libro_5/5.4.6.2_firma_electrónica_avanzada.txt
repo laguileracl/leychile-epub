@@ -1,0 +1,43 @@
+5.4.6.2 Firma electrónica avanzada
+==================================
+
+Los documentos electrónicos de resoluciones de cobranzas de deudas previsionales pueden ser suscritos por medio de firma electrónica avanzada, la que se rige por las disposiciones de la Ley N°19.799 sobre documentos electrónicos, firma electrónica y certificación de dicha firma y su reglamentación.
+
+Para estos efectos, el concepto Firma Electrónica Avanzada se define como cualquier sonido, símbolo o proceso electrónico, certificado por un prestador acreditado, en los términos señalados en la Ley N°19.799 y su reglamentación , que ha sido creada usando medios que el titular mantiene bajo su exclusivo control, de manera que se vincule únicamente al mismo y a los datos a los que se refiere, permitiendo la detección posterior de cualquier modificación, verificando la identidad del titular e impidiendo que desconozca la integridad del documento y su autoría.
+
+A su vez, se entiende por documento electrónico: toda representación de un hecho, imagen o idea que sea creada, enviada, comunicada o recibida por medios electrónicos y almacenada de un modo idóneo para permitir su uso posterior.
+
+Atendido el tenor de la Ley N°17.322 y su reglamento , las resoluciones de cobranzas de deudas previsionales generadas con firma electrónica avanzada, son válidas de la misma manera y producen los mismos efectos que las emitidas por escrito y en soporte de papel, y tienen el valor probatorio establecido en los artículos 3°, 4° y 5° de la ley N°19.799.
+
+Las Cajas de Compensación deben adaptarse a requerimientos que contemplen los Tribunales de Justicia, toda vez que la resolución de cobranza con firma electrónica avanzada se trata de un documento electrónico que se usará ante ellos.
+
+Mecanismo de control
+
+
+
+Las C.C.A.F. deben proceder a considerar la firma electrónica de las resoluciones de cobranza judicial de las cotizaciones previsionales, de la misma forma que una efectuada en la forma tradicional.
+
+
+
+Con el objeto de asegurar el debido resguardo de los documentos que contengan firma electrónica avanzada, las C.C.A.F. y/o los prestadores de servicios que se hubieran contratado para la cobranza, deben establecer mecanismos de resguardo en el manejo de ellos. Se asegurará que el documento electrónico garantizando tenga como atributos la confidencialidad, integridad, factibilidad de autenticación y disponibilidad. Ello a través del desarrollo de políticas de seguridad de uso, almacenamiento, acceso y distribución del documento generado y de los sistemas informáticos utilizados en su procesamiento, monitoreo de éstas y su revisión, para evitar incidentes de seguridad, definición y documentación de roles y responsabilidades de las entidades e individuos Involucrados en estos procesos.
+
+
+
+La C.C.A.F. es responsable del uso y administración de los certificados que adquiera para el o los funcionarios que participen en la emisión de las resoluciones con firma electrónica avanzada, además de la responsabilidad individual que corresponda; por consiguiente, debe establecer los procedimientos de control.
+
+
+
+En el evento que se requiera modificar una resolución que ya esté firmada, igual que en documentos con firma mecanizada o manual, debe generarse otro documento modificatorio, dejándose el primero también en el expediente respectivo.
+
+
+
+Finalmente, y en relación con el archivo o repositorio de estos documentos, si la Caja tiene un sistema de archivo electrónico, el documento debe identificarse en el expediente del caso en cobranza y permitir su validación.
+
+
+
+Cualquiera sea el tipo de archivo de los documentos, debe estar a disposición de esta Superintendencia cuando se requiera.
+
+
+
+Referencias legales:
+ Ley 17.322 - Ley 19.799 - Ley 19.799, artículo 3 - Ley 19.799, artículo 4 - Ley 19.799, artículo 5

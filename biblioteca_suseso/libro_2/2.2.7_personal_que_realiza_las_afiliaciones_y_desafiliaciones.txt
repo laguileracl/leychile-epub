@@ -1,0 +1,42 @@
+2.2.7 PERSONAL QUE REALIZA LAS AFILIACIONES Y DESAFILIACIONES
+=============================================================
+
+Número del reclamo
+
+Nombre del pensionado que reclama
+
+N° de Cédula de Identidad,
+
+Fecha de ingreso del reclamo
+
+Síntesis del motivo del reclamo
+
+Nombre de la persona que efectuó la afiliación
+
+N° de Cédula de Identidad de la persona que efectuó la afiliación
+
+Fecha en que se resuelve el reclamo
+
+Nombre de la persona que resuelve
+
+Resultado: si se acogió o no
+
+Fecha de notificación al reclamante.
+
+El personal que realice la función de afiliación de pensionados debe ser capacitado previamente al efecto.
+
+El personal que se incorpore a la Caja debe ser evaluado mediante un examen de conocimientos sobre la materia, cuyos contenidos mínimos se detallan en el Anexo N°5: Contenidos Mínimos a considerar en Examen .
+
+El personal que puede desempeñar esta actividad será aquel que tenga con la C.C.A.F. un contrato de trabajo vigente. Es indelegable en terceros la función de la afiliación de pensionados que realice el trabajador de la Caja.
+
+Además, se requerirá que cada una de las agencias, oficinas u oficinas móviles de la Caja mantenga un registro físico o digital, foliado y numerado en forma correlativa, en el cual se registre la afiliación de los pensionados realizada tanto en forma presencial como virtual.
+
+En caso de que la afiliación se realice mediante poder, éste debe ser emitido ante notario o autoridad civil competente, y no puede otorgársele a un funcionario de la propia Caja en donde se produce la afiliación, debiendo mantenerse los respectivos poderes en el expediente de afiliación correspondiente, documentos que junto a los respectivos libros deben quedar a disposición de esta Superintendencia.
+
+Los funcionarios encargados de la afiliación de pensionados deben dar estricto cumplimiento a las instrucciones impartidas por esta Superintendencia, razón por la cual dicha obligación debe quedar expresamente consignada en el respectivo contrato de trabajo, indicándose en éste que su inobservancia constituirá incumplimiento grave a las obligaciones del contrato.
+
+El personal de la C.C.A.F. que no dé cumplimiento a estas obligaciones será calificado como no apto para realizar esta función, luego de constatado el incumplimiento. En el evento que la causal de término de contrato constituyere una irregularidad que revistiere los caracteres de un delito, la Caja debe entablar las acciones judiciales que correspondan.
+
+El cumplimiento de las obligaciones que establece este numeral 2. será de responsabilidad directa del Gerente General de cada C.C.A.F., sin perjuicio de las otras responsabilidades que puedan corresponder a los directivos y funcionarios de las Cajas de Compensación.
+
+Las presentes disposiciones también serán aplicables al personal que la Caja contrate bajo la modalidad de contrato de puesta a disposición de trabajadores de servicios transitorios.

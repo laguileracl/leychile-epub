@@ -1,0 +1,6 @@
+6.2.2.2 Libro de Negociación
+============================
+
+Corresponde al conjunto de instrumentos financieros que son adquiridos con la intención de ser vendidos en el corto plazo, o que forman parte de una cartera de instrumentos financieros identificados y gestionados conjuntamente para obtener ganancias de corto plazo.
+
+Las Cajas deben identificar los instrumentos que forman parte del libro de negociación al momento de adquirirlos, o ingresarlos a sus carteras, y éstos no pueden cambiar de libro después de su clasificación inicial.

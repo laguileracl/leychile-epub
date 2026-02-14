@@ -1,0 +1,4 @@
+5.2.3.4.2 Segregación funcional de tareas y responsabilidades
+=============================================================
+
+Las tareas y responsabilidades esenciales relativas a la autorización, ejecución, registro, custodia y revisión de las transacciones y operaciones de la entidad deben ser asignadas velando que no se generen conflictos entre ejecución y control.

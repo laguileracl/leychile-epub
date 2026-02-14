@@ -1,0 +1,30 @@
+6.3.5.1 Flujos de Ingresos
+==========================
+
+Disponible: Fondos en cajas y/o banco de disposición inmediata sin restricción de carácter contractual, esta información corresponde a la registrada a la fecha de cierre del modelo de liquidez.
+
+Inversiones Financieras: Flujo de capital e intereses por percibir proveniente de inversiones financieras registradas por la Caja a la fecha de cierre del modelo de liquidez. Deben ser incorporadas en cada banda temporal de acuerdo a la fecha de vencimiento del flujo; no obstante, aquellos instrumentos que presenten un alto nivel de liquidez y que se encuentren registrados dentro del Libro de Negociación, pueden ser incorporados en la primera banda temporal.
+
+Colocaciones de Crédito Social: Flujo de capital e intereses asociado a préstamos vigentes otorgados a los afiliados por concepto de crédito social, excluidos los mutuos hipotecarios endosables y no endosables. Deben ser incorporados en cada banda temporal de acuerdo a la fecha de vencimiento del flujo, considerando el nivel de morosidad de la cartera.
+
+Mutuos Hipotecarios No Endosables: Flujo de capital e intereses asociado a préstamos vigentes otorgados a los afiliados por concepto de mutuos hipotecarios no endosables. Deben ser incorporados en cada banda temporal de acuerdo a la fecha de vencimiento del flujo, considerando el nivel de morosidad de la cartera.
+
+Mutuos Hipotecarios Endosables: Flujo de capital e intereses asociado a préstamos vigentes otorgados a los afiliados por concepto de mutuos hipotecarios endosables. Deben ser incorporados en cada banda temporal de acuerdo a la fecha de vencimiento del flujo, considerando el nivel de morosidad de la cartera.
+
+Ingresos por Prestaciones Adicionales: Estimación del flujo por percibir asociado al régimen de prestaciones adicionales distintas al régimen de crédito social
+
+Ingresos por Prestaciones Complementarias: Estimación del flujo por percibir asociado al régimen de prestaciones complementarias.
+
+Ingresos por Subsidios por Incapacidad Laboral: Estimación del flujo por percibir de Fondos Nacionales asociado al pago de subsidios por incapacidad laboral de origen común.
+
+Ingresos por Fondo Único de Prestaciones Familiares y Subsidios de Cesantía: Estimación del flujo por percibir de Fondos Nacionales asociado a las partidas que componen este fondo.
+
+Cotización Previsional: Estimación del flujo por percibir derivado del pago de la cotización del porcentaje destinado al financiamiento del régimen de subsidios por incapacidad laboral de origen común.
+
+Deudores por Venta de Servicios a Terceros: Flujo por percibir asociado a las cuentas y/o documentos por cobrar provenientes de la venta de servicios a terceros. El flujo debe ser incorporado en cada banda temporal de acuerdo a la fecha de vencimiento del flujo; no obstante, puede realizarse una estimación de esta partida cuyo procedimiento de cálculo debe estar debidamente justificado.
+
+Deudores Varios: Flujo por percibir asociado a las cuentas y/o documentos por cobrar a entidades relacionadas, o que no provengan de las operaciones propias de la Caja de Compensación. El flujo debe ser incorporado en cada banda temporal de acuerdo a la fecha de vencimiento del flujo; no obstante, puede realizarse una estimación de esta partida cuyo procedimiento de cálculo debe estar debidamente justificado.
+
+Ingresos por Comisiones: Estimación del flujo de ingresos proveniente de las comisiones percibidas por la cobranza y recaudación de la prima de seguros, administración de carteras securitizadas y otras comisiones.
+
+Otros Ingresos: Corresponde al flujo de partidas que no pueden ser clasificadas en las anteriormente descritas y que presenten baja materialidad.

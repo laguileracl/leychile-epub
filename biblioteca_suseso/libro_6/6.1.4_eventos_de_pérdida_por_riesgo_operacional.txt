@@ -1,0 +1,32 @@
+6.1.4 EVENTOS DE PÉRDIDA POR RIESGO OPERACIONAL
+===============================================
+
+Los eventos de pérdida por riesgo operacional pueden ser clasificados de acuerdo a las siguientes categorías:
+
+6.1.4.1. Fraude interno
+
+Pérdidas derivadas de algún tipo de actuación cuya finalidad sea defraudar, ya sea apropiándose de bienes indebidamente o incumpliendo regulaciones, leyes o políticas internas de la C.C.A.F., con el objeto de obtener un beneficio ilícito, en el que se encuentre implicado, al menos, un representante de la alta administración, cargo directivo, o un empleado de la C.C.A.F.
+
+6.1.4.2. Fraude externo
+
+Pérdidas derivadas de algún tipo de actuación destinada a defraudar, ya sea apropiándose de bienes indebidamente o incumpliendo la legislación, por parte de un tercero, con el fin de obtener un beneficio ilícito.
+
+6.1.4.3. Relaciones laborales y seguridad en el puesto de trabajo
+
+Pérdidas derivadas de actuaciones incompatibles con la legislación o acuerdos laborales, sobre higiene o seguridad en el trabajo, así como las derivadas de reclamaciones por daños personales, físicos o síquicos, incluidas las relativas a casos de acoso y discriminación.
+
+6.1.4.4. Afiliados, productos y prácticas de negocios
+
+Pérdidas derivadas del incumplimiento involuntario o negligente de una obligación con los afiliados de la Caja o de la naturaleza o diseño de un producto y/o servicio ofrecido en el marco de los regímenes sociales administrados por la C.C.A.F.
+
+6.1.4.5. Daños a activos materiales
+
+Pérdidas derivadas de daños o perjuicios a activos materiales como consecuencia de desastres naturales u otros acontecimientos.
+
+6.1.4.6. Interrupción del negocio y fallos en los sistemas
+
+Pérdidas derivadas de interrupciones en el negocio y de fallos en los sistemas.
+
+6.1.4.7. Ejecución, entrega y gestión de procesos
+
+Pérdidas derivadas de errores en el procesamiento de operaciones o en la gestión de procesos, así como de relaciones con contrapartes comerciales y proveedores.

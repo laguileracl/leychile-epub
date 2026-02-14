@@ -1,0 +1,28 @@
+6.3.1.4 Política de Administración del Riesgo de Liquidez
+=========================================================
+
+La política de administración del riesgo de liquidez debe considerar al menos los siguientes aspectos:
+
+Objetivos de la función de control y administración del riesgo de liquidez.
+
+Descripción de la organización asociada a la administración del riesgo de liquidez, sus funciones y responsabilidades.
+
+Instancias de comunicación y envío de reportes a la alta administración y al Directorio.
+
+Identificación y mitigación de los principales riesgos de liquidez asociados a las funciones de la Caja.
+
+Lineamientos de las acciones a seguir en caso de materialización de los riesgos de liquidez.
+
+Establecer límites de tolerancia a la exposición al riesgo de liquidez.
+
+Establecer lineamientos respecto de las fuentes y usos de fondos.
+
+Divulgación de la gestión de los riesgos a las autoridades supervisoras y al público en general.
+
+Periodicidad de reportes a enviar a las autoridades supervisoras.
+
+Descripción del rol de Auditoría Interna en los procesos de medición, seguimiento y validación del modelo de liquidez, junto con la evaluación del cumplimiento de la política de administración del riesgo de liquidez.
+
+Procedimientos de actualización de la política de administración del riesgo de liquidez.
+
+La política de administración del riesgo de liquidez, así como cualquier modificación, debe ser remitida a esta Superintendencia en un plazo no mayor a 5 días hábiles desde la aprobación por parte del Directorio.

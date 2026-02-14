@@ -310,9 +310,9 @@ class SuperirXMLGenerator:
     # ───────────────────────────────────────────────────────────────────────
 
     def _add_cuerpo_normativo(self, root: etree._Element, norma: NormaSuperir) -> None:
-        """Agrega <cuerpo_normativo> con títulos, capítulos y artículos."""
+        """Agrega <cuerpo_normativo> con títulos, capítulos, artículos y disposiciones finales."""
         estructuras = norma.norma_base.estructuras
-        if not estructuras:
+        if not estructuras and not norma.disposiciones_finales:
             return
 
         cuerpo = etree.SubElement(root, f"{{{SUPERIR_NS}}}cuerpo_normativo")
@@ -320,9 +320,17 @@ class SuperirXMLGenerator:
         for est in estructuras:
             if est.tipo_parte == "Título":
                 self._add_titulo(cuerpo, est, norma)
+            elif est.tipo_parte == "Capítulo":
+                self._add_capitulo(cuerpo, est, norma)
             elif est.tipo_parte == "Artículo":
                 # Artículo sin título padre
                 self._add_articulo(cuerpo, est, norma)
+
+        # Disposiciones finales (artículos fuera de capítulos/títulos)
+        if norma.disposiciones_finales:
+            disp_el = etree.SubElement(cuerpo, f"{{{SUPERIR_NS}}}disposiciones_finales")
+            for art in norma.disposiciones_finales:
+                self._add_articulo(disp_el, art, norma)
 
     def _add_titulo(
         self, parent: etree._Element, titulo: EstructuraFuncional, norma: NormaSuperir
@@ -348,7 +356,12 @@ class SuperirXMLGenerator:
     def _add_capitulo(
         self, parent: etree._Element, capitulo: EstructuraFuncional, norma: NormaSuperir
     ) -> None:
-        """Agrega <capitulo> con sus artículos."""
+        """Agrega <capitulo> con títulos y/o artículos.
+
+        Soporta dos variantes:
+        - Título > Capítulo > Artículo (estándar)
+        - Capítulo > Título > Artículo (NCG 28)
+        """
         attrib: dict[str, str] = {"numero": capitulo.nombre_parte}
         nombre = self._extract_titulo_nombre(capitulo.titulo_parte)
         if nombre:
@@ -357,7 +370,9 @@ class SuperirXMLGenerator:
         cap_el = etree.SubElement(parent, f"{{{SUPERIR_NS}}}capitulo", attrib=attrib)
 
         for hijo in capitulo.hijos:
-            if hijo.tipo_parte == "Artículo":
+            if hijo.tipo_parte == "Título":
+                self._add_titulo(cap_el, hijo, norma)
+            elif hijo.tipo_parte == "Artículo":
                 self._add_articulo(cap_el, hijo, norma)
 
     def _add_parrafo_division(

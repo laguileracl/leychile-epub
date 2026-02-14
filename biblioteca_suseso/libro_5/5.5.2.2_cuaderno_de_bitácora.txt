@@ -1,0 +1,4 @@
+5.5.2.2 Cuaderno de bitácora
+============================
+
+En cada oficina móvil debe mantenerse una bitácora o registro en donde el responsable de la misma consignará el itinerario que ha seguido el vehículo, con la fecha, horario de atención, indicación precisa del destino y kilometraje recorrido. Asimismo, se debe consignar en tal registro todo incidente o evento de importancia acontecido en la ruta.

@@ -1,0 +1,54 @@
+2.1.2.1 Procedimiento general de afiliación a una C.C.A.F., efectuada por medios electrónicos
+=============================================================================================
+
+2.1.2.1.1. Llamado o convocatoria a proceso de afiliación por medios electrónicos.
+
+En lo concerniente al desarrollo del proceso, es responsabilidad de la respectiva entidad empleadora organizarlo y adoptar las medidas que estime pertinentes, de modo de posibilitar que los trabajadores se informen adecuada y oportunamente sobre su realización.
+
+El empleador que decida utilizar medios electrónicos para llevar a cabo la votación de los trabajadores, debe contar con un sistema de votación electrónico que asegure totalmente el anonimato del electorado, sea auditable, cuente con medidas de seguridad que impidan la intervención de terceros ajenos a la votación y, además, se encuentre habilitado con niveles de criptografía que aseguren la integridad de la información y la transparencia del proceso eleccionario.
+
+2.1.2.1.2. Ministro de Fe
+
+La votación de los trabajadores debe desarrollarse con la participación de un ministro de fe, pudiendo cumplir dicha función, un notario público, un inspector del trabajo o un funcionario de la administración civil del Estado, designado por la Dirección del Trabajo.
+
+Tratándose de entidades empleadoras con menos de 25 trabajadores, puede actuar como ministro de fe, el empleador o su representante.
+
+En el caso de entidades empleadoras públicas, puede solicitarse a la Dirección del Trabajo respectiva a través de su página web, la designación, en calidad de ministros de fe, de uno o más de sus funcionarios.
+
+El ministro de fe debe cumplir sus funciones durante todo el tiempo de duración de la respectiva votación, correspondiéndole:
+
+Impartir las instrucciones inherentes a la misma.
+
+Comprobar la identidad de los votantes, debiendo cotejarla con la nómina de trabajadores proporcionada por el empleador.
+
+Constatar en forma remota y en tiempo real los votos emitidos y su procedencia.
+
+Verificar la veracidad de la votación y de su resultado, dejando constancia, si así fuere el caso, de las observaciones e incidentes que se hubieren producido.
+
+Certificar el cumplimiento de las formalidades propias de la celebración del acto.
+
+2.1.2.1.3. Votación
+
+El trabajador debe emitir su voto electrónico, debiendo garantizarse el carácter de secreto del mismo.
+
+Terminada la votación, por haberse cumplido el tiempo para ello, el ministro de fe debe proceder, públicamente, a señalar la cantidad de votos emitidos.
+
+Hecho lo anterior, el ministro de fe debe verificar si el número de votos emitidos corresponde, al menos, a la mayoría absoluta del total de trabajadores de la respectiva entidad empleadora, cotejándolo con la nómina de trabajadores habilitados para votar, proporcionada por dicha entidad.
+
+En caso de que el número total de votos no represente la mayoría absoluta del total de trabajadores habilitados para votar, el ministro de fe debe declarar cerrado el proceso, levantando un acta en triplicado donde certifique que no se produjo acuerdo de afiliación a ninguna C.C.A.F.
+
+Un ejemplar del acta, junto con la respectiva nómina de votantes, debe ser entregada por el ministro de fe a la entidad empleadora; otro ejemplar, a un representante de los trabajadores, y el restante debe quedar en su poder.
+
+Para lograr la afiliación a una determinada C.C.A.F., es necesario el voto favorable de la mayoría absoluta del total de trabajadores de la respectiva entidad empleadora, debiendo excluirse de dicho total aquellos que, el día de la votación, se encontraban haciendo uso de licencia médica, feriado, permiso administrativo o en cumplimiento de un cometido funcionario fuera de la región donde se efectúa la votación, debidamente acreditado.
+
+En el evento que, alcanzada la mayoría absoluta para afiliarse, ninguna de las Cajas de Compensación hubiere obtenido el voto favorable de la mayoría absoluta del total de trabajadores, se debe efectuar una segunda votación en la cual sólo se puede elegir entre aquellas que hubieren obtenido las dos más altas mayorías relativas.
+
+Si en la citada segunda votación, ninguna de las dos Cajas de Compensación obtuviera el voto favorable de la mayoría absoluta del total de trabajadores, el acuerdo de afiliación se producirá respecto de aquella que hubiere obtenido la más alta mayoría.
+
+Terminadas las votaciones, el ministro de fe debe levantar y suscribir un acta en triplicado, la que debe contener, al menos, la hora de inicio y término de la votación, el número total de trabajadores de la entidad empleadora, el número de trabajadores que votó, los incidentes producidos y el resultado tanto de la primera como la segunda votación, si así correspondiere, señalando aquella Caja de Compensación respecto de la cual se produjo el acuerdo de afiliación. Un ejemplar debe ser entregado por el ministro de fe, junto con la respectiva nómina de votantes, a la entidad empleadora; otro ejemplar, a un representante de los trabajadores, y el restante debe quedar en su poder.
+
+Una vez obtenido el acuerdo de afiliación a una determinada C.C.A.F., la entidad empleadora debe solicitar por medio de correo electrónico al Directorio de ésta el respectivo pronunciamiento, acompañando copia del acta en que conste dicho acuerdo y la solicitud de afiliación a la C.C.A.F. que obtuvo la mayoría de las preferencias.
+
+2.1.2.1.4. Fecha desde la cual la afiliación produce sus efectos
+
+La afiliación de una entidad empleadora a una C.C.A.F., producirá efecto desde el día primero del mes subsiguiente al de la fecha de aprobación de la correspondiente solicitud de afiliación por parte de su Directorio.​

@@ -1,0 +1,4 @@
+6.3.5 FLUJOS DE INGRESOS Y EGRESOS QUE SE CONSIDERAN EN EL CÁLCULO DE LA BRECHA DE LIQUIDEZ
+===========================================================================================
+
+(Nodo estructural - ver subnodos)

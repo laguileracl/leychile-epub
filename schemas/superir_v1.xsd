@@ -15,10 +15,12 @@
   - Estructura jerárquica: Título > Párrafo > Artículo (derecho concursal chileno)
   - Requisitos numerados (I, II, III) con items letrados dentro de artículos
 
-  Jerarquía legal SUPERIR:
-    <titulo> → <parrafo> (división "Párrafo" chileno) → <articulo>
-    <titulo> → <capitulo> (cuando aplica) → <articulo>
-    <titulo> → <articulo> (directo, sin división intermedia)
+  Jerarquía legal SUPERIR (dos variantes):
+    Variante A (NCGs simples): <titulo> → <articulo>
+    Variante B (NCGs con párrafos): <titulo> → <parrafo> → <articulo>
+    Variante C (NCGs con capítulos bajo títulos): <titulo> → <capitulo> → <articulo>
+    Variante D (NCG 28 - capítulos sobre títulos): <capitulo> → <titulo> → <articulo>
+    Variante E (disposiciones finales): <disposiciones_finales> → <articulo>
 
   Versión: 1.0
   Namespace: https://superir.cl/schema/norma/v1
@@ -147,10 +149,19 @@
   <!-- ===================================================================
        CUERPO NORMATIVO: Títulos > Párrafos/Capítulos > Artículos
        =================================================================== -->
+  <!--
+    CuerpoNormativoType: permite títulos (NCGs con división formal),
+    capítulos (NCG 28: Capítulo > Título > Artículo),
+    artículos directos (NCGs sin títulos, e.g. NCG 27),
+    o disposiciones finales (artículos fuera de la estructura principal).
+  -->
   <xs:complexType name="CuerpoNormativoType">
-    <xs:sequence>
-      <xs:element name="titulo" type="tns:TituloType" maxOccurs="unbounded"/>
-    </xs:sequence>
+    <xs:choice maxOccurs="unbounded">
+      <xs:element name="titulo" type="tns:TituloType"/>
+      <xs:element name="capitulo" type="tns:CapituloType"/>
+      <xs:element name="articulo" type="tns:ArticuloType"/>
+      <xs:element name="disposiciones_finales" type="tns:DisposicionesFinalesType"/>
+    </xs:choice>
   </xs:complexType>
 
   <!--
@@ -170,13 +181,16 @@
   </xs:complexType>
 
   <!--
-    CapituloType: división "Capítulo" dentro de un título.
-    Contiene artículos.
+    CapituloType: división "Capítulo".
+    Puede estar dentro de un título (variante C: titulo > capitulo > articulo)
+    o ser contenedor de nivel superior (variante D: capitulo > titulo > articulo).
+    NCG 28 usa variante D: Capítulo I/II/III contienen Títulos I-V.
   -->
   <xs:complexType name="CapituloType">
-    <xs:sequence>
-      <xs:element name="articulo" type="tns:ArticuloType" minOccurs="0" maxOccurs="unbounded"/>
-    </xs:sequence>
+    <xs:choice minOccurs="0" maxOccurs="unbounded">
+      <xs:element name="titulo" type="tns:TituloType"/>
+      <xs:element name="articulo" type="tns:ArticuloType"/>
+    </xs:choice>
     <xs:attribute name="numero" type="xs:string" use="required"/>
     <xs:attribute name="nombre" type="xs:string" use="optional"/>
   </xs:complexType>
@@ -193,6 +207,16 @@
     </xs:sequence>
     <xs:attribute name="numero" type="xs:string" use="required"/>
     <xs:attribute name="nombre" type="xs:string" use="optional"/>
+  </xs:complexType>
+
+  <!--
+    DisposicionesFinalesType: artículos finales fuera de la estructura
+    de títulos/capítulos (ej: NCG 28 Arts 88-90: Ámbito, Vigencia, Derogación).
+  -->
+  <xs:complexType name="DisposicionesFinalesType">
+    <xs:sequence>
+      <xs:element name="articulo" type="tns:ArticuloType" maxOccurs="unbounded"/>
+    </xs:sequence>
   </xs:complexType>
 
   <!-- ===================================================================
@@ -249,6 +273,7 @@
     <xs:attribute name="letra" type="xs:string"/>
     <xs:attribute name="numero" type="xs:string"/>
     <xs:attribute name="nombre" type="xs:string"/>
+    <xs:attribute name="guion" type="xs:boolean" use="optional"/>
   </xs:complexType>
 
   <xs:complexType name="SublistadoType">
@@ -262,6 +287,7 @@
       <xs:extension base="xs:string">
         <xs:attribute name="numero" type="xs:string" use="optional"/>
         <xs:attribute name="letra" type="xs:string" use="optional"/>
+        <xs:attribute name="guion" type="xs:boolean" use="optional"/>
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>

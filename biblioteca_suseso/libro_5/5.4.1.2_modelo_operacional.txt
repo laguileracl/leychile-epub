@@ -1,0 +1,42 @@
+5.4.1.2 Modelo Operacional
+==========================
+
+Los distintos agentes participantes en el proceso de recaudación electrónica deben celebrar convenios de prestación de servicios que permitan hacer operativo el modelo definido. Por agentes participantes se entienden los siguientes: las Cajas de compensación de Asignación Familiar, los empleadores y trabajadores independientes, las empresas administradoras de Sitios Web y los bancos.
+
+Los empleadores o trabajadores independientes que decidan realizar el pago de las cotizaciones previsionales por Internet deben registrarse en alguna de las empresas administradoras de Sitios Web destinadas al servicio de recaudación electrónica. Estas empresas pueden corresponder a una empresa creada por la propia entidad recaudadora o una externa con la cual se hubiese suscrito un convenio.
+
+El registro deben efectuarlo los empleadores o trabajadores independientes mediante la inscripción electrónica en la empresa administradora, a través del Sitio Web, aportando la siguiente información:
+
+Identificación (razón social o apellido paterno, apellido materno y nombres)
+
+RUT
+
+Código de actividad económica (según el clasificador del Servicio de Impuestos Internos).
+
+Dirección (calle, número, departamento, comuna, ciudad y región)
+
+Teléfono
+
+Nombre representante legal
+
+RUT del representante legal
+
+Banco y número de la cuenta corriente asociada al convenio de cargo automático
+
+Dirección de correo electrónico
+
+Modalidad de pago de las cotizaciones previsionales (Sistema Electrónico o Sistema Mixto
+
+La inscripción en el Sitio Web tiene como finalidad permitir que el empleador o trabajador independiente pague sus cotizaciones previsionales de indemnización en forma electrónica por Internet. Esta incorporación no debe significar costo alguno para ellos.
+
+La inscripción electrónica debe ser confirmada por la empresa administradora del Sitio Web a cada uno de los empleadores o trabajadores independientes, con el otorgamiento de un código de participante y las claves de identificación y de seguridad de uso exclusivo, siendo ella la responsable de certificar la entrega de los respectivos códigos y claves.
+
+Para que el empleador o trabajador independiente pueda operar a través del Sitio web destinado al servicio de recaudación electrónica, se requiere que suscriba un convenio de cargo automático con el banco donde mantiene su cuenta corriente, salvo que hubiese escogido como modalidad el Sistema de Pago Mixto.
+
+Una vez que se encuentre perfeccionado el procedimiento de incorporación al Sitio Web y se encuentre vigente el convenio de cargo automático, el empleador o trabajador independiente se encuentra en condiciones de iniciar sus pagos por Internet en la modalidad del Sistema de Pago Electrónico. En el caso del Sistema de Pago Mixto, la condición es solamente haber perfeccionado su incorporación al Sitio web.
+
+El banco procederá a cargar en la cuenta corriente del empleador o trabajador independiente los montos indicados en la Orden de pago , recibida a través del Sitio web, y abonarlos en las cuentas corrientes de las entidades recaudadoras habilitadas para este fin. En el caso que las cuentas corrientes del empleador y la entidad recaudadora sean del mismo banco, el empleador o trabajador puede realizar el pago mediante un traspaso de fondos equivalente al monto que deba cancelar según consta en su declaración, sin que sea necesario el envío de la Orden de pago .
+
+Los empleadores o trabajadores independientes accederán al servicio de recaudación electrónica por medio de un sistema de claves, que deben ser otorgadas y administradas por la empresa administradora del Sitio web. El empleador por sí o a través de su representante legal y el trabajador independiente son exclusivamente responsables del uso de estas claves de seguridad.
+
+Las Entidades recaudadoras son exclusivamente responsables de que las empresas administradoras de Sitios Web cumplan con los mecanismos de seguridad referidos a la entrega e inhabilitación de las claves de seguridad de los agentes participantes, en la oportunidad en que ello sea requerido.

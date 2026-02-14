@@ -1,0 +1,4 @@
+6.1.1.1 Riesgo operacional
+==========================
+
+Corresponde al riesgo de pérdida debido a la inadecuación o a la falla de los procesos, del personal y de los sistemas internos y/o de los controles internos aplicables o bien a causa de acontecimientos externos. Esta definición incluye el riesgo legal, pero excluye el riesgo estratégico y de reputación.

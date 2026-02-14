@@ -1,0 +1,4 @@
+6.2.8.6 Archivo 'RESÚMENES': Documento Electrónico de Resumen
+=============================================================
+
+Corresponde a un archivo XML que debe contener tablas de resumen de la información detallada en los numerales 6.2.8.1. , 6.2.8.2. , 6.2.8.3. , 6.2.8.4. y 6.2.8.5. de este Título II del Libro VI del Compendio de la Ley N°18.833, junto con la información del libro de negociación, libro de caja de operaciones financieras mantenidas al vencimiento y libro de caja de operaciones financieras disponibles para la venta. El detalle de los campos y el formato requerido por esta Superintendencia se presenta en el Anexo N°6: Formato de documento electrónico (XML) de este Título II del Libro VI del Compendio de la Ley N°18.833.

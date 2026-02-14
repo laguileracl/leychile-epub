@@ -1,0 +1,20 @@
+3.8.9 INFORMACIÓN PARA ESTA SUPERINTENDENCIA
+============================================
+
+A más tardar los días 20 de cada mes, la C.C.A.F. deberá remitir a esta Superintendencia un archivo con los pagos en exceso que se encontraban generados y publicados al último día del mes anterior y otro archivo con las devoluciones de pagos en exceso efectuadas durante el mes que se informa. En caso de que el referido día corresponda a fin de semana o festivo, la fecha de envió deberá ser el día hábil siguiente.
+
+La C.C.A.F. deberá realizar el envío mensual de las nóminas de datos y archivos de resumen que se describen a continuación, siguiendo la estructura descrita en los Anexo N°1: Formato de archivos planos , Anexo N°2: Diccionario de archivos planos y Anexo N°3: Instrucciones generales , de este Título VIII del Libro III de este Compendio de la Ley N°18.833 y lo instruido en los números 3.8.9.1., 3.8.9.2. y 3.8.9.3. del Título VIII del Libro III del Compendio de esta Ley N°18.833.
+
+3.8.9.1. Archivo: "PEX": Antecedentes de pagos en exceso vigentes.
+
+Corresponde a un archivo plano que deberá contener el detalle del stock de los pagos en exceso generados, publicados y publicados mayores de cinco años al cierre del mes de la información reportada. Esta información deberá ser reportada a nivel de pago en exceso generado o publicado, aún cuando existan dos o más pagos en exceso en un mismo estado para un acreedor en particular. El detalle de los Campos y el formato requerido por esta Superintendencia se presentan en los Anexo N°1: Formato de archivos planos , Anexo N°2: Diccionario de archivos planos y Anexo N°3: Instrucciones generales , del Título VIII del Libro III de este Compendio de la Ley N°18.833.
+
+3.8.9.2. Archivo: "BAJAS": Antecedentes de pagos en exceso dados de baja
+
+Corresponde a un archivo plano que deberá contener el detalle de las bajas por concepto de pagos en exceso efectuados durante el mes de la información reportada, las que ocurren por las causales señaladas en el número 3.8.3 de este Título VIII del Libro III , es decir, por reclasificación o devolución. Esta información deberá ser reportada a nivel de pago en exceso dado de baja, aun cuando existan dos o más pagos en exceso dados de baja para un acreedor en particular. El detalle de los campos y el formato requerido por esta Superintendencia se presentan en los Anexo N°1: Formato de archivos planos , Anexo N°2: Diccionario de archivos planos y Anexo N°3: Instrucciones generales , del Título VIII del Libro III de este Compendio de la Ley N°18.833.
+
+3.8.9.3. Archivo: "resúmenes": Documento Electrónico de Resumen.
+
+Corresponde a un archivo XML que deberá contener tablas de resumen de la información detallada en los números 3. 8.9.1. y 3.8.9.2. del Título VIII del Libro III de este Compendio de la Ley N°18.833. El detalle de los campos y el formato requerido por esta Superintendencia se presentan en el Anexo N°4: Formato de documento electrónico (XML) del Título VIII del Libro III del Compendio de esta Ley N°18.833.
+
+La Caja deberá confeccionar semestralmente (julio y diciembre) un informe con la evaluación de la eficacia y eficiencia de las acciones realizadas en el marco del proceso de devolución de pagos en exceso, el cual deberá ser aprobado por su Directorio en su sesión más próxima, y enviado a esta Superintendencia.

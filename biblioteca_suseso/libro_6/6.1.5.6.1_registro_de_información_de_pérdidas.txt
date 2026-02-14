@@ -1,0 +1,34 @@
+6.1.5.6.1 Registro de información de pérdidas
+=============================================
+
+La Caja debe contar con una base de datos de los eventos de pérdida por riesgo operacional. Debe tenerse en cuenta que un evento puede tener como efecto una o más pérdidas y que podrían existir recuperaciones directas o indirectas sobre las mismas, por lo cual la C.C.A.F. debe estar en capacidad de agrupar las pérdidas ocurridas por evento. La base de datos debe cumplir con los siguientes criterios:
+
+Deben registrarse los eventos de pérdida originados en toda la C.C.A.F., para lo cual la entidad debe contar con políticas, procedimientos de captura, identificación y asignación de roles y responsabilidades y entrenamiento al personal que interviene en el proceso.
+
+Deben registrarse de forma diferenciada cada uno de los impactos económicos y recuperaciones, tanto directas como por seguros, asociadas al evento de pérdidas. Para cada uno de ellos, se deben registrar las categorizaciones, fechas y valores que permitan su completa caracterización sin netear.
+
+Debe adelantarse, en lo posible, el reconocimiento y registro por parte de la Caja sobre aquellos eventos de que se tiene conocimiento o certeza razonable que acabarán generando pérdidas por riesgo operacional en la Entidad. Esto incluye a los eventos provisionados.
+
+Debe registrarse, como mínimo, la siguiente información referida al evento y a las pérdidas asociadas:
+
+Código único de identificación del evento.
+
+Tipo de evento de pérdida, según tipos de eventos señalados en el Anexo N°1: Tipos de evento riesgo operacional nivel I y nivel II del Título I del Libro VI del Compendio de la Ley N°18.833.
+
+Línea de negocio asociada, según líneas señaladas en el Anexo N°2: Líneas de negocio genéricas para C.C.A.F. del Título I del Libro VI del Compendio de la Ley N°18.833. Estos cuadros pueden ser actualizados por la Superintendencia. En el caso de que la C.C.A.F. cuente con líneas de negocio internas, éstas deben encontrarse mapeadas a las líneas de negocio definidas en este Título I del Libro VI del Compendio de la Ley N°18.833 y sus procedimientos de asignación documentados.
+
+Descripción del evento.
+
+Fecha de ocurrencia o de inicio del evento.
+
+Fecha de descubrimiento o toma de consciencia del evento.
+
+Fecha de registro contable del evento.
+
+Monto(s) bruto(s) de la(s) pérdida(s).
+
+Monto total recuperado.
+
+Cuenta(s) contable(s) asociadas.
+
+Identificación si el evento está asociado con el riesgo de crédito.

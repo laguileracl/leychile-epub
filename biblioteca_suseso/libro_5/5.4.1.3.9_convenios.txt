@@ -1,0 +1,52 @@
+5.4.1.3.9 Convenios
+===================
+
+Los agentes que participen en el proceso de recaudación electrónica de las cotizaciones previsionales y aportes de indemnización deben celebrar los siguientes convenios de prestación de servicios:
+
+Convenio de prestación de servicios entre la empresa administradora del Sitio Web y la respectiva Entidad Recaudadora, para la recaudación electrónica de cotizaciones previsionales. Este convenio debe contener obligatoriamente, a lo menos, las siguientes estipulaciones:
+
+La obligación por parte de la empresa administradora del Sitio web de no manipular ni respaldar para su uso la información enviada por los empleadores o trabajadores independientes en las respectivas Declaraciones .
+
+La obligación de no discriminar en forma alguna entre empleadores y trabajadores independientes para la recaudación de las cotizaciones previsionales.
+
+Que el costo del convenio sea de cargo exclusivo de la Entidad recaudadora que encarga el servicio, no pudiendo significar gasto alguno para los empleadores o trabajadores independientes.
+
+Mecanismos de solución de divergencias.
+
+Dar estricto cumplimiento a las normas impartidas en el numeral 5.4 del Título IV del Libro V de este Compendio de la Ley N°18.833.
+
+Registro del empleador o trabajador independiente en la empresa administradora del Sitio Web. La Entidad Recaudadora debe informar a los empleadores y trabajadores independientes, cuáles son los Sitios web habilitados para operar.
+
+Convenio de Cargo Automático u otro acuerdo de traspaso de fondos entre el empleador o el trabajador independiente y su banco, autorizando los cargos en su cuenta corriente producto del pago de las cotizaciones previsionales y aportes de indemnización y el abono a las cuentas corrientes de la Entidad recaudadora.
+
+Convenio de prestación de servicios entre las entidades recaudadoras y los bancos, para que éstos carguen el valor de las cotizaciones previsionales y aportes de indemnización en las cuentas corrientes de los empleadores y trabajadores independientes y los abonen en las cuentas corrientes bancarias de las entidades recaudadoras, considerando para esto los diversos mecanismos que ofrece el sistema financiero.
+
+Los convenios deben ser suscritos por los representantes legales de los respectivos agentes o por quienes ellos mismos designen mediante escritura pública. Estos convenios deben contener, a lo menos, las cláusulas que se indican a continuación, según corresponda:
+
+Regulación de responsabilidades entre los distintos agentes, en lo que se refiere al uso y prestación del servicio.
+
+Establecer la duración del contrato.
+
+Permitir el acceso al servicio de nuevas entidades recaudadoras, como asimismo su término en caso de liquidación o fusión.
+
+Establecer las responsabilidades de los agentes por el inadecuado uso y prestación del servicio.
+
+Definir detalladamente el servicio otorgado, especificando los mecanismos de seguridad, integridad, control y confidencialidad de las operaciones que se efectúen.
+
+Permitir a la Superintendencia el acceso expedito e inmediato a toda la información almacenada en los registros históricos de la empresa administradora del Sitio web.
+
+Definir mecanismos para la solución de divergencias.
+
+Incorporar las exigencias establecidas en el N° 2 del numeral 5.4.1.3.5 sobre Mecanismos de Control de este Título IV del Libro V del Compendio de la Ley N°18.833, par a el Convenio suscrito entre la empresa administradora del Sitio Web y la entidad recaudadora.
+
+Las entidades recaudadoras son responsables de las funciones que deleguen por los servicios contratados, debiendo ejercer permanentemente un control sobre ellas. En este sentido, todos los contratos deben constar por escrito y los gastos en que incurra la entidad recaudadora originados en su celebración, son de su cargo exclusivo y en ningún caso pueden afectar a las cuentas personales de los afiliados ni a los empleadores de éstos.
+
+La celebración de estos contratos no exime en caso alguno de responsabilidad a las entidades recaudadoras frente a esta Superintendencia respecto de los actos de las empresas administradoras de Sitios web que puedan afectar a los Fondos previsionales, ni en las materias objeto de este numeral 5.4 del Título IV de este Libro V del Compendio de la Ley N°18.833, ni en los restantes aspectos de su funcionamiento, cuya fiscalización la ley encarga a esta Superintendencia.
+
+Solución de Divergencias
+
+En los convenios que se suscriban para la prestación de los servicios relacionados con el pago electrónico de cotizaciones previsionales, las entidades recaudadoras deben establecer explícitamente los mecanismos que se utilizarán para la solución de las eventuales divergencias que puedan surgir entre los distintos agentes participantes, incluida la empresa administradora del Sitio Web.
+
+Para tales fines, dichos mecanismos deben establecer la posibilidad de solicitar informes a peritos, con el propósito de clarificar las divergencias producidas.
+
+Cualquier divergencia ocurrida entre los agentes, que tenga relación con la diferencia, pérdida de información o de fondos recaudados por concepto de cotizaciones previsionales, debe ser comunicado por las entidades recaudadoras esta Superintendencia inmediatamente de tomado conocimiento de la ocurrencia del hecho.

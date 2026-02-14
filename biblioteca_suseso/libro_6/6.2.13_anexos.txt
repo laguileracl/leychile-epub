@@ -1,0 +1,14 @@
+6.2.13 ANEXOS
+=============
+
+Anexo N°1: Aclaración sobre los flujos
+
+Anexo N°2: Factores de sensibilidad
+
+Anexo N°3: Formatos de archivos planos
+
+Anexo N°4: Diccionario de archivos planos
+
+Anexo N°5: Instrucciones generales
+
+Anexo N°6: Formato de documento electrónico (XML)

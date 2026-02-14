@@ -1,0 +1,27 @@
+5.4.6.1 Firma mecanizada
+========================
+
+Conforme lo indica el D.S. N°52, de 2006, del Ministerio del Trabajo y Previsión Social , es firma mecanizada la estampada mediante procedimientos mecánicos, que reproduzcan fielmente la rúbrica de una persona natural debidamente facultada para ello, la que para todos los efectos legales, se entiende suscrita por la persona cuya rúbrica haya sido reproducida.
+
+La firma mecanizada debe estamparse en cada una de las fojas que conforman las resoluciones de cobranzas de deudas previsionales o de seguridad social, y en sus respectivos anexos, que forman parte integrante de éstas.
+
+Las resoluciones de cobranza judicial firmadas en forma mecanizada deben formar parte del expediente judicial físico, como electrónico, para este último efecto, puede también digitalizarse.
+
+Mecanismo de control
+
+
+
+Cada C.C.A.F., en su calidad de institución de seguridad social, debe establecer mecanismos de resguardo de los cuños correspondientes y asegurarse que el sistema de impresión de firma que se utilice ofrezca seguridad frente a posibles adulteraciones.
+
+
+
+Para estos efectos, las C.C.A.F. deben establecer mecanismos de resguardo de los cuños, además de la autenticación correspondiente y que constituirán el soporte de seguridad de los sistemas de información, los que permitirán definir en forma individual a los usuarios que tendrán acceso y sus privilegios, generando registros de auditoría detallada, que permitan determinar específicamente la actividad de un usuario en forma completa y localizar los incidentes de seguridad o de actividad anormal en el proceso.
+
+
+
+Cabe hacer presente que los cuños deben estar bajo la custodia del superior jerárquico directo de la unidad a cargo de la emisión de las resoluciones de que se trata, dentro de la Caja, en un lugar seguro que evite la pérdida, el deterioro o la vulnerabilidad, en la forma como lo establece el N°1 del artículo 7° del D.S. N°52, de 2006, del Ministerio del Trabajo y Previsión Social . Asimismo, cualquier requerimiento de verificación de dichos cuños, tanto por las unidades de contraloría interna como de los organismos fiscalizadores, debe ser en presencia de la persona designada para su custodia.
+
+
+
+Referencias legales:
+ DS 52 de 2006 Mintrab - DS 52 de 2006 Mintrab, artículo 7

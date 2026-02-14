@@ -1,0 +1,4 @@
+6.2.10 AUTORIZACIÓN DE USUARIOS
+===============================
+
+Para proceder a la creación de los usuarios autorizados a enviar los reportes detallados en las letras a) y b) del Número 6.2.9. del Título II del Libro VI del Compendio de Normas que Regulan a las C.C.A.F., se requiere que la Caja de Compensación envíe el nombre completo, cargo, correo electrónico y teléfono de contacto de cada usuario autorizado a reportar, debiendo proceder de igual forma para la eliminación de usuarios. Dichas peticiones deben ser remitidas mediante la plataforma PAE, opción "Otros-Ingresos". La Caja puede solicitar tantos usuarios como estimen conveniente.

@@ -1,0 +1,6 @@
+6.1.1.2 Gestión de riesgo operacional
+=====================================
+
+Corresponde al proceso de identificación, medición y control del riesgo operacional que realiza una Caja de Compensación en el desarrollo de las actividades necesarias para el cumplimiento de sus obligaciones establecidas en el marco legal. Éste debe ser implementado y controlado por la Gerencia General de la C.C.A.F., teniendo presente las responsabilidades del Directorio, de los dueños de los procesos, de la Unidad Especializada de Riesgo Operacional, de las unidades internas de Control Interno y/o Auditoría Interna y en general, del personal de la Caja, el cual debe conocer y participar activamente en la gestión del riesgo operacional.
+
+La gestión del riesgo operacional forma parte integral de la Política de Gestión de Riesgo Operacional, la cual debe ser aprobada por el Directorio.

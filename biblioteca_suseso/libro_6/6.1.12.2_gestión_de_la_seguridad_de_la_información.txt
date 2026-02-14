@@ -1,0 +1,4 @@
+6.1.12.2 Gestión de la seguridad de la información
+==================================================
+
+(Nodo estructural - ver subnodos)

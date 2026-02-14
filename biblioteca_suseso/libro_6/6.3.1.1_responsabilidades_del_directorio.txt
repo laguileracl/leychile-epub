@@ -1,0 +1,16 @@
+6.3.1.1 Responsabilidades del Directorio
+========================================
+
+Es responsabilidad del Directorio velar por la adecuada administración del riesgo de liquidez de la Caja, asegurando la correcta implementación de las políticas y procedimientos para controlar y mitigar dicho riesgo.
+
+Además, el Directorio de la entidad es responsable de las siguientes funciones:
+
+Aprobar las políticas y procedimientos para la gestión del riesgo de liquidez. No obstante, la aprobación de los procedimientos puede ser delegada en la alta administración, sin que esto exima al Directorio de su responsabilidad.
+
+Velar por la independencia entre las áreas de medición y monitoreo de riesgos y las áreas operativas, financieras y comerciales de la Caja de Compensación.
+
+Aprobar trimestralmente los Test de Estrés.
+
+Aprobar el Plan de Contingencia anual.
+
+Velar por el cumplimiento de las disposiciones establecidas en esta norma.

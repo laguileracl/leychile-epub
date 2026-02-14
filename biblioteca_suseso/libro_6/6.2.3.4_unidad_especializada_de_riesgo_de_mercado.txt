@@ -1,0 +1,36 @@
+6.2.3.4 Unidad Especializada de Riesgo de Mercado
+=================================================
+
+La Gerencia de Riesgos o unidad afín, bajo el concepto de buenas prácticas mencionado en el Número 6.2.3. del Título II del Libro VI del Compendio de la Ley N°18.833, debería apoyarse en una unidad especializada de riesgo de mercado, cuyo objetivo es identificar, medir, controlar y divulgar los riesgos de mercado. La Unidad de Riesgo de Mercado debería existir dentro de la estructura organizacional de la entidad y ser independiente de las áreas de operación, finanzas y comercial.
+
+El encargado de la Unidad de Riesgo de Mercado debe poseer un perfil que lo faculte para desempeñar sus funciones adecuadamente, y la entidad debe contar con planes de capacitación en materia de riesgos para los miembros de dicha unidad cuando lo considere necesario.
+
+La Unidad de Riesgo de Mercado debe desempeñar funciones tales como:
+
+Diseñar las políticas y procedimientos para la gestión de riesgos de mercado.
+
+Verificar el cumplimiento de las políticas y los procedimientos una vez que hayan sido aprobados.
+
+Revisar los niveles de riesgo en lo que respecta a los cambios económicos y el entorno del mercado, y el cambio de composición de la cartera.
+
+Medir y monitorear los riesgos de mercado a los que estén expuestos los activos y pasivos del libro de caja y negociación.
+
+Informar al menos mensualmente a la Gerencia de Riesgos o Unidad Afín sobre la exposición de los activos y pasivos antes mencionados.
+
+Proponer y mantener la documentación relacionada con las medidas y el manejo del riesgo de mercado.
+
+Desarrollar y revisar la bondad de ajuste de los métodos de medición de riesgo de mercado y de valorización, dentro de un análisis continuo de los ajustes de los modelos (backtesting) y de los riesgos presentes y potenciales a los cuales se encuentra expuesta la Caja de Compensación, incorporando si es necesario nuevas metodologías al análisis.
+
+Confeccionar y calcular el test de estrés para su posterior presentación al Directorio
+
+Brindar asesoría en materia de riesgos de mercado y tasa de interés al personal de la Caja de Compensación.
+
+Revisar al menos una vez al año las políticas y procedimientos para la gestión de riesgos, con el fin de proponer a la Gerencia de Riesgo o Unidad Afín, los cambios que estime convenientes.
+
+Calcular y dar seguimiento a los requerimientos de capital para la cobertura de riesgos y a los límites establecidos, de conformidad con la normativa vigente.
+
+Desempeñar otras funciones que la Gerencia de Riesgo o Unidad Afín le asigne, siempre que estén relacionadas con los temas de riesgo de mercado y tasa de interés de la Caja.
+
+La Unidad de Riesgo de Mercado debe analizar e informar inmediatamente a la Gerencia de Riesgos o Unidad Afín, cualquier situación que pueda implicar riesgos significativos para el patrimonio o los flujos de la Caja.
+
+En el caso que la Unidad de Riesgo de Mercado indique recomendaciones a la administración que sean parcial, o totalmente desestimadas, el Gerente General tiene la obligación de proporcionar a la Gerencia de Riesgos o Unidad Afín una justificación técnica por escrito de su decisión, en un plazo no mayor a 5 días hábiles posteriores al recibo de dichos informes.

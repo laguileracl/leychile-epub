@@ -1,0 +1,29 @@
+6.3.3 DESCALCES O BRECHAS DE LIQUIDEZ
+=====================================
+
+La Caja de Compensación debe realizar un seguimiento a la Brecha de Liquidez o descalce de plazos entre flujos de egresos e ingresos.
+
+La Brecha de Liquidez (
+) queda definida como sigue:
+
+, donde
+
+: Flujos asociados a las operaciones pasivas (involucra descomponer cada uno de los pasivos en los respectivos flujos contractuales), incluyendo egresos de operaciones contingentes como, por ejemplo, gastos de administración.
+
+: Flujos asociados a las operaciones activas (involucra descomponer cada uno de los activos en los respectivos flujos contractuales).
+
+En la Brecha de Liquidez deben considerarse, exclusivamente, los flujos contractuales. Por lo tanto, no corresponde incluir el eventual acceso a financiamiento de terceros, ni considerar estacionalidades u otros ajustes asociados a los flujos de egresos (por ejemplo, si bien los "Depósitos para cuentas de ahorro para vivienda" no tienen vencimiento contractual, si es que éstos pueden ser retirados en un momento indeterminado, debieran considerarse en la primera banda temporal).
+
+En el caso del flujo de ingresos, se solicita a la C.C.A.F. la aplicación de ajustes a los flujos contractuales asociados a ciertos activos a valores razonables sobre el comportamiento que podrían tener las fuentes y los usos de fondos (estos supuestos deben ser claramente explicados e informados a esta Superintendencia). A modo de ejemplo:
+
+Vencimientos de las colocaciones
+
+Liquidez de inversiones financieras.
+
+Morosidad de la cartera de créditos sociales.
+
+Las brechas de liquidez deben ser acumuladas, porque una institución puede manejar razonablemente un importante déficit de caja de un día, pero existe la posibilidad de que no esté en condiciones de afrontar varios días seguidos de déficits de caja de mediana importancia.
+
+Los déficits acumulados que se produzcan deben ser comparados con los límites establecidos en el numeral 6.3.4 de este Título III del Libro VI del Compendio de la Ley N°18.833 . Es importante señalar que la C.C.A.F. debe tener en consideración que el marco en el cual están circunscritos los límites de liquidez pueden cambiar en el tiempo, debido a la necesidad de realizar ajustes para reflejar de mejor manera el riesgo de liquidez al cual se encuentra expuesta la Caja de Compensación, por tanto, los supuestos incorporados en el flujo deben ser revisados periódicamente para que la proyección de descalces corresponda a la realidad financiera de la C.C.A.F..
+
+La incorporación de esta herramienta para vigilar la liquidez, permitirá a la C.C.A.F. conocer la magnitud de sus necesidades y cuándo éstas se presentarán. De esta forma, los excesos y déficit visualizados hoy son un punto de partida para medir la escasez de liquidez futura de una Caja de Compensación dentro de un horizonte de tiempo proyectado.

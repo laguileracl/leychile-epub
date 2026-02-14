@@ -1,0 +1,23 @@
+3.7.9 EJEMPLO DE APLICACIÓN DE LA CAE EN UN CRÉDITO UNIVERSAL DE CONSUMO PARA UNA CAJA DE COMPENSACIÓN
+======================================================================================================
+
+Considere un crédito de $1.000.000 a 12 meses, con una tasa de interés mensual (pizarra) de 1,2%, otorgado el 15/10/2011.
+
+Los gastos asociados al crédito corresponden a:
+
+Gasto notarial: $420
+
+Impuesto: $6.077
+
+Adicionalmente y cuando corresponda, la proyección de los intereses debe incluirse en el capital inicial,
+
+Proyección: $6.400
+
+Dado los valores anteriores, el capital inicial corresponde a $1.012.897.
+
+La Tabla de Amortización correspondiente se contiene en el Anexo N°2: Ejemplo de tabla de amortización del Título VII de este Compendio de la Ley N°18.833.
+
+Al aplicar la fórmula del Costo Anual Equivalente se tiene que:
+
+El valor que resuelve la ecuación es
+, por lo tanto, reemplazando en la ecuación (2), la CAE asociada corresponde a 18,66%.

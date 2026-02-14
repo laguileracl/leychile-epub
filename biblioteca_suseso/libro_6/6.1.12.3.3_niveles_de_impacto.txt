@@ -1,0 +1,4 @@
+6.1.12.3.3 Niveles de impacto
+=============================
+
+Los posibles niveles de impacto de un ciberincidente se clasifican en Crítico, Muy Alto, Alto, Medio, Bajo o Sin Impacto. El nivel de impacto correspondiente se asignará usando como referencia lo señalado en el Anexo N°6: Niveles de impacto de los ciberincidentes del Título I del Libro VI del Compendio de la Ley N°18.833.

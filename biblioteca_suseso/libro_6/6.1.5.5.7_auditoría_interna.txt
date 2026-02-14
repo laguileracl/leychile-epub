@@ -1,0 +1,26 @@
+6.1.5.5.7 Auditoría Interna
+===========================
+
+La Unidad y/o Gerencia de Auditoría Interna debe evaluar el cumplimiento de los procedimientos utilizados para la gestión del riesgo operacional de acuerdo con las exigencias contenidas en el presente Título I del Libro VI de este Compendio de la Ley N°18.833.
+
+El rol de la Auditoría Interna debe ser independiente del área encargada de la gestión del riesgo operacional, y debe contar con los recursos necesarios, independencia y objetividad para entregar información para la toma de decisiones al Directorio sobre la calidad de la gestión de los riesgos que realiza la C.C.A.F.
+
+De forma específica, la función de Auditoría Interna debe:
+
+Verificar que el sistema de medición del riesgo está correctamente integrado en la gestión de la Caja de Compensación.
+
+Analizar la adecuación de las infraestructuras tecnológicas y la captura y mantenimiento de los datos.
+
+Verificar el correcto funcionamiento de los procedimientos y herramientas de la gestión del Riesgo Operacional, validando:
+
+Los datos internos cargados en la Base de Datos de Pérdidas por Riesgo Operacional.
+
+El rigor en la cumplimentación de cuestionarios.
+
+La coherencia entre ambas metodologías.
+
+El adecuado seguimiento de los Planes de Acción.
+
+Los procedimientos para revisar y actualizar el Marco de Gestión de Riesgo Operacional.
+
+Los procedimientos de reporte de la información de gestión.

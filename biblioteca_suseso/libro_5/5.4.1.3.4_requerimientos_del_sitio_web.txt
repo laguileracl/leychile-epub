@@ -1,0 +1,60 @@
+5.4.1.3.4 Requerimientos del sitio web
+======================================
+
+El Sitio Web para el intercambio de información debe proporcionar un servicio de intermediación electrónica que permita el envío, recepción, almacenamiento, respaldo y recuperación de la información intercambiada, ofreciendo seguridad, integridad, confidencialidad, compatibilidad, disponibilidad en las comunicaciones y las facilidades necesarias para que el proceso de recaudación de cotizaciones previsionales se efectúe de la forma más fácil y expedita posible.
+
+El nombre del dominio del Sitio web debe ser válido en Internet.
+
+El Sitio Web debe poseer una certificación digital que compruebe la autenticidad de él, otorgado y emitido por una autoridad certificadora constituida legalmente, sea nacional o internacional. El certificado digital debe cumplir con los estándares nacionales e internacionales de encriptación que garanticen la integridad y confidencialidad de las transferencias electrónicas de información.
+
+La empresa administradora del sitio Web debe cumplir con las siguientes medidas de seguridad, además de las definidas en el numeral 5.4 del Título IV del Libro V de este Compendio de la Ley N°18.833:
+
+Disponer de un perfil de seguridad que garantice el acceso sólo a los operadores autorizados.
+
+Disponer de mecanismos para detectar si los mensajes transmitidos sufrieron alguna pérdida o alteración entre el emisor y el receptor.
+
+Transmitir los mensajes encriptados, para resguardar la confidencialidad de los mismos.
+
+Disponer de mecanismos que garanticen la imposibilidad de que alguna de las partes del intercambio pueda desconocer su participación en él.
+
+Certificar el origen de cada mensaje.
+
+Certificar la recepción de los mensajes.
+
+Verificar que el receptor corresponde al destinatario del mensaje e impedir que un tercero pueda acceder al contenido del mismo.
+
+Disponer de un sistema de firma electrónica.
+
+Llevar un registro de las operaciones realizadas.
+
+Proveer de elementos de respaldo de los mensajes enviados y recibidos.
+
+El Sitio Web debe disponer de componentes intuitivos, interfaces, formularios electrónicos, software de características que lo hagan de fácil comprensión y operación a nivel de usuarios. El software que permita realizar la recaudación en forma electrónica a los empleadores y trabajadores independientes debe quedar a su disposición a través del Sitio web, de tal forma que permita a los empleadores o trabajadores independientes las siguientes formas de operación:
+
+Interactuando directamente con el Sitio web.
+
+Transfiriendo la aplicación computacional que permite la recaudación electrónica desde el Sitio Web hacia sus propios sistemas de información.
+
+Además, la empresa administradora del sitio Web, puede crear programas computacionales compatibles con los sistemas utilizados por los empleadores y trabajadores independientes, con el objeto de permitirles convertir e importar formatos estándares de información desde sus sistemas de remuneraciones.
+
+El servicio de recaudación electrónica por Internet debe efectuarse exclusivamente por aquellas empresas administradoras de Sitios web que cumplan con los requisitos técnicos definidos en los números 1 al 6 anteriores. Además, por la confidencialidad de la información que se transmite, los convenios deben indicar expresamente que, tanto la empresa administradora del Sitio web como el personal a su cargo, no pueden usar en ningún caso y en ninguna circunstancia la información que viene contenida en las declaraciones de los empleadores o trabajadores independientes. Para estos efectos, el referido convenio debe establecer algún tipo de sanción (término anticipado del contrato, multa y/ indemnización de perjuicios) para el caso en que se infrinja esta prohibición por parte de la empresa administradora del Sitio Web.
+
+Antes de celebrar los convenios, las entidades recaudadoras deben verificar el cumplimiento de tales exigencias, sólo una vez comprobado esto se procederá a la firma de él, incorporando las cláusulas pertinentes con dichos aspectos y prohibiciones.
+
+La empresa administradora del Sitio Web debe asegurar físicamente la información, es decir sus servidores deben contar con elementos de protección certificados y encontrarse en salas que cumplan con los requerimientos estándares de seguridad. Lo anterior también debe ser verificado por la entidad recaudadora antes de la firma del respectivo convenio.
+
+La empresa administradora del Sitio web, para determinar la autenticidad de los empleadores y trabajadores independientes que utilicen el servicio de recaudación electrónica, puede utilizar alguno o una combinación de los siguientes métodos:
+
+Claves y password o pin personales.
+
+Certificados digitales.
+
+Firmas digitales o llaves privadas y públicas.
+
+Tarjetas personales de identificación segura.
+
+La empresa administradora del Sitio Web es responsable exclusiva de otorgar y administrar los métodos de autenticación de los empleadores y trabajadores independientes definidos en el número anterior . Los métodos señalados en las letras b), c) y d), del número 10 precedente, deben estar debidamente certificados.
+
+Las administradoras que opten por desarrollar sus propios Sitios web destinados a la recaudación electrónica de cotizaciones previsionales deben cumplir con todas las normas establecidas e n el numeral 5.4 Título IV del Libro V de este Compendio de la Ley N°18.833.
+
+Las empresas administradoras de Sitios Web pueden utilizar un sistema de comunicaciones de correo electrónico con el objeto de informar a los distintos agentes participantes los eventos o situaciones asociados al ciclo de pago electrónico de las cotizaciones previsionales, excluidas las transferencias electrónicas de información de definidas en el numeral 5.4 del Título IV del Libro V de este Compendio de la Ley N°18.833 ( Declaración, Orden de pago, Comprobante de pago, Crédito, Débito y Confirmación ). A modo de ejemplo se tienen las siguientes situaciones: la cuenta corriente tiene saldo insuficiente, cotizaciones que se registraron en rezagos, etc.

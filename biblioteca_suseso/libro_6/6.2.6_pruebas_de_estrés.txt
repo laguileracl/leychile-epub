@@ -1,0 +1,44 @@
+6.2.6 PRUEBAS DE ESTRÉS
+=======================
+
+La Caja debe confeccionar y enviar trimestralmente las pruebas de estrés, las que deben estar aprobadas por el Directorio de la Caja. Éstas deben contener una evaluación cuantitativa y cualitativa de los distintos escenarios testeados, acorde a una argumentación del entorno de mercado, de acuerdo a sus propios supuestos, y el impacto que dichos escenarios generarían en el patrimonio de la Caja.
+
+Las conclusiones de dicho estrés deben ser consideradas por el área de riesgo en la gestión diaria de las posiciones activas y pasivas, proponiendo cambios en los calces y/o descalces de dichas posiciones, si ello lo amerita.
+
+El informe de Pruebas de Estrés debe contener a lo menos los siguientes elementos:
+
+Escenarios mínimos:
+
+Escenario base en condiciones normales.
+
+Impacto significativo causado por las variaciones, entre un mes y otro, en el movimiento de tasas en pesos, ya sea considerando el peor impacto histórico u otra metodología.
+
+Impacto significativo causado por las variaciones, entre un mes y otro, en el movimiento de tasas en UF y en el valor de la UF y otros índices de reajustabilidad, ya sea considerando el peor impacto histórico u otra metodología.
+
+Escenarios de refinanciamiento de sus pasivos, considerando la inflexibilidad de los activos.
+
+Variación significativa del tipo de cambio.
+
+
+
+Lo anterior, además, de los otros escenarios considerados por la Caja.
+
+Análisis macroeconómico considerado.
+
+Descripción detallada de cada escenario, indicando la relevancia en la medición del riesgo de mercado de la Caja.
+
+Identificación de las variables estresadas en cada escenario, considerando la magnitud de la perturbación aplicada en cada banda temporal.
+
+Cuantificación del impacto de cada escenario sobre la exposición al riesgo de mercado.
+
+Impacto que estos escenarios generarían en el margen financiero de los próximos 12 meses.
+
+Cumplimiento de los límites de exposición para cada escenario, identificando claramente los límites del Libro de Negociación y Libro de Caja, de corto y largo plazo, en los casos que corresponda, tanto en porcentaje y monto, de acuerdo a lo establecidos en su Política de Riesgo de Mercado.
+
+Anexo metodológico donde se presenten los flujos de cada banda temporal en el escenario actual y los flujos modificados para cada escenario.
+
+La Caja debe incluir en este informe el análisis de los covenants que se puedan ver afectados por eventuales riesgos de mercado, en caso de que corresponda.
+
+Conclusión de los resultados obtenidos para cada escenario, y las medidas de mitigación asociadas si corresponde, de acuerdo a los planes de contingencia establecidos en su Política de Riesgo de Mercado.
+
+Cabe hacer presente que aquella Caja de Compensación que disponga de instrumentos de cobertura para algún tipo de riesgo, igualmente debe presentar el test de estrés de la variable cubierta, indicando en detalle el tipo de cobertura contratada.

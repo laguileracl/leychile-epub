@@ -1,0 +1,12 @@
+5.4.13 ANEXOS
+=============
+
+Anexo N°1: Nueva estructura de registro del archivo de deudas previsionales
+
+Anexo N°2: Registro de detalles a partir del Boletín N°84
+
+Anexo N°3: Estructura registro de pago de cotización previsional C.C.A.F. para la generación de maestro pago cotizaciones
+
+Anexo N°4: Formato archivo enviado por FONASA a las C.C.A.F. para consulta sobre cotizaciones mal enteradas
+
+Anexo N°5: Formato nómina enviada por C.C.A.F. a FONASA informando los montos por concepto de cotizaciones mal enteradas

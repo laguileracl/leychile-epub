@@ -1,0 +1,36 @@
+5.4.1.1 Definiciones
+====================
+
+Sistema de pago electrónico: es el pago de las cotizaciones previsionales que se realiza íntegramente mediante transferencias electrónicas de información, e instrucciones de pago al Sitio Web.
+
+Sistema de pago mixto: es el pago de las cotizaciones previsionales que se realiza mediante una combinación de transferencias electrónicas de información y de medios de pago tradicionales.
+
+Convenio de cargo automático: es aquel mediante el cual el empleador o trabajador independiente autoriza al banco donde mantiene la cuenta corriente para que pague las cotizaciones previsionales.
+
+Sitio Web: es un centro de procesamiento destinado a la recaudación de cotizaciones previsionales que provee los servicios de intercambio de información a los usuarios por Internet, debiendo cumplir los requerimientos que establece este numeral 5.4 del Título IV del Libro V de este Compendio de la Ley N°18.833.
+
+Transferencias electrónicas de información
+
+Declaración:
+
+Transferencia electrónica de información que es generada por cada empleador o trabajador independiente para ser enviada a la entidad recaudadora de destino, a través del Sitio Web, donde residen los datos correspondientes a cada uno de los trabajadores, respectivamente. Esta transferencia electrónica debe tener asignada un número de folio y registrar todos aquellos datos incluidos en las respectivas planillas de declaración y pago de cotizaciones
+
+Orden de pago:
+
+Transferencia electrónica de información que es generada por cada empleador o trabajador independiente simultáneamente a la generación y envío de la Declaración y que tiene como destinatario la entidad recaudadora o el banco, a través del Sitio Web. En esta transferencia electrónica de información el empleador o trabajador independiente debe indicar la fecha en que instruye a su banco debitar en su cuenta corriente un monto total para que sea abonado a la cuenta corriente de la entidad recaudadora. Adicionalmente, debe registrar como dato de referencia el número de folio asignado a la Declaración , y que identifica la operación.
+
+Crédito:
+
+Transferencia electrónica de información que es generada por el banco y que tiene como destinataria a la Entidad Recaudadora, a través del Sitio web. Esta informa del abono efectuado en la cuenta corriente de la entidad recaudadora por el valor de las cotizaciones y aportes previsionales. Debe registrar como dato de referencia el número de folio asignado a la Declaración que identifica la operación.
+
+Débito:
+
+Transferencia electrónica de información que es generada por el banco y que queda a disposición del empleador o trabajador independiente en el Sitio Web, para que éstos verifiquen el cargo efectuado en su cuenta corriente por el valor de las cotizaciones previsionales pagadas. Debe registrar como dato de referencia el número de folio asignado a la Declaración que identifica la operación.
+
+Confirmación:
+
+Transferencia electrónica de información que es generada por la Entidad recaudadora y que queda a disposición del empleador o trabajador independiente en el Sitio Web, para que certifique que las cotizaciones previsionales han sido pagadas. Debe registrar como dato de referencia el número de folio asignado a la Declaración que identifica la operación.
+
+Comprobante de pago:
+
+Transferencia electrónica de información generada por la entidad recaudadora en caso de ocuparse el sistema mixto de pago de cotizaciones previsionales que tiene como destino el empleador o trabajador independiente. Esta transferencia indica los datos de la empresa y el desglose de los antecedentes del pago. Adicionalmente debe registrar como dato de referencia el número asignado a la Declaración, y que identifica la operación.

@@ -93,7 +93,7 @@ PATRON_CAPITULO = re.compile(
     re.MULTILINE | re.IGNORECASE,
 )
 PATRON_ARTICULO = re.compile(
-    r"^Art[ií]culo\s+(\d+)[°º.]?\s*[:\-.]?\s*(.*?)$",
+    r"^Art[ií]culo\s+(\d+)\s*[°º.]?\s*([Bb]is|[Tt]er)?\s*[:\-.]?\s*(.*?)$",
     re.MULTILINE,
 )
 PATRON_ARTICULO_TRANSITORIO = re.compile(
@@ -487,19 +487,26 @@ class SuperirBaseParser:
             if end:
                 sections["considerando"] = texto[pos_considerando.end() : end].strip()
 
-        # Buscar primer TÍTULO o primer artículo
+        # Buscar primer TÍTULO, primer CAPÍTULO o primer artículo
         pos_first_titulo = PATRON_TITULO.search(texto)
+        pos_first_capitulo = PATRON_CAPITULO.search(texto)
         pos_body_start = pos_first_article
 
-        if pos_first_titulo and pos_first_article:
-            if pos_first_titulo.start() < pos_first_article.start():
+        # Determinar el primer elemento estructural (Título o Capítulo)
+        pos_first_division = pos_first_titulo
+        if pos_first_capitulo:
+            if pos_first_division is None or pos_first_capitulo.start() < pos_first_division.start():
+                pos_first_division = pos_first_capitulo
+
+        if pos_first_division and pos_first_article:
+            if pos_first_division.start() < pos_first_article.start():
                 body_zone_start = 0
                 if pos_resuelvo:
                     body_zone_start = pos_resuelvo.end()
                 elif pos_considerando:
                     body_zone_start = pos_considerando.end()
-                if pos_first_titulo.start() >= body_zone_start:
-                    pos_body_start = pos_first_titulo
+                if pos_first_division.start() >= body_zone_start:
+                    pos_body_start = pos_first_division
 
         # RESUELVO intro
         if pos_resuelvo and pos_body_start:
@@ -1003,7 +1010,10 @@ class SuperirBaseParser:
                 article_counter += 1
 
                 numero = match_art.group(1)
-                resto = match_art.group(2).strip()
+                bis_ter = match_art.group(2)
+                if bis_ter:
+                    numero = f"{numero} {bis_ter.capitalize()}"
+                resto = match_art.group(3).strip()
 
                 art_titulo = ""
                 art_first_text = resto

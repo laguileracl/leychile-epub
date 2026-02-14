@@ -1,0 +1,10 @@
+5.4.9.1 Solicitud de reembolso
+==============================
+
+La ISAPRE solicitará a FONASA el reembolso del 7% de la cotización para salud, mal enterada por los empleadores en dicho organismo público, para lo cual las ISAPRES, deben ajustarse al proceso establecido según Circular IF/N° 164, de 3 de enero de 2012, de la Superintendencia de Salud .
+
+Para realizar la devolución del 7% correspondiente a la cotización de salud, cuando un empleador ha enterado un porcentaje en FONASA y el porcentaje restante en las C.C.A.F., FONASA debe verificar que el porcentaje diferencial haya sido efectivamente enterado en una C.C.A.F.
+
+Al efecto, para dar respuesta oportuna a las ISAPRE, el FONASA mensualmente debe realizar una consulta a las C.C.A.F, remitiendo una nómina con las cotizaciones que han sido enteradas y registradas con el porcentaje correspondiente a la cotización de salud de FONASA, a fin de que aquéllas verifiquen la recaudación de la cotización restante.
+
+El FONASA debe realizar la consulta poniendo a disposición de las C.C.A.F., un archivo conforme al formato señalado en el Anexo N°4: Formato archivo enviado por FONASA a las C.C.A.F. para consulta sobre cotizaciones mal enteradas del Título IV del Libro V del Compendio de la Ley N°18.833, los días 22 de cada mes o el día hábil siguiente, cuyo contenido corresponderá al proceso de recaudación de cotizaciones de salud del periodo anterior.

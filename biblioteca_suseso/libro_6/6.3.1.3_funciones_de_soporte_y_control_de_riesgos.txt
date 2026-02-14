@@ -1,0 +1,20 @@
+6.3.1.3 Funciones de soporte y control de riesgos
+=================================================
+
+La Caja debe disponer de sistemas de medición del riesgo de liquidez que capturen todas las fuentes materiales de dichos riesgos y que midan los efectos de probables escenarios de iliquidez. Los supuestos bajo los que trabajen los referidos sistemas deben ser entendidos claramente por los funcionarios de las áreas vinculadas a la administración del riesgo.
+
+La Caja debe poseer sistemas de información adecuados para medir, evaluar y controlar el riesgo de liquidez, así como para generar los reportes requeridos por el organismo supervisor con la frecuencia necesaria, para mantener informados al Directorio, la alta administración y a los gerentes individuales de ciertas líneas de negocios, cuando sea necesario.
+
+La Caja debe tener un adecuado sistema de controles internos sobre sus procesos vinculados a la gestión del riesgo de liquidez, el cual debe incluir revisiones independientes regulares y evaluaciones de la efectividad de este sistema y, cuando sea necesario, la realización de modificaciones o mejoras a dichos controles internos.
+
+La Caja debe tomar en cuenta en su gestión del riesgo, las apreciaciones y comentarios que esta Superintendencia realice. Además, los resultados de las referidas revisiones deben estar a disposición de esta Superintendencia durante las inspecciones que efectúe, así como estar disponibles para su envío, en caso de ser solicitado.
+
+Esta Superintendencia puede requerir, en cualquier momento, información adicional o especial a la Caja de Compensación, respecto del manejo interno de la administración del riesgo de liquidez.
+
+Entre las funciones internas relevantes que deben ser descritas y controladas por la administración de riesgos y por auditoría destacan:
+
+Preocuparse que la infraestructura tecnológica sea acorde con las necesidades de la Caja de Compensación, y que su capacidad de cumplir adecuadamente el rol de soporte para la gestión del riesgo de liquidez se desarrolle correctamente.
+
+Validar la integridad de los sistemas de información y base de datos utilizados en la gestión del riesgo.
+
+Contar con la infraestructura de reportes adecuada a las necesidades de la Caja de Compensación.

@@ -1,0 +1,4 @@
+4.6.1.12 Traspaso de las cuentas en caso de disolución de la institución
+========================================================================
+
+En el evento que se produjere la disolución de una C.C.A.F., por cualquier causa, el liquidador traspasará las cuentas a otra institución autorizada para abrir y mantener cuentas de ahorro para la vivienda. Este traspaso debe comprender el o los Fondos, los contratos de ahorro y el correspondiente contrato de administración suscrito con la A.F.V.

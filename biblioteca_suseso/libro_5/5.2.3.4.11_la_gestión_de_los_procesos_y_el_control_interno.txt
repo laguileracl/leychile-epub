@@ -1,0 +1,40 @@
+5.2.3.4.11 La Gestión de los Procesos y el Control Interno
+==========================================================
+
+Las herramientas de control interno, esto es, los organigramas funcionales, la descripción de funciones, los manuales de operaciones, de procedimientos y sus controles, análisis de riesgos y evaluación de controles, deben estar documentados y disponibles para el personal encargado de las respectivas operaciones. Tal documentación, respectivamente aprobada y actualizada por sus respectivos dueños de procesos y la unidad encargada de la gestión de los procesos, debe estar también disponible para esta Superintendencia.
+
+Los procesos a seguir en las rutinas administrativas deben estar descritos en documentos denominados Manuales de Procedimientos. Además, deben identificarse los cargos responsables de las decisiones y tareas asumidas en los procesos que se describan, incorporando también las actividades sistémicas, de control y de apoyo, tanto como las desarrolladas por la Caja de Compensación, como aquellas actividades externalizadas.
+
+Los manuales deben ser coherentes con la normativa vigente, y con las estrategias y las políticas internas de la Caja, además de observar los principios de riesgos y de control interno, como la definición de los niveles jerárquicos, las responsabilidades de las personas que intervienen en las actividades y la segregación de funciones.
+
+Dichos manuales deben ser codificados, dados a conocer y estar disponibles para todos los encargados de la ejecución de las actividades y procesos, y deben ser objeto de actualización permanente. Se debe además obtener confirmación de la recepción de éstos por parte de los destinatarios, incluidos los trabajadores que se van integrando a la Caja, en los procesos de inducción, según especialidad y procesos.
+
+En la elaboración se deben contemplar, al menos, las siguientes líneas de negocio y/o procesos, considerando todas sus actividades componentes, ya sean éstos del tipo estratégico, relacionados a las líneas de negocios, o de apoyo:
+
+Subsidio Maternal.
+
+Asignación Familiar.
+
+Prestaciones Adicionales.
+
+Prestaciones Complementarias.
+
+Crédito Social de Consumo - Microempresario - Educacional e Hipotecario.
+
+Cuentas de ahorro metódico y voluntario.
+
+Subsidio de Cesantía.
+
+Subsidio de Incapacidad Laboral.
+
+Captación y mantención de afiliados.
+
+Operaciones y relación con empresas filiales.
+
+Operaciones y relación con empresas proveedoras de servicios.
+
+Otros servicios prestados por las Cajas, distintos a los anteriores.
+
+Los manuales de procesos deben incluir las actividades de control insertas en sus actividades. Asimismo, deben ser objeto de una evaluación anual formal de su vigencia, por parte de los respectivos dueños de procesos con el fin de confirmar esto y que describan el proceso vigente.
+
+La reevaluación periódica de los riesgos inherentes y residuales de estos procesos, con el fin de examinar la efectividad de los controles, debe ser realizada acorde a las normas impartidas por esta Superintendencia.

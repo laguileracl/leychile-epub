@@ -1,0 +1,4 @@
+3.1.15.6 Registro computacional de los pagarés
+==============================================
+
+Cada C.C.A.F. debe mantener un registro computacional nacional de los pagaré, centralizado, clasificado por agencia o sucursal, actualizado a lo menos una vez al mes, donde conste, entre otras menciones: número del pagaré, número del crédito social a que corresponde, lugar donde se encuentra en custodia el pagaré, monto, fecha de suscripción, vencimiento, lugar de emisión y estado del pagaré (sirviéndose normalmente, en cobranza extra judicial o judicial y si estas últimas son externas, individualizarlas señalando el tribunal de instancia en que se encuentra el pagaré). El extravío del pagaré también deberá indicarse en este registro.

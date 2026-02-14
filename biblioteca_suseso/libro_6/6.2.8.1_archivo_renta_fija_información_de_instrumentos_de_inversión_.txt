@@ -1,0 +1,11 @@
+6.2.8.1 Archivo 'RENTA_FIJA': Información de Instrumentos de Inversión en Renta Fija
+====================================================================================
+
+En este archivo debe informarse el listado y detalle de los instrumentos de renta fija que tengan en cartera al momento de la obtención de la información. Cabe señalar que dichos instrumentos deben corresponder a los contemplados en el artículo 31 de la Ley N° 18.833.
+
+El detalle de los campos y el formato requerido por esta Superintendencia se muestran en el Anexo N°3: Formatos de archivos planos , Anexo N°4: Diccionario de archivos planos y Anexo N°5: Instrucciones generales , todos de este Título II del Libro VI del Compendio de la Ley N°18.833.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 31

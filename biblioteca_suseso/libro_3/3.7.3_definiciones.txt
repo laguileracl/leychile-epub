@@ -1,0 +1,81 @@
+3.7.3 DEFINICIONES
+==================
+
+Para los efectos del crédito universal, se entenderá por:
+
+3.7.3.1. Carga Anual Equivalente (CAE)
+
+Indicador que, expresado en forma de porcentaje considerando dos decimales, revela el costo de un crédito en un período anual, cualquiera que sea el plazo pactado para el pago de la obligación. La carga anual equivalente contempla el tipo de interés, todos los gastos asociados al crédito, el plazo de la operación; y se calcula sobre base anual. Previo el cálculo de la CAE, se debe determinar la tasa mensual if que iguala el valor presente de los montos recibidos con el valor presente de los montos adeudados. Se calculará de acuerdo a la fórmula siguiente ecuación, N°(1):
+
+Donde:
+
+D = Monto líquido recibido por el afiliado.
+
+R = Pagos por amortización, intereses y los gastos asociados al crédito. Se excluyen los gastos asociados pagados en t=0, ya que D considera sólo el monto líquido recibido.
+
+N = Número de desembolsos en los que se entrega el crédito.
+
+M = Número de los pagos simbolizados por R.
+
+tn = Tiempo transcurrido desde la fecha de equivalencia elegida hasta la de disposición n. La frecuencia de tiempo deberá ser consistente con la frecuencia de composición de la tasa de interés.
+
+tm = Tiempo transcurrido desde la fecha de disposición del dinero elegida hasta la del pago m. La frecuencia de tiempo deberá ser consistente con la frecuencia de composición de la tasa de interés.
+
+if = Tasa efectiva mensual que resuelve la ecuación (l).
+
+f = Número de capitalizaciones en el año. En el caso de los créditos otorgados por la C.C.A.F. su valor es 12.
+
+De esta manera, la carga anual equivalente se definiría de acuerdo con la fórmula siguiente, N° (2):
+
+3.7.3.2. Crédito universal
+
+La utilización de las denominaciones crédito hipotecario universal y crédito universal de consumo estará reservada exclusivamente para aquellos créditos que reúnan las características señaladas en la Ley, en el reglamento y el presente Título VII. En caso de aquellos créditos que tuvieran alguna característica adicional o fueran ofrecidos o comercializados conjuntamente con otro producto, en particular los seguros de cesantía o desgravamen -cuando éstos se hayan convenido voluntariamente-, para efectos de información del precio y del cálculo de la carga anual equivalente, se deben separar el crédito universal y los distintos elementos adicionales. En este caso, se informarán la carga anual equivalente del producto universal y la del conjunto de productos ofrecidos, así como el precio de los productos o servicios adicionales.
+
+3.7.3.3. Gastos asociados al crédito
+
+Son todos aquellos pagos, cualquiera sea su naturaleza o denominación, derivados de la contratación de un crédito y devengados a favor de la entidad crediticia o cualquier otra persona natural o jurídica, que no correspondan a tasa de interés y que sean de cargo del consumidor, tales como, a modo de ejemplo y en caso de que los haya, impuestos, gastos notariales, tasaciones, estudios de títulos, y cualesquiera otros gastos que emanen directa o indirectamente del crédito.
+
+3.7.3.4. Costo final del crédito
+
+Indicador que, expresado en una suma de dinero, da cuenta del monto total a pagar por el crédito solicitado. Para calcular el costo final del crédito, se sumarán al monto del crédito y a lo adeudado por tasa de interés los gastos asociados al crédito. La información referente al costo final del crédito deberá contener una mención relativa al plazo de éste. Este indicador no incluye los costos de prepago.
+
+3.7.3.5. Créditos hipotecarios universales
+
+Se entenderá por crédito hipotecario universal otorgados por la C.C.A.F. aquella operación de crédito de dinero que reúne las siguientes características:
+
+por un monto de hasta 5.000 Unidades de Fomento:
+
+destinada únicamente a personas naturales;
+
+otorgada exclusivamente con el objeto de adquirir, construir, ampliar o reparar viviendas o de refinanciar créditos hipotecarios existentes que tengan ese mismo objetivo;
+
+garantizada con primera hipoteca sobre el bien raíz a financiar;
+
+convenida por un plazo no inferior a quince ni superior a treinta años, sin perjuicio de que pueda ser pagada de forma anticipada de acuerdo con lo establecido entre las partes o en la Ley N°18.010;
+
+denominada en Unidades de Fomento:
+
+tasa de interés fija, para todo el período de duración del crédito, y
+
+que deba contar con seguros de desgravamen, sismo e incendio mientras subsistan las obligaciones derivadas del crédito. En este caso, el afiliado podrá contratar libremente la póliza en cualquiera de las entidades que los comercialicen. Sin embargo, el proveedor del crédito podrá exigir una cobertura mínima, que la compañía aseguradora tenga una clasificación de riesgo a lo menos igual a la que registre la compañía aseguradora ofrecida por el proveedor del crédito y que se designe como beneficiario del seguro a este último o a quién él señale.
+
+3.7.3.6. Créditos universales de consumo
+
+Se entenderán por créditos universales de consumo otorgado por la C.C.A.F. aquellas operaciones de crédito de dinero que reúnan las siguientes características:
+
+créditos a tasa fija denominados en pesos;
+
+por un monto de hasta 1.000 unidades de fomento;
+
+otorgados a personas naturales;
+
+sin garantías reales;
+
+convenidos por un plazo de hasta 3 años, incluyendo los meses de gracia que se otorguen, sin perjuicio de que puedan ser pagados de forma anticipada de acuerdo con lo establecido entre las partes o en la Ley N°18.010, y
+
+que faculten al deudor para disponer libremente de la suma de dinero objeto del crédito.
+
+
+
+Referencias legales:
+ Ley 18.010

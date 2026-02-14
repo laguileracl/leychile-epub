@@ -1,0 +1,21 @@
+4.6.1.3 Separación patrimonial
+==============================
+
+Sin perjuicio del plan de cuentas que tengan implementado las C.C.A.F., los depósitos recibidos por las cuentas de ahorro se deben registrar en una cuenta denominada "Depósitos para cuentas de fondos de vivienda".
+
+Dicha cuenta se acreditará por los depósitos recibidos y por los rescates del fondo para la vivienda, y se debitará por los traspasos a la Administradora de los aportes al Fondo, los pagos convenidos en los contratos de ahorro metódico, los cobros de comisiones y los retiros efectuados por los titulares.
+
+Debido a que los importes depositados en las cuentas de ahorro para arrendamiento de vivienda con promesa de compraventa constituyen, de acuerdo con la ley, un fondo separado del patrimonio de la Caja depositaria, las inversiones en los fondos de vivienda y las respectivas obligaciones con los titulares que participan en dichos fondos, no se reflejarán como activos y pasivos de esa institución, debiendo mantenerse en cuentas de orden.
+
+Para tal efecto, se debe crear la cuenta "Fondos de A.F.V." la que se debitará con el monto correspondiente a las inversiones en los diferentes Fondos, de acuerdo con el valor de las cuotas de ellos, y otra cuenta que se acreditará, denominada "Responsabilidad por Fondos de A.F.V.", que reflejará la obligación con los titulares de las cuentas.
+
+Las comisiones que perciban las C.C.A.F. por la mantención y operación de las cuentas de ahorro y las que paguen por la administración de los recursos de dichas cuentas, deben considerarse como un movimiento contable no operacional y presentarse en el Estado de Resultados con los nombres de "Comisiones por mantención de cuentas" y "Comisiones por administración de cuentas" de fondos para la vivienda, respectivamente.
+
+Los fondos existentes en las cuentas de ahorro metódico, incluidos los ahorros voluntarios por sobre el aporte metódico pactado, son inembargables y no susceptibles de medida precautoria alguna y no pueden ser girados por el titular, en tanto exista un contrato de arriendo con promesa de compraventa vigente, conforme a lo dispuesto en los artículos 10 y 29 de la Ley N°19.281 y 4° del D. S. N°120, de 1995, del Ministerio de la Vivienda y Urbanismo.
+
+Todo lo anterior debe ser debidamente informado por las C.C.A.F. a los titulares de las cuentas de ahorro.
+
+
+
+Referencias legales:
+ DS 120 de 1995 Minvu, artículo 4 - Ley 19.281, artículo 10 - Ley 19.281, artículo 29

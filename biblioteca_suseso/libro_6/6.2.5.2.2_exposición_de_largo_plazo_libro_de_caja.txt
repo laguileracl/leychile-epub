@@ -1,0 +1,20 @@
+6.2.5.2.2 Exposición de largo plazo Libro de Caja
+=================================================
+
+La exposición de riesgo de tasas para el Libro de Caja de largo plazo se medirá de acuerdo a la siguiente relación:
+
+(Ecuación 6)
+
+: Flujos asociados a activos del Libro de Caja, incluyendo amortizaciones e intereses, denominados originalmente en pesos, para la banda t, expresados en miles de pesos.
+
+: Flujos asociados a pasivos del Libro de Caja, incluyendo amortizaciones e intereses, denominados originalmente en pesos, para la banda t, expresados en miles de pesos.
+
+: Flujos asociados a activos del Libro de Caja, incluyendo amortizaciones e intereses, denominados originalmente en UF o IVP, para la banda t, expresados en miles de pesos.
+
+: Flujos asociados a pasivos del Libro de Caja, incluyendo amortizaciones e intereses, denominados originalmente en UF o IVP, para la banda t, expresados en miles de pesos.
+
+: Factores que miden la sensibilidad de largo plazo de las posiciones en pesos para la banda t.
+
+: Factores que miden la sensibilidad de largo plazo de las posiciones en UF o IVP para la banda t.
+
+Cada Caja debe medir la exposición al riesgo de tasa de interés de largo plazo para el Libro de Caja al menos mensualmente, y establecer un límite como proporción del patrimonio efectivo del mes anterior. Dicho límite debe ser justificado, y su nivel revisado al menos una vez al año, y aprobado por el Directorio. La Tabla con los factores que miden la sensibilidad de largo plazo para las exposiciones en pesos y en UF (o IVP), se muestran en la Tabla 3 del Anexo N°2: Factores de sensibilidad de este Título II del Libro VI del Compendio de la Ley N°18.833 .

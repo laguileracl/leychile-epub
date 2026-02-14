@@ -1,0 +1,30 @@
+6.2.9 OBLIGACIONES DE INFORMACIÓN CON LA SUPERINTENDENCIA
+=========================================================
+
+La Caja debe remitir en forma periódica (trimestral o mensual, según corresponda) a la Superintendencia, los resultados de la medición de los riesgos de mercado a que están expuestas, conforme a la metodología especificada anteriormente, y en los formatos que en este Título II del Libro VI del Compendio de la Ley N°18.833 se mencionan. Al mismo tiempo, y en cualquier momento se debe remitir cualquier otra información relevante que, a juicio de la Caja, sea de interés para el organismo supervisor. A continuación, se detallan los puntos que deben ser informados a esta Superintendencia, por cada Caja.
+
+Se debe enviar mensualmente la información requerida en el numeral 6.2.8. de este Título II del Libro VI del Compendio de la Ley N°18.833, con las características y formatos que allí se indican.
+
+
+
+Estos archivos deben ser enviados el día 5 de cada mes. La información remitida debe corresponder a la registrada al cierre del mes anterior.
+
+
+
+En caso que el día de envío de los archivos correspondan a un sábado, domingo o festivo, se debe remitir la información el día hábil siguiente.
+
+Se debe remitir el test de estrés, en forma trimestral, el cual debe ser enviado el último día del mes siguiente al primer, segundo, tercer y cuarto trimestre de cada año. En caso que dicho día corresponda a un sábado, domingo o festivo, se debe remitir la información el día hábil siguiente.
+
+
+
+El documento debe ser enviado electrónicamente en formato Word por el Gerente General de la Caja de Compensación, de acuerdo a lo indicado en el Anexo N°5: Instrucciones generales de este Título II del Libro VI del Compendio de la Ley N°18.833, y además, formalmente mediante Oficio, considerando como mínimo cada uno de los escenarios y elementos requeridos en el Número 6.2.6. de este Título II del Libro VI del Compendio de la Ley N°18.833.
+
+Se debe además remitir a esta Superintendencia la política de Riesgo de Mercado, así como los cambios relevantes de ésta y los acuerdos relevantes del Directorio en un plazo no mayor a cinco días hábiles desde la adopción del acuerdo.
+
+La información que remita la Caja debe estar aprobada por el funcionario encargado del área de riesgos, autorizado por el Directorio para enviar dicha información, indicándose expresamente que se ha considerado la totalidad de los activos y pasivos de la Caja.
+
+Las entidades tienen la obligación de informar a la Superintendencia cualquier modificación en la constitución de la Gerencia de Riesgos o unidad afín, y las modificaciones de fondo en políticas y procedimientos para la gestión integral de riesgos en un plazo no mayor a un día hábil de ocurrida la modificación. Toda la información anterior debe estar debidamente revisada y firmada por el encargado de la Unidad de Riesgo de Mercado y por el representante legal de la entidad, o la persona a quien éste designe.
+
+La información que sea remitida por medios electrónicos, la entidad internamente debe asegurarse que cuenta con la autorización del encargado del área de riesgos.
+
+Las entidades deben revelar al público y el mercado en general, a través de notas a sus estados financieros anuales auditados, un resumen de la gestión de riesgo de mercado de la entidad, en conformidad con lo establecido en las Normas Internacionales de Información Financiera (NIIF).

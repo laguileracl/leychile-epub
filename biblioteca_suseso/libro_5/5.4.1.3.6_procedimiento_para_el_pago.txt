@@ -1,0 +1,27 @@
+5.4.1.3.6 Procedimiento para el pago
+====================================
+
+El pago de cotizaciones previsionales mediante el sistema de transmisión electrónica de información e instrucciones de transferencias de fondos por Internet, debe sujetarse íntegramente a todas las disposiciones legales y reglamentarias establecidas en la Ley N°17.322 y a las instrucciones impartidas por esta Superintendencia en todo lo que respecta al procedimiento y plazo establecido tanto para que los empleadores o trabajadores independientes realicen el pago como en cuanto a la información que debe respaldar dicho pago.
+
+Los empleadores deben enviar sus transferencias electrónicas de información por Internet dentro de los 10 primeros días de cada mes (actualmente hasta el día 13 de cada mes), permitiendo que los cargos y abonos en sus cuentas corrientes y de las entidades recaudadoras, respectivamente, se hagan efectivos a más tardar el día 10 del mes ( actualmente día 13 del mes) en que debe realizarse el pago o el primer día hábil siguiente, si dicho plazo expirare en días sábado, domingo o festivo. En el caso de los trabajadores independientes, las transferencias electrónicas de información por Internet correspondientes a los pagos pueden enviarse hasta el último día hábil de cada mes, pero permitiendo que los cargos y abonos en sus cuentas corrientes y de las entidades recaudadoras respectivamente, se hagan efectivos a más tardar el último día hábil del mes en que corresponda pagar las cotizaciones previsionales.
+
+Se entenderá que una cotización previsional se encuentra pagada, una vez que se hubiesen dado por finalizado íntegramente los procedimientos establecidos en el numeral 5.4.1.3. del Título IV del Libro V de este Compendio de la Ley N°18.833, según corresponda.
+
+Cuando un empleador pague cotizaciones previsionales por remuneraciones y gratificaciones en un mismo mes, deben efectuarse dos Declaraciones distintas, para cada uno de los procesos.
+
+En caso de errores en la imputación de los valores en las cuentas corrientes bancarias de las Entidades Recaudadoras, su regularización se efectuará ciñéndose estrictamente a las normas vigentes sobre devolución de pagos indebidos.
+
+Las Entidades Recaudadoras deben tener en sus agencias, a más tardar 48 horas después de que se efectúe el pago de cotizaciones por Internet en cualquiera de sus modalidades a disposición de los empleadores y trabajadores independientes, las planillas impresas de pago de cotizaciones previsionales en el formato habitual, no siendo necesario que se imprima el detalle de dichas planillas, salvo petición del empleador o trabajador independiente.
+
+Para los efectos de materializar la obligación señalada en el número anterior, y teniendo presente que conforme a la Ley N°17.322, el trabajador independiente, el empleador o la entidad pagadora de subsidios, según corresponda, es quien tiene la obligación legal de declarar y pagar las cotizaciones previsionales en las entidades recaudadoras, mediante la suscripción de un mandato se otorgará poder suficiente a la entidad recaudadora, para que ésta en nombre y representación del trabajador independiente, empleador o entidad pagadora de subsidios, imprima y firme la información de la declaración de la planilla enviada vía Internet. La entidad recaudadora debe entregar en forma personal u obtener directamente del Sitio Web, el mandato diseñado para estos efectos.
+
+El trabajador independiente, empleador o entidad pagadora de subsidios, según corresponda, debe completar y firmar el formulario. En el caso de las personas jurídicas, debe ser firmado por su representante legal.
+
+El mandato, una vez firmado, debe entregarse en la entidad recaudadora al momento de solicitar las planillas de pago de cotizaciones previsionales. Esta debe verificar que la firma estampada corresponda a la persona que se individualiza como trabajador independiente o representante legal del empleador o entidad pagadora de subsidios.
+
+El trabajador independiente, empleador o entidad pagadora de subsidios al momento de solicitar las planillas de pago de cotizaciones previsionales en la entidad recaudadora debe presentar el comprobante de pago o la confirmación electrónica según corresponda.
+
+
+
+Referencias legales:
+ Ley 17.322

@@ -1,0 +1,12 @@
+5.4.1.3.7 Certificación de pago
+===============================
+
+En el Sistema Electrónico de pago de cotizaciones previsionales, una vez que se han abonado los valores en las cuentas corrientes bancarias de la entidad recaudadora y se han conciliado con la información registrada en la Declaración electrónica, las entidades recaudadoras deben poner a disposición del empleador o trabajador independiente en el Sitio web, la Confirmación electrónica que certifique el pago realizado. Esta Confirmación debe contener la firma digital de la entidad recaudadora hacia el Sitio Web.
+
+La Confirmación electrónica debe contener en su texto la siguiente glosa:
+
+
+
+Nombre Entidad Recaudadora certifica que el pago de las cotizaciones previsionales que ha sido enviado vía Internet por el empleador/trabajador independiente_______________ RUT N° ________, correspondiente a las remuneraciones devengadas en el mes ___/__ ha sido recibida con fecha __/__/____. La declaración completa puede ser verificada en este Sitio Web, utilizando para su consulta sus claves secretas de identificación y seguridad y el número de folio de su DECLARACIÓN electrónica.
+
+La certificación del pago en el Sistema Mixto está constituida por el respectivo comprobante de pago, debidamente timbrado por el banco o agente recaudador, según corresponda.

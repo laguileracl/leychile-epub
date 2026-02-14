@@ -1,0 +1,4 @@
+6.2.5.2 Medición de la exposición al riesgo de tasa de interés y reajustabilidad en el Libro de Caja
+====================================================================================================
+
+(Nodo estructural - ver subnodos)

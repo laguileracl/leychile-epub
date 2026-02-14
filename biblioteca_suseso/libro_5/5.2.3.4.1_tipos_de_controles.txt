@@ -1,0 +1,4 @@
+5.2.3.4.1 Tipos de Controles
+============================
+
+Se deben aplicar diversos tipos de controles a las actividades de los procesos, como, por ejemplo, los controles preventivos, concurrentes o de retroalimentación, contemplando en dichos controles la totalidad, integridad y el correcto registro de datos, que permitan verificar que los resultados de los procesos sean efectivos y eficientes.

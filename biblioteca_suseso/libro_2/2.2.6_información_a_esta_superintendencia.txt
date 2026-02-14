@@ -1,0 +1,79 @@
+2.2.6 INFORMACIÓN A ESTA SUPERINTENDENCIA
+=========================================
+
+Cada C.C.A.F. debe informar mensualmente a esta Superintendencia el número total de solicitudes de afiliación y desafiliación de pensionados aprobadas por su Directorio en el mes que se informa. Los datos correspondientes a las afiliaciones y desafiliaciones de pensionados deben remitirse de acuerdo al cuadro que se muestra a continuación.
+
+Sexo | Nuevos afiliados | CCAF Los Andes | CCAF La Araucana | CCAF Los Héroes | CCAF 18 de Septiembre | Total Afiliados | Desafiliados sistema CCAF
+Hombres |  |  |  |  |  |  | 
+Mujeres |  |  |  |  |  |  | 
+Total |  |  |  |  |  |  | 
+
+Sexo
+
+Nuevos afiliados
+
+CCAF Los Andes
+
+CCAF La Araucana
+
+CCAF Los Héroes
+
+CCAF 18 de Septiembre
+
+Total Afiliados
+
+Desafiliados sistema CCAF
+
+Hombres
+
+Mujeres
+
+Total
+
+La información solicitada debe entregarse a este Organismo a más tardar el día 15 del mes siguiente al que se informa.
+
+Para controlar las afiliaciones y desafiliaciones, además de los archivos físicos que corresponde que tenga, la Cajas debe mantener archivos computacionales actualizados, con formato de archivo plano, considerando para estos efectos la fecha a contar de la cual rige la afiliación y desafiliación. Estos archivos deben contener la siguiente información, a lo menos:
+
+Afiliados
+
+Nombres y apellidos del pensionado
+
+N° de Cédula de Identidad
+
+Fecha a partir de la cual rige la afiliación
+
+Domicilio particular
+
+C.C.A.F. de la que proviene (si procede)
+
+Nombres y apellidos de las cargas familiares
+
+RUN de las cargas familiares
+
+Nombre de la entidad que paga la pensión (encargada de retener el aporte que el pensionado debe efectuar en la Caja)
+
+Primer mes del aporte
+
+Nombre de la persona que efectúa la afiliación
+
+N° de Cédula de Identidad de la persona que efectúa la afiliación
+
+Oficina en que se efectuó la afiliación
+
+Desafiliados
+
+Nombres y apellidos del pensionado
+
+N° de Cédula de Identidad
+
+Fecha a partir de la cual rige la desafiliación
+
+C.C.A.F. a la que se afilia (si procede)
+
+Nombre de la persona que efectuó la desafiliación (si procede)
+
+N° de Cédula de Identidad de la persona que efectuó la desafiliación
+
+Oficina en que se efectuó la desafiliación
+
+La documentación y archivos precedentes deben mantenerse mientras el pensionado se encuentre afiliado y a contar de la fecha de desafiliación deben guardarse por un período mínimo de cinco años, ya que pueden ser requeridos por este Organismo Contralor en cualquier momento, en uso de sus atribuciones legales.

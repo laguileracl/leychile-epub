@@ -1,0 +1,28 @@
+6.2.3.5 Funciones de soporte y control de riesgos
+=================================================
+
+La Caja debe disponer de sistemas de medición de riesgos de mercado que identifiquen todas las fuentes materiales de dichos riesgos y que midan los efectos de variaciones en las tasas de interés y de reajustabilidad, que sean consistentes con sus actividades. Los supuestos bajo los que trabajen los referidos sistemas deben ser entendidos claramente por los gerentes de las áreas vinculadas al manejo de riesgo.
+
+La Caja debe poseer sistemas de información adecuados para medir, evaluar y controlar las exposiciones a riesgos de mercado, así como para generar los reportes requeridos por el organismo supervisor con la frecuencia necesaria, para mantener informado al Directorio, la alta gerencia y a los gerentes de las áreas vinculadas al manejo del riesgo.
+
+La Caja debe tener un adecuado sistema de controles internos sobre sus procesos gerenciales de riesgos de mercado, el cual debe incluir revisiones independientes, regulares y evaluaciones de la efectividad de este sistema y, cuando sea necesario, la realización de modificaciones o mejoras a dichos controles internos.
+
+La Caja debe tomar en cuenta en su gestión del riesgo, las apreciaciones y comentarios que esta Superintendencia realice, con respecto a la exposición y el manejo del riesgo de mercado y tasa de interés.
+
+Los resultados de las referidas revisiones deben ser suministrados a esta Superintendencia durante las inspecciones que realice, así como estar disponibles para su envío, en caso de ser solicitados.
+
+Esta Superintendencia puede requerir, en cualquier momento, información adicional o especial a la Caja de Compensación, respecto del manejo interno de los riesgos de mercado.
+
+Esta Superintendencia evaluará si los procedimientos internos de la Caja de Compensación identifican adecuadamente los riesgos de mercado en sus operaciones. En caso contrario, las entidades deben adecuar sus procedimientos de acuerdo a los requerimientos que realice esta Superintendencia.
+
+Entre las funciones internas relevantes que deben ser descritas y controladas por la administración de riesgos y por auditoría destacan:
+
+Preocuparse de que la infraestructura tecnológica sea acorde con las necesidades de la Caja de Compensación, y que su capacidad de cumplir adecuadamente el rol de soporte para la gestión de riesgos de mercado se desarrolle correctamente.
+
+Generación de procedimientos y metodologías de valorización de mercado de la cartera de negociación y disponible para la venta.
+
+Contar con la infraestructura de reportes adecuada a las necesidades de la Caja de Compensación.
+
+Validar la integridad de los datos utilizados en los procesos de medición de riesgos.
+
+Validar la integridad de los sistemas de información y base de datos.

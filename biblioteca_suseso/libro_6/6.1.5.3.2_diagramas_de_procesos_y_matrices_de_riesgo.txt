@@ -1,0 +1,4 @@
+6.1.5.3.2 Diagramas de procesos y matrices de riesgo
+====================================================
+
+Los dueños de procesos deben describir de manera precisa los procesos y/o subprocesos, por medio de diagramas de procesos, matrices de riesgos u otros equivalentes.

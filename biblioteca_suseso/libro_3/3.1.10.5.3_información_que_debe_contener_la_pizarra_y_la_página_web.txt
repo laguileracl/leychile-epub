@@ -1,0 +1,40 @@
+3.1.10.5.3 Información que debe contener la pizarra y la página web
+===================================================================
+
+La C.C.A.F. deberá mantener una pizarra con información sobre las condiciones de otorgamiento del crédito social, ubicada en un lugar visible y de fácil acceso al público, tanto en la sede principal como en las agencias fijas y móviles, oficinas o sucursales, a fin de velar por la debida fe pública y la transparencia en el otorgamiento del crédito social.
+
+El formato de la pizarra deberá contener información diferenciada según se trate de afiliados trabajadores o afiliados pensionados. Para el caso de los préstamos no reajustables, el formato de dicha pizarra será el contenido en el Anexo N° 1: Créditos Sociales no reajustables en moneda nacional, de este Título I.
+
+La información que debe contener la pizarra corresponderá a la siguiente:
+
+Las tasas de interés vigentes a cobrar en las operaciones de crédito social, de acuerdo con los tramos de montos establecidos en el certificado emitido por la Comisión para el Mercado Financiero, deberán presentarse según lo señalado en el número 1. de los Cuadros N°s. 1 y 2 del formato de la pizarra, contenido en el Anexo N° 1: Créditos Sociales no reajustables en moneda nacional, de este Título I.
+
+A modo de ejemplo, se deberá señalar el valor de tres cuotas distintas calculadas a 36, 48 y 60 meses, considerando la tasa de interés vigente al día que corresponda, un monto capital de $1.000.000 y los gastos de administración correspondientes al seguro de desgravamen, si procede, el impuesto de timbres y estampillas y gastos notariales. La presentación de esta información deberá ajustarse a lo señalado en el número 2. de los Cuadros N°s. 1 y 2 del formato de la pizarra, contenido en e l Anexo N° 1: Créditos Sociales no reajustables en moneda nacional, de este Título I.
+
+Señalar si la C.C.A.F. cobra o no comisión de prepago y su forma de cálculo, como se indica en el número 3. de los Cuadros N°s. 1 y 2 del formato de la pizarra, contenido en el Anexo N° 1: Créditos Sociales no reajustables en moneda nacional, de este Título I.
+
+También deberán indicarse los gastos de cobranza prejudicial, como se indica en el número 4. de los Cuadros N°s. 1 y 2 del formato de la pizarra, contenido en el Anexo N° 1: Créditos Sociales no reajustables en moneda nacional , de este Título I.
+
+La C.C.A.F. que otorgue préstamos reajustables deberán incluir en la pizarra la información sobre éstos conforme al formato ya indicado. En el cálculo de las cuotas que se publiquen deberá considerarse un crédito otorgado por un monto de $1.000.000.
+
+Cabe agregar que la misma información contenida en la pizarra debe ser publicada en la página web que tenga la C.C.A.F., debidamente actualizada. Además, en dicha página deberá contemplarse un sistema de simulación de crédito social diferenciado entre afiliado trabajador y afiliado pensionado. La ruta de acceso al simulador de crédito social e información de pizarra debe ser debidamente identificada en el menú inicial de la página web.
+
+El simulador de los créditos sociales que la C.C.A.F. tenga en su página web, debe mostrar explícitamente en la simulación los siguientes ítems con sus respectivos valores, debiendo el resultado que arroje el simulador incluir los gastos de otorgamiento.
+
+Tasa de interés mensual.
+
+Tasa de interés anual.
+
+Impuesto de timbre y estampilla.
+
+Gastos notariales.
+
+Total cuota mensual sin incluir seguro de desgravamen.
+
+Seguro de desgravamen mensual (promedio de todos los meses de vida del crédito).
+
+Total cuota mensual incluyendo seguro (el seguro se incluye como un promedio de los seguros cobrados en cada cuota).
+
+Valor total a pagar del crédito incluyendo seguro de desgravamen.
+
+La C.C.A.F. deberá tener presente que la tasa de interés utilizada en el sistema de simulación de crédito social de su página web, debe ser la misma informada en el punto 1. y utilizada en el punto 2., del formato de pizarra a que se hace referencia en el Anexo N° 1: Créditos Sociales no reajustables en moneda nacional, de este Título I.

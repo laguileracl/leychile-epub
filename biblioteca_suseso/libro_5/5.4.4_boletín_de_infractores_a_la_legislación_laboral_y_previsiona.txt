@@ -1,0 +1,26 @@
+5.4.4 BOLETÍN DE INFRACTORES A LA LEGISLACIÓN LABORAL Y PREVISIONAL. OBLIGACIÓN DE INFORMAR DEUDAS PREVISIONALES.
+=================================================================================================================
+
+La Dirección del Trabajo tiene a su cargo la elaboración y publicación del Boletín de Infractores a la Legislación Laboral y Previsional , confeccionado sobre la base de la información que proporcionan algunas entidades previsionales del país, ya sean de carácter público o privado, respecto de diferentes tipos de deudas que contraigan los empleadores como consecuencia del incumplimiento de sus obligaciones previsionales.
+
+Al respecto, corresponde que las Cajas de Compensación de Asignación Familiar entreguen información a la Dirección del Trabajo sobre empresas deudoras de obligaciones previsionales para ser publicadas en el Boletín antes mencionado, en los términos que se indican:
+
+Las Cajas de Compensación de Asignación Familiar deben informar las deudas de empleadores, originadas por cotizaciones impagas del Régimen de Subsidio por Incapacidad Laboral que administran y por el no integro de dividendos de sus trabajadores afiliados por concepto de crédito social.
+
+Las C.C.A.F. deben informar a la Dirección del Trabajo las deudas previsionales vigentes en archivos construidos de acuerdo a las especificaciones técnicas que se detallan en el Anexo N°1: Nueva estructura de registro del archivo de deudas previsionales y Anexo N°2: Registro de detalles a partir del Boletín N°84 del Título IV del Libro V del Compendio de la Ley N°18.833 . La información puede enviarse a través de algún medio magnético de los indicados en el Anexo N°1: Nueva estructura de registro del archivo de deudas previsionales .
+
+Los montos informados deben corresponder a valores nominales, por cada empleador, esto es, no deben incluir intereses, reajustes y multas.
+
+La información debe remitirse a la Dirección del Trabajo en forma trimestral, a partir de enero de 2002, debiendo incluirse las deudas vigentes a la fecha del informe, correspondientes a deudas que tengan más de 4 meses de antigüedad. Así, en enero de 2002, deben informarse las deudas vigentes en dicho mes, pero devengadas en el mes de septiembre de 2001 o meses anteriores. El plazo para la recepción de información vence el día 30 de cada uno de los siguientes meses: enero, abril, julio y octubre de cada año. La publicación del Boletín a través de DICOM, se realizará dentro de la primera quincena de los meses siguientes a los antes indicados. En consecuencia, la información que se remita en enero de 2002 debe ser incorporada en el Boletín N°84, que es emitido a mediados de febrero de 2002.
+
+Para efectos del código de identificación, requerido en el campo N° 01, tanto del Registro de control como del Registro de detalle , debe tenerse presente la siguiente codificación:
+
+
+
+4101 C.C.A.F. 18 de Septiembre
+
+4102 C.C.A.F. De los Andes
+
+4105 C.C.A.F. La Araucana
+
+4106 C.C.A.F. Los Héroes

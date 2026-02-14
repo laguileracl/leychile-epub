@@ -1,0 +1,4 @@
+1.1.3 DOMICILIO
+===============
+
+El domicilio de las Cajas de Compensación y el de sus agencias podrá estar situado en cualquier lugar del territorio nacional.

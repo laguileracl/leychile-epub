@@ -1,0 +1,26 @@
+6.1.5.5.5 Unidad Especializada en Riesgo Operacional
+====================================================
+
+La C.C.A.F. debe contar con una unidad especializada de gestión del riesgo operacional que cumpla, entre otras, con las siguientes funciones:
+
+Proponer políticas para la gestión del riesgo operacional.
+
+Participar en el diseño y permanente actualización del Manual de gestión del riesgo operacional.
+
+Desarrollar la metodología para la gestión del riesgo operacional.
+
+Apoyar y asistir a las demás unidades de la Caja para la aplicación de la metodología de gestión del riesgo operacional.
+
+Evaluación del riesgo operacional, de forma previa al lanzamiento de nuevos productos y ante cambios importantes en el ambiente operativo o informático.
+
+Consolidación y desarrollo de reportes e informes sobre la gestión del riesgo operacional por proceso, o unidades de negocio y apoyo.
+
+Identificación de las necesidades de capacitación y difusión para una adecuada gestión del riesgo operacional.
+
+Otras necesarias para el desarrollo de la función.
+
+Informar al Directorio y a la Alta Gerencia periódicamente sobre el cumplimiento de las políticas y procedimientos de la gestión del riesgo operacional.
+
+Esta unidad puede delegar determinadas funciones de evaluación, tales como la realización de pruebas a los procedimientos y controles, a otras personas o entidades calificadas externas. No obstante, dicha unidad seguirá siendo responsable de aquellas funciones, las cuales se efectuarán bajo su propia supervisión.
+
+La C.C.A.F. debe asegurar que la función o unidad especializada de gestión del riesgo operacional cuente con recursos suficientes para el pleno desarrollo de sus actividades, así como independencia suficiente en la toma de decisiones.

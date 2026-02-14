@@ -1,0 +1,26 @@
+6.3.5.2 Flujos de Egresos
+=========================
+
+Préstamos con Instituciones Privadas y Públicas: Flujo de capital e intereses por pagar derivados de los préstamos obtenidos dentro del sistema financiero chileno, constituido por bancos nacionales o extranjeros y sociedades financieras controladas por la Comisión para el Mercado Financiero, en compañías de seguros nacionales o extranjeras, en sociedades de inversión fiscalizadas por la Comisión para el Mercado Financiero, y en organismos públicos de fomento y desarrollo, que registre la Caja a la fecha de cierre del modelo de liquidez. Deben ser incorporados en cada banda temporal de acuerdo a la fecha de vencimiento del flujo.
+
+Pasivos Financieros: Flujo de capital e intereses por pagar derivados de bonos corporativos, bonos securitizados, efectos de comercio y otros pasivos financieros que registre la Caja a la fecha de cierre del modelo de liquidez y que no se encuentren contemplados en la letra a) del número 6.3.5.2 del Título III del Libro VI del Compendio de la Ley N°18.833 . Deben ser incorporados en cada banda temporal de acuerdo a la fecha de vencimiento del flujo.
+
+Egresos por Prestaciones Adicionales: Estimación del flujo por desembolsar asociado al régimen de prestaciones adicionales distintas al régimen de crédito social.
+
+Egresos por Prestaciones Complementarias: Estimación del flujo por desembolsar asociado al régimen de prestaciones complementarias.
+
+Egresos por Subsidios por Incapacidad Laboral: Estimación del flujo por desembolsar asociado al pago de subsidios por incapacidad laboral de origen común.
+
+Egresos por Fondo Único de Prestaciones Familiares y Subsidios de Cesantía: Estimación del flujo por desembolsar asociado a las partidas que componen este fondo.
+
+Obligaciones con Terceros: Flujo por pagar asociado a las cuentas y/o documentos en favor de terceros. El flujo debe ser incorporado en cada banda temporal de acuerdo a la fecha de vencimiento del flujo; no obstante, podrá realizarse una estimación de esta partida cuyo procedimiento de cálculo debe estar debidamente justificado.
+
+Obligaciones por Leasing: Flujo de capital e intereses por pagar provenientes de las operaciones de leasing que registre la Caja a la fecha de cierre del modelo de liquidez. Deben ser incorporados en cada banda temporal de acuerdo a la fecha de vencimiento del flujo.
+
+Gastos de Administración: Estimación del flujo por desembolsar asociado a los gastos generales de administración, pago de remuneraciones y gastos del personal.
+
+Otros Egresos: Corresponde al flujo de partidas que no pueden ser clasificadas en las anteriormente descritas y que presenten baja materialidad.
+
+Los flujos de ingresos y egresos de alta materialidad que no puedan ser clasificados en ninguna de las partidas definidas anteriormente, deben ser integrados dentro del modelo, para lo cual la Caja debe remitir una solicitud formal a esta Superintendencia en un plazo de, a lo menos, 10 días hábiles previos a la fecha de reporte correspondiente, para de esta manera modificar el modelo de liquidez incorporando las partidas sin clasificación. Además, la Caja debe remitir la documentación necesaria para respaldar la incorporación de estas nuevas partidas al modelo de liquidez, identificando claramente el origen del flujo y detallando los supuestos considerados en su estimación y cálculo.
+
+Adicionalmente, la Caja de Compensación debe enviar a esta Superintendencia periódicamente la metodología de cálculo y la totalidad de los supuestos considerados para cada una de las partidas que componen el modelo de liquidez, de acuerdo a Io establecido en el numeral 6.3.8.1 del Título III del Libro VI del Compendio de la Ley N°18.833.

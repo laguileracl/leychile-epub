@@ -1,0 +1,30 @@
+6.3.1.2 Gerencia de Riesgo o Unidad Afín
+========================================
+
+Esta Superintendencia recomienda dentro del marco de adopción de buenas prácticas, contar con una Gerencia de Riesgos o unidad afín con funciones bien definidas, en la cual se designe un responsable para administrar el riesgo de liquidez, asegurándose de que exista la adecuada separación de funciones en los elementos esenciales del proceso de administración del riesgo y la suficiente independencia para evitar potenciales conflictos de intereses en la toma de decisiones financieras. La Gerencia de Riesgos o unidad afín debería existir dentro de la estructura organizacional de la entidad y ser independiente de las áreas de operación, finanzas y comercial
+
+La Gerencia de Riesgos o unidad afín debe ser responsable que los riesgos asumidos por la entidad se encuentren en los niveles deseados y definidos por el Directorio, por lo cual debe mantener permanente conocimiento de los niveles, evolución y potenciales riesgos que puedan afectar a la entidad.
+
+La Gerencia de Riesgos o Unidad Afín debe realizar funciones como:
+
+Proponer al Directorio para su aprobación o actualización, las políticas y procedimientos para la gestión del riesgo de liquidez.
+
+Vigilar que la realización de las operaciones de la Caja se ajusten a las políticas y procedimientos para la administración del riesgo de liquidez.
+
+Analizar y revisar el cumplimiento de los límites normativos máximos de descalce.
+
+Responder y actuar frente a los excesos de los límites normativos máximos de descalce.
+
+Asegurar que las recomendaciones de las autoridades de regulación y de los auditores internos, sean seguidas apropiadamente.
+
+Presentar al Directorio para su aprobación el test de estrés que luego debe ser enviado a esta Superintendencia.
+
+Mantener a los equipos humanos, encargados del control y medición de riesgos, al día en los desarrollos metodológicos, regulatorios, y tecnológicos relevantes.
+
+Informar al Directorio, al menos trimestralmente sobre:
+
+El cumplimiento de las políticas y procedimientos descritos anteriormente.
+
+Un resumen de las decisiones tomadas por la Gerencia de Riesgos o Unidad Afín.
+
+Desempeñar otras funciones que el Directorio le asigne relacionadas con la administración del riesgo de liquidez.

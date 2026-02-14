@@ -1,0 +1,29 @@
+3.1.5 TRAMITACIÓN Y OTORGAMIENTO DE CRÉDITOS SOCIALES EN FORMA REMOTA O A DISTANCIA
+===================================================================================
+
+La C.C.A.F. podrá tramitar y otorgar créditos sociales a sus afiliados, trabajadores y pensionados por medio de sistemas electrónicos remotos o a distancia, los cuales deberán sujetarse a las disposiciones del presente Libro, a lo regulado en materia de gestión del riesgo operacional, contenido en el Libro VI del Compendio de la Ley N°18.833 y a lo dispuesto en la Ley N°19.799 , así como demás leyes y normativa aplicable.
+
+Para la utilización de este mecanismo, las Cajas de Compensación deberán realizar previamente un registro presencial o remoto que permita comprobar la identidad del afiliado, oportunidad en la cual se le entregarán los productos y claves que le permitirán interactuar con los sistemas.
+
+En la oportunidad correspondiente se deberán suscribir los respectivos contratos con los afiliados, tales como el contrato de uso de canales remotos y el o los mandatos, los que contemplarán claramente los derechos y obligaciones de las partes.
+
+Para la tramitación y otorgamiento de un crédito social en forma remota o a distancia se establecerán claves de acceso y mecanismos de autentificación o autenticación de la identidad del afiliado trabajador o pensionado que contemplen al menos dos etapas o mecanismos distintos, de modo de garantizar seguridad en las operaciones, y se notificarán al domicilio o correo electrónico que el afiliado haya escogido al efecto, las diferentes actuaciones que se hubieren realizado a través de dichos sistemas electrónicos, como la suscripción de solicitudes, mandatos u otros documentos.
+
+Los sistemas utilizados, junto con permitir el registro y seguimiento completo de las operaciones, deberán generar archivos que permitan respaldar los antecedentes de cada operación, de modo de poder ser validados o revisados posteriormente.
+
+A efectos de acreditar la vigencia de la relación laboral y la antigüedad en el empleo se aplicará lo establecido en la letra a) del N° 3.1.6.2.1. del Título I del Libro III de este Compendio de la Ley N°18.833.
+
+Asimismo, a efectos de acreditar la remuneración del trabajador, requisito establecido en el número 3.1.6.2.1 del Título I del Libro III del Compendio de la Ley N°18.833, las Cajas podrán utilizar la información disponible y a la que tienen acceso en sus sistemas o a la que tienen acceso a través del servicio electrónico de declaración y pago de cotizaciones previsionales o cualquier sistema análogo actual o futuro, siempre que cuenten con la autorización del trabajador en este caso, de hasta los doce meses anteriores al otorgamiento del crédito social.
+
+En el caso de los pensionados, para la acreditación de su pensión líquida a la que se refiere el 3.1.6.2.3 del Título I del Libro III del Compendio de la Ley N°18.833 , la C.C.A.F. también podrá utilizar la información disponible en sus sistemas.
+
+Además, las Cajas podrán utilizar mecanismos adicionales para la seguridad de sus operaciones de crédito social remoto o a distancia.
+
+En todo caso, en materia de crédito social remoto, la C.C.A.F. deberá dar cumplimiento a los principios de ciberseguridad sobre confidencialidad, integridad y disponibilidad.
+
+La Caja de Compensación deberá establecer mecanismos de educación digital de manera que todos los afiliados, especialmente los pensionados, puedan acceder a la tramitación y otorgamiento de créditos sociales en forma remota, pero resguardando que no se afecte el acceso al crédito en modalidad presencial.
+
+
+
+Referencias legales:
+ Ley 19.799

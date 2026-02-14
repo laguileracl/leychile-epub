@@ -15,7 +15,7 @@ Orgánica Constitucional de Bases Generales de la Administración del Estado; en
 19.880, que establece bases de los procedimientos administrativos que rigen los actos de
 los Órganos de la Administración del Estado; en la Ley N° 19.799 Sobre Documentos
 Electrónicos, Firma Electrónica y Servicios de Certificación de Dicha Firma; en el Decreto
-Supremo Nº 181 de 17 de agosto de 2022, del Ministerio de Economía; Fomento y
+Supremo Nº 181 de 17 de agosto de 2022, del Ministerio de Economía, Fomento y
 Reconstrucción; que Aprueba el reglamento de la Ley Nº 19.799 sobre documentos
 electrónicos, firma electrónica y la certificación de dicha firma; en la Ley N° 19.628 sobre
 Protección de la Vida Privada; en la Resolución N° 36 de diciembre de 2024 de la
@@ -82,7 +82,7 @@ transcripción se omitieron en el texto de la referida Norma de Carácter Genera
 artículos 6 y 7, relativos a las obligaciones excluidas del procedimiento, parte de las cuáles
 se encuentran en su artículo 5, y al Registro Nacional de Deudores de Pensiones de
 Alimentos, respectivamente, por lo que, se hace necesario dejar sin efecto la Resolución
-Exenta N° 21106 de 29 de octubre de 2025 de esta Superintendencia, , con la finalidad de
+Exenta N° 21106 de 29 de octubre de 2025 de esta Superintendencia, con la finalidad de
 corregir los errores de transcripción contenidos en el texto aprobado de la Norma de
 Carácter General N° 28, y en su lugar aprobar el texto correcto.
 9. Que, atendido lo expuesto y de conformidad
@@ -391,7 +391,7 @@ mediante escritura pública.
 Artículo 11º Del requisito de adjuntar una declaración jurada con la singularización
 de todos los ingresos que percibe, por cualquier causa, sean estos fijos o
 esporádicos, acompañando al efecto los antecedentes justificativos y suficientes que
-los acrediten.Se entenderá que el/la solicitante cumple con este requisito, indicando
+los acrediten. Se entenderá que el/la solicitante cumple con este requisito, indicando
 correctamente en el formulario electrónico de declaración jurada todos los ingresos que
 percibe de forma separada, acompañando antecedentes justificativos y suficientes de los
 mismos.
@@ -472,7 +472,7 @@ i) como parte del promedio de remuneraciones, considerando la periodicidad con q
 se percibe, esto es: trimestrales, semestrales, o anuales.
 ii) individualizándolo como un ingreso distinto de las remuneraciones percibidas,
 señalando la periodicidad con que se percibe, esto es: trimestrales, semestrales, o
-anuales.1
+anuales.
 Respecto a los montos que el/la solicitante perciba por concepto de pensiones de alimentos,
 en una calidad distinta a la de alimentario o titular del derecho de alimentos, éstos no serán,
 ni deberán ser considerados para el cálculo de los ingresos del/de la solicitante, en atención
@@ -500,9 +500,6 @@ electrónico de declaración jurada requerirá, si corresponde, que se indique e
 se encuentran los bienes declarados, (nuevo, buen estado, mal estado y en desarme) y la
 fecha aproximada en que los adquirió (hace menos de un año, menos de cinco años y más
 de cinco años).
-1 Bono Anual (Bono/12)
-Bono Semestral (Bono/6)
-Para estos efectos, el resultado de la división se debe sumar a los ingresos mensuales declarados, como si fueran percibidos mes a mes.
 En caso de que el/la solicitante tenga dentro de su patrimonio participación en una sociedad,
 deberá incluirla en la declaración jurada exigida en la letra c) del artículo 261, indicando la
 razón social y Rol Único Tributario.
@@ -729,7 +726,7 @@ Persona Deudora, el procedimiento se tramitará de forma exclusiva a través de 
 digitales donde se gestionarán las Solicitudes de Inicio, se realizarán los exámenes de
 admisibilidad, se sustanciarán las audiencias y se recibirán todas las presentaciones
 relativas al procedimiento, realizadas por Oficina de Partes Virtual de Renegociación,
-contenida dentro del portal Mi Superir de la Superintendencia, correspondiente al
+contenida dentro del portal Mi Superir de la Superintendencia, correspondiente al Procedimiento Concursal de Renegociación.
 Al Procedimiento Concursal de Renegociación se aplicarán todas las disposiciones
 contenidas en la referida resolución, en las que se establecen normas de autenticación para
 el ingreso a la plataforma, exigencias en la presentación de documentos, uso de firma
@@ -767,8 +764,8 @@ también deberá darse cumplimiento del referido artículo 22 y acreditarse, en 
 presentación, la facultad del/de la apoderado/a de delegar dicho poder al/a la tercero/a.
 Título II
 Disposiciones Comunes A Toda Audiencia
-Artículo 20º De la forma de celebración de las audiencias reguladas en el Título I del
-Capítulo V de la Ley. De conformidad a lo establecido en el artículo 6 A de la Ley, y en la
+Artículo 20º De la forma de celebración de las audiencias reguladas en el Título I del Capítulo V
+de la Ley. De conformidad a lo establecido en el artículo 6 A de la Ley, y en la
 Resolución Exenta que autoriza y regula la tramitación electrónica del Procedimiento
 Concursal de Renegociación, las audiencias del procedimiento se realizarán a través de
 medios telemáticos, conforme a la presente NCG, y según lo dispuesto en los artículos
@@ -997,7 +994,7 @@ comentarios que se encuentra disponible en el Portal Mi Superir, cumpliendo los
 requisitos establecidos en el artículo 22 y 30 de la Ley N.º 19.880.
 3. Contar con la firma del/de la objetante, que se entiende incorporada al realizar la
 observación u objeción mediante Oficina de Partes Virtual de Renegociación,
-contenida dentro del portal Mi Superir de la Superintendencia, correspondiente al
+contenida dentro del portal Mi Superir de la Superintendencia, correspondiente al Procedimiento Concursal de Renegociación.
 4. Para actualizar una obligación, se deberá indicar expresamente su monto (capital e
 intereses) calculado a la fecha de la publicación de la Resolución de Admisibilidad,
 acompañando un documento o certificado emitido a la fecha de la Resolución de
@@ -1140,7 +1137,7 @@ créditos. Los/las acreedores/as que asistan a la Audiencia de Determinación de
 deberán presentar hasta tres días hábiles administrativos antes de la celebración de la
 audiencia, los certificados de deuda o documentos justificativos del monto de sus créditos,
 con el único objeto de actualizar el monto adeudado o rectificar el número de operación de
-las obligaciones que forman parte de la propuesta de nómina de pasivo que presenta la
+las obligaciones que forman parte de la propuesta de nómina de pasivo que presenta la Superintendencia.
 Asimismo, se considerarán válidos los documentos justificativos que presente la Persona
 Deudora en la audiencia, con el único objeto de actualizar el monto adeudado o rectificar el
 número de operación de los créditos que forman parte de la propuesta de nómina de pasivo
@@ -1185,7 +1182,7 @@ dispositivo compatible, micrófono y cámara web.
 En caso de que el/la compareciente no cuente con los medios tecnológicos requeridos, la
 Superintendencia podrá facilitarlos, para lo cual se deberá presentar una solicitud, de
 conformidad a lo establecido en los artículos 21° y 22° de la presente NCG.
-Artículo 37º Del ingreso de terceros/as a las audiencias sustanciadas durante el
+Artículo 37º Del ingreso de terceros/as a las audiencias sustanciadas durante el Procedimiento Concursal de Renegociación.
 Excepcionalmente, y previa autorización de la Persona Deudora y de todos los/las
 asistentes otorgada a viva voz, se permitirá el ingreso a la sala virtual de terceros/as no
 relacionados con el procedimiento cuya audiencia se celebra. De dicha autorización
@@ -1358,7 +1355,7 @@ créditos informado por el/la solicitante, en su declaración jurada exigida en 
 artículo 261 de la Ley, las objeciones u observaciones presentadas por los/las
 acreedores/as o por terceros/as interesados/as, relativas al listado de obligaciones
 contenidas en la Resolución de Admisibilidad, siempre que hayan sido presentadas dentro
-del plazo establecido en la Ley, y las observaciones que al efecto haya realizado la
+del plazo establecido en la Ley, y las observaciones que al efecto haya realizado la Superintendencia.
 La referida propuesta de nómina de pasivo contendrá la individualización de los/las
 acreedores/as o terceros/as que formen parte del procedimiento hasta la celebración de la
 Audiencia de Determinación del Pasivo, la indicación de la preferencia cuando que estas
@@ -2073,7 +2070,7 @@ sus asesores/as o dependientes, o del/de la Martillero/a Concursal designado/a,
 estipulaciones que impliquen comisiones, participaciones, honorarios o cualquier
 otro estipendio extraordinario a los que establece la Ley que se relacione con la
 venta de los bienes. En el evento de ser necesaria la contratación de bodegaje,
-deberá estarse a lo señalado en la normativa administrativa dictada por la
+deberá estarse a lo señalado en la normativa administrativa dictada por la Superintendencia.
 b) En caso de tratarse de enajenación o venta de bienes inmuebles, la escritura de
 compraventa y los gastos asociados a la enajenación serán de cargo del producto
 de la realización de los bienes de la Persona Deudora o del/de la propio/a
@@ -2162,7 +2159,7 @@ Una vez efectuado el pago del reparto por el/la Liquidador/a Concursal este/a de
 dar cuenta de la realización del mismo a la Superintendencia, a través de Oficina de
 Partes Virtual de Renegociación, y emitir un certificado que acredite dicho pago al/a
 la Deudor/a, dentro del plazo de 5 días hábiles administrativos, para efectos de que
-este último, informe el cumplimiento del Acuerdo de Ejecución ante la
+este último, informe el cumplimiento del Acuerdo de Ejecución ante la Superintendencia.
 Artículo 79º Cálculo de las unidades de fomento correspondientes a los honorarios
 del/de la Liquidador/a Concursal designado/a en el Acuerdo de Ejecución. De
 conformidad a lo establecido en el artículo 267 de la Ley, en aquellos casos en los que el
@@ -2401,5 +2398,6 @@ Superintendencia de Insolvencia y Reemprendimiento en el Diario Oficial.
 vez que se encuentre totalmente tramitado el presente acto administrativo, su publicación
 en el sitio web institucional de la Superintendencia de Insolvencia y Reemprendimiento.
 ANÓTESE Y ARCHÍVESE,
-PCG/JEC/BRV
-66
+HUGO SÁNCHEZ RAMÍREZ
+SUPERINTENDENTE DE INSOLVENCIA Y REEMPRENDIMIENTO
+DISTRIBUCIÓN: PCG/JEC/BRV

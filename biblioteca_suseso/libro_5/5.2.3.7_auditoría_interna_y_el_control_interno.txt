@@ -1,0 +1,32 @@
+5.2.3.7 Auditoría interna y el control interno
+==============================================
+
+Las Cajas deben contar con una función de Auditoría Interna, de naturaleza y alcance relacionado a la complejidad y volumen de sus operaciones, encargada de asegurar el cumplimiento de todas las políticas y procedimientos aplicables, así como de revisar si sus políticas, prácticas y controles siguen siendo suficientes y apropiados.
+
+Los resultados obtenidos de la Auditoría Interna respecto del Sistema de Control Interno deben ser reportados directamente al directorio, complementando la normativa existente respecto de la materia.
+
+Los Auditores Internos tienen como misión vigilar y validar la efectividad del sistema de control interno y proponer las modificaciones necesarias, lo anterior no implica que tengan la responsabilidad de establecerlo, implementarlo o mantenerlo.
+
+Las materias de control interno deben ser incorporadas a la respectiva Política de Auditoría de cada Caja de Compensación.
+
+5.2.3.7.1. La función de Auditoría Interna respecto del Sistema de Control Interno
+
+Las Cajas deben establecer un sistema eficaz de control interno, según la complejidad y magnitud de sus operaciones, la que debe ser revisada periódicamente por la Unidad de Auditoría interna.
+
+La función de Auditoría Interna debe establecer en sus planes de auditoría la revisión del Sistema de Control Interno. Dicha revisión debe ser realizada en forma objetiva e independiente de las funciones operacionales. Para asegurar su independencia, la función de Auditoría Interna no debe realizar otras funciones operativas en la Caja o con entidades que prestan servicios a ésta, evitándose de este modo potenciales conflictos de interés.
+
+Por su parte, la Unidad de Auditoría Interna debe trabajar en forma integrada, pero manteniendo su independencia, con las Unidades de Control Interno y Riesgos de la Caja, de modo de garantizar una correcta gestión de los riesgos y sus controles, para Io cual debe auditar, dentro de su plan anual, las actividades y resultados en la gestión de éstos.
+
+El directorio debe velar que para el cumplimiento de esta función de Auditoría Interna se tenga:
+
+Acceso irrestricto a todas las líneas de negocio de la Caja y sus procesos componentes (de la línea de negocios, de apoyo y estratégicos).
+
+Evaluación de las funciones contratadas con proveedores externos.
+
+Independencia apropiada, incluyendo las líneas de reporte hacia el directorio.
+
+Recursos y personal suficiente, apropiadamente calificado y entrenado, con la experiencia necesaria para entender y evaluar el negocio que están auditando.
+
+Una metodología que identifique los principales riesgos incurridos por la Institución para asignar nuevos recursos de mitigación, de conformidad con ello.
+
+La Caja debe poner los informes de auditoría interna a disposición de la Superintendencia, cuando así se lo requiera.

@@ -1,0 +1,22 @@
+6.1.12.2.2 Sistema de gestión de seguridad de la información de la C.C.A.F.
+===========================================================================
+
+La Caja debe contar con un sistema de gestión de seguridad de la información que considere, al menos, lo siguiente:
+
+Contar con una política de seguridad de la información y ciberseguridad definida al interior de la organización y aprobada por el directorio.
+
+Realizar un levantamiento de los activos de información críticos existentes en la C.C.A.F., asegurando que la información reciba el nivel de protección adecuado de acuerdo con su importancia para la organización. En particular aquellos sistemas relevantes para el soporte de las operaciones y procesos críticos que involucran el adecuado otorgamiento de las prestaciones de seguridad social, con el fin de resguardar la información interna, así como también la de carácter externa relacionada con sus afiliados y no afiliados.
+
+Conocer los riesgos críticos de las tecnologías de la información identificando los que afecten la seguridad de la información y ciberseguridad.
+
+Establecer anualmente el nivel de riesgos aceptado por la C.C.A.F. en materia de tecnologías de información, considerando además los niveles de disponibilidad mínimos para asegurar la continuidad operacional.
+
+Informar al Directorio y a toda la organización respecto a los lineamientos principales de la entidad frente a la seguridad de la información.
+
+Adoptar las recomendaciones entregadas por auditores externos e internos respecto de esta materia.
+
+Contar con el apoyo del área de riesgos existente, procurando que dicha área se involucre en materia de valorización, identificación, tratamiento y tolerancia de los riesgos propios del ambiente de tecnologías de la información a los que se expone la C.C.A.F. por los distintos factores en que se desenvuelve.
+
+Identificar las amenazas más relevantes a las que se expone la C.C.A.F. ante eventuales ciberataques y evaluar el impacto organizacional que conlleva la vulnerabilidad e indisponibilidad de estos activos de información.
+
+Mantener un registro formalmente documentado de los sistemas de información existentes al interior de la organización, señalando el proceso de negocio que gestiona el área usuaria, identificación de la base de datos y sistema operativo que soporta el aplicativo.

@@ -1,0 +1,24 @@
+6.1.6 MONITOREO Y EVALUACIÓN INTERNA
+====================================
+
+La C.C.A.F. debe monitorear de forma permanente sus principales riesgos, junto a la efectividad de las actividades de control implementadas.
+
+Los resultados de los monitoreos deben ser informados periódicamente a los miembros del directorio, a la gerencia general y a los dueños de procesos, a través de reportes periódicos. Para tales efectos, la unidad responsable de la gestión de riesgo operacional, debe implementar indicadores para realizar los monitoreos sobre:
+
+Los riesgos de la entidad y su evolución
+
+La evolución de las pérdidas
+
+Los factores de riesgo asociados
+
+La efectividad de medidas de control implementadas o existentes
+
+Adicionalmente dicha unidad debe mantener la documentación y el registro de al menos los incidentes más significativos ocurridos y las medidas de mitigación aplicadas los cuales deben permanecer disponibles para su consulta por un periodo de tiempo de al menos cinco años. La documentación señalada anteriormente debe estar disponible para las revisiones que realice esta Superintendencia. Además, la C.C.A.F. debe enviar a esta Superintendencia un informe anual sobre la gestión del riesgo operacional, a más tardar, el último día hábil del mes de marzo del año siguiente. Dicho informe debe contener, al menos, la siguiente información:
+
+Pérdidas operacionales y su evolución, diferenciadas por las distintas líneas de negocio y tipología de riesgos
+
+Inventario con detalle de las pérdidas más relevantes registradas por la C.C.A.F.
+
+Nivel de su exposición a los riesgos operacionales y su distribución a través de las líneas de negocio y categorías de riesgo
+
+Hechos relevantes acaecidos dentro de la C.C.A.F. en términos de riesgo operacional

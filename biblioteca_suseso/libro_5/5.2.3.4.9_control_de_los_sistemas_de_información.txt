@@ -1,0 +1,8 @@
+5.2.3.4.9 Control de los Sistemas de Información
+================================================
+
+Los controles a los sistemas de información y los sistemas de seguridad de la información deben estar referidos a los controles de los riesgos identificados en las actividades sistémicas, esto es, controles sobre las operaciones ejecutadas en los sistemas, en los centros de procesamientos de datos, de arquitectura de los sistemas, integridad de los datos, sobre la seguridad física y lógica de los datos, la ejecución y/o contratación y mantenimiento del hardware y software, perfiles de acceso, controles de acceso físico y lógico a instalaciones o sistemas y controles sobre desarrollo, mantenimiento e implementación y aseguramiento de la calidad de los sistemas informáticos y de aplicaciones.
+
+Se encuentran dentro de esta categoría de controles los procesos de respaldo de datos y recuperación de caídas de los sistemas informáticos, contemplados en los respectivos planes de continuidad operativa. Esos controles deben ser aplicados a toda la tecnología crítica incluyendo, al menos, los sistemas principales, servidores, bases de datos, almacenamiento de datos, redes de comunicación, enlaces de datos y voz y computadores personales.
+
+También deben considerarse controles de aplicación en los procesos que conllevan riesgos significativos, contribuyendo con ello al aseguramiento de la integridad y exactitud de tales procesos, prestando especial atención a las interfaces y relación entre sistemas y aplicaciones. Los controles de aplicación se deben extender también a las aplicaciones de usuarios finales relacionadas eventualmente a riesgos en los ámbitos de control interno.

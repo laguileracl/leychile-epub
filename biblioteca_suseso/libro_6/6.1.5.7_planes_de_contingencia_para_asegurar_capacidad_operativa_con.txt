@@ -1,0 +1,8 @@
+6.1.5.7 Planes de contingencia para asegurar capacidad operativa continua de la C.C.A.F.
+========================================================================================
+
+Como parte de una adecuada gestión del riesgo operacional, las Cajas deben implementar un sistema de gestión de la continuidad del negocio que tenga como objetivo implementar respuestas efectivas para que la operatividad del negocio de la C.C.A.F. continúe de una manera razonable, ante la ocurrencia de eventos que pueden crear una interrupción o inestabilidad en las operaciones de la entidad. El plan debe considerar tanto aquellos procesos de soporte o negocio que desarrolle de forma interna la entidad, como aquellos que se encuentren externalizados en proveedores de servicios.
+
+La C.C.A.F. debe realizar de forma periódica, por lo menos una vez al año, pruebas sobre la efectividad de los planes de continuidad de negocio a nivel de la entidad. El plan de dichas pruebas debe quedar documentado, así como los resultados obtenidos y las posibles medidas correctoras identificadas.
+
+Asimismo, la Caja debe contar con un sistema de gestión de la seguridad de la información, orientado a garantizar la integridad, confidencialidad y disponibilidad de la información. En el diseño del sistema de seguridad de la información se debe tener en cuenta qué hay que proteger y por qué, de qué (o quién) se debe proteger y cómo protegerlo. Además, la Caja puede adherir a alguno de los estándares conocidos y aceptados de Seguridad de la Información, de acuerdo al nivel, complejidad y particularidades de las operaciones de cada Caja.

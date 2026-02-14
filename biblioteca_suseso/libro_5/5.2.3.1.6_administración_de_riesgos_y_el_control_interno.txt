@@ -1,0 +1,6 @@
+5.2.3.1.6 Administración de Riesgos y el Control Interno
+========================================================
+
+Las Cajas deben desarrollar una filosofía de Administración de Riesgos, velando por identificar, medir, controlar, monitorear e informar los diversos tipos de riesgos a los que se ven expuestas en el desarrollo de sus actividades, tanto propias como aquellas que se encuentren en procesos externalizados. Es por ello que las Cajas de Compensación de Asignación Familiar deben promover una gestión basada en riesgos, que se transmita y divulgue en toda la organización, sus empresas relacionadas y proveedoras; generando una cultura de riesgo que se integre con el sistema de control interno apropiado a la naturaleza, tamaño y complejidad de las actividades que desarrolla.
+
+Los controles implementados deben contemplar los aspectos de diseño y efectividad, estableciendo una metodología de evaluación de los mismos que permita determinar con claridad su acción mitigante por sobre los riesgos inherentes identificados.

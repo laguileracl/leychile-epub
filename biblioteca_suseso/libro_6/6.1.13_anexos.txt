@@ -1,0 +1,16 @@
+6.1.13 ANEXOS
+=============
+
+Anexo N°1: Tipos de evento riesgo operacional nivel I y nivel II
+
+Anexo N°2: Líneas de negocio genéricas para C.C.A.F.
+
+Anexo N°3: Formato y diccionario de archivos planos y formulario web
+
+Anexo N°4: Instrucciones generales
+
+Anexo N°5: Niveles de peligrosidad de los ciberincidentes
+
+Anexo N°6: Niveles de impacto de los ciberincidentes
+
+Anexo N°7: Informe de autoevaluación de la gestión de ciberseguridad

@@ -1,0 +1,24 @@
+3.4.12 TABLAS DE DESARROLLO Y ALGORITMO DE CÁLCULO
+==================================================
+
+En los créditos de tasa fija la Caja deberá protocolizar en una Notaría las tablas de desarrollo de los mutuos hipotecarios que otorgue y dejar constancia, en la respectiva escritura, de la tabla de desarrollo aplicada.
+
+En caso de reprogramación o repactación, deberá dejarse constancia de ello en una escritura pública en la que quedará constancia de la nueva tabla de desarrollo. Esta nueva escritura deberá anotarse al margen de la escritura original de mutuo hipotecario.
+
+La Caja estará obligada a entregar al deudor copias simples de la tabla de desarrollo de su crédito, si éste lo solicitare.
+
+Estas tablas deberán estar referidas a una unidad de capital y las cifras se expresarán con no menos de cuatro decimales. En su confección, se deberá cuidar que tenga la siguiente información mínima:
+
+Número de dividendo;
+
+Amortización de capital;
+
+Interés;
+
+Valor del dividendo;
+
+Saldo de capital adeudado, y
+
+Amortización acumulada.
+
+Si se tratare de un crédito con tasa variable, se deberá informar y protocolizar el algoritmo de cálculo.

@@ -1,0 +1,8 @@
+6.1.5.6.2 Conciliación contable
+===============================
+
+La C.C.A.F. debe establecer y ejecutar procedimientos robustos que le permitan asegurar la conciliación de la información registrada en la Base de Pérdidas con el registro contable y que la información de pérdidas por riesgo operacional reflejada en la contabilidad se encuentre debidamente registrada en la Base de Pérdidas.
+
+Dichos procedimientos de conciliación se deben encontrar formalizados y validados.
+
+La C.C.A.F. debe mantener registro de las pruebas periódicas realizadas sobre la conciliación, así como los resultados obtenidos y las acciones mitigantes o correctoras desarrolladas.

@@ -1,0 +1,18 @@
+5.2.3.2 La evaluación de riesgos y el sistema de control interno
+================================================================
+
+Corresponde tanto al directorio como a los comités, la alta administración, las unidades de riesgo, dueños de procesos y trabajadores de la entidad, su participación activa en el Sistema de Gestión de Riesgos implementado en la respectiva Caja de Compensación, conocer los niveles de riesgo aceptados y los principales riesgos inherentes a los que éstas se enfrentan.
+
+Por Io anterior, la organización debe asimilar la metodología de identificación y evaluación de los riesgos, la evaluación de los mismos considerando su probabilidad o frecuencia de ocurrencia así como también la magnitud de su impacto económico o patrimonial y aquellas otras evaluaciones que contemplen los impactos sociales de los procesos que deban ser incorporadas a los sistemas de gestión de riesgo, con el fin adoptar las medidas de control que correspondan.
+
+La identificación, diseño, implementación, trazabilidad y efectividad de los controles complementa la evaluación de los Riesgos Operacionales y lo relaciona directamente con el Sistema de Control Interno.
+
+Por lo anterior, los responsables de la implementación del control interno deben establecer una metodología para la evaluación de los controles mitigantes de los riesgos, con el fin de medir el efecto mitigador de éstos en un proceso de monitoreo y evaluación interna continua, complementario a Io indicado en el Título I del Libro VI de este Compendio de la Ley N°18.833, sobre de Gestión del Riesgo Operacional.
+
+Las materias de Control Interno deben ser incorporadas en los respectivos comités de riesgos o equivalentes. Entre las labores que deben analizar en esta instancia se encuentran: la revisión de la identificación de los riesgos, el análisis de éstos, su comparación según los niveles de riesgo aceptado y la evaluación de los controles aplicados, que permitan determinar si se necesita la implementación de planes de acción.
+
+Complementando la evaluación de los riesgos de la organización, el sistema de control interno debe asegurarse que los controles diseñados para el tratamiento de los riesgos son implementados eficazmente y que cumplen con los objetivos de control interno (operacionales, de información financiera, de cumplimiento entre otros) de la Caja, con el fin de evaluar los riesgos residuales de cada uno de los procesos y establecer la necesidad de incorporar o fortalecer las actividades de control para mitigar los riesgos.
+
+El alcance del control interno debe abarcar todos los procesos, ya sean estratégicos, relacionados a las líneas de negocio o procesos de apoyo.
+
+Finalmente, se debe mantener informada a la alta administración, al directorio y a esta Superintendencia, de acuerdo con las instrucciones impartidas, respecto de la evolución de los riesgos, sus controles y materializaciones, remitiendo un informe anual sobre los resultados generales de la Gestión del Control Interno el que podrá complementarse con el informe instruido en el Título I del Libro VI del Compendio de la Ley N°18.833, de gestión del riesgo operacional.

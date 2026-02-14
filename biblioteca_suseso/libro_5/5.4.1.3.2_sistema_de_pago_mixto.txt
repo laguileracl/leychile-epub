@@ -1,0 +1,22 @@
+5.4.1.3.2 Sistema de pago mixto
+===============================
+
+Este sistema comienza con el envío por parte del empleador o trabajador independiente de una transferencia electrónica de información a la empresa administradora del Sitio web, correspondiente a la planilla de pago de cotizaciones previsionales (Declaración) La aplicación computacional que construya la empresa administradora del Sitio Web, debe considerar que el empleador o trabajador independiente al optar por la modalidad mixta, pueda imprimir en sus propios sistemas un formulario denominado Comprobante de pago . Este último es un resumen de la información que contiene la Declaración electrónica, con un número de folio que identifica la operación y que está contenido en la Declaración .
+
+Este Comprobante de pago debe emitirse por cada declaración enviada por el empleador o trabajador independiente. Esta transferencia electrónica debe contener al menos los datos de la empresa o trabajador independiente, los antecedentes desglosados del pago - detalle de a quien se le está pagando y a qué corresponde cada cantidad a pagar además de un resumen del pago. Además, debe constar en a lo menos dos ejemplares con la siguiente distribución:
+
+Original Entidad Recaudadora.
+
+Copia empleadora o trabajador independiente.
+
+La empresa administradora del Sitio web debe recibir la Declaración y transmitirla de inmediato a la entidad recaudadora de destino. Una copia de la Declaración y del Comprobante de pago debe quedar disponible para ser consultada en el Sitio web por el agente recaudador y así conciliar el pago con su correspondiente Declaración .
+
+El empleador o el trabajador independiente con el Comprobante de pago concurrirá a las oficinas de la entidad recaudadora para efectuar el pago de las cotizaciones previsionales realizado bajo esta modalidad. El agente recaudador debe verificar en el sitio web la coincidencia de la información registrada en la Declaración electrónica con la del Comprobante de pago verificando al menos la siguiente información: Entidad recaudadora de destino, razón social o nombre del empleador o trabajador independiente, RUT, número de folio, período de pago y monto a pagar.
+
+El agente recaudador procederá a timbrar el Comprobante de pago y a entregar su copia al empleador o trabajador independiente, una vez que haya dado cumplimiento a la verificación descrita en el número anterior.
+
+La entidad recaudadora debe conciliar la recaudación bajo esta modalidad, considerando la Declaración con los Comprobantes de pago y los respectivos fondos depositados.
+
+El pago de las cotizaciones previsionales de acuerdo a la modalidad del Sistema de Pago Mixto se tendrá como efectivamente realizado cuando el agente recaudador estampe su timbre en el Comprobante de pago .
+
+En el evento que el empleador no efectúe el pago dentro del plazo legal establecido para tales efectos, la transmisión electrónica de la planilla de cotizaciones podrá homologarse a una declaración y no pago de las cotizaciones por el empleador, trabajador independiente o la entidad pagadora de subsidios, según corresponda.

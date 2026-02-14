@@ -1,0 +1,8 @@
+6.2.11.1.1 Para solicitudes de prórroga que requieran entre 1 y 3 días hábiles
+==============================================================================
+
+Las Cajas de Compensación deben enviar la petición de prórroga antes que venza el plazo fijado para el envío de los reportes, indicando las razones del retraso y los días hábiles que requerirán para cumplir con las exigencias de reporte.
+
+La solicitud de prórroga para el envío de los archivos señalados en las letras a) y b) del Número 6.2.9. de este Título II del Libro VI del Compendio de Normas que Regulan a las C.C.A.F., debe ser enviada por la Caja de Compensación a través de la plataforma PAE, opción "Otros Ingresos".
+
+Asimismo, la solicitud de prórroga referida al documento señalado en la letra c) del numeral 6.2.9. del Título II del Libro VI del Compendio de Normas que Regulan a las C.C.A.F., debe ser enviada por la Caja de Compensación mediante la plataforma PAE, opción "Otros-Ingresos".

@@ -1,0 +1,4 @@
+6.1.5.1.3 Definición de riesgos
+===============================
+
+La C.C.A.F. debe definir con claridad los riesgos operacionales que le corresponde gestionar, con el objetivo de determinar los tipos de riesgos que serán administrados y la forma a partir de la cual, ellos serán gestionados.

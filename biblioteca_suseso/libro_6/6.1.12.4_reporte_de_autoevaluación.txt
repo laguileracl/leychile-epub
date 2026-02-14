@@ -1,0 +1,8 @@
+6.1.12.4 Reporte de Autoevaluación
+==================================
+
+La C.C.A.F. debe realizar una autoevaluación anual en cuanto a su desempeño y nivel de madurez. Para esto, deben elaborar un informe de autoevaluación de gestión de ciberseguridad, conforme a lo establecido en el Anexo N°7: Informe de autoevaluación de la gestión de ciberseguridad del Título I del Libro VI del Compendio de la Ley N°18.833 .
+
+El proceso de autoevaluación es responsabilidad de la respectiva C.C.A.F., para lo cual puede contratar a una entidad especialista para estos efectos. El reporte de autoevaluación puede contener pruebas de "ethical hacking" en la medida que dichas pruebas permitan mejorar el ambiente de ciberseguridad de la Caja.
+
+El informe de autoevaluación debe ser conocido por el directorio y remitido a la Superintendencia a más tardar el último día hábil de marzo de cada año, referido a la evaluación del año calendario anterior.

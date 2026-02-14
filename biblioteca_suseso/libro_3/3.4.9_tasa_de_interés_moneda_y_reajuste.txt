@@ -1,0 +1,42 @@
+3.4.9 TASA DE INTERÉS, MONEDA Y REAJUSTE
+========================================
+
+La tasa de interés pactada en las operaciones de mutuos hipotecarios no podrá exceder a la tasa de interés máxima convencional vigente al momento de la convención y no podrá ser recargada con comisiones, gastos u otras prestaciones.
+
+Las tasas de interés de los mutuos hipotecarios que fije la C.C.A.F. sólo podrá diferenciarse según el tipo de beneficiario, esto es, afiliado trabajador o afiliado pensionado, el tramo de plazo y de monto. No obstante, las tasas de interés que se fijen para los afiliados pensionados no podrán exceder las tasas de interés que se fijen para los afiliados trabajadores ante préstamos de iguales características.
+
+Cabe hacer presente que los tramos de plazos para efectos de la fijación de tasas de interés, serán hasta cinco años, más de 5 y hasta 10 años, más de 10 y hasta 15 años, más de 15 y hasta 20 años, más de 20 y hasta 25 años, más de 25 y hasta 30 años y más de 30 años.
+
+El monto del préstamo y las obligaciones de pago que se establezcan, deberán expresarse en unidades de fomento u otros sistemas de reajustabilidad debidamente autorizados por el Banco Central de Chile.
+
+La C.C.A.F. deberá mantener una pizarra con información sobre las condiciones de otorgamiento del crédito social destinado a la adquisición de viviendas. Dicha pizarra debe contener, a lo menos, información sobre las tasas de interés a cobrar diferenciada según se trate de afiliados trabajadores o afiliados pensionados, los gastos adicionales aproximados, gastos prejudiciales, los seguros involucrados y comisión de prepago en caso de cobrarse.
+
+La misma información que contiene la pizarra deberá ser publicada en la página web de cada C.C.A.F. Además, en dicha página deberá contemplarse un sistema de simulación del crédito, para conocimiento de los afiliados
+
+El simulador debe contener una diferenciación entre trabajadores y pensionados e incluir todas las variables que se muestran a continuación para todos los plazos que la C.C.A.F. ofrezca.
+
+Tipo de propiedad.
+
+Valor de la propiedad.
+
+Tipo de préstamo (endosable o no endosable).
+
+Moneda (UF o Pesos).
+
+Monto financiamiento.
+
+Plazo.
+
+Periodo de gracia.
+
+N° de dividendos efectivos.
+
+Dividendo neto mensual (en UF).
+
+Prima seguro de desgravamen (en UF).
+
+Prima seguro de incendio con adicional cuando corresponda (en UF).
+
+Dividendo total (en UF y Pesos).
+
+Monto total del crédito hipotecario (en UF y Pesos).

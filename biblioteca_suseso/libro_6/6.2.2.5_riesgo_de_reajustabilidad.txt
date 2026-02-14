@@ -1,0 +1,4 @@
+6.2.2.5 Riesgo de Reajustabilidad
+=================================
+
+Corresponde a las pérdidas potenciales que genera el descalce de activos y pasivos indexados a algún indicador de inflación (o deflación) como la Unidad de Fomento u otro índice de reajustabilidad (IVP, por ejemplo), ante las variaciones que puedan tener estos mismos indicadores en el tiempo.

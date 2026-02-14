@@ -1,0 +1,10 @@
+3.8.3 CAUSALES DE BAJA DE PAGOS EN EXCESO
+=========================================
+
+Corresponde dar de baja el monto de pagos en exceso cuando:
+
+Se reconoce que los mayores pagos efectivamente no corresponden a un pago en exceso, en cuyo caso deberá reclasificarse en la cuenta contable que corresponda. Esta situación sólo debe presentarse cuando un mayor pago se encuentre aún en estado generado, por lo que la C.C.A.F. deberá realizar las adecuaciones de sistemas necesarias para determinar que dicho monto corresponde o no a un pago en exceso en el menor plazo posible, lo cual en ningún caso puede exceder de dos meses, contado desde la fecha de la generación y siempre que durante este periodo se mantenga en el estado de generado.
+
+Cuando corresponde a un cobro en exceso por parte de la C.C.A.F.
+
+Se pague al acreedor efectivamente el monto correspondiente, mediante alguna de las modalidades de devolución señaladas en la letra b) del número 3.8.6. del Título VIII de este Libro III de este Compendio de la Ley N°18.833.

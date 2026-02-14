@@ -1,0 +1,6 @@
+6.2.2.1 Riesgo de Mercado
+=========================
+
+El riesgo de mercado corresponde a las pérdidas potenciales que puede sufrir una Caja como resultado de cambios en parámetros de mercado en un cierto período de tiempo. Por ejemplo, pérdidas producto de movimientos en las tasas de interés e índices de reajustabilidad.
+
+Entre las fuentes de riesgo de mercado, se incluyen aspectos asociados a la liquidez de las posiciones financieras, por ejemplo, la imposibilidad de vender o comprar posiciones de un cierto volumen o característica, dentro de un período específico o en condiciones favorables de mercado.

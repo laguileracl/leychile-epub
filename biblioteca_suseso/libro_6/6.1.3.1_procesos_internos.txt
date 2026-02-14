@@ -1,0 +1,4 @@
+6.1.3.1 Procesos internos
+=========================
+
+La Caja de Compensación debe gestionar apropiadamente los riesgos asociados a los procesos internos implementados para la realización de sus operaciones y servicios, relacionados al diseño inapropiado de los procesos o a políticas y procedimientos inadecuados o inexistentes que puedan tener como consecuencia el desarrollo deficiente de las operaciones y servicios o la suspensión de los mismos, así como su ajuste a la normativa vigente que les es aplicable. Esto incluye a los procesos propios de la C.C.A.F. que se ejecutan de manera externalizada en proveedores de servicios.

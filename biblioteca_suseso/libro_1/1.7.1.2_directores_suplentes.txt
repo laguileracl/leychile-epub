@@ -1,0 +1,6 @@
+1.7.1.2 Directores Suplentes
+============================
+
+Los estatutos pueden establecer la existencia de directores suplentes, cuyo número debe ser igual al de los titulares, debiendo reunir los mismos requisitos que se exigen a estos últimos. En este caso, cada director debe tener su suplente, el que podrá reemplazarlo en forma definitiva en caso de vacancia, y en forma transitoria, en caso de ausencia o impedimento temporal, de acuerdo a lo que señalen los estatutos respectivos.
+
+El director suplente que asuma definitivamente como titular durará en el cargo por el tiempo que restare al director que originó la vacante.

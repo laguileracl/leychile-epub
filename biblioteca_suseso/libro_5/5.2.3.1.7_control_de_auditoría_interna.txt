@@ -1,0 +1,12 @@
+5.2.3.1.7 Control de Auditoría Interna
+======================================
+
+La unidad de Auditoría Interna es la responsable de la revisión independiente de todos los procesos realizados por las Cajas de Compensación, evaluando la implementación de las políticas, el desarrollo y funcionamiento de los procedimientos y la efectividad ex post de los controles realizados. En el marco del Sistema de Control Interno, la Unidad de Auditoría debe:
+
+Verificar la efectividad y cumplimiento de las políticas, los procesos y de aquellos controles internos implementados.
+
+Asegurar razonablemente que los riesgos identificados sean evaluados y mitigados con la aplicación de controles, en donde se revise su diseño y efectividad y que estos resultados sean considerados en sus informes de auditoría.
+
+Verificar que las acciones de mitigación y control definidas efectivamente se han implementado y que mitigan apropiadamente los riesgos dentro de niveles aceptables.
+
+Reportar directamente al directorio y a los respectivos Comités las situaciones observadas.

@@ -1,0 +1,6 @@
+5.4.1.3.8 Respaldos
+===================
+
+El día 25 de cada mes las entidades recaudadoras deben tener respaldada toda la información referida a los pagos electrónicos de cotizaciones previsionales realizados durante el mes anterior. Las transferencias electrónicas de información que se respaldarán son la Declaración, Crédito y Confirmación .
+
+La Declaración electrónica debe estar claramente referenciada en los registros personales, con el propósito de que se pueda comprobar en cualquier oportunidad que los movimientos acreditados en ellas, cuentan con el debido respaldo del pago electrónico.

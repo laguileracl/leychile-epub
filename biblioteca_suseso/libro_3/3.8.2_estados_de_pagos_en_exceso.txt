@@ -1,0 +1,23 @@
+3.8.2 ESTADOS DE PAGOS EN EXCESO
+================================
+
+Un pago en exceso vigente puede encontrarse en cualquiera de los siguientes estados, salvo que se den las causales señaladas en el número 3.8.3. del Título VIII del Libro III de este Compendio de la Ley N°18.833.
+
+3.8.2.1. Pagos en Exceso Generados
+
+Se trata de aquellos que se encuentran en proceso de verificación con el objeto de constatar que correspondan a un pago en exceso. Mantienen esta categoría desde la fecha del registro contable de mayores pagos asociados a crédito social hasta la fecha de su publicación efectiva como pago en exceso en la página web de la respectiva C.C.A.F.
+
+3.8.2.2. Pagos en Exceso Publicados
+
+Corresponde a aquellos pagos en exceso que se mantienen publicados en la página web de la C.C.A.F. hasta su retiro de acuerdo al número 3.8.2.3. siguiente o a su baja de acuerdo a las instrucciones del número 3.8. del Título VIII del Libro III de este Compendio de la Ley N°18.833 .
+
+3.8.2.3. Pagos en exceso Publicados mayores de cinco años
+
+Corresponde a aquellos pagos en exceso publicados que ya tienen más de 5 años contados desde la fecha en que se realizó la respectiva publicación. Estos pagos en exceso se deberán mantener publicados en la página web de la Caja, y no será necesario que sean mantenidos en los instrumentos financieros señalados en el artículo 31 de la Ley N°18.833.
+
+La C.C.A.F. deberá mantener en sus páginas web una aplicación de consulta dirigida a los posibles acreedores para que ingresando su RUT verifiquen si tienen pagos en exceso de créditos sociales, para lo cual la entidad deberá informar el procedimiento para ejercer el derecho a cobro de dichos montos. En esta aplicación, el saldo adeudado deberá aparecer como pago en exceso en un plazo no superior a dos meses desde la fecha de su generación, a menos que concurran alguna de las causales de baja de pagos en exceso señaladas en las letras a) y b) del número 3.8.3. del Título VIII del Libro III del Compendio de la Ley N°18.833.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 31

@@ -1,0 +1,8 @@
+6.1.12.3.1 Mecanismo de reporte
+===============================
+
+La C.C.A.F. debe reportar oportunamente acerca de todos los ciberincidentes que detecte en sus redes, equipos y sistemas y que alcancen los niveles de peligrosidad e impacto establecidos en los anexos indicados en los números 6.1.12.3.2 y 6.1.12.3.3 del Tïtulo I del Libro VI del Compendio de la Ley N°18.833 . En caso de que un suceso pueda asociarse con dos o más tipos de incidentes con niveles de peligrosidad o impacto distintos, se le asignará el nivel más alto.
+
+La obligación de reportar se entiende formalmente cumplida luego de que la C.C.A.F. haya informado el ciberincidente a través del sistema GRIS, a través de los formularios habilitados para ello.
+
+Es preciso señalar que los ciberincidentes no deben ser reportados bajo la figura de Evento de Reporte Inmediato, ni como Hecho Relevante según el Título II del Libro V del Compendio de la Ley N°18.833. Sin embargo, sí deben quedar en el Registro de Información de Pérdidas Mensual, en los casos que corresponda, es decir, que impliquen pérdidas operacionales, de acuerdo con lo establecido en el número 6.1.10 del Tïtulo I del Libro VI del Compendio de la Ley N°18.833 , utilizando el mismo código de evento.

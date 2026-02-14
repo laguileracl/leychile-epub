@@ -1,0 +1,320 @@
+{
+  "numero": "1",
+  "titulo": "LIBRO I. DESCRIPCIÓN GENERAL",
+  "titulo_completo": "1 LIBRO I. DESCRIPCIÓN GENERAL",
+  "url": "https://www.suseso.cl/620/w3-propertyvalue-596393.html",
+  "pvid": "596393",
+  "nivel": 0,
+  "hijos": [
+    {
+      "numero": "1.1",
+      "titulo": "TÍTULO I. CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR",
+      "titulo_completo": "1.1 TÍTULO I. CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596394.html",
+      "pvid": "596394",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "1.1.1",
+          "titulo": "DEFINICIÓN",
+          "titulo_completo": "1.1.1 DEFINICIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596395.html",
+          "pvid": "596395",
+          "nivel": 2
+        },
+        {
+          "numero": "1.1.2",
+          "titulo": "DENOMINACIÓN",
+          "titulo_completo": "1.1.2 DENOMINACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596396.html",
+          "pvid": "596396",
+          "nivel": 2
+        },
+        {
+          "numero": "1.1.3",
+          "titulo": "DOMICILIO",
+          "titulo_completo": "1.1.3 DOMICILIO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596397.html",
+          "pvid": "596397",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "1.2",
+      "titulo": "TÍTULO II. OBJETO",
+      "titulo_completo": "1.2 TÍTULO II. OBJETO",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596398.html",
+      "pvid": "596398",
+      "nivel": 1
+    },
+    {
+      "numero": "1.3",
+      "titulo": "TÍTULO III. CONSTITUCIÓN",
+      "titulo_completo": "1.3 TÍTULO III. CONSTITUCIÓN",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596399.html",
+      "pvid": "596399",
+      "nivel": 1
+    },
+    {
+      "numero": "1.4",
+      "titulo": "TÍTULO IV. PROHIBICIONES",
+      "titulo_completo": "1.4 TÍTULO IV. PROHIBICIONES",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596400.html",
+      "pvid": "596400",
+      "nivel": 1
+    },
+    {
+      "numero": "1.5",
+      "titulo": "TÍTULO V. FONDO SOCIAL",
+      "titulo_completo": "1.5 TÍTULO V. FONDO SOCIAL",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596401.html",
+      "pvid": "596401",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "1.5.1",
+          "titulo": "COMISIONES",
+          "titulo_completo": "1.5.1 COMISIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596402.html",
+          "pvid": "596402",
+          "nivel": 2
+        },
+        {
+          "numero": "1.5.2",
+          "titulo": "INVERSIONES",
+          "titulo_completo": "1.5.2 INVERSIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596403.html",
+          "pvid": "596403",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "1.6",
+      "titulo": "TÍTULO VI. COTIZACIONES PREVISIONALES",
+      "titulo_completo": "1.6 TÍTULO VI. COTIZACIONES PREVISIONALES",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596404.html",
+      "pvid": "596404",
+      "nivel": 1
+    },
+    {
+      "numero": "1.7",
+      "titulo": "TÍTULO VII. ADMINISTRACIÓN DE LA CAJA DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR",
+      "titulo_completo": "1.7 TÍTULO VII. ADMINISTRACIÓN DE LA CAJA DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596405.html",
+      "pvid": "596405",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "1.7.1",
+          "titulo": "DIRECTORIO",
+          "titulo_completo": "1.7.1 DIRECTORIO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596406.html",
+          "pvid": "596406",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "1.7.1.1",
+              "titulo": "Requisitos para ser Director de una C.C.A.F.",
+              "titulo_completo": "1.7.1.1 Requisitos para ser Director de una C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596407.html",
+              "pvid": "596407",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.2",
+              "titulo": "Directores Suplentes",
+              "titulo_completo": "1.7.1.2 Directores Suplentes",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596408.html",
+              "pvid": "596408",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.3",
+              "titulo": "Fuero de Directores Laborales",
+              "titulo_completo": "1.7.1.3 Fuero de Directores Laborales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596409.html",
+              "pvid": "596409",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.4",
+              "titulo": "Dieta Directores",
+              "titulo_completo": "1.7.1.4 Dieta Directores",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596410.html",
+              "pvid": "596410",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.5",
+              "titulo": "Término de la Calidad de Director de una C.C.A.F.",
+              "titulo_completo": "1.7.1.5 Término de la Calidad de Director de una C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596411.html",
+              "pvid": "596411",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.6",
+              "titulo": "Funciones del Directorio de una C.C.A.F.",
+              "titulo_completo": "1.7.1.6 Funciones del Directorio de una C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596412.html",
+              "pvid": "596412",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.7",
+              "titulo": "Presidente del Directorio",
+              "titulo_completo": "1.7.1.7 Presidente del Directorio",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596413.html",
+              "pvid": "596413",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.8",
+              "titulo": "Funciones del Presidente del Directorio",
+              "titulo_completo": "1.7.1.8 Funciones del Presidente del Directorio",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596414.html",
+              "pvid": "596414",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.9",
+              "titulo": "Sesiones de Directorio",
+              "titulo_completo": "1.7.1.9 Sesiones de Directorio",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596415.html",
+              "pvid": "596415",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.10",
+              "titulo": "Acuerdos de Directorio",
+              "titulo_completo": "1.7.1.10 Acuerdos de Directorio",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596416.html",
+              "pvid": "596416",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.1.11",
+              "titulo": "Responsabilidad del Directorio",
+              "titulo_completo": "1.7.1.11 Responsabilidad del Directorio",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596417.html",
+              "pvid": "596417",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "1.7.2",
+          "titulo": "ALTA DIRECCIÓN DE LA C.C.A.F.",
+          "titulo_completo": "1.7.2 ALTA DIRECCIÓN DE LA C.C.A.F.",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596418.html",
+          "pvid": "596418",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "1.7.2.1",
+              "titulo": "Del Gerente General de las C.C.A.F",
+              "titulo_completo": "1.7.2.1 Del Gerente General de las C.C.A.F",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596419.html",
+              "pvid": "596419",
+              "nivel": 3
+            },
+            {
+              "numero": "1.7.2.2",
+              "titulo": "Del Fiscal de la C.C.A.F.",
+              "titulo_completo": "1.7.2.2 Del Fiscal de la C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-596420.html",
+              "pvid": "596420",
+              "nivel": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": "1.8",
+      "titulo": "TÍTULO VIII. DE LA INTERVENCIÓN Y DISOLUCIÓN",
+      "titulo_completo": "1.8 TÍTULO VIII. DE LA INTERVENCIÓN Y DISOLUCIÓN",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596421.html",
+      "pvid": "596421",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "1.8.1",
+          "titulo": "INTERVENCIÓN DE UNA C.C.A.F.",
+          "titulo_completo": "1.8.1 INTERVENCIÓN DE UNA C.C.A.F.",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596422.html",
+          "pvid": "596422",
+          "nivel": 2
+        },
+        {
+          "numero": "1.8.2",
+          "titulo": "DISOLUCIÓN DE UNA C.C.A.F.",
+          "titulo_completo": "1.8.2 DISOLUCIÓN DE UNA C.C.A.F.",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596423.html",
+          "pvid": "596423",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "1.9",
+      "titulo": "TÍTULO IX. CONSTITUCIÓN Y FISCALIZACIÓN DE SOCIEDADES U ORGANISMOS FILIALES",
+      "titulo_completo": "1.9 TÍTULO IX. CONSTITUCIÓN Y FISCALIZACIÓN DE SOCIEDADES U ORGANISMOS FILIALES",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-596424.html",
+      "pvid": "596424",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "1.9.1",
+          "titulo": "CONSTITUCIÓN Y MODIFICACIONES DE SOCIEDADES U ORGANISMOS FILIALES",
+          "titulo_completo": "1.9.1 CONSTITUCIÓN Y MODIFICACIONES DE SOCIEDADES U ORGANISMOS FILIALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596425.html",
+          "pvid": "596425",
+          "nivel": 2
+        },
+        {
+          "numero": "1.9.2",
+          "titulo": "ACUERDOS DE DIRECTORIO",
+          "titulo_completo": "1.9.2 ACUERDOS DE DIRECTORIO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596426.html",
+          "pvid": "596426",
+          "nivel": 2
+        },
+        {
+          "numero": "1.9.3",
+          "titulo": "ESTADOS FINANCIEROS",
+          "titulo_completo": "1.9.3 ESTADOS FINANCIEROS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596427.html",
+          "pvid": "596427",
+          "nivel": 2
+        },
+        {
+          "numero": "1.9.4",
+          "titulo": "OTRAS INSTRUCCIONES",
+          "titulo_completo": "1.9.4 OTRAS INSTRUCCIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-596428.html",
+          "pvid": "596428",
+          "nivel": 2
+        },
+        {
+          "numero": "1.9.5",
+          "titulo": "INFORMACIÓN SOBRE SOCIEDADES O FILIALES",
+          "titulo_completo": "1.9.5 INFORMACIÓN SOBRE SOCIEDADES O FILIALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-690990.html",
+          "pvid": "690990",
+          "nivel": 2
+        },
+        {
+          "numero": "1.9.6",
+          "titulo": "ANEXOS",
+          "titulo_completo": "1.9.6 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-691523.html",
+          "pvid": "691523",
+          "nivel": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+6.2.7 REQUERIMIENTO DE CAPITAL POR RIESGO DE MERCADO
+====================================================
+
+La exposición al riesgo del Libro de Negociación generará un requerimiento de capital igual a:
+
+(Ecuación 7)
+
+: exposición al riesgo de tasa del libro de negociación.
+
+Con
+.
+
+El libro de caja genera un requerimiento de capital con un
+.
+
+Estos requerimientos de capital deben agregarse a los requerimientos de riesgos de crédito que se consideren en las normativas respectivas.

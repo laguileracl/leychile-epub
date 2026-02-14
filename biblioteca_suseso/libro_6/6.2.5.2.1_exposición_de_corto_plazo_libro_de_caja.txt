@@ -1,0 +1,26 @@
+6.2.5.2.1 Exposición de corto plazo Libro de Caja
+=================================================
+
+La exposición de riesgo de tasas y de reajustabilidad para el Libro de Caja de corto plazo se medirá de acuerdo a la siguiente relación:
+
+(Ecuación 4)
+
+: Flujos asociados a activos del Libro de Caja incluyendo amortizaciones e intereses, denominados originalmente en pesos, para la banda t, expresados en miles de pesos.
+
+: Flujos asociados a pasivos del Libro de Caja, incluyendo amortizaciones e intereses, denominados originalmente en pesos, para la banda t, expresados en miles de pesos.
+
+: Flujos asociados a activos del Libro de Caja, incluyendo amortizaciones e intereses, denominados originalmente en UF o IVP, para la banda t, expresados en miles de pesos.
+
+: Flujos asociados a los pasivos del Libro de Caja, incluyendo amortizaciones e intereses, denominados originalmente en UF o IVP, para la banda t, expresados en miles de pesos.
+
+: Factores que miden la sensibilidad de corto plazo de las posiciones en pesos para la banda t.
+
+: Factores que miden la sensibilidad de corto plazo de las posiciones en UF o IVP para la banda t.
+
+: Posición neta (activa o pasiva) en UF o IVP del Libro de Caja, que se calcula como:
+
+(Ecuación 5)
+
+: Es el factor que mide la sensibilidad de las posiciones en UF e IVP asociado a los cambios adversos en las unidades o índices de reajustabilidad. Este factor es igual a 2%.
+
+Cada Caja debe medir la exposición al riesgo de tasa de interés y reajustabilidad de corto plazo para el Libro de Caja quincenalmente, y establecer un límite como proporción del margen financiero trimestral promedio de los últimos cuatro trimestres (promedio calculado con cuatro trimestres móviles no traslapado). El margen financiero se define como los ingresos por intereses y reajustes menos los gastos por intereses y reajustes, por crédito social. Dicho límite debe ser justificado, y su nivel revisado al menos una vez al año, y aprobado por el Directorio. La tabla con los factores que miden la sensibilidad de corto plazo para las exposiciones en pesos y en UF (o IVP), se muestra en la Tabla 2 del Anexo N°2: Factores de sensibilidad de este Título II del Libro VI del Compendio de la Ley N°18.833.

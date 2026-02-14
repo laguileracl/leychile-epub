@@ -1,0 +1,16 @@
+6.1.5.2 Manual de Gestión de Riesgo Operacional
+===============================================
+
+Basándose en la Política, la Caja de Compensación debe establecer procedimientos formales para la gestión de los riesgos que surjan de los procesos asociados a las actividades efectuadas por dichas entidades.
+
+Tales procedimientos deben estar debidamente documentados en un manual de gestión de riesgo operacional que describa las etapas del proceso de gestión de dicho riesgo, junto a los requerimientos de documentación y de informes resultantes, teniendo en consideración lo que se establece en el presente Título I del Libro VI del Compendio de la Ley N°18.833.
+
+En dicho manual, debe estar identificada la unidad responsable de desarrollar, implementar e impulsar la gestión de riesgo operacional en la entidad.
+
+La C.C.A.F. debe contar con un manual de gestión del riesgo operacional que contemple, por lo menos, los siguientes aspectos:
+
+Funciones y responsabilidades asociadas con la gestión del riesgo operacional del Directorio, la Gerencia General, el Comité de Riesgos, la Unidad de Riesgos (o la unidad especializada, si corresponde) y las unidades de negocio y de apoyo.
+
+Descripción de la metodología aplicada para la gestión del riesgo operacional.
+
+El proceso para la aprobación de propuestas de nuevas operaciones, productos y servicios que debe contar, entre otros aspectos, con una descripción general de la nueva operación, producto o servicio de que se trate, los riesgos identificados y las acciones a tomar para su control.

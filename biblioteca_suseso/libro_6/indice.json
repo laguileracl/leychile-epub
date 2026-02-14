@@ -1,0 +1,1580 @@
+{
+  "numero": "6",
+  "titulo": "LIBRO VI. GESTIÓN DE RIESGOS",
+  "titulo_completo": "6 LIBRO VI. GESTIÓN DE RIESGOS",
+  "url": "https://www.suseso.cl/620/w3-propertyvalue-600694.html",
+  "pvid": "600694",
+  "nivel": 0,
+  "hijos": [
+    {
+      "numero": "6.1",
+      "titulo": "TÍTULO I. RIESGO OPERACIONAL",
+      "titulo_completo": "6.1 TÍTULO I. RIESGO OPERACIONAL",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-600695.html",
+      "pvid": "600695",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "6.1.1",
+          "titulo": "DEFINICIONES",
+          "titulo_completo": "6.1.1 DEFINICIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600696.html",
+          "pvid": "600696",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.1.1.1",
+              "titulo": "Riesgo operacional",
+              "titulo_completo": "6.1.1.1 Riesgo operacional",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600697.html",
+              "pvid": "600697",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.1.2",
+              "titulo": "Gestión de riesgo operacional",
+              "titulo_completo": "6.1.1.2 Gestión de riesgo operacional",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600698.html",
+              "pvid": "600698",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.1.3",
+              "titulo": "Dueño de procesos",
+              "titulo_completo": "6.1.1.3 Dueño de procesos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600699.html",
+              "pvid": "600699",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.1.4",
+              "titulo": "Diagrama de procesos",
+              "titulo_completo": "6.1.1.4 Diagrama de procesos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600700.html",
+              "pvid": "600700",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.1.5",
+              "titulo": "Matriz de riesgos y controles",
+              "titulo_completo": "6.1.1.5 Matriz de riesgos y controles",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600701.html",
+              "pvid": "600701",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.1.6",
+              "titulo": "Riesgo inherente",
+              "titulo_completo": "6.1.1.6 Riesgo inherente",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600702.html",
+              "pvid": "600702",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.1.7",
+              "titulo": "Riesgo residual",
+              "titulo_completo": "6.1.1.7 Riesgo residual",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600703.html",
+              "pvid": "600703",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.1.8",
+              "titulo": "Riesgo aceptado",
+              "titulo_completo": "6.1.1.8 Riesgo aceptado",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600704.html",
+              "pvid": "600704",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.1.9",
+              "titulo": "Evento de Origen",
+              "titulo_completo": "6.1.1.9 Evento de Origen",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600705.html",
+              "pvid": "600705",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.1.2",
+          "titulo": "ÁMBITO DE APLICACIÓN DE LA NORMATIVA DE RIESGO OPERACIONAL",
+          "titulo_completo": "6.1.2 ÁMBITO DE APLICACIÓN DE LA NORMATIVA DE RIESGO OPERACIONAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600706.html",
+          "pvid": "600706",
+          "nivel": 2
+        },
+        {
+          "numero": "6.1.3",
+          "titulo": "FACTORES QUE ORIGINAN EL RIESGO OPERACIONAL",
+          "titulo_completo": "6.1.3 FACTORES QUE ORIGINAN EL RIESGO OPERACIONAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600707.html",
+          "pvid": "600707",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.1.3.1",
+              "titulo": "Procesos internos",
+              "titulo_completo": "6.1.3.1 Procesos internos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600708.html",
+              "pvid": "600708",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.3.2",
+              "titulo": "Personal",
+              "titulo_completo": "6.1.3.2 Personal",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600709.html",
+              "pvid": "600709",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.3.3",
+              "titulo": "Tecnología de información",
+              "titulo_completo": "6.1.3.3 Tecnología de información",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600710.html",
+              "pvid": "600710",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.3.4",
+              "titulo": "Eventos externos",
+              "titulo_completo": "6.1.3.4 Eventos externos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600711.html",
+              "pvid": "600711",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.1.4",
+          "titulo": "EVENTOS DE PÉRDIDA POR RIESGO OPERACIONAL",
+          "titulo_completo": "6.1.4 EVENTOS DE PÉRDIDA POR RIESGO OPERACIONAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600712.html",
+          "pvid": "600712",
+          "nivel": 2
+        },
+        {
+          "numero": "6.1.5",
+          "titulo": "EXIGENCIAS DE GESTIÓN QUE DEBEN CUMPLIR LAS C.C.A.F. PARA IMPLEMENTAR ADECUADAMENTE EL PROCESO DE GESTIÓN DE RIESGO OPERACIONAL",
+          "titulo_completo": "6.1.5 EXIGENCIAS DE GESTIÓN QUE DEBEN CUMPLIR LAS C.C.A.F. PARA IMPLEMENTAR ADECUADAMENTE EL PROCESO DE GESTIÓN DE RIESGO OPERACIONAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600720.html",
+          "pvid": "600720",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.1.5.1",
+              "titulo": "Política de Gestión de Riesgo Operacional",
+              "titulo_completo": "6.1.5.1 Política de Gestión de Riesgo Operacional",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600721.html",
+              "pvid": "600721",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.1.5.1.1",
+                  "titulo": "Roles y responsabilidades",
+                  "titulo_completo": "6.1.5.1.1 Roles y responsabilidades",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600722.html",
+                  "pvid": "600722",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.1.2",
+                  "titulo": "Definición de objetivos del proceso de gestión de riesgo operacional",
+                  "titulo_completo": "6.1.5.1.2 Definición de objetivos del proceso de gestión de riesgo operacional",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600723.html",
+                  "pvid": "600723",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.1.3",
+                  "titulo": "Definición de riesgos",
+                  "titulo_completo": "6.1.5.1.3 Definición de riesgos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600724.html",
+                  "pvid": "600724",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.1.4",
+                  "titulo": "Definición de riesgo aceptado",
+                  "titulo_completo": "6.1.5.1.4 Definición de riesgo aceptado",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600725.html",
+                  "pvid": "600725",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.1.5",
+                  "titulo": "Criterios de evaluación y tratamiento de riesgos",
+                  "titulo_completo": "6.1.5.1.5 Criterios de evaluación y tratamiento de riesgos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600726.html",
+                  "pvid": "600726",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.1.6",
+                  "titulo": "Criterios de Divulgación de los riesgos a los actores relevantes",
+                  "titulo_completo": "6.1.5.1.6 Criterios de Divulgación de los riesgos a los actores relevantes",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600727.html",
+                  "pvid": "600727",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.1.7",
+                  "titulo": "Periodicidad en la entrega de información al Directorio",
+                  "titulo_completo": "6.1.5.1.7 Periodicidad en la entrega de información al Directorio",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600728.html",
+                  "pvid": "600728",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.1.5.2",
+              "titulo": "Manual de Gestión de Riesgo Operacional",
+              "titulo_completo": "6.1.5.2 Manual de Gestión de Riesgo Operacional",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600729.html",
+              "pvid": "600729",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.5.3",
+              "titulo": "Análisis y evaluación de riesgos",
+              "titulo_completo": "6.1.5.3 Análisis y evaluación de riesgos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600730.html",
+              "pvid": "600730",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.1.5.3.1",
+                  "titulo": "Levantamiento de procesos",
+                  "titulo_completo": "6.1.5.3.1 Levantamiento de procesos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600731.html",
+                  "pvid": "600731",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.3.2",
+                  "titulo": "Diagramas de procesos y matrices de riesgo",
+                  "titulo_completo": "6.1.5.3.2 Diagramas de procesos y matrices de riesgo",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600732.html",
+                  "pvid": "600732",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.3.3",
+                  "titulo": "Evaluación de riesgos",
+                  "titulo_completo": "6.1.5.3.3 Evaluación de riesgos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600733.html",
+                  "pvid": "600733",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.1.5.4",
+              "titulo": "Tratamiento de Riesgos",
+              "titulo_completo": "6.1.5.4 Tratamiento de Riesgos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600734.html",
+              "pvid": "600734",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.5.5",
+              "titulo": "Responsabilidades y Estructura Organizacional",
+              "titulo_completo": "6.1.5.5 Responsabilidades y Estructura Organizacional",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600735.html",
+              "pvid": "600735",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.1.5.5.1",
+                  "titulo": "Directorio",
+                  "titulo_completo": "6.1.5.5.1 Directorio",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600736.html",
+                  "pvid": "600736",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.5.2",
+                  "titulo": "Gerencia General",
+                  "titulo_completo": "6.1.5.5.2 Gerencia General",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600737.html",
+                  "pvid": "600737",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.5.3",
+                  "titulo": "Comité de Riesgos",
+                  "titulo_completo": "6.1.5.5.3 Comité de Riesgos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600738.html",
+                  "pvid": "600738",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.5.4",
+                  "titulo": "Comité de Auditoría",
+                  "titulo_completo": "6.1.5.5.4 Comité de Auditoría",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600739.html",
+                  "pvid": "600739",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.5.5",
+                  "titulo": "Unidad Especializada en Riesgo Operacional",
+                  "titulo_completo": "6.1.5.5.5 Unidad Especializada en Riesgo Operacional",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600740.html",
+                  "pvid": "600740",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.5.6",
+                  "titulo": "Cultura de Riesgo Operacional",
+                  "titulo_completo": "6.1.5.5.6 Cultura de Riesgo Operacional",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600741.html",
+                  "pvid": "600741",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.5.7",
+                  "titulo": "Auditoría Interna",
+                  "titulo_completo": "6.1.5.5.7 Auditoría Interna",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600742.html",
+                  "pvid": "600742",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.1.5.6",
+              "titulo": "Base de datos de pérdida",
+              "titulo_completo": "6.1.5.6 Base de datos de pérdida",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600743.html",
+              "pvid": "600743",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.1.5.6.1",
+                  "titulo": "Registro de información de pérdidas",
+                  "titulo_completo": "6.1.5.6.1 Registro de información de pérdidas",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600744.html",
+                  "pvid": "600744",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.6.2",
+                  "titulo": "Conciliación contable",
+                  "titulo_completo": "6.1.5.6.2 Conciliación contable",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600745.html",
+                  "pvid": "600745",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.6.3",
+                  "titulo": "Pruebas de Calidad de Datos",
+                  "titulo_completo": "6.1.5.6.3 Pruebas de Calidad de Datos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600746.html",
+                  "pvid": "600746",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.5.6.4",
+                  "titulo": "Documentación de eventos",
+                  "titulo_completo": "6.1.5.6.4 Documentación de eventos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600747.html",
+                  "pvid": "600747",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.1.5.7",
+              "titulo": "Planes de contingencia para asegurar capacidad operativa continua de la C.C.A.F.",
+              "titulo_completo": "6.1.5.7 Planes de contingencia para asegurar capacidad operativa continua de la C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600748.html",
+              "pvid": "600748",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.5.8",
+              "titulo": "Política para administrar el riesgo asociado a actividades externalizadas",
+              "titulo_completo": "6.1.5.8 Política para administrar el riesgo asociado a actividades externalizadas",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600749.html",
+              "pvid": "600749",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.1.6",
+          "titulo": "MONITOREO Y EVALUACIÓN INTERNA",
+          "titulo_completo": "6.1.6 MONITOREO Y EVALUACIÓN INTERNA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600750.html",
+          "pvid": "600750",
+          "nivel": 2
+        },
+        {
+          "numero": "6.1.7",
+          "titulo": "INFORMACIÓN Y COMUNICACIÓN",
+          "titulo_completo": "6.1.7 INFORMACIÓN Y COMUNICACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600751.html",
+          "pvid": "600751",
+          "nivel": 2
+        },
+        {
+          "numero": "6.1.8",
+          "titulo": "ACTUALIZACIÓN DE POLÍTICAS Y PROCEDIMIENTOS",
+          "titulo_completo": "6.1.8 ACTUALIZACIÓN DE POLÍTICAS Y PROCEDIMIENTOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600752.html",
+          "pvid": "600752",
+          "nivel": 2
+        },
+        {
+          "numero": "6.1.9",
+          "titulo": "AUTOEVALUACIÓN",
+          "titulo_completo": "6.1.9 AUTOEVALUACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600753.html",
+          "pvid": "600753",
+          "nivel": 2
+        },
+        {
+          "numero": "6.1.10",
+          "titulo": "SOBRE EL ENVÍO DE INFORMACIÓN DE REGISTRO DE PÉRDIDAS",
+          "titulo_completo": "6.1.10 SOBRE EL ENVÍO DE INFORMACIÓN DE REGISTRO DE PÉRDIDAS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600754.html",
+          "pvid": "600754",
+          "nivel": 2
+        },
+        {
+          "numero": "6.1.11",
+          "titulo": "AUTORIZACIÓN DE USUARIOS",
+          "titulo_completo": "6.1.11 AUTORIZACIÓN DE USUARIOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600755.html",
+          "pvid": "600755",
+          "nivel": 2
+        },
+        {
+          "numero": "6.1.12",
+          "titulo": "CIBERSEGURIDAD",
+          "titulo_completo": "6.1.12 CIBERSEGURIDAD",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600756.html",
+          "pvid": "600756",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.1.12.1",
+              "titulo": "Definiciones",
+              "titulo_completo": "6.1.12.1 Definiciones",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600757.html",
+              "pvid": "600757",
+              "nivel": 3
+            },
+            {
+              "numero": "6.1.12.2",
+              "titulo": "Gestión de la seguridad de la información",
+              "titulo_completo": "6.1.12.2 Gestión de la seguridad de la información",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600771.html",
+              "pvid": "600771",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.1.12.2.1",
+                  "titulo": "Medidas de gestión",
+                  "titulo_completo": "6.1.12.2.1 Medidas de gestión",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600772.html",
+                  "pvid": "600772",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.12.2.2",
+                  "titulo": "Sistema de gestión de seguridad de la información de la C.C.A.F.",
+                  "titulo_completo": "6.1.12.2.2 Sistema de gestión de seguridad de la información de la C.C.A.F.",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600773.html",
+                  "pvid": "600773",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.12.2.3",
+                  "titulo": "Elementos de la gestión del sistema de seguridad de la información",
+                  "titulo_completo": "6.1.12.2.3 Elementos de la gestión del sistema de seguridad de la información",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600774.html",
+                  "pvid": "600774",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.1.12.3",
+              "titulo": "Reporte de Ciberincidentes",
+              "titulo_completo": "6.1.12.3 Reporte de Ciberincidentes",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600775.html",
+              "pvid": "600775",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.1.12.3.1",
+                  "titulo": "Mecanismo de reporte",
+                  "titulo_completo": "6.1.12.3.1 Mecanismo de reporte",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600776.html",
+                  "pvid": "600776",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.12.3.2",
+                  "titulo": "Niveles de peligrosidad",
+                  "titulo_completo": "6.1.12.3.2 Niveles de peligrosidad",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600777.html",
+                  "pvid": "600777",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.12.3.3",
+                  "titulo": "Niveles de impacto",
+                  "titulo_completo": "6.1.12.3.3 Niveles de impacto",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600778.html",
+                  "pvid": "600778",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.12.3.4",
+                  "titulo": "Resolución de Ciberincidentes",
+                  "titulo_completo": "6.1.12.3.4 Resolución de Ciberincidentes",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600779.html",
+                  "pvid": "600779",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.1.12.3.5",
+                  "titulo": "Contenido de los reportes de Ciberincidentes",
+                  "titulo_completo": "6.1.12.3.5 Contenido de los reportes de Ciberincidentes",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600780.html",
+                  "pvid": "600780",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.1.12.4",
+              "titulo": "Reporte de Autoevaluación",
+              "titulo_completo": "6.1.12.4 Reporte de Autoevaluación",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600781.html",
+              "pvid": "600781",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.1.13",
+          "titulo": "ANEXOS",
+          "titulo_completo": "6.1.13 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600782.html",
+          "pvid": "600782",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "6.2",
+      "titulo": "TÍTULO II. RIESGO DE MERCADO",
+      "titulo_completo": "6.2 TÍTULO II. RIESGO DE MERCADO",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-600783.html",
+      "pvid": "600783",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "6.2.1",
+          "titulo": "OBJETIVO Y MARCO DE LA NORMATIVA",
+          "titulo_completo": "6.2.1 OBJETIVO Y MARCO DE LA NORMATIVA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600784.html",
+          "pvid": "600784",
+          "nivel": 2
+        },
+        {
+          "numero": "6.2.2",
+          "titulo": "DEFINICIONES",
+          "titulo_completo": "6.2.2 DEFINICIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600785.html",
+          "pvid": "600785",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.2.2.1",
+              "titulo": "Riesgo de Mercado",
+              "titulo_completo": "6.2.2.1 Riesgo de Mercado",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600786.html",
+              "pvid": "600786",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.2.2",
+              "titulo": "Libro de Negociación",
+              "titulo_completo": "6.2.2.2 Libro de Negociación",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600787.html",
+              "pvid": "600787",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.2.3",
+              "titulo": "Libro de Caja",
+              "titulo_completo": "6.2.2.3 Libro de Caja",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600788.html",
+              "pvid": "600788",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.2.2.3.1",
+                  "titulo": "Instrumentos Financieros a Vencimiento",
+                  "titulo_completo": "6.2.2.3.1 Instrumentos Financieros a Vencimiento",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600789.html",
+                  "pvid": "600789",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.2.2.3.2",
+                  "titulo": "Instrumentos Disponibles para la Venta",
+                  "titulo_completo": "6.2.2.3.2 Instrumentos Disponibles para la Venta",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600790.html",
+                  "pvid": "600790",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.2.2.4",
+              "titulo": "Riesgo de Tasa de Interés",
+              "titulo_completo": "6.2.2.4 Riesgo de Tasa de Interés",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600791.html",
+              "pvid": "600791",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.2.5",
+              "titulo": "Riesgo de Reajustabilidad",
+              "titulo_completo": "6.2.2.5 Riesgo de Reajustabilidad",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600792.html",
+              "pvid": "600792",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.2.3",
+          "titulo": "GESTIÓN INTEGRAL DEL RIESGO DE MERCADO",
+          "titulo_completo": "6.2.3 GESTIÓN INTEGRAL DEL RIESGO DE MERCADO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600793.html",
+          "pvid": "600793",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.2.3.1",
+              "titulo": "Objetivos",
+              "titulo_completo": "6.2.3.1 Objetivos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600794.html",
+              "pvid": "600794",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.3.2",
+              "titulo": "Responsabilidad del Directorio",
+              "titulo_completo": "6.2.3.2 Responsabilidad del Directorio",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600795.html",
+              "pvid": "600795",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.3.3",
+              "titulo": "Gerencia de Riesgos o Unidad Afín",
+              "titulo_completo": "6.2.3.3 Gerencia de Riesgos o Unidad Afín",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600796.html",
+              "pvid": "600796",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.3.4",
+              "titulo": "Unidad Especializada de Riesgo de Mercado",
+              "titulo_completo": "6.2.3.4 Unidad Especializada de Riesgo de Mercado",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600797.html",
+              "pvid": "600797",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.3.5",
+              "titulo": "Funciones de soporte y control de riesgos",
+              "titulo_completo": "6.2.3.5 Funciones de soporte y control de riesgos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600798.html",
+              "pvid": "600798",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.2.4",
+          "titulo": "POLÍTICAS Y PROCEDIMIENTOS",
+          "titulo_completo": "6.2.4 POLÍTICAS Y PROCEDIMIENTOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600799.html",
+          "pvid": "600799",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.2.4.1",
+              "titulo": "Políticas",
+              "titulo_completo": "6.2.4.1 Políticas",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600800.html",
+              "pvid": "600800",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.4.2",
+              "titulo": "Procedimientos",
+              "titulo_completo": "6.2.4.2 Procedimientos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600801.html",
+              "pvid": "600801",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.2.5",
+          "titulo": "METODOLOGÍA ESTÁNDAR DE MEDICIÓN DE RIESGO DE MERCADO",
+          "titulo_completo": "6.2.5 METODOLOGÍA ESTÁNDAR DE MEDICIÓN DE RIESGO DE MERCADO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600802.html",
+          "pvid": "600802",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.2.5.1",
+              "titulo": "Medición de exposición al riesgo de tasa de interés en el Libro de Negociación",
+              "titulo_completo": "6.2.5.1 Medición de exposición al riesgo de tasa de interés en el Libro de Negociación",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600803.html",
+              "pvid": "600803",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.5.2",
+              "titulo": "Medición de la exposición al riesgo de tasa de interés y reajustabilidad en el Libro de Caja",
+              "titulo_completo": "6.2.5.2 Medición de la exposición al riesgo de tasa de interés y reajustabilidad en el Libro de Caja",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600804.html",
+              "pvid": "600804",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.2.5.2.1",
+                  "titulo": "Exposición de corto plazo Libro de Caja",
+                  "titulo_completo": "6.2.5.2.1 Exposición de corto plazo Libro de Caja",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600805.html",
+                  "pvid": "600805",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.2.5.2.2",
+                  "titulo": "Exposición de largo plazo Libro de Caja",
+                  "titulo_completo": "6.2.5.2.2 Exposición de largo plazo Libro de Caja",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600806.html",
+                  "pvid": "600806",
+                  "nivel": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "6.2.6",
+          "titulo": "PRUEBAS DE ESTRÉS",
+          "titulo_completo": "6.2.6 PRUEBAS DE ESTRÉS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600807.html",
+          "pvid": "600807",
+          "nivel": 2
+        },
+        {
+          "numero": "6.2.7",
+          "titulo": "REQUERIMIENTO DE CAPITAL POR RIESGO DE MERCADO",
+          "titulo_completo": "6.2.7 REQUERIMIENTO DE CAPITAL POR RIESGO DE MERCADO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600808.html",
+          "pvid": "600808",
+          "nivel": 2
+        },
+        {
+          "numero": "6.2.8",
+          "titulo": "ENTREGA DE INFORMACIÓN DE ACTIVOS Y PASIVOS FINANCIEROS",
+          "titulo_completo": "6.2.8 ENTREGA DE INFORMACIÓN DE ACTIVOS Y PASIVOS FINANCIEROS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600809.html",
+          "pvid": "600809",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.2.8.1",
+              "titulo": "Archivo 'RENTA_FIJA': Información de Instrumentos de Inversión en Renta Fija",
+              "titulo_completo": "6.2.8.1 Archivo 'RENTA_FIJA': Información de Instrumentos de Inversión en Renta Fija",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600810.html",
+              "pvid": "600810",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.8.2",
+              "titulo": "Archivo 'PACTOS': Información de pactos de Inversión",
+              "titulo_completo": "6.2.8.2 Archivo 'PACTOS': Información de pactos de Inversión",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600811.html",
+              "pvid": "600811",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.8.3",
+              "titulo": "Archivo 'PAS FIN': Información de Pasivos Financieros",
+              "titulo_completo": "6.2.8.3 Archivo 'PAS FIN': Información de Pasivos Financieros",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600812.html",
+              "pvid": "600812",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.8.4",
+              "titulo": "Archivo 'PRÉSTAMOS': Información de Préstamos con Instituciones Privadas y Públicas",
+              "titulo_completo": "6.2.8.4 Archivo 'PRÉSTAMOS': Información de Préstamos con Instituciones Privadas y Públicas",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600813.html",
+              "pvid": "600813",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.8.5",
+              "titulo": "Archivo 'SOBREGIRO': Información de Líneas de Sobregiro",
+              "titulo_completo": "6.2.8.5 Archivo 'SOBREGIRO': Información de Líneas de Sobregiro",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600814.html",
+              "pvid": "600814",
+              "nivel": 3
+            },
+            {
+              "numero": "6.2.8.6",
+              "titulo": "Archivo 'RESÚMENES': Documento Electrónico de Resumen",
+              "titulo_completo": "6.2.8.6 Archivo 'RESÚMENES': Documento Electrónico de Resumen",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600815.html",
+              "pvid": "600815",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.2.9",
+          "titulo": "OBLIGACIONES DE INFORMACIÓN CON LA SUPERINTENDENCIA",
+          "titulo_completo": "6.2.9 OBLIGACIONES DE INFORMACIÓN CON LA SUPERINTENDENCIA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600816.html",
+          "pvid": "600816",
+          "nivel": 2
+        },
+        {
+          "numero": "6.2.10",
+          "titulo": "AUTORIZACIÓN DE USUARIOS",
+          "titulo_completo": "6.2.10 AUTORIZACIÓN DE USUARIOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600817.html",
+          "pvid": "600817",
+          "nivel": 2
+        },
+        {
+          "numero": "6.2.11",
+          "titulo": "PROCEDIMIENTO DE PRÓRROGA Y AJUSTES",
+          "titulo_completo": "6.2.11 PROCEDIMIENTO DE PRÓRROGA Y AJUSTES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600818.html",
+          "pvid": "600818",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.2.11.1",
+              "titulo": "SOLICITUD DE PRÓRROGA",
+              "titulo_completo": "6.2.11.1 SOLICITUD DE PRÓRROGA",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600819.html",
+              "pvid": "600819",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.2.11.1.1",
+                  "titulo": "Para solicitudes de prórroga que requieran entre 1 y 3 días hábiles",
+                  "titulo_completo": "6.2.11.1.1 Para solicitudes de prórroga que requieran entre 1 y 3 días hábiles",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600820.html",
+                  "pvid": "600820",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.2.11.1.2",
+                  "titulo": "Para solicitudes de prórroga que superan los 3 días hábiles",
+                  "titulo_completo": "6.2.11.1.2 Para solicitudes de prórroga que superan los 3 días hábiles",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600821.html",
+                  "pvid": "600821",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.2.11.2",
+              "titulo": "SOLICITUDES DE REENVÍO DE ARCHIVOS ANTERIORES",
+              "titulo_completo": "6.2.11.2 SOLICITUDES DE REENVÍO DE ARCHIVOS ANTERIORES",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600822.html",
+              "pvid": "600822",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.2.12",
+          "titulo": "SISTEMA DE ENVÍO DE REPORTES",
+          "titulo_completo": "6.2.12 SISTEMA DE ENVÍO DE REPORTES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600823.html",
+          "pvid": "600823",
+          "nivel": 2
+        },
+        {
+          "numero": "6.2.13",
+          "titulo": "ANEXOS",
+          "titulo_completo": "6.2.13 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600824.html",
+          "pvid": "600824",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "6.3",
+      "titulo": "TÍTULO III. RIESGO DE LIQUIDEZ",
+      "titulo_completo": "6.3 TÍTULO III. RIESGO DE LIQUIDEZ",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-600825.html",
+      "pvid": "600825",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "6.3.1",
+          "titulo": "GESTIÓN INTEGRAL DEL RIESGO DE LIQUIDEZ",
+          "titulo_completo": "6.3.1 GESTIÓN INTEGRAL DEL RIESGO DE LIQUIDEZ",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600826.html",
+          "pvid": "600826",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.3.1.1",
+              "titulo": "Responsabilidades del Directorio",
+              "titulo_completo": "6.3.1.1 Responsabilidades del Directorio",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600827.html",
+              "pvid": "600827",
+              "nivel": 3
+            },
+            {
+              "numero": "6.3.1.2",
+              "titulo": "Gerencia de Riesgo o Unidad Afín",
+              "titulo_completo": "6.3.1.2 Gerencia de Riesgo o Unidad Afín",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600828.html",
+              "pvid": "600828",
+              "nivel": 3
+            },
+            {
+              "numero": "6.3.1.3",
+              "titulo": "Funciones de soporte y control de riesgos",
+              "titulo_completo": "6.3.1.3 Funciones de soporte y control de riesgos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600829.html",
+              "pvid": "600829",
+              "nivel": 3
+            },
+            {
+              "numero": "6.3.1.4",
+              "titulo": "Política de Administración del Riesgo de Liquidez",
+              "titulo_completo": "6.3.1.4 Política de Administración del Riesgo de Liquidez",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600830.html",
+              "pvid": "600830",
+              "nivel": 3
+            },
+            {
+              "numero": "6.3.1.5",
+              "titulo": "Procedimientos",
+              "titulo_completo": "6.3.1.5 Procedimientos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600831.html",
+              "pvid": "600831",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.3.2",
+          "titulo": "ESTRUCTURA DE BALANCE Y FLUJO DE EGRESOS E INGRESOS",
+          "titulo_completo": "6.3.2 ESTRUCTURA DE BALANCE Y FLUJO DE EGRESOS E INGRESOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600832.html",
+          "pvid": "600832",
+          "nivel": 2
+        },
+        {
+          "numero": "6.3.3",
+          "titulo": "DESCALCES O BRECHAS DE LIQUIDEZ",
+          "titulo_completo": "6.3.3 DESCALCES O BRECHAS DE LIQUIDEZ",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600833.html",
+          "pvid": "600833",
+          "nivel": 2
+        },
+        {
+          "numero": "6.3.4",
+          "titulo": "MODELO PARA MEDIR EL RIESGO DE LIQUIDEZ",
+          "titulo_completo": "6.3.4 MODELO PARA MEDIR EL RIESGO DE LIQUIDEZ",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600834.html",
+          "pvid": "600834",
+          "nivel": 2
+        },
+        {
+          "numero": "6.3.5",
+          "titulo": "FLUJOS DE INGRESOS Y EGRESOS QUE SE CONSIDERAN EN EL CÁLCULO DE LA BRECHA DE LIQUIDEZ",
+          "titulo_completo": "6.3.5 FLUJOS DE INGRESOS Y EGRESOS QUE SE CONSIDERAN EN EL CÁLCULO DE LA BRECHA DE LIQUIDEZ",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600835.html",
+          "pvid": "600835",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.3.5.1",
+              "titulo": "Flujos de Ingresos",
+              "titulo_completo": "6.3.5.1 Flujos de Ingresos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600836.html",
+              "pvid": "600836",
+              "nivel": 3
+            },
+            {
+              "numero": "6.3.5.2",
+              "titulo": "Flujos de Egresos",
+              "titulo_completo": "6.3.5.2 Flujos de Egresos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600837.html",
+              "pvid": "600837",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.3.6",
+          "titulo": "PLANIFICACIÓN DE CONTINGENCIAS DE LIQUIDEZ",
+          "titulo_completo": "6.3.6 PLANIFICACIÓN DE CONTINGENCIAS DE LIQUIDEZ",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600838.html",
+          "pvid": "600838",
+          "nivel": 2
+        },
+        {
+          "numero": "6.3.7",
+          "titulo": "TEST DE ESTRÉS",
+          "titulo_completo": "6.3.7 TEST DE ESTRÉS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600839.html",
+          "pvid": "600839",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.3.7.1",
+              "titulo": "Escenarios mínimos",
+              "titulo_completo": "6.3.7.1 Escenarios mínimos",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600840.html",
+              "pvid": "600840",
+              "nivel": 3
+            },
+            {
+              "numero": "6.3.7.2",
+              "titulo": "Aspectos mínimos a considerar",
+              "titulo_completo": "6.3.7.2 Aspectos mínimos a considerar",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600841.html",
+              "pvid": "600841",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.3.8",
+          "titulo": "SOBRE EL ENVÍO DE INFORMACIÓN A LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL",
+          "titulo_completo": "6.3.8 SOBRE EL ENVÍO DE INFORMACIÓN A LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600842.html",
+          "pvid": "600842",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.3.8.1",
+              "titulo": "Modelo de Liquidez",
+              "titulo_completo": "6.3.8.1 Modelo de Liquidez",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600843.html",
+              "pvid": "600843",
+              "nivel": 3
+            },
+            {
+              "numero": "6.3.8.2",
+              "titulo": "Test de Estrés",
+              "titulo_completo": "6.3.8.2 Test de Estrés",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600844.html",
+              "pvid": "600844",
+              "nivel": 3
+            },
+            {
+              "numero": "6.3.8.3",
+              "titulo": "Plan de Contingencia",
+              "titulo_completo": "6.3.8.3 Plan de Contingencia",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600845.html",
+              "pvid": "600845",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.3.9",
+          "titulo": "FLUJO DE CAJA MENSUAL",
+          "titulo_completo": "6.3.9 FLUJO DE CAJA MENSUAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600846.html",
+          "pvid": "600846",
+          "nivel": 2
+        },
+        {
+          "numero": "6.3.10",
+          "titulo": "AUTORIZACIÓN DE USUARIOS",
+          "titulo_completo": "6.3.10 AUTORIZACIÓN DE USUARIOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600847.html",
+          "pvid": "600847",
+          "nivel": 2
+        },
+        {
+          "numero": "6.3.11",
+          "titulo": "PROCEDIMIENTO DE PRÓRROGA Y AJUSTES",
+          "titulo_completo": "6.3.11 PROCEDIMIENTO DE PRÓRROGA Y AJUSTES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600848.html",
+          "pvid": "600848",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.3.11.1",
+              "titulo": "Solicitud de prórroga",
+              "titulo_completo": "6.3.11.1 Solicitud de prórroga",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600849.html",
+              "pvid": "600849",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.3.11.1.1",
+                  "titulo": "Para solicitudes de prórroga que requieran entre 1 y 3 días hábiles",
+                  "titulo_completo": "6.3.11.1.1 Para solicitudes de prórroga que requieran entre 1 y 3 días hábiles",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600850.html",
+                  "pvid": "600850",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.3.11.1.2",
+                  "titulo": "Para solicitudes de prórroga que superan los 3 días hábiles",
+                  "titulo_completo": "6.3.11.1.2 Para solicitudes de prórroga que superan los 3 días hábiles",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600851.html",
+                  "pvid": "600851",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.3.11.2",
+              "titulo": "Solicitudes de reenvío de archivos anteriores",
+              "titulo_completo": "6.3.11.2 Solicitudes de reenvío de archivos anteriores",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600852.html",
+              "pvid": "600852",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.3.12",
+          "titulo": "SISTEMA DE ENVÍO DE REPORTES",
+          "titulo_completo": "6.3.12 SISTEMA DE ENVÍO DE REPORTES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600853.html",
+          "pvid": "600853",
+          "nivel": 2
+        },
+        {
+          "numero": "6.3.13",
+          "titulo": "ANEXOS",
+          "titulo_completo": "6.3.13 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600854.html",
+          "pvid": "600854",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "6.4",
+      "titulo": "TÍTULO IV. RIESGO DE CRÉDITO",
+      "titulo_completo": "6.4 TÍTULO IV. RIESGO DE CRÉDITO",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-600855.html",
+      "pvid": "600855",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "6.4.1",
+          "titulo": "CONSIDERACIONES GENERALES Y RESPONSABILIDAD DEL DIRECTORIO",
+          "titulo_completo": "6.4.1 CONSIDERACIONES GENERALES Y RESPONSABILIDAD DEL DIRECTORIO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600856.html",
+          "pvid": "600856",
+          "nivel": 2
+        },
+        {
+          "numero": "6.4.2",
+          "titulo": "GERENCIA DE RIESGOS O UNIDAD AFÍN",
+          "titulo_completo": "6.4.2 GERENCIA DE RIESGOS O UNIDAD AFÍN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600857.html",
+          "pvid": "600857",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.4.2.1",
+              "titulo": "Unidad Especializada de Riesgo de Crédito",
+              "titulo_completo": "6.4.2.1 Unidad Especializada de Riesgo de Crédito",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600858.html",
+              "pvid": "600858",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.4.3",
+          "titulo": "MODELOS DE PROVISIONES DE LA CARTERA DE CRÉDITO SOCIAL",
+          "titulo_completo": "6.4.3 MODELOS DE PROVISIONES DE LA CARTERA DE CRÉDITO SOCIAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600871.html",
+          "pvid": "600871",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.4.3.1",
+              "titulo": "Tipo de Modelos Propios",
+              "titulo_completo": "6.4.3.1 Tipo de Modelos Propios",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600872.html",
+              "pvid": "600872",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.4.3.1.1",
+                  "titulo": "Modelos Basados en los Atributos de los Deudores y sus Créditos",
+                  "titulo_completo": "6.4.3.1.1 Modelos Basados en los Atributos de los Deudores y sus Créditos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600873.html",
+                  "pvid": "600873",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.4.3.1.2",
+                  "titulo": "Modelos Basados en el Comportamiento de un Grupo de Créditos Sociales",
+                  "titulo_completo": "6.4.3.1.2 Modelos Basados en el Comportamiento de un Grupo de Créditos Sociales",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600874.html",
+                  "pvid": "600874",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "6.4.3.2",
+              "titulo": "Requisitos para el Uso de Modelos Propios",
+              "titulo_completo": "6.4.3.2 Requisitos para el Uso de Modelos Propios",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600875.html",
+              "pvid": "600875",
+              "nivel": 3
+            },
+            {
+              "numero": "6.4.3.3",
+              "titulo": "Procedimiento de Evaluación de Modelos Propios",
+              "titulo_completo": "6.4.3.3 Procedimiento de Evaluación de Modelos Propios",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600876.html",
+              "pvid": "600876",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.4.4",
+          "titulo": "PROVISIÓN FINAL",
+          "titulo_completo": "6.4.4 PROVISIÓN FINAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600877.html",
+          "pvid": "600877",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.4.4.1",
+              "titulo": "Créditos de Consumo, Créditos a Microempresarios y Créditos Educacionales",
+              "titulo_completo": "6.4.4.1 Créditos de Consumo, Créditos a Microempresarios y Créditos Educacionales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600878.html",
+              "pvid": "600878",
+              "nivel": 3
+            },
+            {
+              "numero": "6.4.4.2",
+              "titulo": "Consideraciones adicionales",
+              "titulo_completo": "6.4.4.2 Consideraciones adicionales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600879.html",
+              "pvid": "600879",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.4.5",
+          "titulo": "EVALUACIÓN DE LA GESTIÓN EN RIESGO DE CRÉDITO",
+          "titulo_completo": "6.4.5 EVALUACIÓN DE LA GESTIÓN EN RIESGO DE CRÉDITO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600880.html",
+          "pvid": "600880",
+          "nivel": 2
+        },
+        {
+          "numero": "6.4.6",
+          "titulo": "AUTOEVALUACIÓN",
+          "titulo_completo": "6.4.6 AUTOEVALUACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600881.html",
+          "pvid": "600881",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "6.5",
+      "titulo": "TÍTULO V. RIESGO DE SOLVENCIA",
+      "titulo_completo": "6.5 TÍTULO V. RIESGO DE SOLVENCIA",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-600883.html",
+      "pvid": "600883",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "6.5.1",
+          "titulo": "CAPITAL MÍNIMO SEGÚN EL NIVEL DE RIESGOS",
+          "titulo_completo": "6.5.1 CAPITAL MÍNIMO SEGÚN EL NIVEL DE RIESGOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600884.html",
+          "pvid": "600884",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.5.1.1",
+              "titulo": "Consideraciones Generales y Responsabilidad del Directorio",
+              "titulo_completo": "6.5.1.1 Consideraciones Generales y Responsabilidad del Directorio",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600885.html",
+              "pvid": "600885",
+              "nivel": 3
+            },
+            {
+              "numero": "6.5.1.2",
+              "titulo": "Definición de Patrimonio para efectos de niveles mínimos de capital para las Cajas de Compensación de Asignación Familiar",
+              "titulo_completo": "6.5.1.2 Definición de Patrimonio para efectos de niveles mínimos de capital para las Cajas de Compensación de Asignación Familiar",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600886.html",
+              "pvid": "600886",
+              "nivel": 3
+            },
+            {
+              "numero": "6.5.1.3",
+              "titulo": "Límites exigidos por la Presente Normativa Complementaria de Solvencia",
+              "titulo_completo": "6.5.1.3 Límites exigidos por la Presente Normativa Complementaria de Solvencia",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600887.html",
+              "pvid": "600887",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "6.5.2",
+          "titulo": "ACTIVO TOTAL Y ACTIVOS PONDERADOS POR RIESGO",
+          "titulo_completo": "6.5.2 ACTIVO TOTAL Y ACTIVOS PONDERADOS POR RIESGO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600888.html",
+          "pvid": "600888",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.5.2.1",
+              "titulo": "Activo Total",
+              "titulo_completo": "6.5.2.1 Activo Total",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600889.html",
+              "pvid": "600889",
+              "nivel": 3
+            },
+            {
+              "numero": "6.5.2.2",
+              "titulo": "Clasificación de los Activos por Categorías",
+              "titulo_completo": "6.5.2.2 Clasificación de los Activos por Categorías",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600890.html",
+              "pvid": "600890",
+              "nivel": 3
+            },
+            {
+              "numero": "6.5.2.3",
+              "titulo": "Porcentajes asignados a los activos por categorías",
+              "titulo_completo": "6.5.2.3 Porcentajes asignados a los activos por categorías",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600891.html",
+              "pvid": "600891",
+              "nivel": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": "6.6",
+      "titulo": "TÍTULO VI. REGISTRO PARA LA EMISIÓN DE MUTUOS HIPOTECARIOS ENDOSABLES",
+      "titulo_completo": "6.6 TÍTULO VI. REGISTRO PARA LA EMISIÓN DE MUTUOS HIPOTECARIOS ENDOSABLES",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-600892.html",
+      "pvid": "600892",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "6.6.1",
+          "titulo": "ANTECEDENTES GENERALES",
+          "titulo_completo": "6.6.1 ANTECEDENTES GENERALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600893.html",
+          "pvid": "600893",
+          "nivel": 2
+        },
+        {
+          "numero": "6.6.2",
+          "titulo": "SOBRE EL MODELO PARA DEFINIR LA AUTORIZACIÓN A LAS C.C.A.F.",
+          "titulo_completo": "6.6.2 SOBRE EL MODELO PARA DEFINIR LA AUTORIZACIÓN A LAS C.C.A.F.",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600894.html",
+          "pvid": "600894",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "6.6.2.1",
+              "titulo": "Requisitos de liquidez que deben cumplir las C.C.A.F.",
+              "titulo_completo": "6.6.2.1 Requisitos de liquidez que deben cumplir las C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600895.html",
+              "pvid": "600895",
+              "nivel": 3
+            },
+            {
+              "numero": "6.6.2.2",
+              "titulo": "Requisitos de solvencia que deben cumplir las C.C.A.F.",
+              "titulo_completo": "6.6.2.2 Requisitos de solvencia que deben cumplir las C.C.A.F.",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-600896.html",
+              "pvid": "600896",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "6.6.2.2.1",
+                  "titulo": "Aspectos considerados en la evaluación cuantitativa de Solvencia",
+                  "titulo_completo": "6.6.2.2.1 Aspectos considerados en la evaluación cuantitativa de Solvencia",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600897.html",
+                  "pvid": "600897",
+                  "nivel": 4
+                },
+                {
+                  "numero": "6.6.2.2.2",
+                  "titulo": "Aspectos considerados en la evaluación cualitativa de Solvencia",
+                  "titulo_completo": "6.6.2.2.2 Aspectos considerados en la evaluación cualitativa de Solvencia",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-600898.html",
+                  "pvid": "600898",
+                  "nivel": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "numero": "6.6.3",
+          "titulo": "REVOCACIÓN DE LA AUTORIZACIÓN PARA OTORGAR Y ADMINISTRAR MUTUOS HIPOTECARIOS ENDOSABLES",
+          "titulo_completo": "6.6.3 REVOCACIÓN DE LA AUTORIZACIÓN PARA OTORGAR Y ADMINISTRAR MUTUOS HIPOTECARIOS ENDOSABLES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600899.html",
+          "pvid": "600899",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "6.7",
+      "titulo": "TÍTULO VII. RIESGO REPUTACIONAL",
+      "titulo_completo": "6.7 TÍTULO VII. RIESGO REPUTACIONAL",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-600900.html",
+      "pvid": "600900",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "6.7.1",
+          "titulo": "DEFINICIONES",
+          "titulo_completo": "6.7.1 DEFINICIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600901.html",
+          "pvid": "600901",
+          "nivel": 2
+        },
+        {
+          "numero": "6.7.2",
+          "titulo": "POLÍTICA DE RIESGO REPUTACIONAL",
+          "titulo_completo": "6.7.2 POLÍTICA DE RIESGO REPUTACIONAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600902.html",
+          "pvid": "600902",
+          "nivel": 2
+        },
+        {
+          "numero": "6.7.3",
+          "titulo": "GESTIÓN DEL RIESGO REPUTACIONAL",
+          "titulo_completo": "6.7.3 GESTIÓN DEL RIESGO REPUTACIONAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600903.html",
+          "pvid": "600903",
+          "nivel": 2
+        },
+        {
+          "numero": "6.7.4",
+          "titulo": "ACTIVIDADES DE GESTIÓN DE RIESGO REPUTACIONAL",
+          "titulo_completo": "6.7.4 ACTIVIDADES DE GESTIÓN DE RIESGO REPUTACIONAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-600904.html",
+          "pvid": "600904",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "6.8",
+      "titulo": "TÍTULO VIII. RIESGO DE OBTENCIÓN IMPROCEDENTE DE BENEFICIOS O DE RECURSOS",
+      "titulo_completo": "6.8 TÍTULO VIII. RIESGO DE OBTENCIÓN IMPROCEDENTE DE BENEFICIOS O DE RECURSOS",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-754029.html",
+      "pvid": "754029",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "6.8.1",
+          "titulo": "DEFINICIONES",
+          "titulo_completo": "6.8.1 DEFINICIONES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-754030.html",
+          "pvid": "754030",
+          "nivel": 2
+        },
+        {
+          "numero": "6.8.2",
+          "titulo": "GESTIÓN DEL RIESGO DE OBTENCIÓN IMPROCEDENTE DE BENEFICIOS O DE RECURSOS",
+          "titulo_completo": "6.8.2 GESTIÓN DEL RIESGO DE OBTENCIÓN IMPROCEDENTE DE BENEFICIOS O DE RECURSOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-754031.html",
+          "pvid": "754031",
+          "nivel": 2
+        },
+        {
+          "numero": "6.8.3",
+          "titulo": "ACTIVIDADES DE PREVENCIÓN",
+          "titulo_completo": "6.8.3 ACTIVIDADES DE PREVENCIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-754032.html",
+          "pvid": "754032",
+          "nivel": 2
+        },
+        {
+          "numero": "6.8.4",
+          "titulo": "ACTIVIDADES DE DETECCIÓN",
+          "titulo_completo": "6.8.4 ACTIVIDADES DE DETECCIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-754033.html",
+          "pvid": "754033",
+          "nivel": 2
+        },
+        {
+          "numero": "6.8.5",
+          "titulo": "ACTIVIDADES DE RESPUESTA",
+          "titulo_completo": "6.8.5 ACTIVIDADES DE RESPUESTA",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-754034.html",
+          "pvid": "754034",
+          "nivel": 2
+        },
+        {
+          "numero": "6.8.6",
+          "titulo": "INTERACCIÓN CON OTRAS ENTIDADES Y COLABORACIÓN INTERINSTITUCIONAL",
+          "titulo_completo": "6.8.6 INTERACCIÓN CON OTRAS ENTIDADES Y COLABORACIÓN INTERINSTITUCIONAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-754035.html",
+          "pvid": "754035",
+          "nivel": 2
+        },
+        {
+          "numero": "6.8.7",
+          "titulo": "RESPONSABILIDAD Y COMUNICACIÓN CON LOS AFILIADOS",
+          "titulo_completo": "6.8.7 RESPONSABILIDAD Y COMUNICACIÓN CON LOS AFILIADOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-754036.html",
+          "pvid": "754036",
+          "nivel": 2
+        },
+        {
+          "numero": "6.8.8",
+          "titulo": "PLAN DE IMPLEMENTACIÓN",
+          "titulo_completo": "6.8.8 PLAN DE IMPLEMENTACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-754037.html",
+          "pvid": "754037",
+          "nivel": 2
+        }
+      ]
+    }
+  ]
+}

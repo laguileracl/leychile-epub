@@ -1,0 +1,4 @@
+6.1.1.6 Riesgo inherente
+========================
+
+Corresponde a aquel riesgo que por su naturaleza no puede ser separado del proceso o subproceso en que éste se presenta. Lo anterior, en el marco del riesgo que debe asumir cada C.C.A.F., de acuerdo al ámbito de desarrollo de sus actividades establecidas por Ley.

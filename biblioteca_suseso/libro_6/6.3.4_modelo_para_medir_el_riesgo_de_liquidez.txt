@@ -1,0 +1,41 @@
+6.3.4 MODELO PARA MEDIR EL RIESGO DE LIQUIDEZ
+=============================================
+
+La Caja de Compensación de Asignación Familiar debe ajustar su riesgo de liquidez a partir del siguiente Modelo de Liquidez que se explica a continuación:
+
+La C.C.A.F. debe administrar su riesgo de liquidez para lo cual se les exigirá el cumplimiento de un descalce máximo para las siguientes bandas temporales:
+
+Banda 1: Primer día hasta el día 15 (a 15 días)
+
+Banda 2: Acumulado al Primer mes (a 30 días)
+
+Banda 3: Acumulado al Tercer mes (a 90 días)
+
+Banda 4: Acumulado al Sexto mes (a 180 días)
+
+Banda 5: Acumulado al Duodécimo mes (a 365 días).
+
+La determinación del riesgo de liquidez se hará aplicando el concepto de Brecha de Liquidez, la que será igual a la diferencia entre los flujos de egresos y los flujos de ingresos para cada banda de tiempo previamente definida. Si la diferencia es positiva, el valor absoluto de este monto no puede exceder a un cierto porcentaje del valor del Fondo Social.
+
+Los porcentajes o límites máximos de descalce con respecto al Fondo Social por cada Brecha son los siguientes:
+
+10% para la Brecha 1
+
+25% para la Brecha 2
+
+50% para la Brecha 3
+
+75% para la Brecha 4
+
+100% para la Brecha 5
+
+Se entiende por "liquidez en riesgo" el no cumplimiento de los límites anteriormente definidos. En la eventualidad que no se cumpla con los límites anteriormente establecidos en cualquier intervalo, junto con el envío a esta Superintendencia del reporte que se solicita en el numeral 6.3.8 del Título III del Libro VI del Compendio de la Ley N°18.833 , el Gerente General de la Caja debe enviar un informe de descalce a esta Superintendencia explicitando las razones fundamentales del no cumplimiento de estos límites, identificando si éstas son de carácter coyuntural o permanente, estableciendo las acciones y plazos estimados en los cuales la C.C.A.F. se compromete a cumplir con los límites permitidos.
+
+Adicionalmente, el Gerente General debe informar al Directorio en la más próxima sesión, quien debe pronunciarse sobre el informe de descalce y establecer mediante un acuerdo de Directorio, el plan de acción y plazos a que se ha hecho mención, el que debe ser remitido a esta Superintendencia dentro de un plazo máximo de 5 días hábiles, contados a partir de la fecha de reunión de Directorio.
+
+Lo anterior, es sin perjuicio de lo dispuesto en el artículo 57 de la Ley N° 16.395.
+
+
+
+Referencias legales:
+ Ley 16.395, artículo 57

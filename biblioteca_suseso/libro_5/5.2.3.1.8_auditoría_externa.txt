@@ -1,0 +1,4 @@
+5.2.3.1.8 Auditoría externa
+===========================
+
+Las políticas, procesos y controles desarrollados e implementados en el marco de Control Interno pueden ser revisados por Auditores Externos de manera independiente, según las normativas vigentes.

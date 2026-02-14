@@ -1,0 +1,23 @@
+3.8.8 CONTABILIZACIÓN
+=====================
+
+3.8.8.1. Reconocimiento de la Obligación
+
+Los pagos en exceso identificados que aún no han sido publicados en la página web deberán registrarse en una cuenta denominada pagos en exceso generados.
+
+Los pagos en exceso que se encuentren publicados en la página web de la C.C.A.F. deberán registrarse en una cuenta denominada pagos en exceso publicados.
+
+Los pagos en exceso que tuvieren más de 5 años en la página web de la C.C.A.F. deberán registrarse en una cuenta denominada pagos en exceso publicados mayores de 5 años.
+
+Las cuentas señaladas en los párrafos precedentes deben imputarse en los Estados Financieros en el Ítem 21020 Cuentas por Pagar Comerciales y Otras Cuentas por Pagar del Libro VII de este Compendio de la Ley N°18.833.
+
+Los archivos remitidos por la C.C.A.F. deben corresponder a los saldos contables de dichas cuentas, y ser coincidentes con la información sobre pagos en exceso presentada en la Nota Explicativa N°24 de los Estados Financieros del Libro VII de este Compendio de la Ley N°18.833.
+
+3.8.8.2. Disponibilidad de fondos
+
+Cabe agregar que el monto correspondiente a los pagos en exceso que registra una C.C.A.F. en las cuentas "pagos en exceso generados" y "pagos en exceso publicados", deberán ser mantenidos en los instrumentos financieros señalados en el artículo 31 de la Ley N°18.833 , y registrados en una cuenta contable de inversiones financieras separadas del resto de las inversiones, claramente nominadas según su naturaleza.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 31

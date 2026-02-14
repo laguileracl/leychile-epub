@@ -1,0 +1,22 @@
+6.1.5.8 Política para administrar el riesgo asociado a actividades externalizadas
+=================================================================================
+
+Con el fin de gestionar los riesgos operacionales asociados a la subcontratación, la Caja debe establecer políticas y procedimientos apropiados para evaluar, administrar y monitorear los procesos subcontratados, siendo la Caja la responsable última de dichos procesos. Dichas políticas y procedimientos deben considerar:
+
+La evaluación del riesgo, que considere a todas las partes involucradas, previa decisión de externalización. Dicha evaluación debe considerar criterios tales como: los montos pagados, el volumen de transacciones y la frecuencia de trato con el proveedor del servicio.
+
+El proceso de selección del proveedor del servicio.
+
+La elaboración del acuerdo de subcontratación.
+
+La gestión y monitoreo de los riesgos asociados con el acuerdo de subcontratación.
+
+La identificación de la criticidad del proveedor.
+
+La implementación de un entorno de control efectivo.
+
+Establecimiento de planes de continuidad, así como sus pruebas periódicas y reporte de resultados.
+
+Acceso a la información por parte del Regulador.
+
+Los acuerdos de subcontratación deben formalizarse mediante contratos firmados entre las partes, los cuales deben incluir acuerdos de niveles de servicio, cláusulas de penalizaciones y definir claramente las responsabilidades del proveedor y de la C.C.A.F., así como establecer los mecanismos de control y seguimiento que se consideren necesarios.

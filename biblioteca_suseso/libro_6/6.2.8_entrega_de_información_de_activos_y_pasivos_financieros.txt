@@ -1,0 +1,4 @@
+6.2.8 ENTREGA DE INFORMACIÓN DE ACTIVOS Y PASIVOS FINANCIEROS
+=============================================================
+
+(Nodo estructural - ver subnodos)

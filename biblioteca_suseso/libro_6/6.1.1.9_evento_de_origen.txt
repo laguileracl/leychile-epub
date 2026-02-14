@@ -1,0 +1,4 @@
+6.1.1.9 Evento de Origen
+========================
+
+Corresponde al evento, suceso o acontecimiento que da lugar, o tiene como consecuencia, una o más pérdidas cuantificables, o bien que da lugar a una serie de eventos colaterales que también impliquen pérdidas. En otras palabras, es el primer evento que da origen a una serie de pérdidas y/u otros eventos.

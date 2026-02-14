@@ -1,0 +1,8 @@
+6.1.12.3.2 Niveles de peligrosidad
+==================================
+
+El nivel de peligrosidad determina la potencial amenaza que supondría la materialización de un incidente en las redes, equipos y sistemas de la C.C.A.F., así como su efecto en la calidad o continuidad en el otorgamiento de las prestaciones.
+
+Conforme a sus características, las amenazas son clasificadas con los siguientes niveles de peligrosidad: Crítico, Muy Alto, Alto, Medio y Bajo.
+
+El nivel asignado se determinará según lo que se señala en el Anexo N°5: Niveles de peligrosidad de los ciberincidentes del Título I del Libro VI del Compendio de la Ley N°18.833.

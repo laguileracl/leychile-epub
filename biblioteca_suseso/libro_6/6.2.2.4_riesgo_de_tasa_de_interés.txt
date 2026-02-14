@@ -1,0 +1,4 @@
+6.2.2.4 Riesgo de Tasa de Interés
+=================================
+
+Se asocia con la pérdida potencial de ingresos netos o del valor del patrimonio, originada por la incapacidad de la Caja de ajustar sus activos y pasivos sensibles a tasas de interés en el tiempo.

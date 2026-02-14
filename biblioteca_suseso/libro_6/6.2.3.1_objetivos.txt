@@ -1,0 +1,4 @@
+6.2.3.1 Objetivos
+=================
+
+La Caja debe contar con políticas y procedimientos que les permitan identificar, medir, controlar y divulgar los riesgos de mercado a los que se exponen con el fin de generar una cultura de administración de riesgos y prácticas efectivas, de forma que la toma de decisiones se fundamente técnicamente, y de acuerdo a las mejores prácticas de gestión de riesgos. La gestión integral del riesgo de mercado debe ser conocida por todos los niveles de la organización.
