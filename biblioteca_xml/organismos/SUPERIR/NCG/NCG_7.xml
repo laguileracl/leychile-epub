@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ley xmlns="https://leychile.cl/schema/ley/v1" version="1.1" idioma="es-CL" id_norma="NCG-7" tipo="Norma de Carácter General" numero="7" estado="vigente" fecha_version="2014-10-08" fecha_promulgacion="2014-10-08" fecha_publicacion="2014-10-08" generado="2026-02-12T21:30:05.130710" fuente="Biblioteca del Congreso Nacional de Chile" url_original="https://www.superir.gob.cl/wp-content/document/normas/NCG_N7_Contenidos_Obligatorios.pdf">
+<?xml version="1.0" ?>
+<norma xmlns="https://superir.cl/schema/norma/v1" tipo="Norma de Carácter General" numero="7" organismo="Superintendencia de Insolvencia y Reemprendimiento" version="1.0" estado="vigente" generado="2026-02-13T19:09:01.445315+00:00">
+  <encabezado>
+    <identificacion>NORMA DE CARÁCTER GENERAL N.° 7</identificacion>
+    <organismo>SUPERINTENDENCIA DE INSOLVENCIA Y REEMPRENDIMIENTO</organismo>
+    <referencia>Forma y contenidos obligatorios de las cuentas provisorias y de la Cuenta Final de Administración.</referencia>
+    <lugar>SANTIAGO</lugar>
+    <fecha>2014-10-08</fecha>
+  </encabezado>
   <metadatos>
     <titulo>NORMA DE CARÁCTER GENERAL N°7 - Forma y contenidos obligatorios de las cuentas provisorias y de la Cuenta Final de Administración</titulo>
-    <identificacion>
-      <tipo>Norma de Carácter General</tipo>
-      <numero>7</numero>
-    </identificacion>
-    <organismos>
-      <organismo>Superintendencia de Insolvencia y Reemprendimiento</organismo>
-    </organismos>
     <materias>
       <materia>Cuentas provisorias</materia>
       <materia>Cuenta Final de Administración</materia>
@@ -22,373 +22,377 @@
       <publicacion>2014-10-08</publicacion>
       <version>2014-10-08</version>
     </fechas>
-    <fuente>Superintendencia de Insolvencia y Reemprendimiento</fuente>
     <leyes_referenciadas>
       <ley_ref tipo="Ley" numero="20.720">Ley 20.720</ley_ref>
       <ley_ref tipo="NCG" numero="3">NCG 3</ley_ref>
       <ley_ref tipo="NCG" numero="1">NCG 1</ley_ref>
     </leyes_referenciadas>
   </metadatos>
-  <encabezado>
-    <vistos>Las facultades conferidas en los artículos 46° y 49° de la Ley N.° 20.720, sobre Reorganización y Liquidación de Activos de Empresas y Personas (en adelante, la &quot;Ley&quot;).</vistos>
-    <considerandos>1° Que el artículo 46° de la Ley dispone que la Superintendencia fijará la forma y contenidos obligatorios de las cuentas provisorias que deba rendir el Liquidador, las que deberán incluir, a lo menos, un desglose detallado de los ingresos y gastos durante los últimos tres meses de administración, con observancia de la normativa contable, tributaria y financiera aplicable, disponiendo además que lo anterior se realizará mediante la dictación de una Norma de Carácter General por parte de esta Superintendencia.
-
-2° Que, a su vez, el artículo 49° de la Ley dispone que la Superintendencia fijará la forma y contenidos obligatorios de la Cuenta Final de Administración, con observancia de la normativa contable, tributaria y financiera aplicable, disponiendo además que lo anterior se realizará mediante la dictación de una Norma de Carácter General por parte de esta Superintendencia.
-
-3° Que el artículo 25 N.° 9 de la Ley dispone que el Veedor deberá rendir mensualmente cuenta de su actuación y de los negocios del Deudor a la Superintendencia y presentar las observaciones que le merezca la administración de aquel.
-
-4° Que el artículo 29° de la Ley establece que el Veedor rendirá cuenta final de su gestión en el plazo de 30 días contado desde la Resolución que aprueba el Acuerdo de Reorganización Judicial o desde la Resolución de Liquidación, en su caso, siendo plenamente aplicable lo dispuesto en el Párrafo 2 del Título 3 del Capítulo II de la Ley.
-
-5° Que el artículo 216° de la Ley establece que los Martilleros Concursales deberán rendir ante la Superintendencia una cuenta detallada y desglosada de los bienes rematados, así como de los ingresos, gastos y resultado final del remate o subasta, y publicarla en el Boletín Concursal.
-
-Que, en conformidad a lo anterior, se dicta la siguiente:
-
-NORMA DE CARÁCTER GENERAL
-
-TÍTULO I Cuentas Provisorias</considerandos>
-  </encabezado>
-  <contenido total_articulos="21" total_libros="0" total_titulos="6" total_capitulos="0">
-    <titulo id="1" tipo_original="Título" numero="I">
-      <titulo_seccion>TÍTULO I Cuentas Provisorias</titulo_seccion>
-      <articulo id="1" tipo_original="Artículo" numero="1">
-        <titulo_seccion>Artículo 1. Oportunidad</titulo_seccion>
-        <contexto>TÍTULO I Cuentas Provisorias</contexto>
-        <contenido>
-          <parrafo>Las cuentas provisorias deberán rendirse mensualmente ante la junta de acreedores, debiendo publicarse en el Boletín Concursal dentro del plazo de 2 días, según lo establecido en los artículos 6°, 47° y siguientes de la Ley.</parrafo>
-          <parrafo>Dentro del mismo plazo, las cuentas provisorias se deberán agregar al expediente del Procedimiento Concursal de Liquidación.</parrafo>
-        </contenido>
+  <vistos>
+    <parrafo>Las facultades conferidas en los artículos 46° y 49° de la Ley N.° 20.720, sobre Reorganización y Liquidación de Activos de Empresas y Personas (en adelante, la &quot;Ley&quot;).</parrafo>
+  </vistos>
+  <considerandos>
+    <considerando numero="1">
+      <parrafo>Que el artículo 46° de la Ley dispone que la Superintendencia fijará la forma y contenidos obligatorios de las cuentas provisorias que deba rendir el Liquidador, las que deberán incluir, a lo menos, un desglose detallado de los ingresos y gastos durante los últimos tres meses de administración, con observancia de la normativa contable, tributaria y financiera aplicable, disponiendo además que lo anterior se realizará mediante la dictación de una Norma de Carácter General por parte de esta Superintendencia.</parrafo>
+    </considerando>
+    <considerando numero="2">
+      <parrafo>Que, a su vez, el artículo 49° de la Ley dispone que la Superintendencia fijará la forma y contenidos obligatorios de la Cuenta Final de Administración, con observancia de la normativa contable, tributaria y financiera aplicable, disponiendo además que lo anterior se realizará mediante la dictación de una Norma de Carácter General por parte de esta Superintendencia.</parrafo>
+    </considerando>
+    <considerando numero="3">
+      <parrafo>Que el artículo 25 N.° 9 de la Ley dispone que el Veedor deberá rendir mensualmente cuenta de su actuación y de los negocios del Deudor a la Superintendencia y presentar las observaciones que le merezca la administración de aquel.</parrafo>
+    </considerando>
+    <considerando numero="4">
+      <parrafo>Que el artículo 29° de la Ley establece que el Veedor rendirá cuenta final de su gestión en el plazo de 30 días contado desde la Resolución que aprueba el Acuerdo de Reorganización Judicial o desde la Resolución de Liquidación, en su caso, siendo plenamente aplicable lo dispuesto en el Párrafo 2 del Título 3 del Capítulo II de la Ley.</parrafo>
+    </considerando>
+    <considerando numero="5">
+      <parrafo>Que el artículo 216° de la Ley establece que los Martilleros Concursales deberán rendir ante la Superintendencia una cuenta detallada y desglosada de los bienes rematados, así como de los ingresos, gastos y resultado final del remate o subasta, y publicarla en el Boletín Concursal.</parrafo>
+    </considerando>
+  </considerandos>
+  <formula_dictacion>Que, en conformidad a lo anterior, se dicta la siguiente:</formula_dictacion>
+  <cuerpo_normativo>
+    <titulo numero="I" nombre="Cuentas Provisorias">
+      <articulo numero="1" epigrafe="Oportunidad">
+        <parrafo>Las cuentas provisorias deberán rendirse mensualmente ante la junta de acreedores, debiendo publicarse en el Boletín Concursal dentro del plazo de 2 días, según lo establecido en los artículos 6°, 47° y siguientes de la Ley.</parrafo>
+        <parrafo>Dentro del mismo plazo, las cuentas provisorias se deberán agregar al expediente del Procedimiento Concursal de Liquidación.</parrafo>
       </articulo>
-      <articulo id="2" tipo_original="Artículo" numero="2">
-        <titulo_seccion>Artículo 2. Forma de las cuentas provisorias</titulo_seccion>
-        <contexto>TÍTULO I Cuentas Provisorias</contexto>
-        <contenido>
-          <parrafo>Las cuentas provisorias se confeccionarán de acuerdo a las normas contables vigentes y deberán además adecuarse a las normas sobre aspectos contables y financieros de la administración concursal que al efecto dicte la Superintendencia.</parrafo>
-          <parrafo>Las cuentas deberán contemplar todo el movimiento del Procedimiento Concursal de Liquidación a la fecha de su corte contable, incluyendo un desglose detallado de los ingresos y gastos realizados durante el último mes.</parrafo>
-          <parrafo>Los saldos informados en las cuentas provisorias deberán concordar con los registros contables y sus respectivos respaldos.</parrafo>
-        </contenido>
+      <articulo numero="2" epigrafe="Forma de las cuentas provisorias">
+        <parrafo>Las cuentas provisorias se confeccionarán de acuerdo a las normas contables vigentes y deberán además adecuarse a las normas sobre aspectos contables y financieros de la administración concursal que al efecto dicte la Superintendencia.</parrafo>
+        <parrafo>Las cuentas deberán contemplar todo el movimiento del Procedimiento Concursal de Liquidación a la fecha de su corte contable, incluyendo un desglose detallado de los ingresos y gastos realizados durante el último mes.</parrafo>
+        <parrafo>Los saldos informados en las cuentas provisorias deberán concordar con los registros contables y sus respectivos respaldos.</parrafo>
       </articulo>
-      <articulo id="3" tipo_original="Artículo" numero="3">
-        <titulo_seccion>Artículo 3. Publicación de las cuentas provisorias en el Boletín Concursal</titulo_seccion>
-        <contexto>TÍTULO I Cuentas Provisorias</contexto>
-        <contenido>
-          <parrafo>La publicación de las cuentas provisorias en el Boletín Concursal deberá efectuarla el Liquidador, en conformidad a las reglas contenidas en la Norma de Carácter General N° 3 de esta Superintendencia.</parrafo>
-          <parrafo>Asimismo, el Liquidador deberá ingresar la información contenida en las cuentas provisorias a través de su perfil en la Plataforma Electrónica de esta Superintendencia, en formato Excel.</parrafo>
-        </contenido>
+      <articulo numero="3" epigrafe="Publicación de las cuentas provisorias en el Boletín Concursal">
+        <parrafo>La publicación de las cuentas provisorias en el Boletín Concursal deberá efectuarla el Liquidador, en conformidad a las reglas contenidas en la Norma de Carácter General N° 3 de esta Superintendencia.</parrafo>
+        <parrafo>Asimismo, el Liquidador deberá ingresar la información contenida en las cuentas provisorias a través de su perfil en la Plataforma Electrónica de esta Superintendencia, en formato Excel.</parrafo>
       </articulo>
     </titulo>
-    <titulo id="2" tipo_original="Título" numero="II">
-      <titulo_seccion>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</titulo_seccion>
-      <articulo id="4" tipo_original="Artículo" numero="4">
-        <titulo_seccion>Artículo 4. Oportunidad</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+    <titulo numero="II" nombre="Cuentas Finales de Administración que deben rendir los Liquidadores">
+      <parrafo numero="I" nombre="Obligación de rendir cuenta en caso de acogerse recurso de apelación">
+        <articulo numero="4" epigrafe="Oportunidad">
           <parrafo>Encontrándose ejecutoriada la sentencia que acogió el recurso de apelación establecido en el inciso final del artículo 129° de la Ley, el Liquidador deberá rendir Cuenta Final de su Administración.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="129"/>
-        </referencias>
-      </articulo>
-      <articulo id="5" tipo_original="Artículo" numero="5">
-        <titulo_seccion>Artículo 5. Plazo para objetar la cuenta</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+        </articulo>
+        <articulo numero="5" epigrafe="Plazo para objetar la cuenta">
           <parrafo>El Deudor, los acreedores individualmente considerados y la Superintendencia podrán impugnar la Cuenta Final de Administración indicada en el artículo anterior, dentro del plazo de cinco días a que se refiere el inciso segundo del artículo 52° de la Ley, el que se contará desde la publicación de la referida cuenta en el Boletín Concursal.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="52"/>
-        </referencias>
-      </articulo>
-      <articulo id="6" tipo_original="Artículo" numero="6">
-        <titulo_seccion>Artículo 6. Cesación anticipada en el cargo</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+        </articulo>
+      </parrafo>
+      <parrafo numero="II" nombre="Normativa aplicable a la cuenta rendida por el Liquidador que cesa anticipadamente en el cargo">
+        <articulo numero="6" epigrafe="Cesación anticipada en el cargo">
           <parrafo>Las Cuentas Finales de Administración que rindan los Liquidadores por haber cesado anticipadamente en el cargo, conforme a lo dispuesto en el número 3 del artículo 50° de la Ley, se regirán por las normas generales aplicables, aun cuando continúe la tramitación del Procedimiento Concursal de Liquidación.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="50"/>
-        </referencias>
-      </articulo>
-      <articulo id="7" tipo_original="Artículo" numero="7">
-        <titulo_seccion>Artículo 7. Forma de la Cuenta Final de Administración</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+        </articulo>
+      </parrafo>
+      <parrafo numero="III" nombre="Requisitos de la Cuenta Final de Administración del Liquidador">
+        <articulo numero="7" epigrafe="Forma de la Cuenta Final de Administración">
           <parrafo>Las Cuentas Finales de Administración se confeccionarán de acuerdo a las normas contables vigentes, ajustándose ordenadamente a la clasificación de las cuentas del Plan y Manual de Cuentas, cumpliendo además con los siguientes requisitos:</parrafo>
-          <parrafo>I.- Tener una carátula, que corresponde a la primera hoja de la Cuenta Final de Administración, en la cual se deberán consignar los siguientes antecedentes:</parrafo>
-          <parrafo>a) Título, fecha y nombre del Procedimiento Concursal de Liquidación. - Título: Cuenta Final de Administración. - Al [fecha]. - Nombre del Deudor: [nombre].</parrafo>
-          <parrafo>b) Resumen de ingresos y egresos.</parrafo>
-          <parrafo>II.- Contener el detalle de los ingresos y egresos:</parrafo>
-          <parrafo>a) Ingresos: Deberá detallarse cada cuenta de ingreso con su respectivo monto total.</parrafo>
-          <parrafo>b) Egresos: Deberá detallarse cada cuenta de egreso con su respectivo monto total.</parrafo>
-          <parrafo>c) Subtotales: Suma del total de ingresos y suma del total de egresos.</parrafo>
-          <parrafo>d) Provisión para Gastos Finales: Deberá reflejar el saldo disponible en cuenta corriente a la fecha de la Cuenta Final de Administración, destinado a cubrir gastos posteriores, debidamente justificados.</parrafo>
-          <parrafo>Los Liquidadores deberán mantener el saldo de la provisión para gastos finales pendientes una vez publicada la Cuenta Final de Administración, debiendo informar trimestralmente su monto actualizado a la Superintendencia a través del portal web destinado al efecto.</parrafo>
-          <parrafo>e) Totales Iguales: Se consignará la suma total de ingresos y la suma total de egresos más la provisión para gastos finales, si la hubiere.</parrafo>
-          <parrafo>III.- Incluir un balance general, a la fecha de confección de la respectiva Cuenta Final de Administración, ajustado a las normas contables y financieras dictadas por la Superintendencia.</parrafo>
-          <parrafo>IV.- Contar con la firma del Liquidador y del contador que confeccionó la Cuenta Final de Administración.</parrafo>
-          <parrafo>V.- Contener los libros mayores de cada cuenta del respectivo Procedimiento Concursal de Liquidación.</parrafo>
-          <parrafo>En el Anexo I de la presente Norma de Carácter General se incluye un modelo de presentación de Cuenta Final de Administración.</parrafo>
-        </contenido>
-      </articulo>
-      <articulo id="8" tipo_original="Artículo" numero="8">
-        <titulo_seccion>Artículo 8. Continuación de las actividades económicas del deudor</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+          <requisito numero="I">
+            <parrafo>Tener una carátula, que corresponde a la primera hoja de la Cuenta Final de Administración, en la cual se deberán consignar los siguientes antecedentes:</parrafo>
+            <item letra="a">Título, fecha y nombre del Procedimiento Concursal de Liquidación. - Título: Cuenta Final de Administración. - Al [fecha]. - Nombre del Deudor: [nombre].</item>
+            <item letra="b">Resumen de ingresos y egresos.</item>
+          </requisito>
+          <requisito numero="II" nombre="Contener el detalle de los ingresos y egresos">
+            <item letra="a" nombre="Ingresos">Deberá detallarse cada cuenta de ingreso con su respectivo monto total.</item>
+            <item letra="b" nombre="Egresos">Deberá detallarse cada cuenta de egreso con su respectivo monto total.</item>
+            <item letra="c" nombre="Subtotales">Suma del total de ingresos y suma del total de egresos.</item>
+            <item letra="d" nombre="Provisión para Gastos Finales">
+              <parrafo>Deberá reflejar el saldo disponible en cuenta corriente a la fecha de la Cuenta Final de Administración, destinado a cubrir gastos posteriores, debidamente justificados.</parrafo>
+              <parrafo>Los Liquidadores deberán mantener el saldo de la provisión para gastos finales pendientes una vez publicada la Cuenta Final de Administración, debiendo informar trimestralmente su monto actualizado a la Superintendencia a través del portal web destinado al efecto.</parrafo>
+            </item>
+            <item letra="e" nombre="Totales Iguales">Se consignará la suma total de ingresos y la suma total de egresos más la provisión para gastos finales, si la hubiere.</item>
+          </requisito>
+          <requisito numero="III">
+            <parrafo>Incluir un balance general, a la fecha de confección de la respectiva Cuenta Final de Administración, ajustado a las normas contables y financieras dictadas por la Superintendencia.</parrafo>
+          </requisito>
+          <requisito numero="IV">
+            <parrafo>Contar con la firma del Liquidador y del contador que confeccionó la Cuenta Final de Administración.</parrafo>
+          </requisito>
+          <requisito numero="V">
+            <parrafo>Contener los libros mayores de cada cuenta del respectivo Procedimiento Concursal de Liquidación.</parrafo>
+          </requisito>
+          <referencia_anexo>En el Anexo I de la presente Norma de Carácter General se incluye un modelo de presentación de Cuenta Final de Administración.</referencia_anexo>
+        </articulo>
+        <articulo numero="8" epigrafe="Continuación de las actividades económicas del deudor">
           <parrafo>Cuando en el Procedimiento Concursal de Liquidación se hubieren continuado las actividades económicas del deudor, en forma provisional o definitiva, total o parcial, la Cuenta Final deberá acompañar el balance final de dicha continuación y su correspondiente estado de resultados, ajustados a las normas contables y financieras dictadas por la Superintendencia. Sin estos antecedentes no se considerará rendida completamente la gestión del Liquidador.</parrafo>
-        </contenido>
-      </articulo>
-      <articulo id="9" tipo_original="Artículo" numero="9">
-        <titulo_seccion>Artículo 9. Publicación de la Cuenta Final de Administración en el Boletín Concursal</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+        </articulo>
+        <articulo numero="9" epigrafe="Publicación de la Cuenta Final de Administración en el Boletín Concursal">
           <parrafo>La publicación de las Cuentas Finales de Administración en el Boletín Concursal deberá efectuarla el Liquidador conforme a la Norma de Carácter General N° 3 de esta Superintendencia.</parrafo>
           <parrafo>Asimismo, deberá ingresar la información contenida en ellas a través de su perfil en la Plataforma Electrónica, en formato Excel.</parrafo>
-        </contenido>
-      </articulo>
-      <articulo id="10" tipo_original="Artículo" numero="10">
-        <titulo_seccion>Artículo 10. Gasto de bodegaje</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+        </articulo>
+      </parrafo>
+      <parrafo numero="IV" nombre="Provisión de Fondos para Gastos Posteriores a la Cuenta Final">
+        <articulo numero="10" epigrafe="Gasto de bodegaje">
           <parrafo>En caso de ser necesaria la contratación de bodegaje, deberá someterse a aprobación de la Junta de Acreedores el monto estimado para cubrir dichos gastos por todo el período requerido para mantener la documentación del Procedimiento Concursal de Liquidación hasta su devolución al Deudor.</parrafo>
           <parrafo>Se prohíbe estrictamente a los Liquidadores o sus Personas Relacionadas percibir suma alguna por bodegaje u otro concepto distinto de los honorarios que les correspondan conforme al artículo 39°, N° 9 de la Ley.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="39"/>
-        </referencias>
-      </articulo>
-      <articulo id="11" tipo_original="Artículo" numero="11">
-        <titulo_seccion>Artículo 11. Gasto de mantención cuenta corriente</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+        </articulo>
+        <articulo numero="11" epigrafe="Gasto de mantención cuenta corriente">
           <parrafo>El Liquidador deberá mantener los fondos en una cuenta individual a nombre del Procedimiento Concursal de Liquidación hasta su devolución al Deudor, procurando minimizar los cargos bancarios por mantención.</parrafo>
-        </contenido>
-      </articulo>
-      <articulo id="12" tipo_original="Artículo" numero="12">
-        <titulo_seccion>Artículo 12. Instrumentos financieros para consignar saldos</titulo_seccion>
-        <contexto>TÍTULO II Cuentas Finales de Administración que deben rendir los Liquidadores</contexto>
-        <contenido>
+        </articulo>
+        <articulo numero="12" epigrafe="Instrumentos financieros para consignar saldos">
           <parrafo>Efectuados los gastos finales, el Liquidador deberá invertir el saldo provisionado en un depósito a plazo indefinido y renovable automáticamente o en un vale vista, en un banco de la plaza, a nombre del Procedimiento Concursal de Liquidación.</parrafo>
           <parrafo>Dichos instrumentos deberán conservarse hasta que se encuentre ejecutoriada la resolución que declare terminado el Procedimiento Concursal de Liquidación, conforme al artículo 254° y siguientes de la Ley, procediendo luego a su devolución al Deudor e informando a la Superintendencia mediante la Plataforma Electrónica.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="254"/>
-        </referencias>
+        </articulo>
+      </parrafo>
+    </titulo>
+    <titulo numero="III" nombre="Cuentas mensuales que deben rendir los Veedores">
+      <articulo numero="13" epigrafe="Oportunidad">
+        <parrafo>Las cuentas mensuales deberán rendirse dentro de los primeros cinco días del mes siguiente al informado, a través de la Plataforma Electrónica, conforme a la Norma de Carácter General N° 1.</parrafo>
+        <parrafo>Dentro del mismo plazo, deberán enviarse por correo electrónico a todos los acreedores, según el artículo 25 N.° 9 de la Ley.</parrafo>
+      </articulo>
+      <articulo numero="14" epigrafe="Contenido">
+        <parrafo>Las cuentas mensuales deberán contener el detalle de todas las actuaciones del período, referidas a las obligaciones del artículo 25° y del Capítulo III de la Ley, adjuntando la documentación de respaldo e indicando la etapa del Procedimiento de Reorganización.</parrafo>
       </articulo>
     </titulo>
-    <titulo id="3" tipo_original="Título" numero="III">
-      <titulo_seccion>TÍTULO III Cuentas mensuales que deben rendir los Veedores</titulo_seccion>
-      <articulo id="13" tipo_original="Artículo" numero="13">
-        <titulo_seccion>Artículo 13. Oportunidad</titulo_seccion>
-        <contexto>TÍTULO III Cuentas mensuales que deben rendir los Veedores</contexto>
-        <contenido>
-          <parrafo>Las cuentas mensuales deberán rendirse dentro de los primeros cinco días del mes siguiente al informado, a través de la Plataforma Electrónica, conforme a la Norma de Carácter General N° 1.</parrafo>
-          <parrafo>Dentro del mismo plazo, deberán enviarse por correo electrónico a todos los acreedores, según el artículo 25 N.° 9 de la Ley.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="25"/>
-        </referencias>
-      </articulo>
-      <articulo id="14" tipo_original="Artículo" numero="14">
-        <titulo_seccion>Artículo 14. Contenido</titulo_seccion>
-        <contexto>TÍTULO III Cuentas mensuales que deben rendir los Veedores</contexto>
-        <contenido>
-          <parrafo>Las cuentas mensuales deberán contener el detalle de todas las actuaciones del período, referidas a las obligaciones del artículo 25° y del Capítulo III de la Ley, adjuntando la documentación de respaldo e indicando la etapa del Procedimiento de Reorganización.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="25"/>
-        </referencias>
+    <titulo numero="IV" nombre="Cuentas Finales de Administración que deben rendir los Veedores">
+      <articulo numero="15" epigrafe="Normativa aplicable">
+        <parrafo>Las Cuentas Finales de Administración que deban rendir los Veedores conforme al artículo 29° de la Ley se regirán, en lo pertinente, por lo dispuesto en el Título II de la presente Norma respecto de los Liquidadores.</parrafo>
       </articulo>
     </titulo>
-    <titulo id="4" tipo_original="Título" numero="IV">
-      <titulo_seccion>TÍTULO IV Cuentas Finales de Administración que deben rendir los Veedores</titulo_seccion>
-      <articulo id="15" tipo_original="Artículo" numero="15">
-        <titulo_seccion>Artículo 15. Normativa aplicable</titulo_seccion>
-        <contexto>TÍTULO IV Cuentas Finales de Administración que deben rendir los Veedores</contexto>
-        <contenido>
-          <parrafo>Las Cuentas Finales de Administración que deban rendir los Veedores conforme al artículo 29° de la Ley se regirán, en lo pertinente, por lo dispuesto en el Título II de la presente Norma respecto de los Liquidadores.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="29"/>
-        </referencias>
+    <titulo numero="V" nombre="Cuentas que deben rendir los Martilleros Concursales">
+      <articulo numero="16" epigrafe="Oportunidad">
+        <parrafo>Las Cuentas de Remate deberán rendirse ante la Superintendencia y la junta de acreedores y publicarse en el Boletín Concursal dentro de los cinco días siguientes al remate, conforme al artículo 216° de la Ley.</parrafo>
+        <parrafo>Las objeciones se regirán por el artículo 52° de la Ley.</parrafo>
+      </articulo>
+      <articulo numero="17" epigrafe="Contenido de las Cuentas">
+        <parrafo>Las Cuentas de Remate deberán incorporar copia del documento que acredite la entrega del producto de la realización al Liquidador, las liquidaciones, facturas y gastos asociados.</parrafo>
+        <parrafo>Asimismo, deberán incluir un detalle de los bienes rematados conforme a los Anexos II, III y IV.</parrafo>
+      </articulo>
+      <articulo numero="18" epigrafe="Publicación de la Cuenta Remate en el Boletín Concursal">
+        <parrafo>La publicación deberá efectuarla el Liquidador conforme a la Norma de Carácter General N° 3.</parrafo>
+        <parrafo>El Martillero deberá ingresar la información en la Plataforma Electrónica en formato Excel.</parrafo>
       </articulo>
     </titulo>
-    <titulo id="5" tipo_original="Título" numero="V">
-      <titulo_seccion>TÍTULO V Cuentas que deben rendir los Martilleros Concursales</titulo_seccion>
-      <articulo id="16" tipo_original="Artículo" numero="16">
-        <titulo_seccion>Artículo 16. Oportunidad</titulo_seccion>
-        <contexto>TÍTULO V Cuentas que deben rendir los Martilleros Concursales</contexto>
-        <contenido>
-          <parrafo>Las Cuentas de Remate deberán rendirse ante la Superintendencia y la junta de acreedores y publicarse en el Boletín Concursal dentro de los cinco días siguientes al remate, conforme al artículo 216° de la Ley.</parrafo>
-          <parrafo>Las objeciones se regirán por el artículo 52° de la Ley.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="216"/>
-          <ref articulo="52"/>
-        </referencias>
+    <titulo numero="VI" nombre="Disposiciones finales">
+      <articulo numero="19" epigrafe="Ámbito de aplicación">
+        <parrafo>La presente Norma sólo regula los procedimientos concursales establecidos en la Ley N.° 20.720, no siendo aplicable a procedimientos anteriores regidos por el Libro IV del Código de Comercio y la Ley N.° 18.175, orgánica de la Superintendencia de Quiebras.</parrafo>
       </articulo>
-      <articulo id="17" tipo_original="Artículo" numero="17">
-        <titulo_seccion>Artículo 17. Contenido de las Cuentas</titulo_seccion>
-        <contexto>TÍTULO V Cuentas que deben rendir los Martilleros Concursales</contexto>
-        <contenido>
-          <parrafo>Las Cuentas de Remate deberán incorporar copia del documento que acredite la entrega del producto de la realización al Liquidador, las liquidaciones, facturas y gastos asociados.</parrafo>
-          <parrafo>Asimismo, deberán incluir un detalle de los bienes rematados conforme a los Anexos II, III y IV.</parrafo>
-        </contenido>
+      <articulo numero="20" epigrafe="Términos definidos">
+        <parrafo>Los términos en mayúscula tendrán el significado del artículo 2° de la Ley.</parrafo>
       </articulo>
-      <articulo id="18" tipo_original="Artículo" numero="18">
-        <titulo_seccion>Artículo 18. Publicación de la Cuenta Remate en el Boletín Concursal</titulo_seccion>
-        <contexto>TÍTULO V Cuentas que deben rendir los Martilleros Concursales</contexto>
-        <contenido>
-          <parrafo>La publicación deberá efectuarla el Liquidador conforme a la Norma de Carácter General N° 3.</parrafo>
-          <parrafo>El Martillero deberá ingresar la información en la Plataforma Electrónica en formato Excel.</parrafo>
-        </contenido>
+      <articulo numero="21" epigrafe="Vigencia">
+        <parrafo>La presente Norma se dicta en mérito de los principios de continuidad de la función pública, de eficiencia y eficacia consagrados en los artículos 3°, 5° y 8° de la Ley N.° 18.575, General de Bases de la Administración del Estado, y del artículo primero transitorio de la Ley N.° 20.720, sin perjuicio de que entrará a regir conjuntamente con la entrada en vigencia de la Ley, en los términos del mismo artículo primero transitorio.</parrafo>
       </articulo>
     </titulo>
-    <titulo id="6" tipo_original="Título" numero="VI">
-      <titulo_seccion>TÍTULO VI Disposiciones finales</titulo_seccion>
-      <articulo id="19" tipo_original="Artículo" numero="19">
-        <titulo_seccion>Artículo 19. Ámbito de aplicación</titulo_seccion>
-        <contexto>TÍTULO VI Disposiciones finales</contexto>
-        <contenido>
-          <parrafo>La presente Norma sólo regula los procedimientos concursales establecidos en la Ley N.° 20.720, no siendo aplicable a procedimientos anteriores regidos por el Libro IV del Código de Comercio y la Ley N.° 18.175, orgánica de la Superintendencia de Quiebras.</parrafo>
-        </contenido>
-      </articulo>
-      <articulo id="20" tipo_original="Artículo" numero="20">
-        <titulo_seccion>Artículo 20. Términos definidos</titulo_seccion>
-        <contexto>TÍTULO VI Disposiciones finales</contexto>
-        <contenido>
-          <parrafo>Los términos en mayúscula tendrán el significado del artículo 2° de la Ley.</parrafo>
-        </contenido>
-        <referencias>
-          <ref articulo="2"/>
-        </referencias>
-      </articulo>
-      <articulo id="21" tipo_original="Artículo" numero="21">
-        <titulo_seccion>Artículo 21. Vigencia</titulo_seccion>
-        <contexto>TÍTULO VI Disposiciones finales</contexto>
-        <contenido>
-          <parrafo>La presente Norma se dicta en mérito de los principios de continuidad de la función pública, de eficiencia y eficacia consagrados en los artículos 3°, 5° y 8° de la Ley N.° 18.575, General de Bases de la Administración del Estado, y del artículo primero transitorio de la Ley N.° 20.720, sin perjuicio de que entrará a regir conjuntamente con la entrada en vigencia de la Ley, en los términos del mismo artículo primero transitorio.</parrafo>
-        </contenido>
-      </articulo>
-    </titulo>
-  </contenido>
-  <disposiciones_finales>
-    <texto>Anótese y publíquese.
-
-JOSEFINA MONTENEGRO ARANEDA Superintendenta de Insolvencia y Reemprendimiento</texto>
-  </disposiciones_finales>
-  <anexos>
-    <anexo numero="1">
-      <titulo>ANEXO I DE LA NORMA DE CARÁCTER GENERAL N° 7</titulo>
-      <texto>MODELO DE PRESENTACIÓN DE LA CUENTA FINAL DE ADMINISTRACIÓN
-
-A.- CARÁTULA
-
-a) Cuenta Final de Administración.
-Al 30 de Noviembre de 2014.
-Nombre del Deudor: Sociedad XX Limitada.
-
-b) Resumen de Ingresos y Egresos:
-
-Concepto                          Monto
-Ingresos Totales                  $.-
-Egresos:
-  Repartos de Fondos              $.-
-  Honorarios Liquidador           $.-
-  Honorarios Varios               $.-
-  Otros Gastos de Administración  $.-
-  Provisión para Gastos Finales   $.-
-Total Igual Ingresos              $.-
-
-B.- DETALLE DE INGRESOS Y EGRESOS
-
-a) Ingresos:
-
-Código      Cuenta                                        Monto
-4.01.001    Intereses y Reajustes Ganados                 $
-4.01.002    Arriendos Percibidos                          $
-4.01.003    Dividendos de Acciones Percibidos             $
-4.01.004    Ventas de Acciones y Valores                  $
-4.01.005    Venta de Bienes Muebles                       $
-4.01.006    Venta de Bienes Inmuebles                     $
-4.01.007    Venta de Unidad Económica                     $
-4.01.008    Venta Bases de Remate y Licitación            $
-4.01.009    Utilidad por Participación en otras Empresas  $
-4.01.010    Recuperación y/o Aplicación Impuestos         $
-4.01.011    Fondos Incautados                             $
-4.01.012    Ingresos por Cobranzas                        $
-4.01.013    Otros Ingresos                                $
-
-b) Egresos:
-
-Código      Cuenta                                                      Monto
-3.01.001    Honorarios Liquidador                                       $
-3.01.002    Honorarios Varios                                           $
-3.01.003    Gastos Menores                                              $
-3.01.004    Gastos Bancarios                                            $
-3.01.005    Publicaciones de Enajenaciones                              $
-3.01.006    Gastos de Martillo                                          $
-3.01.007    Gastos de Vigilancia                                        $
-3.01.010    Publicaciones                                               $
-3.01.011    Notificaciones                                              $
-3.01.012    Seguros Generales                                           $
-3.01.013    Bodegaje                                                    $
-3.01.014    Contribuciones Bienes Raíces                                $
-3.01.015    Mantención de Activos                                       $
-3.01.016    Gastos de Viaje                                             $
-3.01.017    Comisiones                                                  $
-3.01.018    Intereses pagados                                           $
-3.01.019    Arriendos pagados                                           $
-3.01.020    Otros Gastos                                                $
-3.02.001    Dividendos créditos sin necesidad de verificación previa    $
-3.02.002    Dividendos Créditos de Primera Clase                        $
-3.02.011    Dividendos Créditos Prendarios                              $
-3.02.012    Dividendos Créditos Hipotecarios                            $
-3.02.013    Dividendos Créditos de Cuarta Clase                         $
-3.02.014    Dividendos Créditos Valistas                                $
-3.02.015    Dividendos Créditos Subordinados                            $
-
-c) Subtotal Ingresos y Egresos
-
-                Ingresos    Egresos
-Subtotal        $           $
-
-d) Provisión para Gastos Finales
-
-Provisión para Gastos Finales    $
-
-e) Totales Iguales
-
-                  Ingresos    Egresos
-Totales Iguales   $           $
-
-C.- BALANCE GENERAL
-
-Código      Cuentas                                 Débitos  Créditos  Saldo Deudor  Saldo Acreedor  Activo  Pasivo  Egresos  Ingresos
-1.01.002    Banco XX del PCL
-1.01.010    Depósitos a Plazo
-1.01.020    Documentos por Cobrar
-2.02.001    Impuesto de Segunda Categoría
-3.01.001    Honorarios Liquidador
-3.01.002    Honorarios Varios
-3.01.004    Gastos Bancarios
-3.01.010    Publicaciones
-3.01.011    Notificaciones
-3.01.014    Contribuciones Bienes Raíces
-3.01.015    Mantención de Activos
-3.01.020    Otros Gastos
-3.02.002    Dividendos Créditos de Primera Clase
-3.02.011    Dividendo Créditos Prendarios
-3.03.001    Pérdidas y Ganancias
-4.01.001    Intereses y Reajustes Ganados
-4.01.005    Venta de Bienes Muebles
-4.01.006    Venta de Bienes Inmuebles
-4.01.013    Otros Ingresos
-Sub Totales
-Resultado Pérdida / Ganancia
-Totales
-
-Notas Explicativas al Balance General: Las notas explicativas constituyen una relación de antecedentes que aportan información adicional sobre las cifras contenidas en el Balance General, así como la entrega de información que no está directamente reflejada en éste, permitiendo una mejor comprensión del mismo, por ende, estas notas se incorporarán al Balance General cuando el Liquidador requiera aclarar y complementar algún ítem del Balance. Estas notas explicativas deberán ser firmadas por el Liquidador y por su Contador.
-
-Nombre y Firma Liquidador                Nombre y Firma Contador</texto>
-    </anexo>
-  </anexos>
-</ley>
+  </cuerpo_normativo>
+  <cierre>
+    <formula>Anótese y publíquese.</formula>
+    <firmante>
+      <nombre>JOSEFINA MONTENEGRO ARANEDA</nombre>
+      <cargo>SUPERINTENDENTA DE INSOLVENCIA Y REEMPRENDIMIENTO</cargo>
+    </firmante>
+  </cierre>
+  <anexo numero="I" titulo="Modelo de presentación de la Cuenta Final de Administración">
+    <seccion letra="A" nombre="Carátula">
+      <campo nombre="Tipo de cuenta">Cuenta Final de Administración</campo>
+      <campo nombre="Fecha de corte" formato="Al [DD] de [Mes] de [Año]"/>
+      <campo nombre="Nombre del Deudor" ejemplo="Sociedad XX Limitada"/>
+      <resumen_ingresos_egresos>
+        <linea concepto="Ingresos Totales" valor="$.-"/>
+        <linea concepto="Egresos">
+          <sublinea concepto="Repartos de Fondos" valor="$.-"/>
+          <sublinea concepto="Honorarios Liquidador" valor="$.-"/>
+          <sublinea concepto="Honorarios Varios" valor="$.-"/>
+          <sublinea concepto="Otros Gastos de Administración" valor="$.-"/>
+          <sublinea concepto="Provisión para Gastos Finales" valor="$.-"/>
+        </linea>
+        <linea concepto="Total Igual Ingresos" valor="$.-"/>
+      </resumen_ingresos_egresos>
+    </seccion>
+    <seccion letra="B" nombre="Detalle de Ingresos y Egresos">
+      <tabla nombre="Ingresos">
+        <columnas>Código | Cuenta | Monto</columnas>
+        <cuenta codigo="4.01.001">Intereses y Reajustes Ganados</cuenta>
+        <cuenta codigo="4.01.002">Arriendos Percibidos</cuenta>
+        <cuenta codigo="4.01.003">Dividendos de Acciones Percibidos</cuenta>
+        <cuenta codigo="4.01.004">Ventas de Acciones y Valores</cuenta>
+        <cuenta codigo="4.01.005">Venta de Bienes Muebles</cuenta>
+        <cuenta codigo="4.01.006">Venta de Bienes Inmuebles</cuenta>
+        <cuenta codigo="4.01.007">Venta de Unidad Económica</cuenta>
+        <cuenta codigo="4.01.008">Venta Bases de Remate y Licitación</cuenta>
+        <cuenta codigo="4.01.009">Utilidad por Participación en otras Empresas</cuenta>
+        <cuenta codigo="4.01.010">Recuperación y/o Aplicación Impuestos</cuenta>
+        <cuenta codigo="4.01.011">Fondos Incautados</cuenta>
+        <cuenta codigo="4.01.012">Ingresos por Cobranzas</cuenta>
+        <cuenta codigo="4.01.013">Otros Ingresos</cuenta>
+      </tabla>
+      <tabla nombre="Egresos">
+        <columnas>Código | Cuenta | Monto</columnas>
+        <cuenta codigo="3.01.001">Honorarios Liquidador</cuenta>
+        <cuenta codigo="3.01.002">Honorarios Varios</cuenta>
+        <cuenta codigo="3.01.003">Gastos Menores</cuenta>
+        <cuenta codigo="3.01.004">Gastos Bancarios</cuenta>
+        <cuenta codigo="3.01.005">Publicaciones de Enajenaciones</cuenta>
+        <cuenta codigo="3.01.006">Gastos de Martillo</cuenta>
+        <cuenta codigo="3.01.007">Gastos de Vigilancia</cuenta>
+        <cuenta codigo="3.01.010">Publicaciones</cuenta>
+        <cuenta codigo="3.01.011">Notificaciones</cuenta>
+        <cuenta codigo="3.01.012">Seguros Generales</cuenta>
+        <cuenta codigo="3.01.013">Bodegaje</cuenta>
+        <cuenta codigo="3.01.014">Contribuciones Bienes Raíces</cuenta>
+        <cuenta codigo="3.01.015">Mantención de Activos</cuenta>
+        <cuenta codigo="3.01.016">Gastos de Viaje</cuenta>
+        <cuenta codigo="3.01.017">Comisiones</cuenta>
+        <cuenta codigo="3.01.018">Intereses pagados</cuenta>
+        <cuenta codigo="3.01.019">Arriendos pagados</cuenta>
+        <cuenta codigo="3.01.020">Otros Gastos</cuenta>
+        <cuenta codigo="3.02.001">Dividendos créditos sin necesidad de verificación previa</cuenta>
+        <cuenta codigo="3.02.002">Dividendos Créditos de Primera Clase</cuenta>
+        <cuenta codigo="3.02.011">Dividendos Créditos Prendarios</cuenta>
+        <cuenta codigo="3.02.012">Dividendos Créditos Hipotecarios</cuenta>
+        <cuenta codigo="3.02.013">Dividendos Créditos de Cuarta Clase</cuenta>
+        <cuenta codigo="3.02.014">Dividendos Créditos Valistas</cuenta>
+        <cuenta codigo="3.02.015">Dividendos Créditos Subordinados</cuenta>
+      </tabla>
+      <lineas_cierre>
+        <linea letra="c" concepto="Subtotal Ingresos y Egresos" columnas="Ingresos $ | Egresos $"/>
+        <linea letra="d" concepto="Provisión para Gastos Finales" columna="Egresos $"/>
+        <linea letra="e" concepto="Totales Iguales" columnas="Ingresos $ | Egresos $" regla="Egresos = Subtotal Egresos + Provisión Gastos Finales; debe igualar Ingresos"/>
+      </lineas_cierre>
+    </seccion>
+    <seccion letra="C" nombre="Balance General">
+      <nota_al_pie numero="1">Las notas explicativas constituyen una relación de antecedentes que aportan información adicional sobre las cifras contenidas en el Balance General, así como la entrega de información que no está directamente reflejada en éste, permitiendo una mejor comprensión del mismo, por ende, estas notas se incorporarán al Balance General cuando el Liquidador requiera aclarar y complementar algún ítem del Balance. Estas notas explicativas deberán ser firmadas por el Liquidador y por su contador.</nota_al_pie>
+      <tabla nombre="Balance General">
+        <columnas>Código | Cuentas | Débitos | Créditos | Saldos (Deudor / Acreedor) | Inventario (Activo / Pasivo) | Resultados (Egresos / Ingresos)</columnas>
+        <cuenta codigo="1.01.002">Banco XX del PCL</cuenta>
+        <cuenta codigo="1.01.010">Depósitos a Plazo</cuenta>
+        <cuenta codigo="1.01.020">Documentos por Cobrar</cuenta>
+        <cuenta codigo="2.02.001">Impuesto de Segunda Categoría</cuenta>
+        <cuenta codigo="3.01.001">Honorarios Liquidador</cuenta>
+        <cuenta codigo="3.01.002">Honorarios Varios</cuenta>
+        <cuenta codigo="3.01.004">Gastos Bancarios</cuenta>
+        <cuenta codigo="3.01.010">Publicaciones</cuenta>
+        <cuenta codigo="3.01.011">Notificaciones</cuenta>
+        <cuenta codigo="3.01.014">Contribuciones Bienes Raíces</cuenta>
+        <cuenta codigo="3.01.015">Mantención de Activos</cuenta>
+        <cuenta codigo="3.01.020">Otros Gastos</cuenta>
+        <cuenta codigo="3.02.002">Dividendos Créditos de Primera Clase</cuenta>
+        <cuenta codigo="3.02.011">Dividendo Créditos Prendarios</cuenta>
+        <cuenta codigo="3.03.001">Pérdidas y Ganancias</cuenta>
+        <cuenta codigo="4.01.001">Intereses y Reajustes Ganados</cuenta>
+        <cuenta codigo="4.01.005">Venta de Bienes Muebles</cuenta>
+        <cuenta codigo="4.01.006">Venta de Bienes Inmuebles</cuenta>
+        <cuenta codigo="4.01.013">Otros Ingresos</cuenta>
+      </tabla>
+      <lineas_cierre>
+        <linea concepto="Sub Totales"/>
+        <linea concepto="Resultado Pérdida / Ganancia"/>
+        <linea concepto="Totales"/>
+      </lineas_cierre>
+      <firmas>
+        <firma rol="Liquidador">Nombre y Firma</firma>
+        <firma rol="Contador">Nombre y Firma</firma>
+      </firmas>
+    </seccion>
+    <seccion letra="D" nombre="Libros Mayores de cada cuenta del Procedimiento Concursal de Liquidación"/>
+  </anexo>
+  <anexo numero="II" titulo="Modelo de presentación de Cuenta Remate Martillero Concursal - Bienes Inmuebles">
+    <formulario numero="1" nombre="Liquidación Bienes Inmuebles" hoja="1">
+      <descripcion>Un bloque repetible por cada inmueble rematado</descripcion>
+      <campos_por_inmueble>
+        <campo nombre="Acta de Adjudicación" tipo="referencia"/>
+        <campo nombre="Fecha" tipo="fecha"/>
+        <campo nombre="Monto Total Adjudicación" tipo="moneda"/>
+        <campo nombre="Garantía" tipo="moneda"/>
+        <campo nombre="Saldo Precio" tipo="moneda"/>
+        <campo nombre="Bien Inmueble inscrito a Fojas N.°" tipo="texto"/>
+        <campo nombre="Conservador de Bienes Raíces" tipo="texto"/>
+      </campos_por_inmueble>
+      <totalizador concepto="Total Adjudicaciones Bienes Inmuebles" tipo="moneda"/>
+      <seccion_singularizacion>
+        <descripcion>Singularización de cada uno de los inmuebles</descripcion>
+        <campos_cheque repetible="true">
+          <campo nombre="Cheque N.°" tipo="texto"/>
+          <campo nombre="Banco" tipo="texto"/>
+          <campo nombre="Suma" tipo="moneda"/>
+        </campos_cheque>
+      </seccion_singularizacion>
+      <firma rol="Martillero Concursal">Nombre y Firma</firma>
+    </formulario>
+    <formulario numero="2" nombre="Acta de Remate" hoja="2">
+      <descripcion>Un acta por cada inmueble objeto de enajenación (adjudicados o no)</descripcion>
+      <campos>
+        <campo nombre="Fecha" tipo="fecha"/>
+        <campo nombre="Lugar" tipo="texto"/>
+        <campo nombre="Fecha del acta" tipo="fecha completa (día, mes, año)"/>
+        <campo nombre="Notario Público" tipo="texto"/>
+        <campo nombre="Martillero Concursal" tipo="texto"/>
+        <campo nombre="Inmueble inscrito a fojas N.°" tipo="texto"/>
+        <campo nombre="Conservador de Bienes Raíces" tipo="texto"/>
+        <campo nombre="Procedimiento Concursal de Liquidación" tipo="texto (nombre deudor)"/>
+        <campo nombre="Nombre Adjudicatario" tipo="texto"/>
+        <campo nombre="Garantía" tipo="moneda"/>
+        <campo nombre="Saldo Precio" tipo="moneda"/>
+      </campos>
+      <firmas>
+        <firma rol="Notario Público">Nombre y Firma</firma>
+        <firma rol="Martillero Concursal">Nombre y Firma</firma>
+        <firma rol="Adjudicatario">Nombre y Firma</firma>
+      </firmas>
+    </formulario>
+  </anexo>
+  <anexo numero="III" titulo="Modelo de presentación de Cuenta Remate Martillero Concursal - Bienes Muebles">
+    <formulario nombre="Liquidación Bienes Muebles">
+      <seccion nombre="Ventas Netas">
+        <lineas repetibles="true">
+          <campo nombre="Liquidación Factura N.°" tipo="texto"/>
+          <campo nombre="Monto" tipo="moneda"/>
+        </lineas>
+        <campo nombre="IVA Crédito Fiscal" tipo="moneda"/>
+        <totalizador concepto="Total Ventas" tipo="moneda"/>
+      </seccion>
+      <seccion nombre="Menos: Gastos">
+        <subseccion nombre="Facturas Gastos Publicidad">
+          <lineas repetibles="true">
+            <campo nombre="Factura N.°" tipo="texto"/>
+            <campo nombre="Monto" tipo="moneda"/>
+          </lineas>
+        </subseccion>
+        <subseccion nombre="Facturas Gastos Traslados">
+          <lineas repetibles="true">
+            <campo nombre="Factura N.°" tipo="texto"/>
+            <campo nombre="Monto" tipo="moneda"/>
+          </lineas>
+        </subseccion>
+      </seccion>
+      <totalizador concepto="Total Liquidación" tipo="moneda" calculo="Total Ventas - Gastos Publicidad - Gastos Traslados"/>
+      <seccion_cheque>
+        <campo nombre="Cheque N.°" tipo="texto"/>
+        <campo nombre="Banco" tipo="texto"/>
+        <campo nombre="Suma" tipo="moneda"/>
+      </seccion_cheque>
+      <firma rol="Martillero Concursal">Nombre y Firma</firma>
+    </formulario>
+    <formulario nombre="Planilla de Remate">
+      <tabla>
+        <columnas>Lote | Ítem Inventario | Cantidad | Especie | Valor Mínimo | Valor Adjudicación | Nombre Adjudicatario</columnas>
+      </tabla>
+      <firma rol="Martillero Concursal">Nombre y Firma</firma>
+    </formulario>
+  </anexo>
+  <anexo numero="IV" titulo="Modelo de presentación de Cuenta Remate Martillero Concursal - Bienes Muebles (Unidad Económica)">
+    <formulario nombre="Acta de Realización Unidad Económica">
+      <campos_encabezado>
+        <campo nombre="Lugar" tipo="texto" ejemplo="En Santiago"/>
+        <campo nombre="Fecha" tipo="fecha completa"/>
+        <campo nombre="Notario Público" tipo="texto"/>
+        <campo nombre="Martillero Concursal" tipo="texto"/>
+        <campo nombre="Procedimiento Concursal de Liquidación" tipo="texto (nombre deudor)"/>
+      </campos_encabezado>
+      <seccion nombre="Composición de la Unidad Económica">
+        <subseccion nombre="Bienes Inmuebles" repetible="true">
+          <campo nombre="Bien Inmueble incautado a fojas N.°" tipo="texto"/>
+          <campo nombre="Conservador de Bienes Raíces" tipo="texto"/>
+        </subseccion>
+        <subseccion nombre="Bienes Muebles">
+          <descripcion>Individualización de cada una de las especies que se comprende o agregar anexo a la presente Acta. (Idéntico al inventario de bienes y las bases de la realización de bienes)</descripcion>
+        </subseccion>
+      </seccion>
+      <campos_adjudicacion>
+        <campo nombre="Nombre Adjudicatario" tipo="texto"/>
+        <campo nombre="Garantía" tipo="moneda"/>
+        <campo nombre="Saldo Precio" tipo="moneda"/>
+      </campos_adjudicacion>
+      <firmas>
+        <firma rol="Notario Público">Nombre y Firma</firma>
+        <firma rol="Martillero Concursal">Nombre y Firma</firma>
+        <firma rol="Adjudicatario">Nombre y Firma</firma>
+      </firmas>
+    </formulario>
+  </anexo>
+</norma>
