@@ -61,10 +61,6 @@ Categoría B. Para acceder a la Categoría A, los Veedores deberán presentar
 una solicitud a la Superintendencia y cumplir con los requisitos e indicadores
 de gestión positivos determinados por la Superintendencia por medio de una
 norma de carácter general.
-Hermanos Amunátegui 228, Santiago, Chile
-Fono: (56 2) 2495 2500
-www.superir.gob.cl
-
 La admisión e inscripción en la Categoría A
 eliminará automáticamente la pertenencia a la Categoría B, salvo que el
 Veedor solicite mantenerse en ambas categorías”.
@@ -217,7 +213,7 @@ Ponderado Ponderado Mínimo de Máximo
 Corte
 Experiencia 50 100 40% 20 40 8 40
 Desempeño 50 100 60% 30 60 18 60
-Puntaje Global 26 100
+Puntaje Global 26 100.
 Título III
 Requisitos e Indicadores de Gestión Positivos de Liquidadores
 Concursales
@@ -251,7 +247,7 @@ ingreso de la solicitud.
 Si el Liquidador Concursal tuviere más de un año corrido de vigencia en la
 nómina, sólo se considerará el año corrido inmediatamente anterior para los
 efectos de esta medición.
-Artículo 11°. Asignación de puntaje por experiencia: Se asignará
+Artículo 11°. Asignación de puntaje por experiencia. Se asignará
 puntaje conforme a la cantidad de procedimientos concursales tramitados,
 sean vigentes o terminados, descritos precedentemente y de conformidad a
 la siguiente tabla:
@@ -295,7 +291,7 @@ Ponderado Ponderado Mínimo de Máximo
 Corte
 Experiencia 50 100 50% 25 100 12,5 50
 Desempeño 50 100 50% 25 100 12,5 50
-Puntaje Global 25 100
+Puntaje Global 25 100.
 Título IV
 Del Procedimiento para Solicitar la Modificación de Categoría de las
 Nóminas de Veedores Concursales y Liquidadores Concursales
@@ -339,6 +335,7 @@ mediante Oficina de Partes a la casilla de correo electrónico institucional
 ofpartes@superir.gob.cl, sin necesidad de cumplir ningún requisito adicional.
 Contra la resolución que rechaza el cambio de categoría procederán los
 recursos de la Ley N.° 19.880.
+Título V
 Disposiciones Finales
 Artículo 19°. Ámbito de aplicación. La presente Norma de Carácter
 General sólo tiene por objeto regular las materias que en la misma se tratan
@@ -353,8 +350,9 @@ en el Diario Oficial.
 publicidad, una vez que se encuentre totalmente tramitado el presente acto
 administrativo, su publicación en el sitio web institucional de la
 Superintendencia de Insolvencia y Reemprendimiento.
-ANÓTESE, PUBLÍQUESE Y
-ARCHÍVESE.
+ANÓTESE, PUBLÍQUESE Y ARCHÍVESE.
+HUGO SÁNCHEZ RAMÍREZ
+SUPERINTENDENTE DE INSOLVENCIA Y REEMPRENDIMIENTO
 ANEXO N.° 1
 SOLICITUD DE CAMBIO DE CATEGORÍA EN LA NÓMINA DE
 VEEDORES CONCURSALES
@@ -393,4 +391,3 @@ encuentro vigente en la misma. Asimismo, declaro que he tramitado al menos
 solicitud.
 ______________________________
 Firma
-9

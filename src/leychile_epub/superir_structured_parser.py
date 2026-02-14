@@ -182,8 +182,9 @@ PATRON_PUNTO_RESOLUTIVO = re.compile(
 )
 
 # Encabezado de NCG dentro de Resolución Exenta
+# NCG 26 omite "N.° 26" después de "GENERAL": sólo dice "NORMA DE CARÁCTER GENERAL"
 PATRON_NCG_HEADER = re.compile(
-    r"^NORMA\s+DE\s+CAR[ÁA]CTER\s+GENERAL\s+N\.?\s*[°º]?\s*(\d+)",
+    r"^NORMA\s+DE\s+CAR[ÁA]CTER\s+GENERAL(?:\s+N\.?\s*[°º]?\s*\d+)?",
     re.MULTILINE | re.IGNORECASE,
 )
 
