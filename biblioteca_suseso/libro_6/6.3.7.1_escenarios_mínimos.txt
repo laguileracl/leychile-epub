@@ -1,0 +1,20 @@
+6.3.7.1 Escenarios mínimos
+==========================
+
+El Test de Estrés se debe desarrollar estableciendo modificaciones sobre las variables que inciden en el flujo. Los escenarios mínimos a contemplar son:
+
+Aumento de la morosidad de la cartera de colocaciones de créditos sociales y mutuos hipotecarios.
+
+Retraso en los montos por reembolsar derivados de las prestaciones legales asociadas al subsidio por incapacidad laboral de origen común.
+
+Aumento de la morosidad de las cuentas por cobrar que registre la Caja.
+
+No renovación de préstamos bancarios.
+
+Ejecución de covenants de pasivos financieros.
+
+Aumento en el pago de prestaciones legales asociadas al subsidio por incapacidad laboral de origen común.
+
+Aumento en los gastos de administración.
+
+Los distintos escenarios deben ser desarrollados a partir del modelo de liquidez no estresado, pudiendo incluir otras variables que la Caja considere relevantes y que pudiesen influir en su posición de liquidez, además de contemplar escenarios con múltiples variables estresadas. La definición de estos escenarios no exime a la Caja del envío de ejercicios de resistencia específicos que puedan ser requeridos por esta Superintendencia.

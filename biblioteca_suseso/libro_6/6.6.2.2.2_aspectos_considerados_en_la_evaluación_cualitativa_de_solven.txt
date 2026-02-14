@@ -1,0 +1,24 @@
+6.6.2.2.2 Aspectos considerados en la evaluación cualitativa de Solvencia
+=========================================================================
+
+Para la evaluación cualitativa de Solvencia, la Caja de Compensación debe establecer una Política de Créditos Hipotecarios para otorgar y administrar mutuos hipotecarios endosables, la cual debe contener al menos los siguientes elementos:
+
+6.6.2.2.2.1. Gobierno Corporativo
+
+El Directorio debe establecer, aprobar y asegurar la implementación efectiva de políticas y procedimientos idóneos que le permitan a la C.C.A.F. otorgar y administrar mutuos hipotecarios endosables. La mencionada Política debe ser aprobada por el Directorio antes de que ésta sea sujeto de aprobación por parte de esta Superintendencia. La Caja de Compensación debe enviar adicionalmente, los elementos de análisis que el Directorio consideró para aprobar la mencionada Política.
+
+6.6.2.2.2.2. Comité de Riesgo para Mutuos Hipotecarios Endosables
+
+Las Cajas de Compensación deben contar con un Comité de Riesgo para la aprobación de mutuos hipotecarios endosables, cuyas funciones deben estar claramente diferenciadas de aquellas relacionadas con la realizada por el Departamento Comercial. Este Comité debe estar operativo al momento de que la Caja de Compensación solicite la autorización para inscribirse en la Comisión para el Mercado Financiero (CMF) para otorgar y administrar mutuos hipotecarios endosables. Adicionalmente, la Caja de Compensación debe mantener un registro actualizado de las actas de cada una de las sesiones de dicho Comité, la que debe contener al menos los nombres de todos los participantes, los temas tratados y los acuerdos generados por el mencionado Comité. Estas actas deben estar a disposición de esta Superintendencia.
+
+6.6.2.2.2.3. Comportamiento del Deudor y Habilidad de Predicción
+
+La Caja de Compensación debe contar con procesos de evaluación y aprobación de créditos que aseguren un adecuado manejo de los riesgos relevantes.
+
+6.6.2.2.2.4. Pricing
+
+La Caja de Compensación debe realizar una estimación del spread promedio para el conjunto de las operaciones realizadas en cada mes. Este margen debe estar claramente justificado a partir de los procesos de evaluación de riesgos utilizados por la Caja de Compensación. La Caja debe demostrar que es capaz de desarrollar un negocio con rentabilidad considerando los riesgos inherentes de la cartera de créditos sociales hipotecarios que posea.
+
+6.6.2.2.2.5. Políticas de Cobranzas
+
+La Caja de Compensación debe contar con un proceso formal y eficiente para la cobranza y liquidación de garantías en caso de incumplimiento del deudor, así como de los sistemas necesarios para llevar a cabo este tipo de operaciones.

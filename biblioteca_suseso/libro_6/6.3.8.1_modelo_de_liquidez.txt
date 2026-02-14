@@ -1,0 +1,10 @@
+6.3.8.1 Modelo de Liquidez
+==========================
+
+La Caja de Compensación debe remitir a esta Superintendencia el día 5 de cada mes un archivo plano con la información del modelo de liquidez, de acuerdo a lo señalado en el Anexo N°1: Formato de archivos planos , Anexo N°2: Diccionario de archivos planos y Anexo N°3: Instrucciones generales , todos del Título III del Libro VIdel Compendio de la Ley N°18.833 , y además, un archivo resumen en formato XML de acuerdo al formato señalado en el Anexo N°3: Instrucciones generales y Anexo N°4: Formato de documento electrónico (xml) , ambos del Título III del Libro VI del Compendio de la Ley N°18.833 .
+
+La información remitida el día 5 debe corresponder a la registrada al cierre del mes anterior.
+
+Junto con el envío del modelo de liquidez la Caja de Compensación debe remitir trimestralmente, el último día del mes siguiente al primer, segundo, tercer y cuarto trimestre de cada año, un archivo en formato Word, de acuerdo a lo indicado en el Anexo N°3: Instrucciones generales del Título III del Libro VI del Compendio de la Ley N°18.833 , el cual debe comprender el detalle de los supuestos y la metodología de cálculo para cada una de las partidas de ingresos y egresos que componen el modelo.
+
+En caso que los días de envío de los respectivos archivos correspondan a un sábado, domingo o festivo, se debe remitir la información el día hábil siguiente.

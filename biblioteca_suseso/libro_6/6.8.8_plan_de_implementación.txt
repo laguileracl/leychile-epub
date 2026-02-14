@@ -1,0 +1,10 @@
+6.8.8 PLAN DE IMPLEMENTACIÓN
+============================
+
+Las instrucciones contenidas en los numerales precedentes, deberán implementadas en las etapas y fechas que a continuación se describen:
+
+Primera Fase (al 31 de marzo de 2025)
+
+Segunda Fase (al 30 de junio de 2025)
+
+Tercera Fase (al 31 de diciembre de 2025)

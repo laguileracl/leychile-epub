@@ -1,0 +1,4 @@
+6.5.2 ACTIVO TOTAL Y ACTIVOS PONDERADOS POR RIESGO
+==================================================
+
+(Nodo estructural - ver subnodos)

@@ -1,0 +1,24 @@
+6.7.4 ACTIVIDADES DE GESTIÓN DE RIESGO REPUTACIONAL
+===================================================
+
+La Caja debe implementar un sistema estructurado e integral para la gestión del riesgo reputacional, con el objetivo de identificar, analizar, evaluar, monitorear, controlar y tratar los riesgos relacionados. Dicho sistema puede estar incorporado transversalmente en el tratamiento de los distintos tipos de riesgos con impacto reputacional, en los casos que corresponda, además de cubrir la gestión de riesgos que pudieran tener un carácter netamente reputacional.
+
+En ese contexto, es esperable que el área especializada en la gestión de riesgos, en conjunto con los dueños de procesos, realicen al menos las siguientes actividades:
+
+Identifiquen y evalúen los riesgos y factores que influyen sobre éstos mediante un análisis combinado de riesgo que considere su impacto y probabilidad de materialización, teniendo en cuenta la efectividad de las actividades de control implementadas para mitigarlos. Esta evaluación debe estar incorporada en las matrices de riesgos y controles utilizados en la gestión de riesgo de la Caja, o las que se destinen específicamente para los riesgos reputacionales.
+
+Comparen el resultado de esta evaluación con el nivel de riesgo aceptado, definido en las políticas de riesgos correspondientes.
+
+Analicen las distintas opciones de tratamiento de los riesgos, de acuerdo con lo definido en sus políticas de gestión de riesgo, confeccionando planes de acción para su tratamiento y la forma en que estos se deben implementar.
+
+Mantengan actualizada y disponible en todo momento la documentación relacionada.
+
+Entrenamiento y capacitación tanto de los oficiales de cumplimiento como de la organización en su conjunto, de forma periódica, con el objetivo de que se comprenda la importancia de la cultura empresarial. De esta manera se puede fortalecer el cumplimiento sistemático normativo.
+
+Monitoreen de forma permanente sus principales riesgos, junto a la efectividad de las actividades de control implementadas e informen periódicamente sus resultados a los miembros del directorio, comité de riesgos, gerencia general y a los dueños de procesos, si fuera el caso, a través de reportes periódicos. Para tales efectos la Caja debe implementar indicadores para realizar el monitoreo de:
+
+Los riesgos de la entidad y su evolución.
+
+Los factores de riesgos y su relación con otros riesgos.
+
+La efectividad de las medidas de control implementadas o existentes.

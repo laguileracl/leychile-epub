@@ -1,0 +1,19 @@
+6.5.1.2 Definición de Patrimonio para efectos de niveles mínimos de capital para las Cajas de Compensación de Asignación Familiar
+=================================================================================================================================
+
+El patrimonio de las Cajas de Compensación se encuentra definido en el Título sobre Estados Financieros del Libro VII del Compendio de la Ley N°18.833, donde se señala que el Patrimonio de una Caja de Compensación estará representado por la suma de los siguientes ítems.
+
+Fondo social: Corresponde a los recursos netos formados por la Caja de Compensación a través del tiempo conforme a lo dispuesto en el artículo 29 de la Ley N°18.83 3. La citada norma establece que el Fondo Social se formará con los siguientes recursos: comisiones, reajustes e intereses de los capitales dados en préstamos, rentas de inversiones, multas, intereses penales, producto de venta de bienes y servicios, donaciones, herencias, legados y demás recursos que establezca la ley.
+
+Ganancia (pérdida) acumulada: Incorpora las utilidades de ejercicios anteriores, o las pérdidas no absorbidas con dichas utilidades.
+
+Otras participaciones en el patrimonio: Incluye las participaciones no dominantes. En una adquisición inversa algunos de los propietarios de la adquirida legal (adquirente a efectos contables) pueden no intercambiar sus instrumentos de patrimonio por los de la dominante legal (adquirida a efectos contables). Estos propietarios se tratan como participaciones no dominantes en los estados financieros consolidados posteriores a la adquisición inversa. Los propietarios de la adquirida legal que no intercambian sus instrumentos de patrimonio por los de la adquirente legal tienen únicamente participación en los resultados y activos netos de la adquirida legal, pero no en los resultados y activos netos de la entidad combinada. Por el contrario, aun cuando la adquirente legal sea la adquirida a efectos contables, los propietarios de la adquirente legal tienen una participación en los resultados y activos netos de la entidad combinada.
+
+Otras reservas: Incluye otras reservas patrimoniales no definidas anteriormente.
+
+Ganancia (pérdida): Corresponde al resultado obtenido por la entidad al cierre del ejercicio que se informa. El saldo de esta cuenta pasará a formar parte del Fondo Social a contar del 1° de enero de cada año.
+
+
+
+Referencias legales:
+ Ley 18.833, artículo 29

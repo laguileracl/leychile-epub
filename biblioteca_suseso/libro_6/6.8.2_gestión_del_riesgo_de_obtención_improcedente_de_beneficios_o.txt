@@ -1,0 +1,22 @@
+6.8.2 GESTIÓN DEL RIESGO DE OBTENCIÓN IMPROCEDENTE DE BENEFICIOS O DE RECURSOS
+==============================================================================
+
+La C.C.A.F., con la información disponible, deberá establecer un sistema integral de gestión del riesgo de obtención improcedente de beneficios o de recursos que contemple, al menos, las siguientes fases críticas: prevención, detección, respuesta y reporte. Este sistema deberá estar alineado con los sistemas de gestión de riesgos ya implementados y deberá considerar el uso de herramientas tecnológicas adecuadas, basadas en ciencia de datos, para su identificación y mitigación.
+
+Además, el sistema complementará la evaluación de los riesgos operacionales y sus definiciones, para así identificar las áreas más vulnerables dentro de los procesos, líneas de negocio y áreas organizacionales de la entidad, que puedan ser afectadas por el riesgo de obtención improcedente de beneficios o de recursos.
+
+El enfoque adoptado por la C.C.A.F. podrá estar basado en el uso de estándares internacionales o hacer referencia a alguno de ellos, considerando las buenas prácticas existentes, y garantizando una gestión estructurada y proactiva del riesgo de obtención improcedente de beneficios o de recursos. Esto implica la evaluación continua de los riesgos, la implementación de controles específicos y el uso de análisis de datos para la detección temprana de patrones sospechosos, así como la respuesta oportuna y el seguimiento de cualquier obtención improcedente de beneficios o de recursos detectado o materializado.
+
+Rol del Directorio
+
+El Directorio de la C.C.A.F. tiene la responsabilidad principal de asegurar la implementación efectiva del sistema de gestión del riesgo de obtención improcedente de beneficios o de recursos. Este sistema podrá estar alineado y complementado con el Modelo de Prevención de Delitos establecido, considerando la relación entre obtención improcedente de beneficios o de recursos y delitos como el lavado y blanqueo de activos.
+
+Dentro de sus funciones más relevantes se encuentran las siguientes:
+
+Rol de la Administración
+
+La Administración de la C.C.A.F. es responsable de la ejecución diaria del sistema de gestión del riesgo de obtención improcedente de beneficios o de recursos, asegurando que las políticas y directrices aprobadas por el Directorio se implementen de manera efectiva. Dentro de sus funciones más relevantes se encuentran las siguientes:
+
+Implementación de la Política de Gestión del Riesgo: La Administración debe desarrollar e implementar procedimientos específicos para aplicar la política de gestión del riesgo de obtención improcedente de beneficios o recursos en los procesos y líneas de negocio considerados como vulnerables por la organización, con flexibilidad en la metodología que adopte. Para lo anterior, la Caja deberá implementar una matriz de riesgos para identificar los riesgos asociados.
+
+Esto incluye la creación de controles preventivos, mecanismos de detección y protocolos de respuesta.

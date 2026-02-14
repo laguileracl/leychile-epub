@@ -1,0 +1,30 @@
+6.4.3.2 Requisitos para el Uso de Modelos Propios
+=================================================
+
+La Caja para obtener la autorización de esta Superintendencia para utilizar modelos propios debe cumplir con las exigencias señaladas en el numeral 6.4.3.2. del Título IV del Libro VI del Compendio de la Ley N°18.833 , para lo cual deben obtener la máxima calificación en el cumplimiento de los requisitos relacionados con la calidad de la gestión de riesgos en el proceso de evaluación de crédito. Los aspectos a evaluar corresponden a:
+
+La Caja se obliga a demostrar ante esta Superintendencia que el modelo o procedimiento propuesto ofrece una adecuada capacidad de predicción y que los requerimientos de provisiones no se encuentran distorsionados a consecuencia de su utilización. Las variables que se emplearán como argumentos del modelo deben conformar un conjunto razonable de variables de predicción. El modelo debe ser replicable, por lo cual los fundamentos del modelo deben estar adecuadamente respaldados y a disposición de esta Superintendencia.
+
+La Caja debe contar con un proceso para verificar los datos que se incorporan como argumentos a los modelos estadísticos de predicción del incumplimiento o de la pérdida, estudio de la precisión, exhaustividad e idoneidad de los datos utilizados específicamente al asignar una calificación aprobada.
+
+La Caja debe demostrar que los datos utilizados para construir el modelo son representativos del universo de su cartera actual.
+
+La relación de los modelos con el juicio de expertos. La Caja debe contar con directrices por escrito que describan de qué modo habrán de combinarse el juicio de expertos y el resultado de los modelos.
+
+La Caja debe contar con procedimientos de revisión de las asignaciones de calificación basadas en modelos. Tales procedimientos deben centrarse en la detección y limitación de los errores asociados a deficiencias conocidas de los modelos incorporando acciones de mejora continua del resultado de los mismos.
+
+La Caja debe validar periódicamente el modelo controlando sus resultados y su estabilidad, lo cual implica examinar las relaciones incluidas dentro de los modelos y contrastar los resultados estimados con los valores empíricos (backtesting).
+
+La Caja debe documentar y poner a disposición de esta Superintendencia los fundamentos y/o metodologías utilizadas en la construcción del modelo propio.
+
+
+
+La Caja debe documentar al menos:
+
+Una descripción detallada de la teoría, los supuestos y/o las bases matemáticas y empíricas de la asignación de estimaciones a grados, deudores individuales, posiciones o conjuntos de posiciones, y la(s) fuente(s) de datos utilizada(s) en la estimación del modelo.
+
+Establecer un proceso estadístico riguroso (que compruebe el ajuste del modelo, tanto fuera de la muestra como fuera del periodo muestral) con el objeto de validar el modelo.
+
+Indicar cualquier circunstancia que impida el funcionamiento eficaz del modelo.
+
+La utilización de un modelo adquirido de un proveedor externo que opere con tecnología propia no exime a la Caja de la responsabilidad de aportar documentación ni de cumplir los requisitos propios a los sistemas internos de calificación. En este caso, el proveedor externo y la Caja se obligan a satisfacer las exigencias de información de esta Superintendencia.

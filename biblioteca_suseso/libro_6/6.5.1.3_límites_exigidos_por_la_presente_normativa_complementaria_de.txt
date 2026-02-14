@@ -1,0 +1,6 @@
+6.5.1.3 Límites exigidos por la Presente Normativa Complementaria de Solvencia
+==============================================================================
+
+El patrimonio de una Caja de Compensación no puede ser Inferior al 16% de sus Activos Netos de Provisiones Exigidas Ponderados por Riesgo. La expresión que representa dicha condición es la siguiente:
+
+Para calcular los Activos Ponderados por Riesgo, la Caja de Compensación debe guiarse por el formato entregado en el numeral 6.5.2. del Título V del Libro VI del Compendio de la Ley N°18.833 .

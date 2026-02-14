@@ -1,0 +1,14 @@
+6.3.7.2 Aspectos mínimos a considerar
+=====================================
+
+El Test de Estrés debe contener a lo menos los siguientes elementos:
+
+Descripción detallada de cada escenario indicando la relevancia en la medición de la liquidez de la Caja.
+
+Identificación de las variables estresadas en cada escenario, considerando la magnitud de la perturbación aplicada en cada banda temporal.
+
+Cuantificación del impacto de cada escenario sobre las brechas de liquidez de cada uno de los horizontes temporales.
+
+Conclusión de los resultados obtenidos para cada escenario, y las medidas de mitigación asociadas si corresponde.
+
+Anexo metodológico donde se presenta el modelo de liquidez base y el modelo de liquidez con las partidas modificadas para cada escenario.

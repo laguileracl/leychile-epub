@@ -1,0 +1,8 @@
+6.3.9 FLUJO DE CAJA MENSUAL
+===========================
+
+La Caja debe enviar a la Superintendencia un reporte cada mes en el que informe el flujo de caja mensual que refleje su situación de liquidez en el periodo.
+
+El reporte debe ser enviado dentro de los primeros cinco días hábiles de cada mes. La C.C.A.F. debe enviar la información con los movimientos reales transcurridos durante el mes anterior.
+
+Los reportes deben ser enviados de acuerdo con el mecanismo que dispone esta Superintendencia para la recepción de los archivos requeridos. Para tal efecto, se dispone de protocolos de transferencia segura de archivos (SFTP) a las contrapartes designadas de cada Caja de Compensación.

@@ -1,0 +1,6 @@
+6.4.3.1.1 Modelos Basados en los Atributos de los Deudores y sus Créditos
+=========================================================================
+
+El método que se utilice (la matriz de riesgo o como se le denomine), puede orientarse a una clasificación de deudores en categorías de riesgo o bien a la cuantificación directa de pérdidas por cada crédito o conjunto de créditos, basándose en los atributos del deudor y de los créditos sociales.
+
+La conformación de grupos requiere que la Caja especifique los atributos que deben reunir los deudores que lo conforman y las razones para hacerlo, debiendo contar con la evidencia empírica que permita fundamentar los factores de riesgo, por ejemplo, el comportamiento de pago interno, el nivel de endeudamiento, el comportamiento de pago en otras Cajas u otras entidades financieras, la estabilidad y suficiencia de los ingresos, el comportamiento de pagos de las entidades empleadoras, entre otros.

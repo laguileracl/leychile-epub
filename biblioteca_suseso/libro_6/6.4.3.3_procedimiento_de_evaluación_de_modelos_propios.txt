@@ -1,0 +1,86 @@
+6.4.3.3 Procedimiento de Evaluación de Modelos Propios
+======================================================
+
+Con el objetivo de formalizar un proceso uniforme de revisión y aprobación de los modelos propios de provisiones, la Caja de Compensación debe detallar las etapas de validación de su Modelo Propio al momento de realizar la solicitud de aprobación a esta Superintendencia.
+
+Dicha evaluación debe abordar, al menos, los siguientes puntos:
+
+6.4.3.3.1. Tratamiento de datos
+
+Disponibilidad, presentación y calidad de datos disponibles para el modelo.
+
+Revisión de integridad, consistencia y trazabilidad de los datos.
+
+Disponibilidad y calidad de eventos de incumplimiento.
+
+Ventana de tiempo de construcción de al menos 4 años o equivalente a un ciclo económico
+
+6.4.3.3.2. Aspectos cuantitativos
+
+Análisis univariado y multivariado
+
+Calibración
+
+6.4.3.3.3. Aspectos cualitativos
+
+Definición de crédito normal y crédito deteriorado, periodo de cura interno en número de meses y pagos consecutivos para volver a normalidad.
+
+Información interna considerada.
+
+Integración del modelo en la gestión de la C.C.A.F. en la medida que aplique.
+
+Papel de Directorio, Comité de Riesgos y Alta Gerencia.
+
+Validación y controles internos.
+
+6.4.3.3.4. Elementos para escoger un modelo
+
+Poder predictivo.
+
+Análisis de errores de clasificación.
+
+Análisis discriminante.
+
+6.4.3.3.5. Validación de resultados
+
+6.4.3.3.6. Resultados de backtesting
+
+6.4.3.3.7. Indicadores de robustez y estabilidad del modelo
+
+6.4.3.3.8. Benchmark
+
+Documentación de otros modelos utilizados.
+
+Proceso de elección modelo final.
+
+6.4.3.3.9. Pruebas de estrés
+
+6.4.3.3.10. Estrategias de implementación
+
+Proceso de aprendizaje interno y capacitación.
+
+Usos que se le dará al modelo (otorgamiento o seguimiento, si aplica).
+
+Automatización de sistemas, ingreso de datos por parte de ejecutivos, plazos de reportes, etc.
+
+Marcha blanca con modelo estándar de al menos 3 meses.
+
+6.4.3.3.11. Seguimiento y controles
+
+Unidad de validación interna
+
+Recalibración periódica
+
+Las pautas de evaluación señaladas precedentemente deben ser aplicadas por la C.C.A.F. para los modelos propios que desarrollen considerando también la metodología para la determinación de provisiones idiosincráticas por concepto de riesgo de crédito.
+
+La C.C.A.F. debe realizar un seguimiento periódico de la calidad predictiva del modelo propio ya sea si corresponde a un modelo que reemplaza la provisión estándar o bien, sea un modelo para establecer provisión idiosincrática, para lo cual debe hacer un análisis de suficiencia de provisiones, y ejecutar planes de acción fundamentados en caso de detectar necesidades de aumentar, disminuir o eliminar su provisión idiosincrática. Para lo anterior deben remitir un informe a esta Superintendencia, previamente aprobado por su Directorio.
+
+La C.C.A.F. debe disponer del respaldo documental de los modelos, incluyendo las bases de datos utilizadas en la estimación de los modelos para efectos de los procesos de fiscalización que defina la Superintendencia.
+
+Al momento de presentar la propuesta de modelo propio, esta Superintendencia guiándose por lo señalado en el numeral 6.4.3.3. del Título IV del Libro VI del Compendio de la Ley N°18.833 efectuará la revisión del modelo de provisión propio para lo cual puede solicitar antecedentes adicionales o aclaratorios a la información de respaldo entregada por la C.C.A.F. En cualquier caso, la exigencia de réplica del modelo, así como su calidad en términos de predicción estadística es parte de los requisitos de aprobación.
+
+Con posterioridad a esta aprobación, cada C.C.A.F. debe informar al regulador si ha efectuado ajustes relevantes o recalibraciones al modelo aprobado previamente, lo que puede conducir a que el regulador determine una nueva réplica del modelo interno, que será parcial o total dependiendo de la magnitud del ajuste o recalibración introducidos.
+
+En el caso de producirse condiciones económicas adversas que impacten a la cartera de créditos cuyos efectos y naturaleza no puedan ser explicados por el modelo de provisión idiosincrática, la C.C.A.F. debe establecer provisiones sistémicas utilizando una metodología idónea para ello, para lo cual puede recurrir a entidades externas para la determinación del mencionado modelo. En cualquier caso, la metodología de estimación debe ser puesta en conocimiento de esta Superintendencia al igual que la modificación o eliminación de las provisiones sistémicas, a través de un informe fundado, previamente aprobado por el Directorio.
+
+La revisión de calidad de datos, construcción, seguimiento y ajuste de los modelos propios en cada una de las etapas descritas en el numeral 6.4.3.3. del Título IV del Libro VI del Compendio de la Ley N°18.833 será de responsabilidad de la C.C.A.F. para lo cual puede contratar los servicios con entidades especializadas en la medida que lo requiera.

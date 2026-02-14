@@ -1,0 +1,668 @@
+{
+  "numero": "7",
+  "titulo": "LIBRO VII. ASPECTOS FINANCIERO CONTABLES",
+  "titulo_completo": "7 LIBRO VII. ASPECTOS FINANCIERO CONTABLES",
+  "url": "https://www.suseso.cl/620/w3-propertyvalue-615037.html",
+  "pvid": "615037",
+  "nivel": 0,
+  "hijos": [
+    {
+      "numero": "7.1",
+      "titulo": "TÍTULO I. ESTADOS FINANCIEROS",
+      "titulo_completo": "7.1 TÍTULO I. ESTADOS FINANCIEROS",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-615038.html",
+      "pvid": "615038",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "7.1.1",
+          "titulo": "NORMAS DE PREPARACIÓN DE LOS ESTADOS FINANCIEROS",
+          "titulo_completo": "7.1.1 NORMAS DE PREPARACIÓN DE LOS ESTADOS FINANCIEROS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615039.html",
+          "pvid": "615039",
+          "nivel": 2
+        },
+        {
+          "numero": "7.1.2",
+          "titulo": "PRESENTACIÓN Y PLAZOS",
+          "titulo_completo": "7.1.2 PRESENTACIÓN Y PLAZOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615040.html",
+          "pvid": "615040",
+          "nivel": 2
+        },
+        {
+          "numero": "7.1.3",
+          "titulo": "CONTENIDO",
+          "titulo_completo": "7.1.3 CONTENIDO",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615041.html",
+          "pvid": "615041",
+          "nivel": 2
+        },
+        {
+          "numero": "7.1.4",
+          "titulo": "INSTRUCCIONES GENERALES",
+          "titulo_completo": "7.1.4 INSTRUCCIONES GENERALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615042.html",
+          "pvid": "615042",
+          "nivel": 2
+        },
+        {
+          "numero": "7.1.5",
+          "titulo": "FORMATO FUPEF-IFRS",
+          "titulo_completo": "7.1.5 FORMATO FUPEF-IFRS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615043.html",
+          "pvid": "615043",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "7.1.5.1",
+              "titulo": "Identificación",
+              "titulo_completo": "7.1.5.1 Identificación",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615044.html",
+              "pvid": "615044",
+              "nivel": 3
+            },
+            {
+              "numero": "7.1.5.2",
+              "titulo": "Estados Financieros",
+              "titulo_completo": "7.1.5.2 Estados Financieros",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615045.html",
+              "pvid": "615045",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "7.1.5.2.1",
+                  "titulo": "Estado de Situación Financiera Clasificado",
+                  "titulo_completo": "7.1.5.2.1 Estado de Situación Financiera Clasificado",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615046.html",
+                  "pvid": "615046",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.2.2",
+                  "titulo": "Estado de Resultados por Naturaleza",
+                  "titulo_completo": "7.1.5.2.2 Estado de Resultados por Naturaleza",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615047.html",
+                  "pvid": "615047",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.2.3",
+                  "titulo": "Estado de resultados Integral",
+                  "titulo_completo": "7.1.5.2.3 Estado de resultados Integral",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615048.html",
+                  "pvid": "615048",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.2.4",
+                  "titulo": "Estado de Flujo de Efectivo",
+                  "titulo_completo": "7.1.5.2.4 Estado de Flujo de Efectivo",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615049.html",
+                  "pvid": "615049",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "7.1.5.3",
+              "titulo": "Notas Explicativas a los Estados Financieros",
+              "titulo_completo": "7.1.5.3 Notas Explicativas a los Estados Financieros",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615050.html",
+              "pvid": "615050",
+              "nivel": 3,
+              "hijos": [
+                {
+                  "numero": "7.1.5.3.1",
+                  "titulo": "Nota 1. Información General",
+                  "titulo_completo": "7.1.5.3.1 Nota 1. Información General",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615051.html",
+                  "pvid": "615051",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.2",
+                  "titulo": "Nota 2. Resumen de Principales Politicas Contables",
+                  "titulo_completo": "7.1.5.3.2 Nota 2. Resumen de Principales Politicas Contables",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615052.html",
+                  "pvid": "615052",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.3",
+                  "titulo": "Nota 3. Cambios  Contables",
+                  "titulo_completo": "7.1.5.3.3 Nota 3. Cambios  Contables",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615053.html",
+                  "pvid": "615053",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.4",
+                  "titulo": "Nota 4. Administración del Riesgo",
+                  "titulo_completo": "7.1.5.3.4 Nota 4. Administración del Riesgo",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615055.html",
+                  "pvid": "615055",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.5",
+                  "titulo": "Nota 5. Efectivo y Equivalentes al Efectivo",
+                  "titulo_completo": "7.1.5.3.5 Nota 5. Efectivo y Equivalentes al Efectivo",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615058.html",
+                  "pvid": "615058",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.6",
+                  "titulo": "Nota 6. Colocaciones de crédito social corrientes (neto)",
+                  "titulo_completo": "7.1.5.3.6 Nota 6. Colocaciones de crédito social corrientes (neto)",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615059.html",
+                  "pvid": "615059",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.7",
+                  "titulo": "Nota 7. Deudores comerciales y otras cuentas por cobrar corrientes",
+                  "titulo_completo": "7.1.5.3.7 Nota 7. Deudores comerciales y otras cuentas por cobrar corrientes",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615062.html",
+                  "pvid": "615062",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.8",
+                  "titulo": "Nota 8. Instrumentos Financieros",
+                  "titulo_completo": "7.1.5.3.8 Nota 8. Instrumentos Financieros",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615063.html",
+                  "pvid": "615063",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.9",
+                  "titulo": "Nota 9. Inversiones contabilizadas utilizando el método de la participación",
+                  "titulo_completo": "7.1.5.3.9 Nota 9. Inversiones contabilizadas utilizando el método de la participación",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615064.html",
+                  "pvid": "615064",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.10",
+                  "titulo": "Nota 10. Inventarios (IAS 2)",
+                  "titulo_completo": "7.1.5.3.10 Nota 10. Inventarios (IAS 2)",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615065.html",
+                  "pvid": "615065",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.10",
+                  "titulo": "Nota 11. Saldos y transacciones con entidades relacionadas (IAS 24)",
+                  "titulo_completo": "7.1.5.3.10 Nota 11. Saldos y transacciones con entidades relacionadas (IAS 24)",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615066.html",
+                  "pvid": "615066",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.12",
+                  "titulo": "Nota 12. Activos intangibles distintos de la plusvalía",
+                  "titulo_completo": "7.1.5.3.12 Nota 12. Activos intangibles distintos de la plusvalía",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615067.html",
+                  "pvid": "615067",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.13",
+                  "titulo": "Nota 13. Propiedades, planta y equipo",
+                  "titulo_completo": "7.1.5.3.13 Nota 13. Propiedades, planta y equipo",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615068.html",
+                  "pvid": "615068",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.14",
+                  "titulo": "Nota 14. Activos por Derecho a Uso y Pasivos por arrendamiento",
+                  "titulo_completo": "7.1.5.3.14 Nota 14. Activos por Derecho a Uso y Pasivos por arrendamiento",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776613.html",
+                  "pvid": "776613",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.15",
+                  "titulo": "Nota 15. Impuesto a las ganancias e impuestos diferidos",
+                  "titulo_completo": "7.1.5.3.15 Nota 15. Impuesto a las ganancias e impuestos diferidos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615069.html",
+                  "pvid": "615069",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.16",
+                  "titulo": "Nota 16. Otros activos no financieros",
+                  "titulo_completo": "7.1.5.3.16 Nota 16. Otros activos no financieros",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615071.html",
+                  "pvid": "615071",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.17",
+                  "titulo": "Nota 17. Otros pasivos financieros",
+                  "titulo_completo": "7.1.5.3.17 Nota 17. Otros pasivos financieros",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615073.html",
+                  "pvid": "615073",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.18",
+                  "titulo": "Nota 18. Colocaciones de crédito social no corrientes (neto)",
+                  "titulo_completo": "7.1.5.3.18 Nota 18. Colocaciones de crédito social no corrientes (neto)",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615070.html",
+                  "pvid": "615070",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.19",
+                  "titulo": "Nota 19. Cuentas por pagar comerciales y otras cuentas por pagar",
+                  "titulo_completo": "7.1.5.3.19 Nota 19. Cuentas por pagar comerciales y otras cuentas por pagar",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615074.html",
+                  "pvid": "615074",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.20",
+                  "titulo": "Nota 20. Estado de cambios en el patrimonio consolidados",
+                  "titulo_completo": "7.1.5.3.20 Nota 20. Estado de cambios en el patrimonio consolidados",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776614.html",
+                  "pvid": "776614",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.21",
+                  "titulo": "Nota 21. Otros pasivos no financieros",
+                  "titulo_completo": "7.1.5.3.21 Nota 21. Otros pasivos no financieros",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615076.html",
+                  "pvid": "615076",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.22",
+                  "titulo": "Nota 22. Otras provisiones",
+                  "titulo_completo": "7.1.5.3.22 Nota 22. Otras provisiones",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615077.html",
+                  "pvid": "615077",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.23",
+                  "titulo": "Nota 23. Provisiones por beneficios a los empleados",
+                  "titulo_completo": "7.1.5.3.23 Nota 23. Provisiones por beneficios a los empleados",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776615.html",
+                  "pvid": "776615",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.24",
+                  "titulo": "Nota 24. Ingresos por intereses y reajustes",
+                  "titulo_completo": "7.1.5.3.24 Nota 24. Ingresos por intereses y reajustes",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615079.html",
+                  "pvid": "615079",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.25",
+                  "titulo": "Nota 25. Ingresos de Actividades ordinarias (IAS 18))",
+                  "titulo_completo": "7.1.5.3.25 Nota 25. Ingresos de Actividades ordinarias (IAS 18))",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615078.html",
+                  "pvid": "615078",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.26",
+                  "titulo": "Nota 26. Gastos por intereses y reajustes",
+                  "titulo_completo": "7.1.5.3.26 Nota 26. Gastos por intereses y reajustes",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615080.html",
+                  "pvid": "615080",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.27",
+                  "titulo": "Nota 27. Otros ingresos",
+                  "titulo_completo": "7.1.5.3.27 Nota 27. Otros ingresos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776627.html",
+                  "pvid": "776627",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.28",
+                  "titulo": "Nota 28. Deterioro por riesgo de crédito",
+                  "titulo_completo": "7.1.5.3.28 Nota 28. Deterioro por riesgo de crédito",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776628.html",
+                  "pvid": "776628",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.29",
+                  "titulo": "Nota 29. Gastos por beneficios a los empleados",
+                  "titulo_completo": "7.1.5.3.29 Nota 29. Gastos por beneficios a los empleados",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776626.html",
+                  "pvid": "776626",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.30",
+                  "titulo": "Nota 30. Pérdidas por deterioro de valor",
+                  "titulo_completo": "7.1.5.3.30 Nota 30. Pérdidas por deterioro de valor",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776625.html",
+                  "pvid": "776625",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.31",
+                  "titulo": "Nota 31. Otros gastos por naturaleza",
+                  "titulo_completo": "7.1.5.3.31 Nota 31. Otros gastos por naturaleza",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776624.html",
+                  "pvid": "776624",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.32",
+                  "titulo": "Nota 32. Otras ganancias o pérdidas",
+                  "titulo_completo": "7.1.5.3.32 Nota 32. Otras ganancias o pérdidas",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776623.html",
+                  "pvid": "776623",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.33",
+                  "titulo": "Nota 33. Ingresos financieros",
+                  "titulo_completo": "7.1.5.3.33 Nota 33. Ingresos financieros",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776622.html",
+                  "pvid": "776622",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.34",
+                  "titulo": "Nota 34. Costos financieros",
+                  "titulo_completo": "7.1.5.3.34 Nota 34. Costos financieros",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776621.html",
+                  "pvid": "776621",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.35",
+                  "titulo": "Nota 35. Resultados por unidades de reajuste",
+                  "titulo_completo": "7.1.5.3.35 Nota 35. Resultados por unidades de reajuste",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776620.html",
+                  "pvid": "776620",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.36",
+                  "titulo": "Nota 36. Información Financiera por Segmento",
+                  "titulo_completo": "7.1.5.3.36 Nota 36. Información Financiera por Segmento",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776619.html",
+                  "pvid": "776619",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.37",
+                  "titulo": "Nota 37. Notas al Flujo de Efectivo",
+                  "titulo_completo": "7.1.5.3.37 Nota 37. Notas al Flujo de Efectivo",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776618.html",
+                  "pvid": "776618",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.38",
+                  "titulo": "Nota 38. Contingencias y Compromisos",
+                  "titulo_completo": "7.1.5.3.38 Nota 38. Contingencias y Compromisos",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615089.html",
+                  "pvid": "615089",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.39",
+                  "titulo": "Nota 39. Sanciones",
+                  "titulo_completo": "7.1.5.3.39 Nota 39. Sanciones",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615090.html",
+                  "pvid": "615090",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.40",
+                  "titulo": "Nota 40. Medio Ambiente",
+                  "titulo_completo": "7.1.5.3.40 Nota 40. Medio Ambiente",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776617.html",
+                  "pvid": "776617",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.41",
+                  "titulo": "Nota 41. Cauciones obtenidas de terceros",
+                  "titulo_completo": "7.1.5.3.41 Nota 41. Cauciones obtenidas de terceros",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-776616.html",
+                  "pvid": "776616",
+                  "nivel": 4
+                },
+                {
+                  "numero": "7.1.5.3.42",
+                  "titulo": "Nota 42. Hechos Posteriores",
+                  "titulo_completo": "7.1.5.3.42 Nota 42. Hechos Posteriores",
+                  "url": "https://www.suseso.cl/620/w3-propertyvalue-615091.html",
+                  "pvid": "615091",
+                  "nivel": 4
+                }
+              ]
+            },
+            {
+              "numero": "7.1.5.4",
+              "titulo": "Hechos Relevantes",
+              "titulo_completo": "7.1.5.4 Hechos Relevantes",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615092.html",
+              "pvid": "615092",
+              "nivel": 3
+            },
+            {
+              "numero": "7.1.5.5",
+              "titulo": "Análisis razonado de los Estados Financieros",
+              "titulo_completo": "7.1.5.5 Análisis razonado de los Estados Financieros",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615093.html",
+              "pvid": "615093",
+              "nivel": 3
+            },
+            {
+              "numero": "7.1.5.6",
+              "titulo": "Declaración de responsabilidad",
+              "titulo_completo": "7.1.5.6 Declaración de responsabilidad",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615094.html",
+              "pvid": "615094",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "7.1.6",
+          "titulo": "ANEXOS",
+          "titulo_completo": "7.1.6 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615095.html",
+          "pvid": "615095",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "7.2",
+      "titulo": "TÍTULO II. PUBLICACIÓN DE LOS ESTADOS FINANCIEROS, CONFECCIÓN DE LA MEMORIA ANUAL E INFORMACIÓN QUE LAS CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR DEBEN ENTREGAR AL PÚBLICO",
+      "titulo_completo": "7.2 TÍTULO II. PUBLICACIÓN DE LOS ESTADOS FINANCIEROS, CONFECCIÓN DE LA MEMORIA ANUAL E INFORMACIÓN QUE LAS CAJAS DE COMPENSACIÓN DE ASIGNACIÓN FAMILIAR DEBEN ENTREGAR AL PÚBLICO",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-615096.html",
+      "pvid": "615096",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "7.2.1",
+          "titulo": "CALIDAD DE LA INFORMACIÓN",
+          "titulo_completo": "7.2.1 CALIDAD DE LA INFORMACIÓN",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615097.html",
+          "pvid": "615097",
+          "nivel": 2
+        },
+        {
+          "numero": "7.2.2",
+          "titulo": "ESTADOS FINANCIEROS ANUALES CONSOLIDADOS",
+          "titulo_completo": "7.2.2 ESTADOS FINANCIEROS ANUALES CONSOLIDADOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615098.html",
+          "pvid": "615098",
+          "nivel": 2
+        },
+        {
+          "numero": "7.2.3",
+          "titulo": "ESTADOS FINANCIEROS TRIMESTRALES CONSOLIDADOS",
+          "titulo_completo": "7.2.3 ESTADOS FINANCIEROS TRIMESTRALES CONSOLIDADOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615099.html",
+          "pvid": "615099",
+          "nivel": 2
+        },
+        {
+          "numero": "7.2.4",
+          "titulo": "MEMORIA ANUAL",
+          "titulo_completo": "7.2.4 MEMORIA ANUAL",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615100.html",
+          "pvid": "615100",
+          "nivel": 2
+        },
+        {
+          "numero": "7.2.5",
+          "titulo": "INFORMACIÓN QUE DEBEN PUBLICAR",
+          "titulo_completo": "7.2.5 INFORMACIÓN QUE DEBEN PUBLICAR",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615101.html",
+          "pvid": "615101",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "7.3",
+      "titulo": "TÍTULO III. NORMAS PARA CONTABILIZAR ESTIMACIONES DE DEUDAS INCOBRABLES Y PARA DECLARAR SU INCOBRABILIDAD",
+      "titulo_completo": "7.3 TÍTULO III. NORMAS PARA CONTABILIZAR ESTIMACIONES DE DEUDAS INCOBRABLES Y PARA DECLARAR SU INCOBRABILIDAD",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-615102.html",
+      "pvid": "615102",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "7.3.1",
+          "titulo": "CONSIDERACIONES GENERALES",
+          "titulo_completo": "7.3.1 CONSIDERACIONES GENERALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615103.html",
+          "pvid": "615103",
+          "nivel": 2
+        },
+        {
+          "numero": "7.3.2",
+          "titulo": "PROCEDIMIENTO PARA LA DECLARACIÓN DE INCOBRABILIDAD Y POSTERIOR CASTIGO DE LAS DEUDAS POR CRÉDITOS SOCIALES",
+          "titulo_completo": "7.3.2 PROCEDIMIENTO PARA LA DECLARACIÓN DE INCOBRABILIDAD Y POSTERIOR CASTIGO DE LAS DEUDAS POR CRÉDITOS SOCIALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615104.html",
+          "pvid": "615104",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "7.3.2.1",
+              "titulo": "Castigo de deudas por créditos sociales",
+              "titulo_completo": "7.3.2.1 Castigo de deudas por créditos sociales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615105.html",
+              "pvid": "615105",
+              "nivel": 3
+            },
+            {
+              "numero": "7.3.2.2",
+              "titulo": "Contabilización de los castigos por deudas de créditos sociales y sus recuperaciones",
+              "titulo_completo": "7.3.2.2 Contabilización de los castigos por deudas de créditos sociales y sus recuperaciones",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615106.html",
+              "pvid": "615106",
+              "nivel": 3
+            },
+            {
+              "numero": "7.3.2.3",
+              "titulo": "Condonaciones de Créditos Sociales Castigados",
+              "titulo_completo": "7.3.2.3 Condonaciones de Créditos Sociales Castigados",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615107.html",
+              "pvid": "615107",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "7.3.3",
+          "titulo": "PROCEDIMIENTO PARA LA DECLARACIÓN DE INCOBRABILIDAD Y POSTERIOR CASTIGO DE LAS DEUDAS PREVISIONALES Y NO PREVISIONALES, QUE NO CORRESPONDAN A CRÉDITOS SOCIALES.",
+          "titulo_completo": "7.3.3 PROCEDIMIENTO PARA LA DECLARACIÓN DE INCOBRABILIDAD Y POSTERIOR CASTIGO DE LAS DEUDAS PREVISIONALES Y NO PREVISIONALES, QUE NO CORRESPONDAN A CRÉDITOS SOCIALES.",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615109.html",
+          "pvid": "615109",
+          "nivel": 2,
+          "hijos": [
+            {
+              "numero": "7.3.3.1",
+              "titulo": "Castigo de las deudas previsionales y no previsionales, que no correspondan a créditos sociales",
+              "titulo_completo": "7.3.3.1 Castigo de las deudas previsionales y no previsionales, que no correspondan a créditos sociales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615110.html",
+              "pvid": "615110",
+              "nivel": 3
+            },
+            {
+              "numero": "7.3.3.2",
+              "titulo": "Contabilización de los castigos por deudas previsionales y no previsionales, que no correspondan a créditos sociales",
+              "titulo_completo": "7.3.3.2 Contabilización de los castigos por deudas previsionales y no previsionales, que no correspondan a créditos sociales",
+              "url": "https://www.suseso.cl/620/w3-propertyvalue-615111.html",
+              "pvid": "615111",
+              "nivel": 3
+            }
+          ]
+        },
+        {
+          "numero": "7.3.4",
+          "titulo": "COBRANZA JUDICIAL DE LAS DEUDAS PREVISIONALES Y NO PREVISIONALES",
+          "titulo_completo": "7.3.4 COBRANZA JUDICIAL DE LAS DEUDAS PREVISIONALES Y NO PREVISIONALES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615112.html",
+          "pvid": "615112",
+          "nivel": 2
+        },
+        {
+          "numero": "7.3.5",
+          "titulo": "PROCEDIMIENTO PARA LAS DEUDAS POR CONCEPTO DE LA COTIZACIÓN ESTABLECIDA EN EL ARTÍCULO 27 DE LA LEY N°18.833",
+          "titulo_completo": "7.3.5 PROCEDIMIENTO PARA LAS DEUDAS POR CONCEPTO DE LA COTIZACIÓN ESTABLECIDA EN EL ARTÍCULO 27 DE LA LEY N°18.833",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615113.html",
+          "pvid": "615113",
+          "nivel": 2
+        },
+        {
+          "numero": "7.3.6",
+          "titulo": "ANEXOS",
+          "titulo_completo": "7.3.6 ANEXOS",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615114.html",
+          "pvid": "615114",
+          "nivel": 2
+        }
+      ]
+    },
+    {
+      "numero": "7.4",
+      "titulo": "TÍTULO IV. GASTOS DE ADMINISTRACIÓN",
+      "titulo_completo": "7.4 TÍTULO IV. GASTOS DE ADMINISTRACIÓN",
+      "url": "https://www.suseso.cl/620/w3-propertyvalue-615115.html",
+      "pvid": "615115",
+      "nivel": 1,
+      "hijos": [
+        {
+          "numero": "7.4.1",
+          "titulo": "RÉGIMEN DE PRESTACIONES FAMILIARES",
+          "titulo_completo": "7.4.1 RÉGIMEN DE PRESTACIONES FAMILIARES",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615116.html",
+          "pvid": "615116",
+          "nivel": 2
+        },
+        {
+          "numero": "7.4.2",
+          "titulo": "RÉGIMEN DE PRESTACIONES FAMILIARES, SUBSIDIOS DE CESANTÍA Y SUBSIDIOS POR INCAPACIDAD LABORAL.",
+          "titulo_completo": "7.4.2 RÉGIMEN DE PRESTACIONES FAMILIARES, SUBSIDIOS DE CESANTÍA Y SUBSIDIOS POR INCAPACIDAD LABORAL.",
+          "url": "https://www.suseso.cl/620/w3-propertyvalue-615117.html",
+          "pvid": "615117",
+          "nivel": 2
+        }
+      ]
+    }
+  ]
+}

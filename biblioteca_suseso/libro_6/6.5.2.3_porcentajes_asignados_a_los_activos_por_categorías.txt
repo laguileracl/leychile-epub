@@ -1,0 +1,35 @@
+6.5.2.3 Porcentajes asignados a los activos por categorías
+==========================================================
+
+Los activos comprendidos en las referidas categorías, se determinarán considerando los siguientes porcentajes de su valor de contabilización:
+
+Categoría | Porcentaje
+1 | 0%
+2 | 10%
+3 | 20%
+4 | 60%
+5 | 100%
+
+Categoría
+
+Porcentaje
+
+1
+
+0%
+
+2
+
+10%
+
+3
+
+20%
+
+4
+
+60%
+
+5
+
+100%

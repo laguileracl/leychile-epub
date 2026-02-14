@@ -1,0 +1,8 @@
+6.5.1.1 Consideraciones Generales y Responsabilidad del Directorio
+==================================================================
+
+La Caja de Compensación debe mantener un nivel mínimo de capital, según el nivel de riesgos que asuma en relación a su composición de activos. El Directorio de la Caja de Compensación es el responsable de definir "la tolerancia al riesgo", debiendo al mismo tiempo monitorear constantemente el cumplimiento del índice de capital mínimo para las Cajas de Compensación, el cual variará de acuerdo al nivel de riesgo asumido.
+
+Además, en la eventualidad que no se pueda cumplir con los límites establecidos en el Título V del Libro VI del Compendio de la Ley N°18.833, junto con el envío del reporte inmediato a esta Superintendencia, el Gerente General de la Caja debe dar cuenta al Directorio de este hecho en su más próxima sesión ordinaria o bien mediante sesión extraordinaria.
+
+El Directorio debe tomar conocimiento de las razones fundamentales del no cumplimiento de estos límites, identificando si éstos son de carácter coyuntural o duradero, estableciendo las acciones y plazos estimados en los cuales la Caja de Compensación se compromete a cumplir con los límites permitidos, los que deben ser acordados por su Directorio e informados a esta Superintendencia. El acuerdo correspondiente debe ser remitido a la Superintendencia dentro de un plazo máximo de 5 días hábiles desde la fecha de sesión del Directorio.

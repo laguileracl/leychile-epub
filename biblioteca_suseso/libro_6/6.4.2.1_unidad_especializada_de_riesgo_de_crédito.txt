@@ -1,0 +1,34 @@
+6.4.2.1 Unidad Especializada de Riesgo de Crédito
+=================================================
+
+Se recomienda que la Gerencia de Riesgos o Unidad Afín cuente con una Unidad especializada, cuyo objetivo sea identificar, medir, controlar y divulgar el riesgo de crédito. La Unidad de Riesgo de Crédito debería existir dentro de la estructura organizacional de la entidad y ser independiente de las áreas de operación, finanzas y comercial.
+
+El encargado de la Unidad de Riesgo de Crédito debe poseer un perfil profesional que lo faculte para desempeñar sus funciones adecuadamente, y la entidad debe contar con planes de capacitación en materia de riesgos para los miembros de dicha unidad.
+
+La Unidad de Riesgo de Crédito para desempeñar su labor debería realizar funciones como:
+
+Diseñar las políticas y procedimientos para la gestión de riesgos de crédito.
+
+Verificar el cumplimiento de las políticas y los procedimientos una vez que hayan sido aprobados.
+
+Revisar los niveles de riesgo en lo que respecta a los cambios económicos y el entorno del mercado y el cambio de composición de la cartera de colocaciones.
+
+Medir y monitorear los riesgos a los que está expuesta la entidad, de conformidad con lo indicado en la normativa vigente.
+
+Medir y monitorear que el nivel de provisiones sea el adecuado de acuerdo a lo estipulado en este Título IV , preocupándose además de identificar las provisiones sistémicas que la Caja considere prudentes.
+
+Informar a la Gerencia de Riesgos al menos mensualmente sobre la exposición de riesgo de la cartera de colocaciones y su evolución en el tiempo.
+
+Proponer y mantener la documentación relacionada con las medidas y el manejo del riesgo de crédito.
+
+Proponer y desarrollar modelos que mejoren la calidad y efectividad para calcular la pérdida esperada de la cartera de colocaciones, revisando la efectividad de los modelos, por lo menos, una vez al año por medio de backtesting.
+
+Brindar asesoría en materia de riesgos de crédito al personal de la Caja.
+
+Revisar al menos una vez al año las políticas y procedimientos para la gestión de riesgos, con el fin de proponer a la Gerencia de Riesgo los cambios que estime conveniente.
+
+Calcular y dar seguimiento a los requerimientos de capital para la cobertura de riesgos inesperados, de conformidad con la normativa vigente.
+
+Desempeñar otras actividades que la Gerencia de Riesgos o Unidad Afín le asigne, siempre que éstas se encuentren directamente relacionadas con los temas de riesgo de crédito.
+
+La Unidad Especializada debería analizar e informar inmediatamente a la Gerencia de Riesgos o Unidad Afín, cualquier situación que pueda implicar riesgos significativos para el patrimonio o los flujos de la Caja.

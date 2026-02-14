@@ -1,0 +1,32 @@
+6.5.2.2 Clasificación de los Activos por Categorías
+===================================================
+
+Categoría 1
+
+Fondos disponibles en caja.
+
+Fondos depositados a la Vista en instituciones financieras regidas por la Ley General de Bancos.
+
+Instrumentos financieros emitidos o garantizados por el Banco Central de Chile.
+
+Categoría 2
+
+
+
+Instrumentos financieros emitidos o garantizados por el Fisco de Chile. Se entienden comprendidos dentro de ellos, los activos del balance que correspondan a impuestos por recuperar.
+
+Categoría 3
+
+Activos contra cualquier institución financiera regida por la Ley General de Bancos. Incluye depósitos a plazo, operaciones con pacto de retrocompra e inversiones en letras de crédito o en bonos.
+
+Categoría 4
+
+
+
+Préstamos con garantía hipotecaria para vivienda, otorgados al adquirente final de tales inmuebles.
+
+Categoría 5
+
+Otros activos financieros
+
+Todos los demás activos no incluidos en las categorías anteriores que estén afectos a riesgo de crédito.

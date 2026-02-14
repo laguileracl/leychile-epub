@@ -1,0 +1,10 @@
+6.6.2.2.1 Aspectos considerados en la evaluación cuantitativa de Solvencia
+==========================================================================
+
+Esta Superintendencia evaluará diferentes aspectos económicos y financieros, a partir de la cual se estimará el nivel de Solvencia Cuantitativo de las C.C.A.F. Estos aspectos corresponden a:
+
+Rentabilidad Ajustada por Riesgo (RAR): El aspecto evaluado corresponde a la capacidad de la Caja para obtener una relación equilibrada entre riesgo y retorno en el largo plazo.
+
+Tolerancia a Pérdidas (TaP): En este caso se evaluará la capacidad de la Caja para hacer frente a potenciales pérdidas como resultado de reconocer pérdidas ocasionadas por su cartera de créditos y que pudiesen afectar su nivel patrimonial.
+
+Solidez Patrimonial (SP): Se evaluará el nivel de solidez patrimonial de la Caja a partir del uso de la deuda en su estrategia de negocios. En cualquier caso, el nivel de leverage no podrá ser superior a 5 veces, valor que corresponde al nivel máximo de endeudamiento permitido sobre el Fondo Social.

@@ -1,0 +1,4 @@
+6.3.7 TEST DE ESTRÉS
+====================
+
+(Nodo estructural - ver subnodos)

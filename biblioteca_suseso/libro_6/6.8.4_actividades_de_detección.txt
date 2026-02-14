@@ -1,0 +1,36 @@
+6.8.4 ACTIVIDADES DE DETECCIÓN
+==============================
+
+La detección oportuna es esencial para minimizar el impacto de estos eventos en las C.C.A.F. Las actividades de detección deben estar diseñadas para identificar patrones sospechosos y posibles obtenciones improcedentes de beneficios o de recursos antes de que se materialicen o para detectarlos lo antes posible si ya han ocurrido. A continuación, se detallan las principales actividades de detección que al menos, deben ser consideradas en la implementación:
+
+Monitoreo Continuo y Análisis de Datos
+
+Las C.C.A.F. deben emplear herramientas tecnológicas para el monitoreo continuo de sus operaciones, utilizando análisis de datos para detectar patrones inusuales o sospechosos. Las actividades clave pueden incluir:
+
+Auditorías y Revisiones Periódicas
+
+La realización de auditorías internas y externas es una medida fundamental para detectar la obtención improcedente de beneficios o de recursos. Estas auditorías deben ser exhaustivas y enfocarse en áreas críticas identificadas en las evaluaciones de riesgo. Las actividades pueden incluir:
+
+Evaluación de Señales de Alerta
+
+Es crucial que las C.C.A.F. desarrollen y mantengan una serie de indicadores clave que actúen como señales de alerta ante posibles obtenciones improcedentes de beneficios o de recursos. Estas señales de alerta pueden incluir, a lo menos:
+
+Activación de Señales de Alerta y Medidas de Suspensión de Beneficios
+
+Durante las actividades de detección, si la Caja de Compensación identifica empresas o afiliados que presenten señales de alerta asociadas al riesgo de obtención improcedente de beneficios o de recursos, se podrán activar las siguientes medidas:
+
+En casos excepcionales y debidamente fundados, podrá solicitarse a la Superintendencia una prórroga del plazo, siempre que se haga antes del vencimiento del plazo ampliado.
+
+Lo anterior, sin perjuicio de la comunicación como hecho relevante que deben efectuar las Cajas de Compensación, de acuerdo a lo establecido en el inciso tercero de la letra D) del numeral 2.1 Inicio de la Investigación , contenido en el Título II del Libro VI del Compendio de Normas sobre Licencias Médicas.
+
+La subsecuente suspensión de beneficios se mantendrá hasta la finalización de la investigación correspondiente; cuyo objetivo es determinar si efectivamente se ha materializado el riesgo de obtención improcedente de beneficios o recursos o se ha intentado obtener dichos beneficios o recursos. Esta investigación, junto con la confirmación de la obtención improcedente de beneficios o de recursos, formará parte de las acciones de respuesta a implementar.
+
+En situaciones excepcionales, debidamente fundadas, la Caja de Compensación podrá requerir a la Superintendencia un pronunciamiento relativo a la procedencia de suspender temporalmente los beneficios.
+
+Canales de Denuncia y Línea Ética
+
+Para fortalecer las actividades de detección, es fundamental contar con canales de denuncia confidenciales y accesibles que permitan a empleados, afiliados y terceros reportar actividades sospechosas, incluso de forma anónima. Las acciones pueden incluir:
+
+Revisión y Actualización de Procedimientos de Detección
+
+Las C.C.A.F. deben revisar y actualizar periodicamente sus procedimientos de detección de obtención improcedente de beneficios o de recursos, adaptándose a nuevos riesgos y tecnologías. Estos pueden incluir:

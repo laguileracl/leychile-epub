@@ -1,0 +1,6 @@
+6.4.3.1.2 Modelos Basados en el Comportamiento de un Grupo de Créditos Sociales
+===============================================================================
+
+Al tratarse de créditos de carácter masivo que tienen características de riesgo comunes, la Caja puede también basar su estimación de pérdidas en los porcentajes que se obtienen del comportamiento histórico de los deterioros, castigos y recuperaciones del grupo de créditos de que se trate.
+
+Este método de análisis de camadas se basa en el seguimiento de créditos otorgados bajo condiciones homogéneas a deudores que cumplan ciertas características comunes y sólo se puede aplicar si existe un historial suficientemente amplio para fundamentar el comportamiento de créditos otorgados bajo las mismas políticas crediticias.
